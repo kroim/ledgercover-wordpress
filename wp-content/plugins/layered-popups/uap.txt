@@ -1,0 +1,1 @@
+{"slug":"layered-popups","uap":1,"version":"6.64","file":"layered-popups.php","name":"Layered Popups","description":"Create multi-layers animated popups.","icon":"far fa-newspaper"}
