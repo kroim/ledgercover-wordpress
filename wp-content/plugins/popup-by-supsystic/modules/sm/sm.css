@@ -1,0 +1,36 @@
+.ppsSmLinksShell,
+.ppsSm .supsystic-social-sharing {
+	text-align: center;
+}
+.ppsSmLink {
+	display: inline-block;
+	background-repeat: no-repeat;
+	float: none;
+}
+.ppsSmLink.boxy,
+.ppsSmLink.simple {
+	width: 48px;
+	height: 48px;
+}
+.ppsSmLink.boxy {
+	margin: 0 6px 6px 0;
+}
+.ppsSmLink.boxy.facebook {
+	background-image: url("[PPS_MOD_PATH]img/Facebook-boxy.png");
+}
+.ppsSmLink.boxy.googleplus {
+	background-image: url("[PPS_MOD_PATH]img/Googleplus-boxy.png");
+}
+.ppsSmLink.boxy.twitter {
+	background-image: url("[PPS_MOD_PATH]img/Twitter-boxy.png");
+}
+
+.ppsSmLink.simple.facebook {
+	background-image: url("[PPS_MOD_PATH]img/facebook-simple.png");
+}
+.ppsSmLink.simple.googleplus {
+	background-image: url("[PPS_MOD_PATH]img/googleplus-simple.png");
+}
+.ppsSmLink.simple.twitter {
+	background-image: url("[PPS_MOD_PATH]img/twitter-simple.png");
+}

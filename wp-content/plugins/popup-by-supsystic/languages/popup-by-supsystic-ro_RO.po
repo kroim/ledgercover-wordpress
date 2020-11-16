@@ -1,0 +1,5284 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pps_ing-ro_RO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-01 16:11+0200\n"
+"PO-Revision-Date: 2019-06-11 15:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: ro_RO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: classes/controller.php:199 classes/controller.php:207
+msgid "Done"
+msgstr "Făcut"
+
+# Selecteaza
+#: classes/field.php:131
+msgid "Select"
+msgstr "Selecteaza"
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Adaugă Checkbox"
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr "Adauga element"
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Adaugă buton radio"
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr "Dimensiuni"
+
+#: classes/field.php:314
+msgid "width"
+msgstr "latime"
+
+#: classes/field.php:316
+msgid "height"
+msgstr "inaltime"
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Click pentru a seta campul \"id\" si \"class\""
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr "Atribute"
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Nu există opțiuni de configurare pentru acest modul"
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Aplica pentru"
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Adresa"
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Destinatie"
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Tara"
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Categorii"
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Nu ai nici o catagorie"
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Branduri"
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Nu ai nici un brand"
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Rata"
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Absolut"
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Nu e selectat"
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr "clasa"
+
+#: classes/fieldAdapter.php:186
+msgid "id"
+msgstr "id"
+
+#: classes/frame.php:139
+msgid "You have no permissions to view this page"
+msgstr "Nu ai nici o permisiune pentru a vedea aceasta pagina"
+
+#: classes/html.php:231
+msgid "Upload"
+msgstr "Incarca"
+
+#: classes/html.php:648
+msgid "ON"
+msgstr "Pornit"
+
+#: classes/html.php:649
+msgid "OFF"
+msgstr "Oprit"
+
+#: classes/html.php:673
+#, php-format
+msgid "Select %s"
+msgstr "Selectați% s"
+
+#: classes/model.php:176 classes/model.php:188
+msgid "Database error detected"
+msgstr "Eroare detectata a bazei de date"
+
+#: classes/model.php:178
+msgid "Invalid ID"
+msgstr "ID invalid"
+
+#: classes/model.php:211
+msgid "Empty or invalid ID"
+msgstr "ID gol sau invalid"
+
+#: classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr "Mutarea fisierelod pentru %s esuata"
+
+#: classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr "%s nu este un modul plugin"
+
+#: classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr ""
+"Nu se poate crea directorul modul. Incercati sa setati permisiunea de a"
+
+#: classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr "Nici un modul nu a fost gasit in fisiere XML "
+
+#: classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr "Fisier XML invalid"
+
+#: classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr "Nu s-a gasit nici un fisier XML"
+
+#: classes/modInstaller.php:132
+#, php-format
+msgid "Install %s failed"
+msgstr "Instalarea %s esuata"
+
+#: classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr "Eroare modul Activare"
+
+#: classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr "Eroare modul Dezactivare"
+
+#: classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr "Eroare Activare modul"
+
+#: classes/table.php:277
+msgid "Nothing to update"
+msgstr "Nimic de actualizat"
+
+#: classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr "Eroare bază de date. Vă rugăm să contactați dezvoltatorul."
+
+#: classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr "Lungime invalida pentru% s, lungime max este% s"
+
+#: classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr "Valoare numerică invalida pentru% s"
+
+#: classes/validator.php:71
+#, php-format
+msgid "Please enter %s"
+msgstr "Va rugam sa introduceti% s"
+
+#: classes/validator.php:78
+#, php-format
+msgid "Please select %s"
+msgstr "Vă rugăm să selectați% s"
+
+#: classes/validator.php:85 classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr "Invalid %s"
+
+#: classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr "% s este deja înregistrat"
+
+#: classes/tables/modules.php:7 classes/tables/modules_type.php:8
+msgid "Label"
+msgstr "Eticheta"
+
+#: classes/tables/modules.php:8
+msgid "Type"
+msgstr "Tip"
+
+#: classes/tables/modules.php:9
+msgid "Active"
+msgstr "Activ"
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr "Parametri"
+
+#: classes/tables/modules.php:13
+msgid "Code"
+msgstr "Cod"
+
+#: classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Plugin director extern"
+
+#: classes/tables/modules_type.php:7
+msgid "ID"
+msgstr "ID"
+
+#: classes/tables/usage_stat.php:8
+msgid "code"
+msgstr "cod"
+
+#: classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr "vizitatori"
+
+#: classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr "timp_petrecut"
+
+#: classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr "modifica_timestamp"
+
+#: doc/popup-by-supsystic-pro/wpUpdater.php:68
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"O eroare HTTP neașteptată avut loc în timpul cererii API. </ P> <p> <a href "
+"= \"?\" onclick = \"document.location.reload (); return false;\"> Încearcă "
+"din nou </a>"
+
+#: doc/popup-by-supsystic-pro/wpUpdater.php:73
+msgid "An unknown error occurred"
+msgstr "S-a intamplat o eroare necunoscuta"
+
+#: doc/popup-by-supsystic-pro/ab_testing/mod.php:21
+msgid "Testing"
+msgstr "Testare"
+
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:18
+msgid "Enter Name"
+msgstr "Introduceți numele"
+
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:20
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:32
+msgid "Empty Base ID"
+msgstr "Baza ID Goala"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abEditFormControls.php:3
+msgid "Back to Main PopUp"
+msgstr "Înapoi la PopUp-ul Principal"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:2
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:3
+msgid "Add New Test"
+msgstr "Adauga Test Nou"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:5
+msgid "Test PopUp Name"
+msgstr "Testeaza Numele PopUp"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:7
+msgid "Delete selected"
+msgstr "Sterge selectia"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:11
+msgid "Clear"
+msgstr "Clar"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:17
+msgid ""
+"You have no Test PopUps for now. <a href=\"#\" class=\"ppsAbAddNew\" style="
+"\"font-style: italic;\">Create</a> your first Test!"
+msgstr ""
+"Nu ai nici un pop-up de testare pentru acum. <a href=\"#\" class="
+"\"ppsAbAddNew\" style=\"font-style: italic;\"> Creeaza </a> primul Test!"
+
+#: doc/popup-by-supsystic-pro/activecampaign/mod.php:11
+msgid "Active Campaign"
+msgstr "Campanie Activă"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:22
+msgid ""
+"Please make sure that you created some Lists under your Active Campaign "
+"account."
+msgstr ""
+"Vă rugăm să asigurați-vă că ați creat unele Liste în contul dvs. Campanie "
+"Activă."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:26
+msgid "Make sure that you entered correct API data."
+msgstr "Asigurați-vă că ați introdus corect datele API."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:40
+msgid "Please enter your API URL"
+msgstr "Vă rugăm să introduceți API URL dvs."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:42
+msgid "Please enter your API key"
+msgstr "Vă rugăm să introduceți cheia API"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:82
+#, php-format
+msgid "Add contact failed with error: %s"
+msgstr "Adaugarea contactelor esuata cu eroarea: %s"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:94
+msgid ""
+"No lists to add selected in admin area - contact site owner to resolve this "
+"issue."
+msgstr ""
+"Nu există liste să adaugi selectate în zona admin - contacteaza proprietarul "
+"site-ului pentru a rezolva această problemă."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:4
+msgid "Not supported by Server"
+msgstr "Nu este suportat de Server"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:5
+msgid "Not supported on your server"
+msgstr "Nu este suportat pe serverul dvs."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed. Please "
+"contact your hosting provider and ask them to enable cUrl for you, this is "
+"Free library."
+msgstr ""
+"Acest modul necesită să aibă bibliotecă cUrl pentru PHP pe serverul "
+"instalat. Vă rugăm să contactați furnizorul dvs. de găzduire și să le cereți "
+"pentru a permite cUrl pentru tine, acest lucru este Free Library."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:14
+msgid "API URL"
+msgstr "URL API"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:15
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:27
+#, php-format
+msgid ""
+"You can find it under your Active Campaign Account -> My Settings -> API, "
+"here is <a href=\"%s\" class=\"ppsAcHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+"Il puteti gasi sub Cont Campanie Activa  -> Setarile mele -> API, aici este "
+"<a href=\"%s\" <a class=\"ppsAcHelpApiKeyLink\"> ajutor screenshot </a>"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:26
+msgid "API Key"
+msgstr "Cheie API"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:38
+msgid "Campaigns for subscribe"
+msgstr "Campanii pentru a vă abona"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:39
+msgid ""
+"Select Campaigns for subscribe. They are taken from your Active Campaign "
+"account."
+msgstr ""
+"Selectați Campanii pentru a va abona. Acestea sunt luate de pe contul dvs. "
+"Campanie Activă."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:46
+msgid "Choose Lists"
+msgstr "Alegeți Liste"
+
+#: doc/popup-by-supsystic-pro/arpreach/mod.php:8
+msgid "arpReach"
+msgstr "arpReach"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:4
+msgid "arpReach not supported"
+msgstr "arpReach nu este acceptata"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:5
+msgid "This module is not supported by your server configuration."
+msgstr "Acest modul nu este suportat de configurația serverului dvs."
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:8
+msgid "arpReach is not supported on your server."
+msgstr "arpReach nu este acceptat pe server-ul dvs."
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:14
+msgid "arpReach intake form Action URL"
+msgstr "arpReach primate de la Action URL"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:15
+msgid ""
+"Open your script for intake form, find there form tag with form "
+"method='post' action='http://yourdomain.coma/a/a.php/sub/a/xxxxxx', then "
+"copy \"action\" attribute - and paste it in text field below."
+msgstr ""
+"Deschide script-ul pentru formularul de admisie, găsiti tagul formulat cu "
+"formularul method='post' action= 'http: //yourdomain.coma/a/a.php/sub/a/"
+"xxxxxx \", apoi copiați \"action\"atribut - și lipiți-l în câmpul text de "
+"mai jos."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/mod.php:12
+msgid "Benchmark"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:41
+#, fuzzy
+#| msgid ""
+#| "Please make sure that you created some Lists under your Active Campaign "
+#| "account."
+msgid ""
+"Please make sure that you created some Lists under your Benchmark account."
+msgstr ""
+"Vă rugăm să asigurați-vă că ați creat unele Liste în contul dvs. Campanie "
+"Activă."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:45
+#, fuzzy
+#| msgid "Please enter your Email address"
+msgid "Please enter your Benchmark Password"
+msgstr "Va rog sa introduceti adresa dvs. de email"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:47
+#, fuzzy
+#| msgid "Please enter your API URL"
+msgid "Please enter your Benchmark Login"
+msgstr "Vă rugăm să introduceți API URL dvs."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:15
+msgid "Benchmark Login"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:16
+msgid "Login for your Benchmark account."
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:27
+#, fuzzy
+#| msgid "SendGrid Password"
+msgid "Benchmark Password"
+msgstr "Parola pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:28
+msgid "Password for your Benchmark account."
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:40
+#, fuzzy
+#| msgid ""
+#| "Select Campaigns for subscribe. They are taken from your GetResponse "
+#| "account."
+msgid ""
+"Select Campaigns for subscribe. They are taken from your Benchmark account."
+msgstr ""
+"Selectați Campanii pentru a va abona. Ele sunt luate din contul dvs. "
+"PrimesteRaspuns."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/mod.php:8
+msgid "Campaign Monitor"
+msgstr "Monitor Campanie"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:16
+#, php-format
+msgid ""
+"You have no lists for now. Go to your <a href=\"%s\" target=\"_blank"
+"\">Campaign Monitor Account -> Lists & Subscribers</a> and create list at "
+"first, then just reload this page"
+msgstr ""
+"Nu aveți nicio lista pentru acum. Du-te la <a href=\"%s\" target=\"_blank\"> "
+"Cont Campanie Monitor -> Liste & Abonați </a> și de a crea lista de la "
+"inceput, apoi reîncărcați doar aceasta pagina"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:185
+msgid ""
+"Something going wrong while trying to send data to mail list service. Please "
+"contact site owner."
+msgstr ""
+"Ceva a mers rău în timp ce se încerca trimiterea de date la serviciul de "
+"mail list. Vă rugăm să contactați proprietarul site-ului."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:195
+msgid ""
+"Can not detect authorization fo account owner. Contact site owner to resolve "
+"this issue."
+msgstr ""
+"Nu poate detecta autorizația de proprietar al contului. Luati legatura cu "
+"proprietarul site-ului pentru a rezolva această problemă."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:4
+msgid "Campaign Monitor not supported"
+msgstr "Campania Monitor nu este acceptata"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:8
+msgid ""
+"Campaign Monitor require at least PHP version 5.3. Please contact your "
+"hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+"Campania Monitor are nevoie de cel puțin PHP versiunea 5.3. Vă rugăm să "
+"contactați furnizorul dvs. de găzduire și să le cereți pentru a comuta PHP "
+"dvs. la versiunea 5.3. sau mai mare."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:14
+msgid "Campaign Monitor Setup"
+msgstr "Setari Capmanie Monitor"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:15
+msgid "You must authorize to use Campaign Monitor features"
+msgstr ""
+"Trebuie să autorizeze pentru a utiliza caracteristicile Monitor Campanie"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:18
+msgid "Authorize in Campaign Monitor"
+msgstr "Autorizeaza in Campania Monitor"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:24
+msgid "Lists for subscribe"
+msgstr "Liste de abonare"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:25
+msgid ""
+"Select lists for subscribe. They are taken from your Campaign Monitor "
+"account."
+msgstr ""
+"Selectați listele de abonare. Acestea sunt luate de pe contul dvs. Monitor "
+"Campanie."
+
+#: doc/popup-by-supsystic-pro/constantcontact/mod.php:11
+msgid "Constant Contact"
+msgstr "Contact Constant"
+
+#: doc/popup-by-supsystic-pro/constantcontact/models/constantcontact.php:39
+msgid "You are not logged-in"
+msgstr "Nu esti logat"
+
+#: doc/popup-by-supsystic-pro/constantcontact/models/constantcontact.php:41
+msgid "Can not get cc obj"
+msgstr "Nu se poate obține cc obj"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:4
+msgid "Constant Contact not supported"
+msgstr "Constant Contact nu este acceptat"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:8
+msgid ""
+"Constant Contact require at least PHP version 5.3. Please contact your "
+"hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+"Campania Monitor are nevoie de cel puțin PHP versiunea 5.3. Vă rugăm să "
+"contactați furnizorul dvs. de găzduire și să le cereți pentru a comuta PHP "
+"dvs. la versiunea 5.3. sau mai mare."
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:14
+msgid "Constant Contact Setup"
+msgstr "Setari Contact Constant"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:15
+msgid "You must authorize to use Constant Contact features"
+msgstr ""
+"Trebuie sa autorizezi pentru a folosi caracteristicile Contact Constant"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:18
+msgid "Authorize in Constant Contact"
+msgstr "Autorizeaza in Contact Constant"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:25
+msgid ""
+"Select lists for subscribe. They are taken from your Constant Contact "
+"account."
+msgstr ""
+"Selectati listele de abonare. Acestea sunt loate din contul dvs. Contact "
+"Constant"
+
+#: doc/popup-by-supsystic-pro/feedblitz/mod.php:8
+msgid "FeedBlitz"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/feedblitz/models/feedblitz.php:11
+msgid ""
+"You have no lists. Login to your SendGrid account and create your first list "
+"before start using this functionality."
+msgstr ""
+"Nu aveti nici o lista. Logati-va  la Grila dvs de trimitere si create prima "
+"lista inainte de a incepe utilizarea acestei functii."
+
+#: doc/popup-by-supsystic-pro/feedblitz/models/feedblitz.php:61
+msgid "Some error occured during connection to the server"
+msgstr "Au aparut erori in timpul conexiunii la server"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:4
+#, fuzzy
+#| msgid "SendGrid not supported"
+msgid "FeedBlitz not supported"
+msgstr "Grila de trimitere nu poate fi suportata"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:8
+#, fuzzy
+#| msgid "SendGrid is not supported on your server"
+msgid "FeedBlitz is not supported on your server"
+msgstr "Grila de trimitere nu poate fi suportata pe serverul-ul dvs."
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:14
+msgid "FeedBlitz API Key"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:15
+msgid "Your FeedBlitz API Key"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:26
+#, fuzzy
+#| msgid ""
+#| "Select lists for subscribe. They are taken from your SendGrid account."
+msgid "Select lists for subscribe. They are taken from your FeedBlitz account."
+msgstr ""
+"Selectati liste de abonati. Vor fi luate din contul Grilei de trimitere"
+
+#: doc/popup-by-supsystic-pro/get_response/mod.php:11
+msgid "GetResponse"
+msgstr "PrimesteRaspuns"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, fuzzy, php-format
+#| msgid ""
+#| "You can find it under your GetResponse Account -> GetResponse API, here "
+#| "is <a href=\"%s\" class=\"ppsGrHelpApiKeyLink\">help screenshot</a>"
+msgid ""
+"You can find it under your GetResponse Account -> GetResponse API, here is "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\" target=\"_blank\">help "
+"screenshot</a>"
+msgstr ""
+"Il puteti gasi sub Contul PrimesteRaspuns -> PrimesteRaspuns API, este aici "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\">ajutor screenshot</a>"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:26
+msgid ""
+"Select Campaigns for subscribe. They are taken from your GetResponse account."
+msgstr ""
+"Selectați Campanii pentru a va abona. Ele sunt luate din contul dvs. "
+"PrimesteRaspuns."
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:41
+msgid "Cycle Day"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:42
+msgid ""
+"Insert contact on a given day at the autoresponder cycle. Value of 0 means "
+"the beginning of the cycle. Lack of this param means that a contact will not "
+"be inserted into cycle."
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/icontact/mod.php:11
+#, fuzzy
+#| msgid "Contact form"
+msgid "iContact"
+msgstr "Formular de contact"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:20
+#, fuzzy
+#| msgid "Please enter your License Key"
+msgid "Please enter your Application ID"
+msgstr "Va rog sa introduceti codul licentei"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:23
+#, fuzzy
+#| msgid "Please enter your API URL"
+msgid "Please enter your API Username"
+msgstr "Vă rugăm să introduceți API URL dvs."
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:26
+#, fuzzy
+#| msgid "Please enter your API URL"
+msgid "Please enter your API Password"
+msgstr "Vă rugăm să introduceți API URL dvs."
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:43
+msgid "You have no lists in your iContact account for now."
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:107
+#, fuzzy
+#| msgid "Constant Contact"
+msgid "Can't add contact"
+msgstr "Contact Constant"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:14
+#, fuzzy
+#| msgid "Animation"
+msgid "Application ID"
+msgstr "Animatie"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:15
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:26
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:37
+#, php-format
+msgid ""
+"You can create it <a href=\"%s\" target=\"_blank\">here</a>. More info can "
+"be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:25
+#, fuzzy
+#| msgid "SendGrid Username"
+msgid "API Username"
+msgstr "Nume de utilizator pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:36
+#, fuzzy
+#| msgid "SendGrid Password"
+msgid "API Password"
+msgstr "Parola pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:48
+#, fuzzy
+#| msgid ""
+#| "Select lists for subscribe. They are taken from your Constant Contact "
+#| "account."
+msgid "Select Lists for subscribe. They are taken from your iContact account."
+msgstr ""
+"Selectati listele de abonare. Acestea sunt loate din contul dvs. Contact "
+"Constant"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/mod.php:13
+msgid "InfusionSoft"
+msgstr "InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/models/infusionsoft.php:87
+msgid ""
+"Administrator of this site need to re-autentificate in InfusionSoft system "
+"from admin area"
+msgstr ""
+"Administrator de pe acest site trebuie să se re-autentificate în sistemul "
+"InfusionSoft din zona admin"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+#, fuzzy
+#| msgid ""
+#| "This module require to have cUrl library for PHP on server installed and "
+#| "PHP version to be at least 5.3. Please contact your hosting provider and "
+#| "ask them to enable cUrl for you, this is Free library, and check your PHP "
+#| "version."
+msgid ""
+"This module require to have cUrl library for PHP on server installed and PHP "
+"version to be at least 5.3.2. Please contact your hosting provider and ask "
+"them to enable cUrl for you, this is Free library, and check your PHP "
+"version."
+msgstr ""
+"Acest modul necesită să aibă bibliotecă cUrl pentru PHP pe serverul instalat "
+"și versiunea PHP să fie de cel puțin 5.3. Vă rugăm să contactați furnizorul "
+"dvs. de găzduire și să le cereți pentru a permite cUrl pentru tine, acest "
+"lucru este Free Library, și verificați versiunea PHP."
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:14
+msgid "InfusionSoft Setup"
+msgstr "Setari InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:15
+msgid "You must authorize to use InfusionSoft features"
+msgstr "Este nevoie de autorizatie pentru a folosi facilitatile InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:18
+msgid "Authorize in InfusionSoft"
+msgstr "Autorizatie in InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/layered_popup/mod.php:10
+msgid "Popup Location"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:7
+msgid "Enable Layered PopUp Style"
+msgstr "Permite stului PopUp in Straturi"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:9
+msgid ""
+"By default all PopUps have modal style: it appears on user screen over the "
+"whole site. Layered style allows you to show your PopUp - on selected "
+"position: top, bottom, etc. and not over your site - but right near your "
+"content."
+msgstr ""
+"Din oficiu toate PopUp-urile au stil modal: apar pe ecran deasupra "
+"intregului site. Stilul in straturi iti permite sa afisezi PopUp-urile - "
+"intr-o pozitie selectata: sus, jos, etc. si nu peste site - dar langa "
+"continut "
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:13
+msgid "Select position for your PopUp"
+msgstr "Selecteaza pozitia PopUp-ului"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:16
+msgid "Top Left"
+msgstr "Stanga Sus"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:17
+msgid "Top"
+msgstr "Sus"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:18
+msgid "Top Right"
+msgstr "Dreapta Sus"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:20
+msgid "Center Left"
+msgstr "Stanga Centru"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:21
+msgid "Center"
+msgstr "Centru"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:22
+msgid "Center Right"
+msgstr "Dreapta Centru"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:24
+msgid "Bottom Left"
+msgstr "Stanga Jos"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:25
+msgid "Bottom"
+msgstr "Jos"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:26
+msgid "Bottom Right"
+msgstr "Dreapta Jos"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:30
+#, php-format
+msgid ""
+"Your license has expired. Once you extend your license - you will be able to "
+"Update PRO version. To extend PRO version license - follow <a href=\"%s\" "
+"target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</a> tab "
+"anc click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"Licenta dvs. a expirat. Odata ce veti extinde licenta veti putea actualiza "
+"Versiunea PRO. Pentru a extinde licenta pentru Versiunea PRO accesati <a "
+"href=\"%s\" target=\"_blank\">acest link</a>, apoi mergeti la <a href=\"%s"
+"\">License</a> si apasati pe butonul \"Re-activate\" pentru a reactiva "
+"Versiunea PRO."
+
+#: doc/popup-by-supsystic-pro/license/mod.php:38
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a href=\"%s"
+"\" target=\"_blank\">click here</a> to extend your license, then - go to <a "
+"href=\"%s\">License</a> tab and click on \"Re-activate\" button to re-"
+"activate your PRO version."
+msgstr ""
+"Licenta pentru plugin-ul versiunii PRO a  %s a expirat. Puteti <a href=\"%s"
+"\" target=\"_blank\">click here</a> pentru a extinde licenta, apoi mergeti "
+"la <a href=\"%s\">License</a> si apasati pe butonul \"Re-activate\" pentru a "
+"reactiva Versiunea PRO"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:51
+msgid "License"
+msgstr "Licenta"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:74
+msgid "Activate License"
+msgstr "Activeaza Licenta"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:76
+msgid "Renew License"
+msgstr "Reinnoieste Licenta"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:54
+msgid "Please enter your License Key"
+msgstr "Va rog sa introduceti codul licentei"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:56
+msgid "Please enter your Email address"
+msgstr "Va rog sa introduceti adresa dvs. de email"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:131
+msgid ""
+"There was a problem with sending request to our authentication server. "
+"Please try later."
+msgstr ""
+"S-a inregistrat o problema in trimiterea cererii catre serverul nostru de "
+"autentificare. Va rugam incercati mai tarziu."
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:154
+#, php-format
+msgid "License for plugin %s will expire today."
+msgstr "Licenta pentru plugin-ul %s va expira azi"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:156
+#, php-format
+msgid "License for plugin %s will expire tomorrow."
+msgstr "Licenta pentru plugin-ul %s va expira maine"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:158
+#, php-format
+msgid "License for plugin %s will expire in %d days."
+msgstr "Licenta pentru plugin-ul %s va expira in %d zile"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:4
+#, php-format
+msgid ""
+"Congratulations! PRO version of %s plugin has been activated and is working "
+"fine!"
+msgstr ""
+"Felicitari! Versiunea PRO pentru plugin-ul %s a fost activata si "
+"functioneaza bine!"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:6
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a href=\"%s"
+"\" target=\"_blank\">click here</a> to extend your license, then - click on "
+"\"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"Licenta pentru Versiunea PRO a plugin-ului %s a expirat. Puteti <a href=\"%s"
+"\" target=\"_blank\"> apasa aici</a> pentru a extinde licenta dvs., apoi "
+"apasati pe butonul \"Re-activate\" pentru a reactiva versiunea PRO."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:8
+#, php-format
+msgid ""
+"Congratulations! You have successfully installed PRO version of %s plugin. "
+"Final step to finish Your PRO version setup - is to enter your Email and "
+"License Key on this page. This will activate Your copy of software on this "
+"site."
+msgstr ""
+"Felicitari! Ati instalat cu succes Versiunea PRO a plugin-ului %s. Ultimul "
+"pas pentru a finaliza instalarea Versiunii PRO - este sa introduceti adresa "
+"dvs. de email si codul licentei pe aceasta pagina. Aceasta va activa copia "
+"dvs. de software pe acest site."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:20
+msgid "Email"
+msgstr "Email"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:23
+#, php-format
+msgid ""
+"Your email address, used on checkout procedure on <a href=\"%s\" target="
+"\"_blank\">%s</a>"
+msgstr ""
+"Adresa dvs. de email, folosita la procedura de checkout pe <a href=\"%s\" "
+"target=\"_blank\">%s</a>"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:31
+msgid "License Key"
+msgstr "Cod de Licenta"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:34
+#, php-format
+msgid ""
+"Your License Key from your account on <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+"Codul dvs de licenta al contului dvs pe  <a href=\"%s\" target=\"_blank\">"
+"%s</a>"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:47
+msgid "Re-activate"
+msgstr "Reactivare"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:49
+msgid "Activate"
+msgstr "Activare"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:19
+msgid "Login Success!"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/controller.php:39
+#, fuzzy
+#| msgid "Thank you for subscribing!"
+msgid "Thank you for registration!"
+msgstr "Va multumim pentru abonare!"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:43
+msgid "Confirmation link was sent to your email address. Check your email!"
+msgstr ""
+"Link de confirmare a fost trimis la adresa dvs. de email. Verificati email-"
+"ul!"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:13
+msgid "Login/Registration"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/mod.php:30
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:32
+#, fuzzy
+#| msgid "SendGrid Username"
+msgid "Username"
+msgstr "Nume de utilizator pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:34
+#, fuzzy
+#| msgid "SendGrid Password"
+msgid "Password"
+msgstr "Parola pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/login/models/login.php:80
+#, fuzzy
+#| msgid "Empty or invalid email"
+msgid "Empty or invalid username"
+msgstr "Email gol sau invalid"
+
+#: doc/popup-by-supsystic-pro/login/models/login.php:85
+#, fuzzy
+#| msgid "Empty or invalid ID"
+msgid "Empty or invalid password"
+msgstr "ID gol sau invalid"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:9
+msgid "Text"
+msgstr "Text"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:10
+msgid "Text area"
+msgstr "Aria Textului"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:11
+msgid "Select box"
+msgstr "Selecteaza cutie"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:12
+msgid "Hidden Field"
+msgstr "Camp ascuns"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:1
+msgid "This option will replace Subscribe form with Login / Registration forms"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:8
+#, fuzzy
+#| msgid "Enable promo link"
+msgid "Enable Login"
+msgstr "Permite link promo"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:15
+msgid "Login by"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:16
+msgid ""
+"Choose what info needs to be entered for login. Password will be included by "
+"default."
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:35
+#, fuzzy
+#| msgid "Redirect after subscription URL"
+msgid "Redirect after login URL"
+msgstr "URL redirectare dupa abonare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:36
+#, fuzzy
+#| msgid ""
+#| "You can enable redirection after subscription, just enter here URL that "
+#| "you want to redirect to after subscribe - and user will be redirected "
+#| "there. If you don't need this feature - just leave this field empty."
+msgid ""
+"You can enable redirection after login, just enter here URL that you want to "
+"redirect to after login - and user will be redirected there. If you don't "
+"need this feature - just leave this field empty: browser window will be just "
+"reloaded after successful login."
+msgstr ""
+"Puteti activa redirectarea dupa abonare, introduceti aici URL-ul catre care "
+"doriti redirectarea dupa abonare - si utilizatorul va fi redirectat acolo. "
+"Daca nu aveti nevoie de aceasta facilitate - lasati campul liber."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:46
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:85
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:234
+msgid "Open in a new window (tab)"
+msgstr "Deschide intr-o fereastra (tab) noua"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:52
+#, fuzzy
+#| msgid "Submit button name"
+msgid "Login button name"
+msgstr "Dati nume butonului"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:56
+msgid "Login"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:67
+#, fuzzy
+#| msgid "Enable Subscription"
+msgid "Enable Registration"
+msgstr "Permite abonare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:74
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:223
+#, fuzzy
+#| msgid "Redirect after subscription URL"
+msgid "Redirect after registration URL"
+msgstr "URL redirectare dupa abonare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:75
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:224
+#, fuzzy
+#| msgid ""
+#| "You can enable redirection after subscription, just enter here URL that "
+#| "you want to redirect to after subscribe - and user will be redirected "
+#| "there. If you don't need this feature - just leave this field empty."
+msgid ""
+"You can enable redirection after registration, just enter here URL that you "
+"want to redirect to after registration - and user will be redirected there. "
+"If you don't need this feature - just leave this field empty."
+msgstr ""
+"Puteti activa redirectarea dupa abonare, introduceti aici URL-ul catre care "
+"doriti redirectarea dupa abonare - si utilizatorul va fi redirectat acolo. "
+"Daca nu aveti nevoie de aceasta facilitate - lasati campul liber."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:91
+#, fuzzy
+#| msgid "Create user with the chosen role after subscribing"
+msgid "Create user with the chosen role after registration"
+msgstr "Creaza utilizator dupa abonare cu rol"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:92
+#, fuzzy
+#| msgid ""
+#| "Use this only if you are really need it. Remember! After you change this "
+#| "option - your new subscriber will have more privileges than usual "
+#| "subscribers, so be careful with this option!"
+msgid ""
+"Use this only if you really need it. Remember! After you change this option "
+"- your new users will have more privileges than usual subscribers, so be "
+"careful with this option!"
+msgstr ""
+"Folositi aceasta numai daca aveti neaparat nevoie. Nu uitati! Dupa ce "
+"modificati aceasta optiune - noul abonat va avea mai multe privilegii decat "
+"ceilalti abonati, asadar aveti grija cu aceasta optiune!"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:102
+#, fuzzy
+#| msgid "Create Subscriber without confirmation"
+msgid "Create User without confirmation"
+msgstr "Creaza abonat fara confirmare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:103
+#, fuzzy
+#| msgid ""
+#| "Usually, after user subscribe, we send email with confirmation link - to "
+#| "confirm email addres, and only after usee will click on link from this "
+#| "email - we will create new subscriber. This option allow you to create "
+#| "subscriber - right after subscription, without email confirmation process."
+msgid ""
+"Usually, after user registration, we send an email with the confirmation "
+"link - to confirm the email address, and only after user clicks on the link "
+"from this email - we will create a new user. This option allows you to "
+"create user - right after registration, without the email confirmation "
+"process."
+msgstr ""
+"De obicei, după ce  utilizatorul se aboneaza, vom trimite e-mail cu link de "
+"confirmare - pentru a confirma adresa de e-mail, si numai după ce "
+"utilizatorul va face clic pe link-ul din acest e-mail - vom crea nou abonat. "
+"Această opțiune vă permite să creați abonat - imediat după abonare, fără "
+"proces de confirmare e-mail."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:112
+msgid "Export Users"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:113
+msgid "Export all users, who registered using your PopUp, as CSV file."
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:116
+msgid "Get CSV List"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:121
+#, fuzzy
+#| msgid "Submit button name"
+msgid "Registration button name"
+msgstr "Dati nume butonului"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:125
+msgid "Register"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:132
+#, fuzzy
+#| msgid "Subscription fields"
+msgid "Registration fields"
+msgstr "campuri de abonare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:133
+#, fuzzy
+#| msgid ""
+#| "To change field position - just drag-&-drop it to required place between "
+#| "other fields. To add new field to Subscribe form - click on \"+ Add\" "
+#| "button."
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Registration form - click on \"+ Add\" "
+"button."
+msgstr ""
+"pentru a schimba pozitia - trageti si eliberati in locul dorit intre "
+"celelalte campuri. Pentru a adauga un nou camp in formularul de abonare - "
+"apasati pe butonul \"+Add\" (\"+Adauga\")"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:182
+msgid "Add"
+msgstr "Adauga"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:190
+msgid "\"Confirmation sent\" message"
+msgstr "Mesaj \"Confirmare trimisa\""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:191
+#, fuzzy
+#| msgid ""
+#| "This is the message that the user will see after subscription, when "
+#| "letter with confirmation link was sent."
+msgid ""
+"This is the message that the user will see after registration, when letter "
+"with confirmation link was sent."
+msgstr ""
+"Acesta este un mesaj pe care utilizatorul il va vedea dupa abonare, cand va "
+"fi trimisa scrisoarea de confirmare."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:201
+#, fuzzy
+#| msgid "Subscribe success message"
+msgid "Registration success message"
+msgstr "Mesaj abonare cu succes"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:202
+#, fuzzy
+#| msgid ""
+#| "Right after subscriber will be created and confirmed - this message will "
+#| "be shown."
+msgid ""
+"Right after new user will be created and confirmed - this message will be "
+"shown."
+msgstr ""
+"Imediat dupa creare si confirmarea abonarii - acest mesaj va fi afisat."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:212
+msgid "Email error message"
+msgstr "Mesaj eroare email"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:213
+msgid ""
+"If email that was entered by user is invalid, user will see this message"
+msgstr ""
+"Daca email-ul introdus este invalid, utilizatorul nu va vedea acest mesaj"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:217
+msgid "Empty or invalid email"
+msgstr "Email gol sau invalid"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:240
+msgid "Confirmation email subject"
+msgstr "Subiect email de confirmare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:241
+msgid "Email with confirmation link subject"
+msgstr "Subiect email cu link de confirmare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:247
+#, fuzzy
+#| msgid "Confirm subscription on [sitename]"
+msgid "Confirm registration on [sitename]"
+msgstr "Confirmati abonarea la [sitename]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:253
+msgid "Confirmation email From field"
+msgstr "Formular email de confirmare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:254
+msgid "Email with confirmation link From field"
+msgstr "Formular email link de confirmare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:266
+msgid "Confirmation email text"
+msgstr "Text email de confirmare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:267
+msgid "Email with confirmation link content"
+msgstr "Continut email link de confirmare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:269
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:310
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:338
+#, php-format
+msgid "You can use next variables here: %s"
+msgstr "Puteti olosi urmatoarele variabile aici: %s"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:275
+#, fuzzy
+#| msgid ""
+#| "You subscribed on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a "
+#| "href=\"[confirm_link]\">this link</a> to complete your subscription. If "
+#| "you did not subscribe here - just ignore this message."
+msgid ""
+"You registered on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your registration. If you did "
+"not register here - just ignore this message."
+msgstr ""
+"V-asi abonat pe site <a href=\"[siteurl]\">[sitename]</a>. Urmariti <a href="
+"\"[confirm_link]\">acest link</a> pentru a finaliza abonarea. Daca nu v-ati "
+"abonat aici - ignorati mesajul."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:281
+#, fuzzy
+#| msgid "New Subscriber email subject"
+msgid "New Member email subject"
+msgstr "Subiect email catre un nou abonat"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:282
+#, fuzzy
+#| msgid "Email to New Subscriber subject"
+msgid "Email to New Member subject"
+msgstr "Subiect email catre un nou abonat"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:288
+msgid "[sitename] Your username and password"
+msgstr "[sitename] Numele de utilizator si parola dvs."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:294
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:295
+#, fuzzy
+#| msgid "New Subscriber email From field"
+msgid "New Member email From field"
+msgstr "Formular email catre un nou abonat"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:307
+#, fuzzy
+#| msgid "New Subscriber email text"
+msgid "New Member email text"
+msgstr "Text email catre un nou abonat"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:308
+#, fuzzy
+#| msgid "Email to New Subscriber content"
+msgid "Email to New Member content"
+msgstr "Continut email catre un nou abonat"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:316
+msgid "Username: [user_login]<br />Password: [password]<br />[login_url]"
+msgstr "Nume Utilizator: [user_login]<br />Parola: [password]<br />[login_url]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:322
+#, fuzzy
+#| msgid "New Subscriber Notification"
+msgid "New Member Notification"
+msgstr "Notificare Abonat Nou"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:323
+msgid ""
+"Enter the email addresses that should receive notifications (separate by "
+"comma). Leave it blank - and you will not get any notifications."
+msgstr ""
+"Va rugam introduceti adresele de email care va primi notificarile (separate "
+"de virgula). Lasati liber - si nu veti primi notificari."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:335
+#, fuzzy
+#| msgid "New Subscriber Notification email text"
+msgid "New Member Notification email text"
+msgstr "Test Email Notificare Abonat Nou"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:336
+#, fuzzy
+#| msgid "Message that you will receive about new subscribers on your site."
+msgid "Message that you will receive about new members on your site."
+msgstr "Mesaj pe care il veti primi despre un nou abonat pe site"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:345
+#, fuzzy
+#| msgid ""
+#| "You have new subscriber on your site <a href=\"[siteurl]\">[sitename]</"
+#| "a>, here is subscriber information:<br />[subscriber_data]"
+msgid ""
+"You have new member on your site <a href=\"[siteurl]\">[sitename]</a>, here "
+"us member information:<br />[subscriber_data]"
+msgstr ""
+"Aveti un nou abonat pe site <a href=\"[siteurl]\">[sitename]</a>, aici noi "
+"informatii abonat :<br />[subscriber_data]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:352
+#, fuzzy
+#| msgid "Subscribe Field Settings"
+msgid "Registration Field Settings"
+msgstr "Subscrie Setarile Campului"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:356
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:405
+msgid "Name"
+msgstr "Nume"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:357
+#, fuzzy, php-format
+#| msgid ""
+#| "Name (key) for your field. This parameter is for system - to be able to "
+#| "determine the field. Use here only latin letters, numbers, symbols -_+ "
+#| "and space. For more info about this parameter - your can check <a href="
+#| "\"%s\" target=\"_blank\">this page</a>."
+msgid ""
+"Name (key) for your field. This parameter is for system - to be able to "
+"determine the field. Use here only latin letters, numbers and symbols -_+. "
+"For more info about this parameter - your can check <a href=\"%s\" target="
+"\"_blank\">this page</a>."
+msgstr ""
+"Nume (cod) pentru campul dvs. Acest parametru este pentru sistem - pentru a "
+"putea determina campul. Folositi aici numai litere latine, numere si "
+"simbolurile -_+ si spatiu. Pentru mai multe informatii despre acest "
+"parametru - puteti accesa <a href=\"%s\" target=\"_blank\">aceasta pagina</"
+"a>."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:366
+#, fuzzy
+#| msgid "Label that will be visible for your subscribers."
+msgid "Label that will be visible for your members."
+msgstr "Eticheta care va fi vizibila pentru abonatii dvs."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:374
+msgid "Value"
+msgstr "Valuare"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:375
+msgid "Default value for your field"
+msgstr "Valuare din oficiu pentru campul dvs."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:383
+msgid "Html Type"
+msgstr "Tip HTML"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:384
+msgid "This parameter will show - how we must render this field."
+msgstr "Acest parametru va afisa - cum trebuie sa interpretat acest camp"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:394
+msgid "Select Options"
+msgstr "Selecteaza optiunea"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:412
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:436
+msgid "Remove"
+msgstr "Inlatura"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:421
+msgid "Mandatory"
+msgstr "Obligatoriu"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:422
+msgid ""
+"Is this field mandatory to fill-in. If yes - then users will not be able to "
+"continue without filling-in this field."
+msgstr ""
+"Acest camp este obligatoriu de completat. Daca da - utilizatorii nu vor "
+"putea continua fara a completa - in acest camp."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:433
+msgid "Settings"
+msgstr "Setari"
+
+#: doc/popup-by-supsystic-pro/mailrelay/mod.php:9
+msgid "Mailrelay"
+msgstr "Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:15
+msgid ""
+"You have no lists. Login to your Mailrelay account and create your first "
+"list before start using this functionality."
+msgstr ""
+"Nu aveti nici o lista. Logati-va la contul dvs Mailrelay si create prima "
+"lista inainte de a incepe folosirea acestei functii."
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:159
+msgid "Failed to create subscriber."
+msgstr "Crearea unui abonat a esuat."
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:165
+msgid ""
+"Can not detect Host and API key. Contact site owner to resolve this issue."
+msgstr ""
+"Nu se poate detecta Gazda si cod API. Contactati detinatorul site-ului "
+"pentru a rezolva aceasta situatie."
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:4
+msgid "Mailrelay not supported"
+msgstr "Mailrelay nu poate fi suportat"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:8
+msgid "Mailrelay is not supported on your server"
+msgstr "Mailrelay nu poate fi suportat pe serverul dvs."
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:14
+msgid "Mailrelay Host"
+msgstr "Gazda Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:15
+msgid ""
+"Please enter the host that you have in your Mairelay welcome email. Please "
+"enter it without the initial http:// (for example demo.ip-zone.com)"
+msgstr ""
+"Va rugam introduceti gazda mentionata in emailul de bun-venit din Mailrelay-"
+"ul dvs. Va rugam sa o introduceti fara initiala http:// ( ca exempul demo.ip-"
+"zone.com)"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:34
+msgid "Mailrelay API Key"
+msgstr "Cod Mailrelay API"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:35
+msgid ""
+"Please enter your API key. You can generate your API key on your Mailrelay "
+"panel, Configuration -> API access -> Generate API key"
+msgstr ""
+"Va rugam sa introduceti codul API. Puteti genera un Cod API din panoul de "
+"control Mailrelay, in Configurari -> Acces API -> Generati Cod API"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:47
+msgid ""
+"To create new groups in Mailrelay, you must login into the control panel and "
+"click into the Mail Relay > Subscribers groups. Once there you can add a new "
+"group for your Wordpress users, or edit an existing one"
+msgstr ""
+"Pentru a crea noi grupui in Mailrelay trebuie sa va logati la panoul de "
+"control si sa apasati pe Mail Relay > Grupui de Abonati. Odata ce ati intrat "
+"puteti adauga un nou grup pentru utilizatorii dvs. de Wordpress, sau puteti "
+"edita o lista deja existenta."
+
+#: doc/popup-by-supsystic-pro/on_exit/views/tpl/onExitAdminOption.php:1
+#, php-format
+msgid ""
+"Show when user tries to exit from your site. <a target=\"_blank\" href=\"%s"
+"\">Check example.</a>"
+msgstr ""
+"Afiseaza cand un utilizator incearca sa iasa de pe site-ul dvs. <a target="
+"\"_blank\" href=\"%s\">Urmariti examplul.</a>"
+
+#: doc/popup-by-supsystic-pro/on_exit/views/tpl/onExitAdminOption.php:5
+msgid "On Exit from Site"
+msgstr "La iesire de pe Site"
+
+#: doc/popup-by-supsystic-pro/salesforce/mod.php:11
+msgid "SalesForce - Web-to-Lead"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:14
+msgid "Form ID"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:15
+#, php-format
+msgid ""
+"Generate your lead form in your Salesforce account (more about generating "
+"form you can read <a target=\"_blank\" href=\"%s\">here</a>), then copy \"oid"
+"\" value from it (<a target=\"_blank\" href=\"%s\">like this</a>) and insert "
+"it into this paramter"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/sendgrid/mod.php:9
+msgid "SendGrid"
+msgstr "Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:4
+msgid "SendGrid not supported"
+msgstr "Grila de trimitere nu poate fi suportata"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:8
+msgid "SendGrid is not supported on your server"
+msgstr "Grila de trimitere nu poate fi suportata pe serverul-ul dvs."
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:14
+msgid "SendGrid Username"
+msgstr "Nume de utilizator pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:15
+msgid "Your SendGrid name"
+msgstr "Numele dvs. pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:25
+msgid "SendGrid Password"
+msgstr "Parola pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:26
+msgid "Your SendGrid password"
+msgstr "Parola dvs. pentru Grila de trimitere"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:37
+msgid "Select lists for subscribe. They are taken from your SendGrid account."
+msgstr ""
+"Selectati liste de abonati. Vor fi luate din contul Grilei de trimitere"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/mod.php:8
+msgid "SG Autorepondeur"
+msgstr "SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:86
+msgid "Required fields are missing"
+msgstr "Lipsesc campuri obligatorii"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:87
+msgid "The email is already in the list"
+msgstr "Emailul este deja in lista"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:88
+msgid "Registration was refused-blacklisted"
+msgstr "Inregistrarea a fost refuzata-trimisa pe lista neagra"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:89
+msgid "The country has been blocked"
+msgstr "Tara a fost blocata"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:90
+msgid "Too many entries with the same IP address"
+msgstr "Prea multe intrari cu aceeasi adresa IP"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:91
+msgid "Ok Register following a behavioral segmentation"
+msgstr "Ok Inregistreaza folosind segmentarea comportamentala"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:94
+msgid "The email is not the right format"
+msgstr "Emailul nu are formatul corespunzator"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:95
+msgid "Error on one of the variables - User ID or List ID or Activation Code"
+msgstr ""
+"Eroare la una dintre variabile, ID Utilizator,  ID Lista sau Cod de Activare"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:4
+msgid "SG Autorepondeur not supported"
+msgstr "SG Autorepondeur nu poate fi suportat"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:8
+msgid "SG Autorepondeur is not supported on your server"
+msgstr "SG Autorepondeur nu poate fi suportat pe serverul dvs."
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:14
+msgid "SG Autorepondeur User ID"
+msgstr "ID Utilizator SG Autorepondeur "
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:15
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:26
+msgid "This info available on your home page in SG Autorepondeur"
+msgstr ""
+"Aceasta informative este disponibila pe pagina principala a SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:25
+msgid "SG Autorepondeur List ID"
+msgstr "ID Lista SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:36
+msgid "SG Client Activation Code"
+msgstr "Cod Activare Client SG"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:37
+msgid ""
+"This info available on the member's area in the top menu \"my account\" (at "
+"the bottom of the page)"
+msgstr ""
+"Aceasta informative este disponibila pe \"contul meu\" (in josul paginii) in "
+"zona de membru a meniului de sus"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/sub_fields.php:7
+#, fuzzy
+#| msgid "Select box"
+msgid "Selectbox"
+msgstr "Selecteaza cutie"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/sub_fields.php:8
+#, fuzzy
+#| msgid "Add Checkbox"
+msgid "Checkbox"
+msgstr "Adaugă Checkbox"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/tpl/sfAdminControls.php:2
+msgid "Subscribe Field Settings"
+msgstr "Subscrie Setarile Campului"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/tpl/sfAdminControls.php:16
+msgid "Label that will be visible for your subscribers."
+msgstr "Eticheta care va fi vizibila pentru abonatii dvs."
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:9
+msgid "PopUp ID is not specified."
+msgstr "ID PopUp nespecificat"
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:13
+msgid "Authorization code is not specified."
+msgstr "Codul de autorizatie nu este specificat"
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:36
+msgid "Subscribing"
+msgstr "Se aboneaza"
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:45
+msgid "Cannot get your email address"
+msgstr "Adresa de e-mail nu poate fi redata"
+
+#: doc/popup-by-supsystic-pro/sub_social/mod.php:75
+msgid "Sign in with"
+msgstr "Inregistrati-va cu"
+
+#: doc/popup-by-supsystic-pro/sub_social/mod.php:76
+msgid "Facebook"
+msgstr "Facebook"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/mod.php:16
+msgid "Vertical Response"
+msgstr "Raspuns Vertical"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/models/verticalresponse.php:104
+msgid "Can not access to Vertical Responce server"
+msgstr "Nu se poate accesa serverul pentru Raspunsul Vertical"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/models/verticalresponse.php:106
+msgid "Empty code returned"
+msgstr "S-a intors cod gol"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:4
+msgid "Vertical Response Setup"
+msgstr "Setari Raspuns Vertical"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:5
+msgid "You must authorize to use Vertical Response features"
+msgstr "Trebui sa autorizati folosirea facilitatii Raspuns Vertical"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:8
+msgid "Authorize in Vertical Response"
+msgstr "Autorizare pentru Raspuns Vertical"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:15
+msgid ""
+"Select lists for subscribe. They are taken from your Vertical Response "
+"account."
+msgstr ""
+"Selecteaza liste abonati. Acestea sunt luate din contul dvs Raspuns Vertical."
+
+#: doc/promo-popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, php-format
+msgid ""
+"You can find it under your GetResponse Account -> GetResponse API, here is "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+"Il puteti gasi sub Contul PrimesteRaspuns -> PrimesteRaspuns API, este aici "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\">ajutor screenshot</a>"
+
+#: doc/promo-popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed and PHP "
+"version to be at least 5.3. Please contact your hosting provider and ask "
+"them to enable cUrl for you, this is Free library, and check your PHP "
+"version."
+msgstr ""
+"Acest modul necesită să aibă bibliotecă cUrl pentru PHP pe serverul instalat "
+"și versiunea PHP să fie de cel puțin 5.3. Vă rugăm să contactați furnizorul "
+"dvs. de găzduire și să le cereți pentru a permite cUrl pentru tine, acest "
+"lucru este Free Library, și verificați versiunea PHP."
+
+#: doc/promo-popup-by-supsystic-pro/layered_popup/mod.php:10
+msgid "Layered Style"
+msgstr "Stil in straturi"
+
+#: modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from supsystic.com developers. I tried %s - and this "
+"was what I need! #supsystic.com"
+msgstr ""
+"Plugin-uri WordPress bune de la programatori supsystic.com. Am incercat %s - "
+"si exact asta cautam! #supsystic.com"
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr "Mai multe plugin-uri oentru site-ul dvs. WordPress aici!"
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr "Da mai departe!"
+
+#: modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr ""
+"Acum verifica folderele inbox / spam ale email-ulului pentru un mail de "
+"test. "
+
+#: modules/mail/mod.php:41
+msgid "Cannot send email - problem with send server"
+msgstr "Nu a putut fi trimis e-mail - probleme cu serverul de trimitere"
+
+#: modules/mail/mod.php:54
+msgid "Mail"
+msgstr "Mail"
+
+#: modules/mail/mod.php:56
+msgid "Mail function tested and work"
+msgstr "Functiile mail-ului testate si functionale"
+
+#: modules/mail/mod.php:57
+msgid "Notify Email"
+msgstr "Email de notificare"
+
+#: modules/mail/mod.php:57
+msgid "Email address used for all email notifications from plugin"
+msgstr ""
+"Adresa email folosita pentru toate email-urile de notificare de plugin-uri"
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr "Testeaza functionalitatea email-ului"
+
+#: modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+"Acesta este un email test pentru a testa functionalitatea email-ului pe site-"
+"ul dvs, %s."
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "Adresa de mail neprecizata"
+
+#: modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr "Trimite test la"
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "Trimite test"
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr ""
+"Aceasta optiune permite verificarea functionalitatii mail-ului serverului "
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr "Ati primit testul email?"
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr "Da! Functioneaza!"
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+"Nu, trebuie sa contactez gazda in legatura cu probleme la functionalitatea "
+"mail-ului."
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr "Minunat! Functia mail-ului a fost testata si functioneaza bine."
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+"Rau, va rog contactati gazda si solicitati serarea functionalitatii mail-"
+"ului pe serverul dvs."
+
+#: modules/mail/views/tpl/mailAdmin.php:47
+#: modules/options/views/tpl/optionsSettingsTabContent.php:44
+#, php-format
+msgid "Turned On %s"
+msgstr "Pornit %s"
+
+#: modules/mail/views/tpl/mailAdmin.php:48
+#: modules/options/views/tpl/optionsSettingsTabContent.php:45
+#, php-format
+msgid "Turned Off %s"
+msgstr "Oprit %s"
+
+#: modules/mail/views/tpl/mailAdmin.php:69
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr "Salvare"
+
+#: modules/options/mod.php:114
+msgid "General"
+msgstr "General"
+
+#: modules/options/mod.php:116
+msgid "Send usage statistics"
+msgstr "Trimite statistici de utilizare"
+
+#: modules/options/mod.php:116
+msgid ""
+"Send information about what plugin options you prefer to use, this will help "
+"us make our solution better for You."
+msgstr ""
+"Trimite informatii despre optiunile plugin pe care preferati sa le "
+"utilizati, aceasta ne va ajuta sa facem solutia noasta mai potrivita pentru "
+"dvs."
+
+#: modules/options/mod.php:117
+msgid "Disable blocking Subscription from same IP"
+msgstr "Dezactiveaza blocarea abonarilor de la acelasi IP"
+
+#: modules/options/mod.php:117
+msgid ""
+"By default our plugin have feature to block subscriptions from same IP more "
+"then one time per hour - to avoid spam subscribers. But you can disable this "
+"feature here."
+msgstr ""
+"Din oficiu plug-inurile noastre blocheaza abonarile de la acelasi IP de mai "
+"mult de o data pe ora - pentru a evita abonarile spam. Puteti dezactiva "
+"aceasta facilitate aici."
+
+#: modules/options/mod.php:118
+msgid "Disable autosave on PopUp Edit"
+msgstr ""
+
+#: modules/options/mod.php:118
+msgid ""
+"By default our plugin will make autosave all your changes that you do in "
+"PopUp edit screen, but you can disable this feature here. Just don't forget "
+"to save your PopUp each time you make any changes in it."
+msgstr ""
+
+#: modules/options/mod.php:119
+msgid "Enable promo link"
+msgstr "Permite link promo"
+
+#: modules/options/mod.php:119
+msgid ""
+"We are trying to make our plugin better for you, and you can help us with "
+"this. Just check this option - and small promotion link will be added in the "
+"bottom of your PopUp. This is easy for you - but very helpful for us!"
+msgstr ""
+"Incercam sa facem plugin-urile noatre cat mai potrivite pentru dvs., iar "
+"dvs. ne puteti ajuta. Bifati aceasta optiune si un mic link de promovare va "
+"fi adaugat in josul paginii Pupului dvs. Este usor pentru dvs., dar deosebit "
+"de util pentru noi!"
+
+#: modules/options/mod.php:120
+msgid "User role can use plugin"
+msgstr "Utilizatorul poate folosi plugin-ul"
+
+#: modules/options/mod.php:120
+msgid "User with next roles will have access to whole plugin from admin area."
+msgstr ""
+"Utilizatori cu urmatoarele roluri vor avea acces la intregul plugin din aria "
+"admin."
+
+#: modules/options/mod.php:121
+msgid "Load Assets in Footer"
+msgstr ""
+
+#: modules/options/mod.php:121
+msgid ""
+"Force load all plugin CSS and JavaScript files in footer - to increase page "
+"load speed. Please make sure that you have correct footer.php file in your "
+"WordPress theme with wp_footer() function call in it."
+msgstr ""
+
+#: modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr "Actualizare Modul"
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Actualizare Modul Esuata"
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Eroare ID Modul"
+
+#: modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr "Goliti data pentru optiunea de salvare"
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr "Pagina Principala Accesati Aici!!!!"
+
+#: modules/options/views/tpl/optionsAdminPage.php:35
+msgid "Improve Free version"
+msgstr "Imbunatatiti versiunea gratuita"
+
+#: modules/options/views/tpl/optionsAdminPage.php:37
+#, fuzzy, php-format
+#| msgid ""
+#| "Please be advised that this option is available only in <a target=\"_blank"
+#| "\" href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" "
+#| "class=\"button\">Get PRO</a> today and get this and other PRO option for "
+#| "your PopUps!"
+msgid ""
+"Please be advised that this template with all other options and PRO "
+"templates is available only in <a target=\"_blank\" href=\"%s\">PRO version</"
+"a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> "
+"today and get this and other PRO templates and features for your PopUps!"
+msgstr ""
+"Aceasta optiune este valabila numai in <a target=\"_blank\" href=\"%s\"> "
+"Versiunea PRO </a>. Puteti <a target=\"_blank\" href=\"%s\" class=\"button"
+"\"> optine PRO</a> azi si primiti si aceasta diferita optiune PRO pentru "
+"PopUp-urile dvs!"
+
+#: modules/options/views/tpl/optionsAdminPage.php:40
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option for your "
+"PopUps!"
+msgstr ""
+"Aceasta optiune este valabila numai in <a target=\"_blank\" href=\"%s\"> "
+"Versiunea PRO </a>. Puteti <a target=\"_blank\" href=\"%s\" class=\"button"
+"\"> optine PRO</a> azi si primiti si aceasta diferita optiune PRO pentru "
+"PopUp-urile dvs!"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr "Salvati toate optiunile"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:52
+msgid "PRO option"
+msgstr "Optiune PRO"
+
+#: modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+"Stergeti Data Plugin (optiuni, setari data, tabele cu baza de date, etc.)"
+
+#: modules/popup/controller.php:22
+msgid "Yes"
+msgstr "Da"
+
+#: modules/popup/controller.php:22
+msgid "No"
+msgstr "Nu"
+
+#: modules/popup/controller.php:257
+msgid "Done, redirecting to new PopUp..."
+msgstr "Gata, redirectare catre noi Popuri...."
+
+#: modules/popup/mod.php:20
+msgid "Add New PopUp"
+msgstr "Adauga un nou popup"
+
+#: modules/popup/mod.php:23
+msgid "Edit"
+msgstr "Editare"
+
+#: modules/popup/mod.php:26
+msgid "Show All PopUps"
+msgstr "Afiseaza toata popup-urile"
+
+#: modules/popup/mod.php:371
+#, fuzzy
+#| msgid "PopUp Name"
+msgid "PopUp"
+msgstr "Nume PopUp"
+
+#: modules/popup/models/popup.php:98
+msgid "img/preview/"
+msgstr "img/preview/"
+
+#: modules/popup/models/popup.php:151
+msgid "Please select PopUp template from list below"
+msgstr "Va rugam selectati Sablon PopUp din lista urmatoare"
+
+#: modules/popup/models/popup.php:153 modules/popup/models/popup.php:534
+msgid "Please enter Name"
+msgstr "Inserati Nume"
+
+#: modules/popup/models/popup.php:186
+msgid "Enter your Facebook page URL"
+msgstr "Inserati URL pagina Facebook"
+
+#: modules/popup/models/popup.php:193
+msgid "Enter your video URL"
+msgstr "Inserati URL video"
+
+#: modules/popup/models/popup.php:344
+msgid "Common"
+msgstr "Comun"
+
+#: modules/popup/models/popup.php:345
+msgid "Facebook Like"
+msgstr "Imi Place Facebook"
+
+#: modules/popup/models/popup.php:346
+msgid "Video"
+msgstr "Video"
+
+#: modules/popup/models/popup.php:347
+msgid "iFrame"
+msgstr ""
+
+#: modules/popup/models/popup.php:348
+#, fuzzy
+#| msgid "Simple"
+msgid "Simple HTML"
+msgstr "Simplu"
+
+#: modules/popup/models/popup.php:349
+msgid "PDF"
+msgstr ""
+
+#: modules/popup/models/popup.php:350
+#, fuzzy
+#| msgid "New Subscriber Notification"
+msgid "Age Verification"
+msgstr "Notificare Abonat Nou"
+
+#: modules/popup/models/popup.php:351
+msgid "Full Screen"
+msgstr ""
+
+#: modules/popup/models/popup.php:352
+msgid "Login / Registration"
+msgstr ""
+
+#: modules/popup/models/popup.php:353
+msgid "Notification Bar"
+msgstr ""
+
+#: modules/popup/models/popup.php:395
+msgid "Provided data was corrupted"
+msgstr "Datele furnizate au fost corupte"
+
+#: modules/popup/models/popup.php:560
+msgid "Name can not be empty"
+msgstr "Numele nu poate fi gol"
+
+#: modules/popup/models/popup.php:575 modules/popup/models/popup.php:589
+#: modules/popup/models/popup.php:668 modules/popup/models/popup.php:671
+#: modules/popup/models/popup.php:700
+#, fuzzy
+#| msgid "Background"
+msgid "Left side background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:576 modules/popup/models/popup.php:586
+#: modules/popup/models/popup.php:590 modules/popup/models/popup.php:632
+#: modules/popup/models/popup.php:672 modules/popup/models/popup.php:701
+msgid "Right side background"
+msgstr ""
+
+#: modules/popup/models/popup.php:577
+#, fuzzy
+#| msgid "Subscribe to"
+msgid "Subscribe button background"
+msgstr "Aboneaza-te la"
+
+#: modules/popup/models/popup.php:580 modules/popup/models/popup.php:584
+#: modules/popup/models/popup.php:594 modules/popup/models/popup.php:603
+#: modules/popup/models/popup.php:607 modules/popup/models/popup.php:616
+#: modules/popup/models/popup.php:620
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:158
+msgid "Background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:581
+msgid "Sign up button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:585 modules/popup/models/popup.php:591
+#: modules/popup/models/popup.php:595 modules/popup/models/popup.php:600
+#: modules/popup/models/popup.php:604 modules/popup/models/popup.php:608
+#: modules/popup/models/popup.php:613 modules/popup/models/popup.php:617
+#: modules/popup/models/popup.php:633 modules/popup/models/popup.php:639
+#: modules/popup/models/popup.php:644 modules/popup/models/popup.php:649
+#: modules/popup/models/popup.php:655 modules/popup/models/popup.php:667
+#: modules/popup/models/popup.php:673 modules/popup/models/popup.php:696
+#: modules/popup/models/popup.php:702 modules/popup/models/popup.php:712
+#: modules/popup/models/popup.php:719 modules/popup/models/popup.php:723
+#: modules/popup/models/popup.php:736 modules/popup/models/popup.php:747
+#: modules/popup/models/popup.php:752 modules/popup/models/popup.php:757
+#: modules/popup/models/popup.php:765 modules/popup/models/popup.php:770
+#, fuzzy
+#| msgid "Background"
+msgid "Button background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:598
+#, fuzzy
+#| msgid "Background"
+msgid "Main Background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:599
+#, fuzzy
+#| msgid "Background"
+msgid "Down background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:611
+#, fuzzy
+#| msgid "Background"
+msgid "Left Side Background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:612
+msgid "Right Side background"
+msgstr ""
+
+#: modules/popup/models/popup.php:621
+msgid "Sign-up button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:622 modules/popup/models/popup.php:684
+#, fuzzy
+#| msgid "Close button"
+msgid "Close button background"
+msgstr "Buton inchidere"
+
+#: modules/popup/models/popup.php:625 modules/popup/models/popup.php:630
+#: modules/popup/models/popup.php:636 modules/popup/models/popup.php:643
+#: modules/popup/models/popup.php:648 modules/popup/models/popup.php:653
+#: modules/popup/models/popup.php:658 modules/popup/models/popup.php:666
+#: modules/popup/models/popup.php:677 modules/popup/models/popup.php:683
+#: modules/popup/models/popup.php:689 modules/popup/models/popup.php:695
+#: modules/popup/models/popup.php:705 modules/popup/models/popup.php:711
+#: modules/popup/models/popup.php:715 modules/popup/models/popup.php:722
+#: modules/popup/models/popup.php:726 modules/popup/models/popup.php:730
+#: modules/popup/models/popup.php:735 modules/popup/models/popup.php:740
+#: modules/popup/models/popup.php:745 modules/popup/models/popup.php:750
+#: modules/popup/models/popup.php:755 modules/popup/models/popup.php:760
+#: modules/popup/models/popup.php:764 modules/popup/models/popup.php:768
+#, fuzzy
+#| msgid "Background"
+msgid "Main background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:626 modules/popup/models/popup.php:650
+#: modules/popup/models/popup.php:685
+msgid "Middle side background"
+msgstr ""
+
+#: modules/popup/models/popup.php:627
+#, fuzzy
+#| msgid "Background"
+msgid "Down side background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:631
+#, fuzzy
+#| msgid "Background"
+msgid "Fields background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:637
+msgid "Left picture background"
+msgstr ""
+
+#: modules/popup/models/popup.php:638
+#, fuzzy
+#| msgid "Background"
+msgid "Background image"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:640 modules/popup/models/popup.php:654
+#: modules/popup/models/popup.php:662 modules/popup/models/popup.php:734
+msgid "Additional background"
+msgstr ""
+
+#: modules/popup/models/popup.php:645 modules/popup/models/popup.php:727
+#: modules/popup/models/popup.php:731 modules/popup/models/popup.php:761
+#, fuzzy
+#| msgid "Background"
+msgid "Frame background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:659
+msgid "Exit button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:660 modules/popup/models/popup.php:707
+#: modules/popup/models/popup.php:771
+msgid "Left image background"
+msgstr ""
+
+#: modules/popup/models/popup.php:661 modules/popup/models/popup.php:686
+#: modules/popup/models/popup.php:690
+#, fuzzy
+#| msgid "Submit button name"
+msgid "Submit button background"
+msgstr "Dati nume butonului"
+
+#: modules/popup/models/popup.php:663 modules/popup/models/popup.php:717
+msgid "Right image background"
+msgstr ""
+
+#: modules/popup/models/popup.php:674 modules/popup/models/popup.php:679
+#: modules/popup/models/popup.php:697 modules/popup/models/popup.php:746
+#: modules/popup/models/popup.php:751 modules/popup/models/popup.php:756
+#, fuzzy
+#| msgid "Background"
+msgid "Image background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:678 modules/popup/models/popup.php:706
+#: modules/popup/models/popup.php:769
+#, fuzzy
+#| msgid "Background"
+msgid "Field background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:680
+#, fuzzy
+#| msgid "Background"
+msgid "Go button background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:691
+msgid "Right Image background"
+msgstr ""
+
+#: modules/popup/models/popup.php:692
+#, fuzzy
+#| msgid "Background"
+msgid "Right background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:708
+msgid "Get it now button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:716 modules/popup/models/popup.php:739
+#, fuzzy
+#| msgid "Background"
+msgid "Upper background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:718
+#, fuzzy
+#| msgid "Background"
+msgid "Bottom background"
+msgstr "Fundal"
+
+#: modules/popup/models/popup.php:741
+msgid "Yes button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:742
+#, fuzzy
+#| msgid "Background"
+msgid "No button background"
+msgstr "Fundal"
+
+#: modules/popup/views/popup.php:42
+msgid "Modify PopUp Template"
+msgstr "Modifica Sablon PopUp"
+
+#: modules/popup/views/popup.php:52
+msgid "Cannot find required PopUp"
+msgstr "Nu a putut fi gasit PopUp-ul solicitat"
+
+#: modules/popup/views/popup.php:89
+msgid "Available in PRO version"
+msgstr "Disponibil in Versiunea PRO"
+
+#: modules/popup/views/popup.php:92 modules/popup/views/popup.php:393
+#: modules/popup/views/popup.php:743
+msgid "None"
+msgstr "Nimic"
+
+#: modules/popup/views/popup.php:93
+msgid "Image"
+msgstr "Imagine"
+
+#: modules/popup/views/popup.php:94
+msgid "Color"
+msgstr "Culoare"
+
+#: modules/popup/views/popup.php:98
+msgid "Mobile"
+msgstr "Mobil"
+
+#: modules/popup/views/popup.php:99
+msgid "Tablet"
+msgstr "Tableta"
+
+#: modules/popup/views/popup.php:100
+msgid "Desktop PC"
+msgstr "Desktop PC"
+
+#: modules/popup/views/popup.php:118
+msgid "Main Home page"
+msgstr "Pagina Principala"
+
+#: modules/popup/views/popup.php:207
+msgid "Appearance"
+msgstr "Infatisare"
+
+#: modules/popup/views/popup.php:212
+msgid "Popup Opening Animation"
+msgstr ""
+
+#: modules/popup/views/popup.php:219
+msgid "Texts"
+msgstr "Texte"
+
+#: modules/popup/views/popup.php:226
+msgid "Social"
+msgstr "Social"
+
+#: modules/popup/views/popup.php:237
+msgid "Main"
+msgstr "Principal"
+
+#: modules/popup/views/popup.php:242
+msgid "Design"
+msgstr "Design"
+
+#: modules/popup/views/popup.php:247
+msgid "CSS / HTML Code"
+msgstr "Cod CSS / HTML"
+
+#: modules/popup/views/popup.php:254
+msgid "Subscribe"
+msgstr "Aboneaza-te"
+
+#: modules/popup/views/popup.php:278
+msgid "Facebook page URL"
+msgstr "URL pagina Facebook"
+
+#: modules/popup/views/popup.php:280
+msgid ""
+"The absolute URL of the Facebook Page that will be liked. This is a required "
+"setting."
+msgstr ""
+"URL absolut al paginii Facebook care va fi placuta. Aceasta este o setare "
+"obligatorie."
+
+#: modules/popup/views/popup.php:282
+msgid "Color scheme"
+msgstr "Schema culori"
+
+#: modules/popup/views/popup.php:284
+msgid "Light"
+msgstr "Deschis"
+
+#: modules/popup/views/popup.php:284
+msgid "Dark"
+msgstr "Inchis"
+
+#: modules/popup/views/popup.php:285
+msgid "The color scheme used by the plugin. Can be \"light\" or \"dark\"."
+msgstr ""
+"Schema de culori folosita de plugin. Poate fi \"deschis\" sau \"inchis\""
+
+#: modules/popup/views/popup.php:287
+msgid "Force wall"
+msgstr "Zid de forta"
+
+#: modules/popup/views/popup.php:289
+msgid ""
+"For \"place\" Pages (Pages that have a physical location that can be used "
+"with check-ins), this specifies whether the stream contains posts by the "
+"Page or just check-ins from friends."
+msgstr ""
+"Pentru Pagini \"loc\" (Pagini care au o locatie fizica ce poate fi folosita "
+"cu check-in), acessta specifica daca "
+
+#: modules/popup/views/popup.php:291
+msgid "Header"
+msgstr "Antet"
+
+#: modules/popup/views/popup.php:293
+msgid ""
+"Specifies whether to display the Facebook header at the top of the plugin."
+msgstr ""
+"Mentioneaza daca se afiseaza antetul Facebook in partea de sus a plugin-ului"
+
+#: modules/popup/views/popup.php:295
+msgid "Show border"
+msgstr "Afiseaza marginea"
+
+#: modules/popup/views/popup.php:297
+msgid "Specifies whether or not to show a border around the plugin."
+msgstr "Mentioneaza daca sa afiseze sau nu marginea in jurul plugin-ului"
+
+#: modules/popup/views/popup.php:299
+msgid "Show faces"
+msgstr "Afiseaza fete"
+
+#: modules/popup/views/popup.php:301
+msgid ""
+"Specifies whether to display profile photos of people who like the page."
+msgstr ""
+"Mentioneaza daca sa afiseze pozele de profil ala persoanelor carora le place "
+"pagina"
+
+#: modules/popup/views/popup.php:303
+msgid "Stream"
+msgstr "Flux"
+
+#: modules/popup/views/popup.php:305
+msgid "Specifies whether to display a stream of the latest posts by the Page."
+msgstr ""
+"Mentioneaza dacă se afișează un flux de cele mai recente mesaje ale paginii."
+
+#: modules/popup/views/popup.php:357
+msgid "None - use Standard PopUp Social Buttons"
+msgstr "Nici unul - Folosiți butoanele Standard PopUp sociale"
+
+#: modules/popup/views/popup.php:394
+msgid "Puff"
+msgstr "Puf"
+
+#: modules/popup/views/popup.php:395
+msgid "Vanish"
+msgstr "Disparut"
+
+#: modules/popup/views/popup.php:397
+msgid "Open down left"
+msgstr "Deschide Stanga Jos"
+
+#: modules/popup/views/popup.php:398
+msgid "Open down right"
+msgstr "Deschide Dreapta Jos"
+
+#: modules/popup/views/popup.php:400
+msgid "Perspective down"
+msgstr "Perspectiva jos"
+
+#: modules/popup/views/popup.php:401
+msgid "Perspective up"
+msgstr "Perspectiva sus"
+
+#: modules/popup/views/popup.php:403
+msgid "Slide down"
+msgstr "Gliseaza in jos"
+
+#: modules/popup/views/popup.php:404
+msgid "Slide up"
+msgstr "Gliseaza in sus"
+
+#: modules/popup/views/popup.php:406
+msgid "Swash"
+msgstr "Oscileaza"
+
+#: modules/popup/views/popup.php:407
+msgid "Foolis"
+msgstr ""
+
+#: modules/popup/views/popup.php:409
+msgid "Tin right"
+msgstr "Acopera dreapta"
+
+#: modules/popup/views/popup.php:410
+msgid "Tin left"
+msgstr "Acopera stanga"
+
+#: modules/popup/views/popup.php:411
+msgid "Tin up"
+msgstr "Acopera sus"
+
+#: modules/popup/views/popup.php:412
+msgid "Tin down"
+msgstr "Acopera jos"
+
+#: modules/popup/views/popup.php:414
+msgid "Boing"
+msgstr ""
+
+#: modules/popup/views/popup.php:416
+msgid "Space right"
+msgstr "Spatiu dreapta"
+
+#: modules/popup/views/popup.php:417
+msgid "Space left"
+msgstr "Spatiu stanga"
+
+#: modules/popup/views/popup.php:418
+msgid "Space up"
+msgstr "Spatiu sus"
+
+#: modules/popup/views/popup.php:419
+msgid "Space down"
+msgstr "Spatiu jos"
+
+#: modules/popup/views/popup.php:426
+msgid "Bounce"
+msgstr ""
+
+#: modules/popup/views/popup.php:427
+msgid "Bounce Up"
+msgstr ""
+
+#: modules/popup/views/popup.php:428
+msgid "Bounce Down"
+msgstr ""
+
+#: modules/popup/views/popup.php:429
+#, fuzzy
+#| msgid "Center Left"
+msgid "Bounce Left"
+msgstr "Stanga Centru"
+
+#: modules/popup/views/popup.php:430
+#, fuzzy
+#| msgid "Top Right"
+msgid "Bounce Right"
+msgstr "Dreapta Sus"
+
+#: modules/popup/views/popup.php:432
+msgid "Fade"
+msgstr ""
+
+#: modules/popup/views/popup.php:433
+msgid "Fade Up"
+msgstr ""
+
+#: modules/popup/views/popup.php:434
+msgid "Fade Down"
+msgstr ""
+
+#: modules/popup/views/popup.php:435
+#, fuzzy
+#| msgid "Center Left"
+msgid "Fade Left"
+msgstr "Stanga Centru"
+
+#: modules/popup/views/popup.php:436
+#, fuzzy
+#| msgid "Space right"
+msgid "Fade Right"
+msgstr "Spatiu dreapta"
+
+#: modules/popup/views/popup.php:438
+msgid "Flip X"
+msgstr ""
+
+#: modules/popup/views/popup.php:439
+msgid "Flip Y"
+msgstr ""
+
+#: modules/popup/views/popup.php:441
+msgid "Rotate"
+msgstr ""
+
+#: modules/popup/views/popup.php:442
+#, fuzzy
+#| msgid "Bottom Left"
+msgid "Rotate Up Left"
+msgstr "Stanga Jos"
+
+#: modules/popup/views/popup.php:443
+#, fuzzy
+#| msgid "Top Right"
+msgid "Rotate Up Right"
+msgstr "Dreapta Sus"
+
+#: modules/popup/views/popup.php:444
+#, fuzzy
+#| msgid "Bottom Left"
+msgid "Rotate Down Left"
+msgstr "Stanga Jos"
+
+#: modules/popup/views/popup.php:445
+#, fuzzy
+#| msgid "Bottom Right"
+msgid "Rotate Down Right"
+msgstr "Dreapta Jos"
+
+#: modules/popup/views/popup.php:447
+#, fuzzy
+#| msgid "Slide up"
+msgid "Slide Up"
+msgstr "Gliseaza in sus"
+
+#: modules/popup/views/popup.php:448
+#, fuzzy
+#| msgid "Slide down"
+msgid "Slide Down"
+msgstr "Gliseaza in jos"
+
+#: modules/popup/views/popup.php:449
+#, fuzzy
+#| msgid "Slide up"
+msgid "Slide Left"
+msgstr "Gliseaza in sus"
+
+#: modules/popup/views/popup.php:450
+#, fuzzy
+#| msgid "Space right"
+msgid "Slide Right"
+msgstr "Spatiu dreapta"
+
+#: modules/popup/views/popup.php:452
+msgid "Zoom"
+msgstr ""
+
+#: modules/popup/views/popup.php:453
+msgid "Zoom Up"
+msgstr ""
+
+#: modules/popup/views/popup.php:454
+msgid "Zoom Down"
+msgstr ""
+
+#: modules/popup/views/popup.php:455
+#, fuzzy
+#| msgid "Bottom Left"
+msgid "Zoom Left"
+msgstr "Stanga Jos"
+
+#: modules/popup/views/popup.php:456
+#, fuzzy
+#| msgid "Bottom Right"
+msgid "Zoom Right"
+msgstr "Dreapta Jos"
+
+#: modules/popup/views/popup.php:458
+#, fuzzy
+#| msgid "Light"
+msgid "Light Speed"
+msgstr "Deschis"
+
+#: modules/popup/views/popup.php:459
+msgid "Rolling!"
+msgstr ""
+
+#: modules/popup/views/popup.php:767
+msgid "None (standard)"
+msgstr "Nimic (standard)"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:20
+#, php-format
+msgid ""
+"Change Template to any other from the list below or <a class=\"button\" href="
+"\"%s\">return to Pop-Up edit</a>"
+msgstr ""
+"Schimba sablonul cu orice alta forma din lista de dedesupt sau <a class="
+"\"button\" href=\"%s\"> intoarce la editarea Popup-ului</a>"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:22
+msgid "Choose Pop-Up Template. You can change it later."
+msgstr "Alege Sablon Popup. Se poate modifica mai tarziu."
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:31
+msgid "PopUp Name"
+msgstr "Nume PopUp"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:44
+#: modules/popup/views/tpl/popupAddNewAdmin.php:54
+msgid "All"
+msgstr ""
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:69
+msgid "type"
+msgstr "tip"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:72
+#, fuzzy
+#| msgid "Get PRO"
+msgid "Get in PRO"
+msgstr "Treci pe PRO"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:83
+msgid "Change Template"
+msgstr "Schimba sablon"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:85
+msgid "Are you sure you want to change your current template - to "
+msgstr "Sunteti sigur ca vreti sa schimbati actualul sablon - cu"
+
+#: modules/popup/views/tpl/popupAdmin.php:11
+#: modules/popup/views/tpl/popupAdmin.php:12
+msgid "Search"
+msgstr "Cautare"
+
+#: modules/popup/views/tpl/popupAdmin.php:21
+#, php-format
+msgid ""
+"You have no PopUps for now. <a href=\"%s\" style=\"font-style: italic;"
+"\">Create</a> your PopUp!"
+msgstr ""
+"Nu aveti PopUp-uri momentan. <a href=\"%s\" style=\"font-style: italic;"
+"\">Creati </a> PopUp!"
+
+#: modules/popup/views/tpl/popupEditAdmin.php:108
+msgid "Loading preview..."
+msgstr "Se incarca previzualizare"
+
+#: modules/popup/views/tpl/popupEditAdmin.php:113
+msgid "Back to top"
+msgstr "Inapoi Sus"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:2
+msgid "Choose PopUp animation style"
+msgstr "Alege stilul de animatie pentru PopUp"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:3
+msgid "current style"
+msgstr "Stilul curent"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:30
+msgid "Animation Duration"
+msgstr "Durata Animatie"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:32
+msgid "miliseconds"
+msgstr "Milisecunde"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:2
+#, php-format
+msgid ""
+"Edit this ONLY if you know basics of HTML, CSS and have been acquainted with "
+"the rules of template editing described <a target=\"_blank\" href=\"%s"
+"\">here</a>"
+msgstr ""
+"Modificati aceasta NUMAI daca aveti cunostinte de basa in HTML, CSS si "
+"sunteti obisnuit cu regulile editarii de sabloane descrise <a target=\"_blank"
+"\" href=\"%s\">aici</a>"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:5
+msgid "CSS code"
+msgstr "Cod CSS"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:9
+msgid "HTML code"
+msgstr "Cod HTML"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:5
+msgid "Video URL"
+msgstr "URL Video"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:6
+msgid "Copy and paste here URL of your video source"
+msgstr "Copiaza si lipeste aici URL-ul video-ului sursa"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:16
+#, fuzzy
+#| msgid "Video URL"
+msgid "iFrame URL"
+msgstr "URL Video"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:17
+#, php-format
+msgid ""
+"Copy and paste here URL of site, that you need to display in PopUp as "
+"iFrame. Please note that some sites can block such possibility, you can read "
+"more about this <a target=\"_blank\" href=\"%s\">for example here</a>"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:27
+#, fuzzy
+#| msgid "API URL"
+msgid "PDF URL"
+msgstr "URL API"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:28
+msgid ""
+"Copy and paste here URL to your PDF file. You can simply upload it on your "
+"server (using FTP for example), then insert URL in this field - and you will "
+"see how it work. Enjoy!"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:37
+msgid "Width"
+msgstr "Latime"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:44
+msgid "Max width for percentage - is 100"
+msgstr "Procentaj latime maxima - este 100"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:46
+msgid "Percents"
+msgstr "Procente"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:50
+msgid "Pixels"
+msgstr "Pixeli"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:60
+msgid "Height"
+msgstr "Inaltime"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:72
+msgid "Video Autoplay"
+msgstr "Autoredare video"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:73
+msgid "Play video - right after PopUp show"
+msgstr "Redare Video - imediat fupa PopUp-uri"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:83
+msgid "Hide controls"
+msgstr "Ascunde comenzi"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:94
+msgid "Ignore related videos"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:135
+msgid "Background overlay opacity"
+msgstr "Opacitatea stratului de acoperire a fundalului"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:144
+msgid "Disable window scroll"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:145
+msgid ""
+"Disable browser window scrolling while PopUp is opened. Good way to disallow "
+"viewing your site content before PopUp will be closed."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:158
+#, php-format
+msgid "Background %d"
+msgstr "Fundal %d"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:183
+msgid "Label Font style"
+msgstr "Ericheta stilului fontului"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:192
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:215
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:239
+msgid "Default"
+msgstr "Din oficiu"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:206
+msgid "Text Font style"
+msgstr "Stilul fontului textului"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:206
+#, php-format
+msgid "Text Font style %d"
+msgstr "Stilul fontului textului %d"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:230
+msgid "Footer Font style"
+msgstr "Stil font subsol"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:253
+#, fuzzy
+#| msgid "GetResponse"
+msgid "Responsive mode"
+msgstr "PrimesteRaspuns"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:254
+msgid ""
+"You can choose PopUp behavior for responsive mode from one of the following. "
+"If you don't know - what to select - you can just try both and leave most "
+"suitable for you."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:257
+msgid "PopUp will be fully zoomed for smaller screens"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:262
+msgid "Full resize"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:264
+msgid ""
+"PopUp will not be zoomed like with prev. mode, it will adapt only Width for "
+"users screen size"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:269
+#, fuzzy
+#| msgid "Width"
+msgid "Width only"
+msgstr "Latime"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:276
+msgid "Close button"
+msgstr "Buton inchidere"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:296
+msgid "Bullets"
+msgstr "Puncte"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:13
+#, php-format
+msgid ""
+"You are using Google Maps in this PopUp, but don't have Google Maps Easy "
+"plugin installed. You can get it for Free from WordPress site <a target="
+"\"_blank\" href=\"%s\">here</a>, install and start using this PopUp with map."
+msgstr ""
+"Folositi Google Maps in acest PopUp, dar nu aveti plugin-ul Google Maps Easy "
+"instalat. Il puteti lua Gratuit de pe siteul WordPress <a target=\"_blank\" "
+"href=\"%s\">here</a>, instalati si porniti utilizarea acestui PopUp cu harta"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:19
+msgid ""
+"Please be advised that you are editing AB Test PopUp. This means that "
+"independently of options you select in Main settings - there will be always "
+"only one PopUp: Base or one from AB Test."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:26
+msgid "When to show PopUp"
+msgstr "Cand sa apara PopUp"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:32
+msgid "When page loads"
+msgstr "Cand paginia se incarca"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:37
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:73
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:90
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:206
+msgid "Delay for"
+msgstr "Amanati pentru"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:41
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:78
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:146
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:211
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:271
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:290
+msgid "Seconds"
+msgstr "Secunde"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:41
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:78
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:146
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:211
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:271
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:290
+msgid "sec"
+msgstr "Sec"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:48
+msgid "User click on the page"
+msgstr "Utilizator apasa pe aceasta pagina"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:54
+msgid "Click on certain link / button / other element"
+msgstr "Apasa pe un anumit link/buton/alt element"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:57
+msgid "Copy & paste next code - into required link to open PopUp on Click"
+msgstr ""
+"Copiere & lipire urmatorul cod - in link-ul cerut pentru a deschide PopUp la "
+"apasare"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:60
+#, php-format
+msgid ""
+"Check screenshot with details - <a onclick=\"ppsShowTipScreenPopUp(this); "
+"return false;\" href=\"%s\">here</a>."
+msgstr ""
+"Verficati screenshot cu detalii - <a onclick=\"ppsShowTipScreenPopUp(this); "
+"return false;\" href=\"%s\">here</a>."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:62
+msgid ""
+"Or, if you know HTML basics, - you can insert \"onclick\" attribute to any "
+"of your element from code below"
+msgstr ""
+"Sau, daca aveti cunostinte de baza HTML, - puteti insera atribut \"laclick"
+"\"  pentru orice element din codul urmator"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:66
+msgid "Or you can even use it for your Menu item, just add code"
+msgstr ""
+"Sau puteti chiar sa-l folositi pentru elemente din Meniu, doar adaugati codul"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:70
+#, fuzzy
+#| msgid ""
+#| "into your menu item \"Title Attribute\" field. Don't worry - users will "
+#| "not see this code as menu item title on your site."
+msgid ""
+"to your menu item \"URL\" or into \"Title Attribute\" field. Don't worry - "
+"users will not see this code as menu item title on your site."
+msgstr ""
+"in campul \"Atribut Titlu\" al elementului meniului. Nu va faceti griji - "
+"utilizatorii nu vor vedea acest cod ca element al titlului meniului pe site."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:85
+msgid "Scroll window"
+msgstr "Deruleaza fereastra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:94
+msgid "seconds after first scroll"
+msgstr "Secunde dupa prima derulare"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:98
+msgid "Scrolled to"
+msgstr "Deruleaza la"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:102
+msgid "percents of total scroll"
+msgstr "Procentaj din derulare totala"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:122
+#, fuzzy
+#| msgid ""
+#| "When user are on the bottom of the page: scroll it down to the bottom, or "
+#| "if there are no vertical scroll on his device - just show it right after "
+#| "page load."
+msgid ""
+"When user is at the bottom of the page: scrolls it down to the bottom, or if "
+"there is no vertical scroll on his device - just show it right after page "
+"loads."
+msgstr ""
+"Cand utilizatorul este  in josul paginii: deruleaza pana jos, sau daca nu "
+"sunt disponibile derulari verticale pe device-ul sau - doar afiseaza imediat "
+"dupa incarcarea paginii."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:123
+msgid "Bottom of the page"
+msgstr "Josul paginii"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:134
+msgid "After user was inactive on your page for some time."
+msgstr "Dupa ce utilizatorul a fost incativ pe pagina de ceva timp"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:135
+msgid "After Inactivity"
+msgstr "Dupa inactivitate"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:143
+msgid "After user was inactive for"
+msgstr "Dupa ce utilizatorul a fost inactiv de"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:153
+#, fuzzy
+#| msgid ""
+#| "User add comment on your site - and will see this PopUp after comment was "
+#| "placed. This will help you interest active users on your site."
+msgid ""
+"When user adds a comment on your site he will see this PopUp after comment "
+"was placed. This will help you to get active users interested in your site."
+msgstr ""
+"Utilizatorul adauga un comentariu pe site - si va vedea acest PopUp dupa "
+"plasarea comentariului. Aceasta va ajuta la captarea interesului "
+"utilizatorilor activi ai site-ului"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:154
+msgid "After User Comment"
+msgstr "Dupa comentariul utilizatorului"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:165
+msgid "Show PopUp after successful checkout process in your online store."
+msgstr "Afiseaza PopUp dupa procesul de finalizare pe magazinul site-ului"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:166
+msgid "After Purchasing (Checkout)"
+msgstr "Dupa cumparare (finalizare)"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:174
+msgid "Copy & Paste next code on your Success checkout page content editor"
+msgstr ""
+"Copiaza & lipeste langa cod la finalizarea cu succes a editarii continutului "
+"paginii"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:178
+msgid ""
+"Or, if you are using your own html/php for this page - insert there next code"
+msgstr ""
+"Sau, daca folositi propriul html/php pe aceasta pagina - inserati langa cod"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:192
+#, fuzzy, php-format
+#| msgid ""
+#| "Show when user open your site exactly by link, where in the end will be "
+#| "present #ppsShowPopUp_%d. For example <a href=\"%s\" target=\"_blank\">"
+#| "%s</a> (will work only with PRO version)."
+msgid ""
+"Show when user opens your site exactly with link, where in the end will be "
+"#ppsShowPopUp_%d. For example <a href=\"%s\" target=\"_blank\">%s</a> (will "
+"work only with PRO version)."
+msgstr ""
+"Arata cand un utilizator a deschis site-ul exact prin link, unde la sfarsit "
+"se va prezenta #ppsShowPopUp_%d. De exemplu <a href=\"%s\" target=\"_blank\">"
+"%s</a> (va functiona numai pe Versiunea PRO)."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:193
+msgid "On Link Follow"
+msgstr "Urmareste pe link"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:200
+msgid "Copy & paste next code - into end of required link on your site"
+msgstr "Copiere & lipire langa cod - la sfarsitul linkului cerut pe site"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:222
+msgid "PopUp will be build-in page content - as part of your page."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:223
+msgid "Build-In Page"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:230
+#, fuzzy
+#| msgid "Copy & paste next code - into end of required link on your site"
+msgid "Copy & paste next code - into required place in your page"
+msgstr "Copiere & lipire langa cod - la sfarsitul linkului cerut pe site"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:237
+msgid "When to close PopUp"
+msgstr "Cand sa se inchida PopUp-ul"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:243
+msgid "After user close it"
+msgstr "Dupa ce utilizatorul il inchide"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:249
+msgid "Close PopUp when user clicks outside of the actually PopUp window."
+msgstr "Inchide PopUp cand utilizatorul apasa in afara ferestrei PopUp-ului"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:250
+msgid "Click outside PopUp"
+msgstr "Apasa in afara PopUp-ului"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:258
+msgid ""
+"Will not allow user to close your PopUp - until finish at least one action: "
+"Subscribe, Share or Like."
+msgstr ""
+"Nu va permite ca utilizatorul sa inchida PopUp-ul - decat la sfarsitul a cel "
+"putin o actiune: Aboneaza, Distribuie sau Imi Place"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:259
+msgid "Only after action (Subscribe / Share / Like)"
+msgstr "Numai dupa actiune (Aboneaza/ Distribuie / Imi Place)"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:268
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:287
+msgid "Close after"
+msgstr "Inchide dupa"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:274
+msgid "Close PopUp after it will be visible during specified time."
+msgstr "Inchide PopUp dupa ce va fi vizibil pentru o anumita perioada"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:279
+msgid "After time passed"
+msgstr "Dupa trecerea unei perioade de timp"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:294
+msgid "Show on next pages"
+msgstr "Afiseaza pe urmatoarea pagina"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:300
+msgid "All pages"
+msgstr "Toate paginile"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:306
+msgid "Show on next pages / posts"
+msgstr "Afiseaza pe urmatoarea pagina/postare"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:309
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:318
+msgid "Choose Pages"
+msgstr "Alege Pagini"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:315
+msgid "Don't show on next pages / posts"
+msgstr "Nu afisa pe urmatoarea pagina/postare"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:321
+msgid "Time display settings"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:327
+msgid "Set display time"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:330
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:353
+msgid "From"
+msgstr "De la"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:336
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:357
+msgid "to"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:344
+msgid "Date display settings"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:350
+msgid "Set display date"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:364
+msgid "Whom to show"
+msgstr "Cui sa se afiseze"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:370
+msgid "Everyone"
+msgstr "Tuturor"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:376
+msgid "For first-time visitors"
+msgstr "Pentru vizitatori noi (prima data veniti)"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:379
+msgid ""
+"Will remember user visit for entered number of days and show PopUp to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"Va retine vizita utilizatorilor timp de o perioada mentionata de zile si va "
+"arata PopUp-ul acelorasi utilizatori dupa acea perioada. Pentru a retine "
+"numai pentru o sesiune de browser - folositi 0 aici, pentru a retine pentru "
+"totdeauna - incercati sa setati un numar mare - 99999 de exemplu"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:380
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:396
+msgid "Remember for"
+msgstr "Retine pentru"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:385
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:401
+msgid "days"
+msgstr "Zile"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:388
+msgid "Subscribe, share, like, etc."
+msgstr "Aboneaza, Distribuie, Imi Place, etc."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:392
+msgid "Until user makes an action"
+msgstr "Pana cand utilizatorul face o actiune"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:395
+msgid ""
+"Will remember user action for entered number of days and show PopUp to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"Va retine vizita utilizatorilor timp de o perioada mentionata de zile si va "
+"arata PopUp-ul acelorasi utilizatori dupa acea perioada. Pentru a retine "
+"numai pentru o sesiune de browser - folositi 0 aici, pentru a retine pentru "
+"totdeauna - incercati sa setati un numar mare - 99999 de exemplu"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:405
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:420
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:435
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:451
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:466
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:485
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:503
+msgid "Click to revert feature function: from Hide - to Show, and vice versa."
+msgstr ""
+"Apasati pentru a reversa functiile: de la Ascunde - la Afiseaza, si vice "
+"versa"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:406
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:421
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:436
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:452
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:467
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:486
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:504
+msgid "Hide"
+msgstr "Ascunde"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:406
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:421
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:436
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:452
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:467
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:486
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:504
+msgid "Show Only"
+msgstr "Afiseaza doar"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:411
+msgid "for Devices"
+msgstr "pentru Device-uri"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:412
+msgid ""
+"You can make PopUp visible or hidden only when users will view your site "
+"from selected devices."
+msgstr ""
+"Puteti face PopUp-urile vizibile sau ascunse  numai cand utilizatorii vor "
+"vedea site-ul de pe device-uri selectate"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:417
+msgid "Choose devices"
+msgstr "Selecteaza device"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:426
+msgid "for Post Types"
+msgstr "pentru Tipuri de Postari"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:427
+#, fuzzy
+#| msgid ""
+#| "You can make PopUp visible or hidden only for specified Pos Types, for "
+#| "example - hide it on all Pages."
+msgid ""
+"You can make PopUp visible or hidden only for specified Post Types, for "
+"example - hide it on all Pages."
+msgstr ""
+"Puteti face PopUp-ul vizibil sau ascuns numai pentru anumite Pos Types, de "
+"exemplu - ascunde-l pe toate Paginile"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:432
+msgid "Choose post types"
+msgstr "Alege tipul de postaro"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:441
+msgid "for IP"
+msgstr "pentru IP"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:442
+#, php-format
+msgid ""
+"For those IPs PopUp will not be displayed (or vice versa - depending on Hide/"
+"Show Only option). Please be advised that your IP - %s"
+msgstr ""
+"Pentru acele IP-uri PopUp-urile nu vor fi afisate (sau vice versa - depinde "
+"de optiunea Afiseaza/Arata Numai). Va rugam aveti in vedere ca IP-ul dvs. "
+"este - %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:444
+msgid "Show IPs List"
+msgstr "Afiseaza lista IP-uri"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:457
+msgid "for Countries"
+msgstr "pentru Tari"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:458
+#, php-format
+msgid ""
+"For those Countries PopUp will not be displayed (or vice versa - depending "
+"on Hide/Show Only option). Please be advised that your Country code is %s"
+msgstr ""
+"Pentru acele Tari PopUp-ul nu va fi afisat (sau vice versa - depinde de "
+"optiunea Afiseaza/Arata Numai). Va rugam aveti in vedere ca pentru Tara dvs. "
+"codul este - %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:463
+msgid "Choose countries"
+msgstr "Alage tari"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:472
+msgid "for Languages"
+msgstr "Pentru Limbi"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:473
+#, php-format
+msgid ""
+"For those Languages PopUp will not be displayed. Language is defined by "
+"visitor browser language. Please be advised that your browser language is %s"
+msgstr ""
+"Pentru acele Limbi PopUp-urile nu vor fi afisate. Limba este definita de "
+"limba browser-ului vizitatorului.  Va rugam aveti in vedere ca limba browser-"
+"ului dvs. este - %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:479
+msgid "Choose languages"
+msgstr "Alege Limbile"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:481
+msgid "This feature is supported only in WordPress version 4.0.0 or higher"
+msgstr ""
+"Aceasta optiune este suportata numai in versiunea 4.0.0 sau peste a WordPress"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:491
+msgid "for Search Engines or Social Media"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:492
+msgid ""
+"If user coming from those Search Engines - PopUp will not be displayed. This "
+"is helpfull when you want to hide or show your PopUp only for users, who "
+"come to your site from particular search engine."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:497
+#, fuzzy
+#| msgid "Choose Pages"
+msgid "Choose Search Engines"
+msgstr "Alege Pagini"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:509
+msgid "for URL match"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:510
+#, php-format
+msgid ""
+"You can enter here URL pattern - and users with URL matched this pattern "
+"will not see (or vice versa) your PopUp. Use <a _target=\"_blank\" href=\"%s"
+"\">official documentation</a> about regular expression to make this work "
+"correctly."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:519
+msgid ""
+"Hide PopUp for Logged-in users and show it only for not Logged-in site "
+"visitors."
+msgstr ""
+"Ascunde PopUp-ul pentru utilizatorii logati si afiseaza-l numai pentru cei "
+"care nu sunt logati pe site."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:522
+msgid "Hide for Logged-in"
+msgstr "Ascunde pentru Logat"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:525
+msgid "IPs List"
+msgstr "Lista Ip-uri"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:527
+msgid "Type here IPs that will not see PopUp, each IP - from new line"
+msgstr "Scrieti IP-urile care nu vor vedea PopUp-ul, fiecare IP - un nou rand"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:7
+msgid "Enable Social Buttons"
+msgstr "Activeaza Butoane Sociale"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:21
+msgid "Social links design"
+msgstr "Design link-uri Sociale"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:31
+msgid "OR"
+msgstr "SAU"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:34
+msgid ""
+"Connect <b>around 20 social networks</b> to your PopUp, with various lists "
+"of design settings, using our plugin <b>Social Share Buttons by Supsystic</b>"
+msgstr ""
+"Conecteaza <b> in jur de 20 de retele sociale</b> la PopUp-ul dvs., cu "
+"numeroase liste de setari design, folosind plugin-ul nostru  <b>Butoane "
+"distribuire Sociala de Supsystic</b>"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:38
+msgid "Select Social Button Project"
+msgstr "Selecteaza Proiectul Buton Social"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:49
+#, php-format
+msgid ""
+"You have no Social Sharing projects for now. <a href=\"%s\" target=\"_blank"
+"\" class=\"button button-primary\">Create your first project</a> - then just "
+"reload page with your PopUp settings, and you will see list with available "
+"Social Projects for your PopUp."
+msgstr ""
+"Nu aveti proiecte Distribuire Sociala momentan <a href=\"%s\" target=\"_blank"
+"\" class=\"button button-primary\">Creati primul proiect</a> - apoi doar "
+"reincarcati pagina cu setarile PopUp, si veti vedea lista cu Proiectele "
+"Sociale disponibile pentru popup-ul dvs."
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:55
+#, php-format
+msgid ""
+"You need to install Social Share Buttons by Supsystic to use this feature. "
+"<a href=\"%s\" target=\"_blank\" class=\"button\">Install plugin</a> from "
+"your admin area, or visit it's official page on Wordpress.org <a href=\"%s\" "
+"target=\"_blank\">here.</a>"
+msgstr ""
+"Trebuie sa instalati butoanele de distribuire Sociala de Supsysticpentru a "
+"folosi aceasta functie. <a href=\"%s\" target=\"_blank\" class=\"button"
+"\">Instaleaza plugin</a> din aria admin, sau vizitati site-ul oficial "
+"Wordpress.org <a href=\"%s\" target=\"_blank\">aici.</a>"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:7
+msgid "Enable Subscription"
+msgstr "Permite abonare"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:14
+msgid "Subscribe to"
+msgstr "Aboneaza-te la"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:15
+msgid "Destination for your Subscribers."
+msgstr "Destinatie pentru abonati"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:25
+msgid "Create user with the chosen role after subscribing"
+msgstr "Creaza utilizator dupa abonare cu rol"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:26
+#, fuzzy
+#| msgid ""
+#| "Use this only if you are really need it. Remember! After you change this "
+#| "option - your new subscriber will have more privileges than usual "
+#| "subscribers, so be careful with this option!"
+msgid ""
+"Use this only if you really need it. Remember! After you change this option "
+"- your new subscriber will have more privileges than usual subscribers, so "
+"be careful with this option!"
+msgstr ""
+"Folositi aceasta numai daca aveti neaparat nevoie. Nu uitati! Dupa ce "
+"modificati aceasta optiune - noul abonat va avea mai multe privilegii decat "
+"ceilalti abonati, asadar aveti grija cu aceasta optiune!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:36
+msgid "Create Subscriber without confirmation"
+msgstr "Creaza abonat fara confirmare"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:37
+#, fuzzy
+#| msgid ""
+#| "Usually, after user subscribe, we send email with confirmation link - to "
+#| "confirm email addres, and only after usee will click on link from this "
+#| "email - we will create new subscriber. This option allow you to create "
+#| "subscriber - right after subscription, without email confirmation process."
+msgid ""
+"Usually, after user subscribes, we send an email with the confirmation link "
+"- to confirm the email address, and only after user clicks on the link from "
+"this email - we will create a new subscriber. This option allows you to "
+"create a subscriber - right after subscription, without the email "
+"confirmation process."
+msgstr ""
+"De obicei, după ce  utilizatorul se aboneaza, vom trimite e-mail cu link de "
+"confirmare - pentru a confirma adresa de e-mail, si numai după ce "
+"utilizatorul va face clic pe link-ul din acest e-mail - vom crea nou abonat. "
+"Această opțiune vă permite să creați abonat - imediat după abonare, fără "
+"proces de confirmare e-mail."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:46
+#, fuzzy
+#| msgid "Subscribe"
+msgid "Export Subscribers"
+msgstr "Aboneaza-te"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:47
+msgid ""
+"Export all subscribers, who subscribed using WordPress \"Subscribe to\" "
+"method, as CSV file."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:55
+msgid "Aweber Unique List ID"
+msgstr "Lista ID-uri unice Aweber "
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:56
+#, php-format
+msgid "Check <a href=\"%s\" target=\"_blank\">this page</a> for more details"
+msgstr ""
+"Verificati <a href=\"%s\" target=\"_blank\">aceasta pagina</a>pentru mai "
+"multe detalii"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:65
+msgid "Aweber AD Tracking"
+msgstr "Urmarire Aweber AD "
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:66
+#, php-format
+msgid ""
+"You can easy track your subscribers from PopUp using this feature. For more "
+"info - check <a href=\"%s\" target=\"_blank\">this page</a>."
+msgstr ""
+"Puteti cu susurinta sa urmariti abonatii fin pupup-uri folosind aceasta "
+"functie. Pentru mai multe detalii urmariti <a href=\"%s\" target=\"_blank"
+"\">this page</a>."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:75
+msgid "MailChimp API key"
+msgstr "Cod API MailChimp "
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:76
+#, php-format
+msgid ""
+"To find your MailChimp API Key login to your mailchimp account at <a href="
+"\"%s\" target=\"_blank\">%s</a> then from the left main menu, click on your "
+"Username, then select \"Account\" in the flyout menu. From the account page "
+"select \"Extras\", \"API Keys\". Your API Key will be listed in the table "
+"labeled \"Your API Keys\". Copy / Paste your API key into \"MailChimp API key"
+"\" field here. For more detailed instruction - check article <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"Pentru a găsi codul API MailChimp conectati-va la contul dvs. MailChimp la  "
+"<a href=\"%s\" target=\"_blank\">%s</a>  apoi din meniul principal din "
+"stânga, faceți clic pe numele de utilizator, apoi selectați \"Cont\" în "
+"meniul bara de instrumente. Din pagina de cont selectați \"Extra\", \"Taste"
+"\" API. Codul API va fi listat în tabel si etichetat ca  \"APIkey\". "
+"Copiere / Lipire a codului API în câmpul \"MailChimp APIKey\" aici. Pentru "
+"instrucțiuni mai detaliate - cititi articolul <a href=\"%s\" target=\"_blank"
+"\"> aici </a>."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:87
+msgid ""
+"Select lists for subscribe. They are taken from your MailChimp account - so "
+"make sure that you entered correct API key before."
+msgstr ""
+"Selectati lista pentru abonare. Acestea sunt luate din contul dvs. "
+"MailChimp  - asadar asigurati-va ca ati introdus corect codurile API"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:96
+msgid "Enter API key - and your list will appear here"
+msgstr "Introdu cod API - si lista dvs. va aparea aici"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:102
+msgid "Disable double opt-in"
+msgstr "Dezactiveaza double opt-in"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:103
+msgid ""
+"Disable double opt-in confirmation message sending - will create subscriber "
+"directly after he will sign-up to your form."
+msgstr ""
+"Dezactiveaza trimiterea mesajului de confirmare double opt-in - va crea "
+"abonat automat dupa ce acesta va semna formularul"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:112
+#, fuzzy
+#| msgid "Lists for subscribe"
+msgid "Group for subscribe"
+msgstr "Liste de abonare"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:113
+msgid ""
+"In MailChimp there are possibility to select groups for your subscribers. "
+"This is not mandatory, but some times is really helpful. So, we added this "
+"possibility for you in our plugin too - hope you will like it!"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:119
+#, fuzzy
+#| msgid "Choose countries"
+msgid "Choose Groups"
+msgstr "Alage tari"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:122
+#, fuzzy
+#| msgid "Enter API key - and your list will appear here"
+msgid "Enter API key, select List - and your groups will appear here"
+msgstr "Introdu cod API - si lista dvs. va aparea aici"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:129
+msgid "MailPoet Subscribe Lists"
+msgstr "Liste abonare MailPoet"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:138
+#, php-format
+msgid ""
+"You have no subscribe lists, <a target=\"_blank\" href=\"%s\">create lists</"
+"a> at first, then - select them here."
+msgstr ""
+"Nu aveti lista de abonati, <a target=\"_blank\" href=\"%s\">creati liste</a> "
+"intai, apoi selectati-le"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:143
+#, php-format
+msgid ""
+"To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s"
+"\">MailPoet plugin</a> installed on your site"
+msgstr ""
+"pentru a folosi motorul de abonare - trebuie <a target=\"_blank\" href=\"%s"
+"\">MailPoet plugin</a> instalat pe site-ul dvs."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:170
+#, fuzzy, php-format
+#| msgid ""
+#| "To use this subscribe engine - you must have <a target=\"_blank\" href="
+#| "\"%s\">MailPoet plugin</a> installed on your site"
+msgid ""
+"To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s"
+"\">Jetpack plugin</a> installed on your site"
+msgstr ""
+"pentru a folosi motorul de abonare - trebuie <a target=\"_blank\" href=\"%s"
+"\">MailPoet plugin</a> instalat pe site-ul dvs."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:183
+#, fuzzy
+#| msgid "InfusionSoft"
+msgid "Infusion Soft"
+msgstr "InfusionSoft"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:200
+msgid "Activate License or update PRO version plugin"
+msgstr "Activeaza licenta Actualizare Versiune PRO plugin"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:201
+msgid ""
+"Apparently - you have installed PRO version, but did not activate it license "
+"- then please activate it. Or you have old version of plugin - then you need "
+"go to Plugins page and Update PRO version plugin, after this go to License "
+"tab and re-activate license (just click one more time on \"Activate\" "
+"button)."
+msgstr ""
+"Se pare că - ați instalat versiunea PRO, dar nua ti activat licenta - atunci "
+"vă rugăm sa o activati. Sau aveți versiune veche a plugin-ului - atunci "
+"trebuie mers la pagina plugin-uri și Actualizare Versiune PRO plugin, după "
+"acest lucru, mergeți la tab-ul și de licență re-activez licența (doar faceți "
+"clic inca o data pe butonul \"Activare\")."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:210
+#, php-format
+msgid "Enable %s with PRO"
+msgstr "Activeaza %s cu PRO"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:211
+#, php-format
+msgid ""
+"This is PRO feature, and it will be available once you will install <a href="
+"\"%s\" target=\"_blank\">PRO version</a> of our plugin"
+msgstr ""
+"Aceasta este o facilitate PRO si va fi valabila odata cu instalarea <a href="
+"\"%s\" target=\"_blank\">PRO version</a> a plugin-ului dvs."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:215
+msgid "Get PRO"
+msgstr "Treci pe PRO"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:222
+msgid "Subscribe with Facebook"
+msgstr "Aboneaza-te cu Facebook"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:223
+#, php-format
+msgid ""
+"Add button to your PopUp with possibility to subscribe just in one click - "
+"without filling fields in your subscribe form, <img src=\"%s\" />"
+msgstr ""
+"Adauga buton la popup-uri cu posibilitatea de abonare cu doar un click - "
+"fara a completa campurile din formularul de abonare <img src=\"%s\" />"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:236
+msgid "Create WP user"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:237
+msgid ""
+"Once user will subscribe to selected Subscription service - it will create "
+"WordPress Subscriber too. PLease be carefull using this option: "
+"WordPressusers will be created right after you submit your Subscribe form "
+"without confirmation."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:246
+msgid "Test Email Function"
+msgstr "Functia de Email de Test"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:247
+#, fuzzy
+#| msgid ""
+#| "Email delivery depends from your server configuration. For some cases - "
+#| "you and your subscribers can not receive emails just because email on "
+#| "your server is not working correctly. You can easy test it here - by "
+#| "sending test email. If you will receive it - then this will mean that "
+#| "email functionality on your server works well. If not - this mean that it "
+#| "is not working correctly and you should contact your hosting provider "
+#| "with this issue and ask them to setup email functionality for you on your "
+#| "server."
+msgid ""
+"Email delivery depends from your server configuration. For some cases - you "
+"and your subscribers can not receive emails just because email on your "
+"server is not working correctly. You can easy test it here - by sending test "
+"email. If you receive it - then it means that email functionality on your "
+"server works well. If not - this means that it is not working correctly and "
+"you should contact your hosting provider with this issue and ask them to "
+"setup email functionality for you on your server."
+msgstr ""
+"Livrare de e-mail depinde de la configurația serverului. Pentru unele cazuri "
+"- dvs. si abonatii nu puteti primi e-mailuri doar pentru că e-mail-ul pe "
+"server nu funcționează corect. Puteți să-l testati ușor aici - prin "
+"trimiterea de e-mail de testare. Dacă il veti primi - atunci acest lucru va "
+"însemna că e-mail pe server funcționează bine. Dacă nu - aceasta înseamnă că "
+"nu funcționează corect și ar trebui să luați legătura cu furnizorul dvs. cu "
+"această problemă și să le cereți să seteze funcționalitatea de e-mail pe "
+"server."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:255
+msgid "Send Test Email"
+msgstr "Trimite Email de Test"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:258
+#, fuzzy
+#| msgid ""
+#| "Email was sent. Now check your email inbox / spam folders for test mail. "
+#| "If you will not find it - this mean that your server can't send emails - "
+#| "and you need to contact your hosting provider with this issue."
+msgid ""
+"Email was sent. Now check your email inbox / spam folders for test mail. If "
+"you don’t find it - it means that your server can't send emails - and you "
+"need to contact your hosting provider with this issue."
+msgstr ""
+"Email-ul a fost trimis. verificati acum emailul in inbox/spam pentru a gasi "
+"mailul test. Daca nu il gasiti - inseamna ca serverul dvs. nu poate trimite "
+"email-uri - si va trebui sa contactati gazda pentru a rezolva aceasta "
+"problema."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:266
+msgid "Subscription fields"
+msgstr "campuri de abonare"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:267
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Subscribe form - click on \"+ Add\" button."
+msgstr ""
+"pentru a schimba pozitia - trageti si eliberati in locul dorit intre "
+"celelalte campuri. Pentru a adauga un nou camp in formularul de abonare - "
+"apasati pe butonul \"+Add\" (\"+Adauga\")"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:330
+msgid ""
+"This is the message that the user will see after subscription, when letter "
+"with confirmation link was sent."
+msgstr ""
+"Acesta este un mesaj pe care utilizatorul il va vedea dupa abonare, cand va "
+"fi trimisa scrisoarea de confirmare."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:340
+msgid "Subscribe success message"
+msgstr "Mesaj abonare cu succes"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:341
+msgid ""
+"Right after subscriber will be created and confirmed - this message will be "
+"shown."
+msgstr ""
+"Imediat dupa creare si confirmarea abonarii - acest mesaj va fi afisat."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:345
+#: modules/subscribe/controller.php:40
+msgid "Thank you for subscribing!"
+msgstr "Va multumim pentru abonare!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:362
+#, fuzzy
+#| msgid "Email error message"
+msgid "Email exists error message"
+msgstr "Mesaj eroare email"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:363
+msgid ""
+"If email that was entered by user already exists - user will see this "
+"message. But be careful: this can be used by hackers - to detect existing "
+"email in your database, so it's better for you to leave this message same as "
+"error message about invalid email above."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:373
+msgid "Redirect after subscription URL"
+msgstr "URL redirectare dupa abonare"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:374
+msgid ""
+"You can enable redirection after subscription, just enter here URL that you "
+"want to redirect to after subscribe - and user will be redirected there. If "
+"you don't need this feature - just leave this field empty."
+msgstr ""
+"Puteti activa redirectarea dupa abonare, introduceti aici URL-ul catre care "
+"doriti redirectarea dupa abonare - si utilizatorul va fi redirectat acolo. "
+"Daca nu aveti nevoie de aceasta facilitate - lasati campul liber."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:397
+#: modules/subscribe/models/subscribe.php:386
+msgid "Confirm subscription on [sitename]"
+msgstr "Confirmati abonarea la [sitename]"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:425
+#: modules/subscribe/models/subscribe.php:389
+msgid ""
+"You subscribed on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your subscription. If you did "
+"not subscribe here - just ignore this message."
+msgstr ""
+"V-asi abonat pe site <a href=\"[siteurl]\">[sitename]</a>. Urmariti <a href="
+"\"[confirm_link]\">acest link</a> pentru a finaliza abonarea. Daca nu v-ati "
+"abonat aici - ignorati mesajul."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:428
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:472
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:525
+msgid "Add Attach"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:434
+msgid "New Subscriber email subject"
+msgstr "Subiect email catre un nou abonat"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:435
+msgid "Email to New Subscriber subject"
+msgstr "Subiect email catre un nou abonat"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:447
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:448
+msgid "New Subscriber email From field"
+msgstr "Formular email catre un nou abonat"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:460
+msgid "New Subscriber email text"
+msgstr "Text email catre un nou abonat"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:461
+msgid "Email to New Subscriber content"
+msgstr "Continut email catre un nou abonat"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:478
+msgid "Redirect if email already exists"
+msgstr "Redirecteaza daca acest email deja exista"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:479
+msgid "Link to redirect to if user subscribes - but this email already exists"
+msgstr ""
+"Link de redirectare in cazul in care utilizatorul se aboneaza - dar acest "
+"email deja exista"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:492
+msgid "Submit button name"
+msgstr "Dati nume butonului"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:500
+msgid "New Subscriber Notification"
+msgstr "Notificare Abonat Nou"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:513
+msgid "New Subscriber Notification email text"
+msgstr "Test Email Notificare Abonat Nou"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:514
+msgid "Message that you will receive about new subscribers on your site."
+msgstr "Mesaj pe care il veti primi despre un nou abonat pe site"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:522
+#: modules/subscribe/models/subscribe.php:81
+msgid ""
+"You have new subscriber on your site <a href=\"[siteurl]\">[sitename]</a>, "
+"here is subscriber information:<br />[subscriber_data]"
+msgstr ""
+"Aveti un nou abonat pe site <a href=\"[siteurl]\">[sitename]</a>, aici noi "
+"informatii abonat :<br />[subscriber_data]"
+
+# Selecteaza
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:570
+#, fuzzy
+#| msgid "Select"
+msgid "Select File"
+msgstr "Selecteaza"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:19
+msgid "Text block"
+msgstr "Blocare text"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:19
+#, php-format
+msgid "Text block %d"
+msgstr "Blocare text %d"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:39
+#, fuzzy
+#| msgid "Text block"
+msgid "Button block"
+msgstr "Blocare text"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:39
+#, fuzzy, php-format
+#| msgid "Text block %d"
+msgid "Button block %d"
+msgstr "Blocare text %d"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:44
+#, fuzzy
+#| msgid "Submit button name"
+msgid "Button Name"
+msgstr "Dati nume butonului"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:50
+msgid "Button URL"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:56
+#, fuzzy
+#| msgid "When to close PopUp"
+msgid "or close PopUp on click"
+msgstr "Cand sa se inchida PopUp-ul"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:73
+msgid "Foot note"
+msgstr "Nota de subsol"
+
+#: modules/popup/views/tpl/popupEditAdminTplOpts.php:3
+msgid "Change PopUp Template"
+msgstr "Schimba Sablon PopUp"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:1
+msgid "Click to Edit"
+msgstr "Apasa pentru editare"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:9
+msgid "Save all changes"
+msgstr "Salveaza toata modificarile"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:13
+msgid "Clone to New PopUp"
+msgstr "Cloneaza la un nou PopUp"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:15
+msgid "Clone"
+msgstr "Cloneaza"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:19
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:21
+msgid "Turn Off"
+msgstr "Inchide"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:21
+msgid "Turn On"
+msgstr "Porneste"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:27
+msgid "Delete"
+msgstr "Sterge"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:34
+msgid "New Name"
+msgstr "Nou Nume"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:35
+msgid "Copy"
+msgstr "Copiaza"
+
+#: modules/sm/mod.php:31
+msgid "Google+"
+msgstr "Google+"
+
+#: modules/sm/mod.php:32
+msgid "Twitter"
+msgstr "Twitter"
+
+#: modules/sm/mod.php:56
+msgid "Simple"
+msgstr "Simplu"
+
+#: modules/sm/mod.php:57
+msgid "Boxy"
+msgstr "Boxy"
+
+#: modules/statistics/controller.php:40
+#, fuzzy, php-format
+#| msgid "Statistics for \"%s\""
+msgid "Statistics for %s"
+msgstr "Statistici pentru \"%s\""
+
+#: modules/statistics/controller.php:42
+msgid "Date"
+msgstr "Data"
+
+#: modules/statistics/controller.php:43
+msgid "Views"
+msgstr "Vizualizari"
+
+#: modules/statistics/controller.php:44
+msgid "Unique Views"
+msgstr "Vizualizar unice"
+
+#: modules/statistics/controller.php:45
+msgid "Actions"
+msgstr "Actiuni"
+
+#: modules/statistics/controller.php:46
+msgid "Conversion"
+msgstr "Conversie"
+
+#: modules/statistics/mod.php:11
+msgid "Displayed"
+msgstr "Afisate"
+
+#: modules/statistics/mod.php:12
+msgid "Subscribed"
+msgstr "Abonat"
+
+#: modules/statistics/mod.php:13
+msgid "Shared"
+msgstr "Distribuit"
+
+#: modules/statistics/mod.php:14
+msgid "Facebook Liked"
+msgstr "Placut pe facebook"
+
+#: modules/statistics/mod.php:16
+#, fuzzy
+#| msgid "Destination"
+msgid "Registration"
+msgstr "Destinatie"
+
+#: modules/statistics/mod.php:27
+msgid "Statistics"
+msgstr "Statistici"
+
+#: modules/statistics/models/statistics.php:35
+#: modules/subscribe/models/subscribe.php:452
+msgid "Send me some info, pls"
+msgstr "Trimiteti-mi informatii, va rog"
+
+#: modules/statistics/models/statistics.php:165
+msgid "No data found"
+msgstr "Nu s-au gasit date"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:4
+#, php-format
+msgid ""
+"Want to increase conversion, subscribers and social share? <a target=\"_blank"
+"\" href=\"%s\" class=\"button\">Get know - how!</a>"
+msgstr ""
+"Doriti sa va mariti conversia, abonatii sau distribuirea sociala? <a target="
+"\"_blank\" href=\"%s\" class=\"button\">Aflati cum!</a>"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:8
+msgid "Main PopUp Usage Statistics"
+msgstr "Statistici Utilizare PopUp principal "
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:10
+msgid "Clear selection"
+msgstr "Stergeti Selectia"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:12
+msgid "To"
+msgstr "Catre"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:26
+msgid "Reset Zoom"
+msgstr "Resetare zoom"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:31
+msgid "Group by"
+msgstr "Grupati dupa"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:32
+msgid "Hour"
+msgstr "Ora"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:33
+msgid "Day"
+msgstr "Zi"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:34
+msgid "Week"
+msgstr "Saptamana"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:35
+msgid "Month"
+msgstr "Luna"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:37
+msgid "Export to CSV"
+msgstr "Exporta catre CVS"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:42
+msgid "Clear data"
+msgstr "Sterge date"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:48
+msgid "You can Zoom In by allocating mouse on Graph area."
+msgstr "Puteti mari prin alocarea mouse-ului in aria graficului"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:51
+msgid "Ratio of All Actions"
+msgstr "Ratia tuturor actiunilor"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:56
+msgid ""
+"Once you will have enough different statistics - like shares, subscribes, "
+"likes - you will be able to see here which action is used more or less "
+"frequently."
+msgstr ""
+"Odata ce veti avea suficiente statistici diferite - distribuiri, abonari, "
+"imi place - veti putea vedea aici care actiune este folosita mai des sau mai "
+"rar."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:60
+msgid "Ratio of All Social Share"
+msgstr "Ratia tuturor distribuirilor sociale"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:65
+msgid ""
+"Once you will have enough different statistics about share from PopUp on "
+"social media, you will be able to see here which social media is used more "
+"or less frequently."
+msgstr ""
+"Odata ce veti avea suficiente statistici diferite in legatura cu "
+"distribuirile PopUp-ului pe Social Media, veti putea vedea aici care actiune "
+"este folosita mai des sau mai rar."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:72
+#, php-format
+msgid ""
+"You have no statistics for \"%s\" PopUp for now. Setup its options and wait "
+"until users will view it on your site."
+msgstr ""
+"Nu aveti statistici pentru %s\" PopUp momentan. Setati optiunea si asteptati "
+"pana cand utilizatorii il vor vedea pe site."
+
+#: modules/subscribe/controller.php:113
+#, php-format
+msgid "Registered from %s"
+msgstr ""
+
+#: modules/subscribe/controller.php:114
+#, fuzzy, php-format
+#| msgid "Subscribe to"
+msgid "Subscribed to %s"
+msgstr "Aboneaza-te la"
+
+#: modules/subscribe/controller.php:128
+#, fuzzy
+#| msgid "Activate"
+msgid "Activated"
+msgstr "Activare"
+
+#: modules/subscribe/controller.php:129
+#, fuzzy
+#| msgid "PopUp Name"
+msgid "PopUp ID"
+msgstr "Nume PopUp"
+
+#: modules/subscribe/controller.php:130
+msgid "Date Created"
+msgstr ""
+
+#: modules/subscribe/controller.php:165
+msgid "There are no members for now"
+msgstr ""
+
+#: modules/subscribe/controller.php:166
+#, fuzzy
+#| msgid "Where's my subscribers?"
+msgid "There are no subscribers for now"
+msgstr "Unde sunt abonatii mei?"
+
+#: modules/subscribe/mod.php:7
+msgid "WordPress"
+msgstr "WordPress"
+
+#: modules/subscribe/mod.php:8
+msgid "Aweber"
+msgstr "Aweber"
+
+#: modules/subscribe/mod.php:9
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: modules/subscribe/mod.php:10
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: modules/subscribe/mod.php:12
+msgid "Jetpack"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:50
+msgid "Something goes wrong"
+msgstr "Ceva a mers gresit"
+
+#: modules/subscribe/models/subscribe.php:77
+msgid "New Subscriber notification"
+msgstr "Notificare abonat nou"
+
+#: modules/subscribe/models/subscribe.php:78
+#, php-format
+msgid "New Subscriber on %s"
+msgstr "Abonat nou pe  %s"
+
+#: modules/subscribe/models/subscribe.php:136
+#, fuzzy, php-format
+#| msgid "Please select %s"
+msgid "Please check %s"
+msgstr "Vă rugăm să selectați% s"
+
+#: modules/subscribe/models/subscribe.php:173
+msgid "Can't detect your IP, please don't spam"
+msgstr "Nu se poate detecta IP-ul dvs.. va rugam nu faceti spam"
+
+#: modules/subscribe/models/subscribe.php:205
+msgid "You just subscribed from this IP"
+msgstr "Tocmai v-ati abonat de la acest IP"
+
+#: modules/subscribe/models/subscribe.php:321
+#, fuzzy
+#| msgid "Can't subscribe for now. Please try again later."
+msgid "Can't registrate for now. Please try again later."
+msgstr "Nu va puteti abona acum. Va rugam incercati mai tarziu"
+
+#: modules/subscribe/models/subscribe.php:321
+msgid "Can't subscribe for now. Please try again later."
+msgstr "Nu va puteti abona acum. Va rugam incercati mai tarziu"
+
+#: modules/subscribe/models/subscribe.php:489
+msgid ""
+"MailChimp requires CURL to be setup on your server. Please contact your "
+"hosting provider and ask them to setup CURL library for you."
+msgstr ""
+"MailChimp necesita CURL sa fie setat pe serverul dvs. Va rugam contactati "
+"gazda si solicitati setarea librariei CURL pentru dvs. "
+
+#: modules/subscribe/models/subscribe.php:513
+#: modules/subscribe/models/subscribe.php:547
+msgid ""
+"There was some problem while trying to get your lists. Make sure that your "
+"API key is correct."
+msgstr ""
+"Au aparut niste probleme in timpul afisarii listelor. Asigurati-va ca ati "
+"introdus corect codul API."
+
+#: modules/subscribe/models/subscribe.php:517
+#: modules/subscribe/models/subscribe.php:555
+msgid "Empty API key"
+msgstr "Cod Api gol"
+
+#: modules/subscribe/models/subscribe.php:553
+msgid "Select some Lists before"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:627
+msgid ""
+"Something going wrong while trying to send data to MailChimp. Please contact "
+"site owner."
+msgstr ""
+"Ceva a mers rău în timp ce se încerca trimiterea de date lcatre MailChimp. "
+"Vă rugăm să contactați proprietarul site-ului."
+
+#: modules/subscribe/models/subscribe.php:646
+msgid ""
+"No API key entered in admin area - contact site owner to resolve this issue."
+msgstr ""
+"Nu a fost introdus nici un cod API in zona admin - contactati detinatorul "
+"site-ului pentru a rezolva aceasta situatie."
+
+#: modules/subscribe/models/subscribe.php:738
+msgid "Some error occured during subscription process"
+msgstr "Erori au aparut in timpul procesului de abonare"
+
+#: modules/subscribe/models/subscribe.php:741
+msgid "Can't find MailPoet on this server"
+msgstr "Nu a putut fi gasit MailPoet pe acest server"
+
+#: modules/subscribe/models/subscribe.php:789
+#, fuzzy
+#| msgid "Please enter valid email address"
+msgid "Not a valid email address"
+msgstr "Va rugam introduceti o adresa de email valida"
+
+#: modules/subscribe/models/subscribe.php:790
+msgid "Not a valid post ID"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:791
+msgid "Unknown post"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:792
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com could subscribe the email."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:793
+msgid "Site owner has disabled subscriptions."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:794
+#, fuzzy
+#| msgid "Failed to create subscriber."
+msgid "Already subscribed."
+msgstr "Crearea unui abonat a esuat."
+
+#: modules/subscribe/models/subscribe.php:795
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com returned something "
+"malformed."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:796
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com returned something I didn't "
+"understand."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:799
+#, fuzzy
+#| msgid "Something goes wrong"
+msgid "SOmething is going wrong"
+msgstr "Ceva a mers gresit"
+
+#: modules/subscribe/models/subscribe.php:805
+msgid "Empty response from Jetpack"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:807
+msgid ""
+"Subscriptions module is not activated in Jetpack plugin settings. Activate "
+"it before start using this subscribe method."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:809
+#, fuzzy
+#| msgid "Can't find MailPoet on this server"
+msgid "Can't find Jetpack plugin on this server"
+msgstr "Nu a putut fi gasit MailPoet pe acest server"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:10
+#, fuzzy
+#| msgid "Subscribe Confirmation"
+msgid "Registration Confirmation"
+msgstr "Confirmare abonare"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:11
+msgid "Subscribe Confirmation"
+msgstr "Confirmare abonare"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:53
+#, fuzzy
+#| msgid "Some errors occured while trying to subscribe"
+msgid "Some errors occured while trying to registrate"
+msgstr "Erori au aparut in timpul abonarii"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:54
+msgid "Some errors occured while trying to subscribe"
+msgstr "Erori au aparut in timpul abonarii"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:75
+#, fuzzy
+#| msgid "Subscription confirmed"
+msgid "Registration confirmed"
+msgstr "Abonare confirmata"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:76
+msgid "Subscription confirmed"
+msgstr "Abonare confirmata"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:81
+#, php-format
+msgid ""
+"<a href=\"%s\">Back to site</a> in <i id=\"ppsConfirmBackCounter\">%d</i> "
+"seconds"
+msgstr ""
+"<a href=\"%s\">Inapoi la site</a> in <i id=\"ppsConfirmBackCounter\">%d</i> "
+"secunde"
+
+#: modules/supsystic_promo/controller.php:7
+#: modules/supsystic_promo/controller.php:100
+#: modules/supsystic_promo/controller.php:108
+#: modules/supsystic_promo/controller.php:116
+msgid "Information was saved. Thank you!"
+msgstr "Informatia a fost salvata. Va multumim!"
+
+#: modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+"Va rugam nu trimiteti asa des cereri de contact - asteptati un raspuns la "
+"cererile anterioare."
+
+#: modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "Va rugam introduceti o adresa de email valida"
+
+#: modules/supsystic_promo/mod.php:36
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+"<h3>Hei, am sesizat ca ai folosit %s intr-o saptamana –  este minunat!</"
+"h3><p>Imi poti face o MARE favoare sa oferi o notare de 5-stele pe "
+"WordPress? Pentru a ne putea ajuta sa dam mai departe vorba si sa ne oferiti "
+"un impuls motivational.</p>"
+
+#: modules/supsystic_promo/mod.php:37 modules/supsystic_promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr "Bine, meritati"
+
+#: modules/supsystic_promo/mod.php:38 modules/supsystic_promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr "Nu, poate mai tarziiu"
+
+#: modules/supsystic_promo/mod.php:39
+msgid "I already did"
+msgstr "Deja am facut asta"
+
+#: modules/supsystic_promo/mod.php:40
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3>Mai mult de 11 zile cu  plugin-ul %s - Felicitari!</h3>"
+
+#: modules/supsystic_promo/mod.php:41
+msgid ""
+"<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+"<p>In numele intregii <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> companii as vrea sa va multumes ca ati fost alaturi de "
+"noi si sper cu adevarat ca programul nostru v-a fost de folos.</p>"
+
+#: modules/supsystic_promo/mod.php:42
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site under your PopUps. This is small "
+"step for you, but a big help for us! Sure, if you don't want - just skip "
+"this and continue enjoy our software!</p>"
+msgstr ""
+"<p>Si astazi, daca doriti - ne puteti ajuta. Este deosebit de simpul - "
+"puteti adauga doar un mic link promo pe site-ul dvs., sub popup-uri. Acest "
+"mic pas pentru dvs este foarte important petru noi! Desigur, daca doriti - "
+"treceti mai departe si continuati sa va bucurati de program!</p>"
+
+#: modules/supsystic_promo/mod.php:45
+msgid "Skip"
+msgstr "Treci peste"
+
+#: modules/supsystic_promo/mod.php:92
+msgid "Overview"
+msgstr "Privire de ansamblu "
+
+#: modules/supsystic_promo/mod.php:99
+msgid "Constant Contact - PRO"
+msgstr "Contract Constant - PRO"
+
+#: modules/supsystic_promo/mod.php:100
+msgid "Campaign Monitor - PRO"
+msgstr "Monitorizor campanie - PRO"
+
+#: modules/supsystic_promo/mod.php:101
+msgid "Vertical Response - PRO"
+msgstr "Raspuns Vertical - PRO"
+
+#: modules/supsystic_promo/mod.php:102
+msgid "SendGrid - PRO"
+msgstr "Grila de trimitere - PRO"
+
+#: modules/supsystic_promo/mod.php:103
+msgid "GetResponse - PRO"
+msgstr "PrimesteRaspuns - PRO"
+
+#: modules/supsystic_promo/mod.php:105
+#, fuzzy
+#| msgid "Active Campaign"
+msgid "Active Campaign - PRO"
+msgstr "Campanie Activă"
+
+#: modules/supsystic_promo/mod.php:106
+msgid "Mailrelay - PRO"
+msgstr "Mailrelay - PRO"
+
+#: modules/supsystic_promo/mod.php:107
+msgid "arpReach - PRO"
+msgstr "arpReach - PRO"
+
+#: modules/supsystic_promo/mod.php:108
+msgid "SG Autorepondeur - PRO"
+msgstr "SG Autorepondeur - PRO"
+
+#: modules/supsystic_promo/mod.php:109
+#, fuzzy
+#| msgid "SendGrid - PRO"
+msgid "Benchmark - PRO"
+msgstr "Grila de trimitere - PRO"
+
+#: modules/supsystic_promo/mod.php:110
+#, fuzzy
+#| msgid "InfusionSoft"
+msgid "InfusionSoft - PRO"
+msgstr "InfusionSoft"
+
+#: modules/supsystic_promo/mod.php:111
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:218
+msgid "Website"
+msgstr "Website"
+
+#: modules/supsystic_promo/mod.php:219
+msgid "Subject"
+msgstr "Subiect"
+
+#: modules/supsystic_promo/mod.php:220
+msgid "Topic"
+msgstr "Topica"
+
+#: modules/supsystic_promo/mod.php:221
+msgid "Plugin options"
+msgstr "Optiune plugin"
+
+#: modules/supsystic_promo/mod.php:222
+msgid "Report a bug"
+msgstr "Reporteaza o eroare"
+
+#: modules/supsystic_promo/mod.php:223
+msgid "Require a new functionality"
+msgstr "Solicita o noua functie"
+
+#: modules/supsystic_promo/mod.php:224
+msgid "Other"
+msgstr "Alta"
+
+#: modules/supsystic_promo/mod.php:226
+msgid "Message"
+msgstr "Mesaj"
+
+#: modules/supsystic_promo/mod.php:226
+msgid "Hello Supsystic Team!"
+msgstr "Salut Echipa Supsystic!"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:25
+msgid "Why Popup by Supsystic is \"must have\" for your website?"
+msgstr ""
+"De ce Popup de Supsystic este un \"trebuie avut\" pentru website-ul dvs.?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:26
+#, php-format
+msgid ""
+"Increase your sales by 500%% using Popup by Supsystic! More subscribers = "
+"more sales! It's that simple!<br />More info you can find here <a target="
+"\"_blank\" href=\"%s\">Popup by Supsystic is \"must have\" for your website</"
+"a>"
+msgstr ""
+"Mareste-ti vanzarile cu 500%% folosind Popup de Supsystic! Mai multi abonati "
+"= mai multe vanzari! Este atat de simplu!<br />Puteti gasi mai multe "
+"informatii aici <a target=\"_blank\" href=\"%s\">Popup de Supsystic este un "
+"\"trebuie avut\" pentru website-ul dvs.</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:27
+msgid "What is A/B testing?"
+msgstr "Ce este testarea A/B?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:28
+#, php-format
+msgid ""
+"A/B testing is one of the easiest ways to increase conversion rates and "
+"learn more about your audience!<br />A/B test in Popup plugin involves "
+"testing two or more versions of a popup window - an A version (original) and "
+"a B versions (the variation) - with live traffic and measuring the effect "
+"each version has on your conversion rate.<br />To know more detail – click "
+"<a target=\"_blank\" href=\"%s\">here</a>"
+msgstr ""
+"Testarea A/B este una din cele mai usoare metode de a creste ratele de "
+"conversia si de a invata mai multe despre audienta!<br /> Testarea A/B in "
+"plugin-ul PopUp-ului implica testarea a doua sau mai multe versiuni de "
+"ferestre de popup - o versiune A (originala) si o versiune B (variatia) - cu "
+"trafic live si masurand efectul pe care fiecare versiune o are asupra ratei "
+"de conversie. <br />Pentru a afla mai multe detalii - apasati<a target="
+"\"_blank\" href=\"%s\">aici</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:29
+msgid "How to enable subscription to Aweber?"
+msgstr "Cum sa activez abonarea la Aweber?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:30
+#, php-format
+msgid ""
+"In order to subscribe to Aweber you need to know unique list id of your "
+"aweber account - check this <a target=\"_blank\" href=\"%s\">page</a> for "
+"more details."
+msgstr ""
+"Pentru a va putea abona la Aweber trebuie sa stiti ID-ul listei unice al "
+"contului dvs. Aweber - urmariti aceasta <a target=\"_blank\" href=\"%s"
+"\">page</a>  pentru mai multe detalii."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:31
+msgid "How to subscribe to MailChimp?"
+msgstr "Cum sa ma abonez la MailChimp?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:32
+msgid ""
+"To subscribe to MailChimp you need enter your MailChimp API key and name of "
+"list for subscription. To find your MailChimp API key - follow the "
+"instructions below:<br />\n"
+"\t\t\t\t1. Login to your mailchimp account at http://mailchimp.com<br />\n"
+"\t\t\t\t2. From the left main menu, click on your Username, then select "
+"\"Account\" in the flyout menu.<br />\n"
+"\t\t\t\t3. From the account page select \"Extras\" -> \"API Keys\".<br />\n"
+"\t\t\t\t4. Your API Key will be listed in the table labeled \"Your API Keys"
+"\".<br />\n"
+"\t\t\t\t5. Copy / Paste your API key into \"MailChimp API key\" field in "
+"PopUp edit screen -> Subscribe section."
+msgstr ""
+"Pentru a va putea abona la MailChimp trebuie sa introduceti codul API al "
+"MailChimp-ului dvs si numele listei de abonare. Pentru a gasi codul API al "
+"MailChimp urmariti urmatoarele instructiuni:<br />\n"
+"\t\t\t\t1. Logati-va la contul mailchimp la http://mailchimp.com<br />\n"
+"\t\t\t\t2. Din coltul din stanga a meniului principal apasati pe numele de "
+"utilizator apoi selectati  \"Account\" din meniul aparut.<br />\n"
+"\t\t\t\t3. Din paginile contului selectati  \"Extras\" -> \"API Keys\".<br /"
+">\n"
+"\t\t\t\t4. Codul dvs. API este listat in tabel si etichetat ca \"Your API "
+"Keys\".<br />\n"
+"\t\t\t\t5. Copiere/Lipire a codului API in campul \"MailChimp API key\" in "
+"ecranul de editare a PopUp-ului -> In sectiunea de abonare"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:38
+msgid "Where to find css code for the pop-up window?"
+msgstr "Unde pot gasi codul css pentru fereastra popup?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:39
+msgid ""
+"With Popup by Supsystic you can edit CSS style directly from the plugin. "
+"<br />\n"
+"\t\t\t\tIn WordPress admin area - \n"
+"go to Popup by Supsystic -> choose a popup, what you need -> click Code tab. "
+"<br />\n"
+"Here you can edit css style of the pop-up window."
+msgstr ""
+"Cu Popup de Supsystic puteti edita stilul CSS direct din plugin.<br />\n"
+"\t\t\t\tIn zona admin a WordPress - \n"
+"Mergeti la  Popup de Supsystic -> alegeti un popup, ceaveti nevoie -> "
+"apasati pe Code tab. <br />\n"
+"Aici puteti edita stilul CSS al ferestrei popup-ului."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:43
+msgid "How to get PRO version of plugin for FREE?"
+msgstr "Cum sa obtineti versiunea PRO a plugin-ului GRATIS?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:44
+#, php-format
+msgid ""
+"You have an incredible opportunity to get PRO version for free. Make "
+"Translation of the plugin! It will be amazing if you take advantage of this "
+"offer!<br />\n"
+"\t\t\t\t\tMore info you can find here <a target=\"_blank\" href=\"%s\">“Get "
+"PRO version of any plugin for FREE”</a>"
+msgstr ""
+"Aveți o oportunitate incredibilă de a obține versiunea PRO gratuit. Face "
+"Traducerea plugin! Va fi uimitor daca profitati de aceasta oferta! <br />\n"
+"Mai multe informatii puteti gasi aici <a target=\"_blank\" href=\"%s\"> \"Ia "
+"PRO versiune de orice plugin pentru GRATUIT\" </a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+msgid "Translation"
+msgstr "Traducere"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:47
+#, php-format
+msgid ""
+"All available languages are provided with the Supsystic Popup plugin. If "
+"your language isn’t available, your plugin will be in English by default."
+"<br />\n"
+"\t\t\t\t\tAvailable Translations: English, French, German, Spanish, "
+"Russian<br />\n"
+"\t\t\t\t\tTranslate or update a translation Popup WordPress plugin in your "
+"language and get a Premium license for FREE. <a target=\"_blank\" href=\"%s"
+"\">Contact us.</a>"
+msgstr ""
+"Toate limbile disponibile sunt prevăzute cu plugin-ul Supsystic Popup. Dacă "
+"limba dvs. nu este disponibilă, plugin-ul va fi în limba engleză, în mod "
+"implicit. <br />\n"
+"Traduceri disponibile: engleză,, spaniolă, franceză <br germană, rusă />\n"
+"Traduceti sau actualizati o traducere Popup WordPress plugin în limba dvs. "
+"și a obține o licență Premium GRATUIT. <a target=\"_blank\" href=\"%s\"> "
+"Contactati-ne. </a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Where's my subscribers?"
+msgstr "Unde sunt abonatii mei?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:55
+#, php-format
+msgid ""
+"By default all subscribers add to the WordPress. \n"
+"\t\t\t\t\tTo find your subscribers go to Users tab on the left navigation "
+"menu of WordPress admin area. \n"
+"\t\t\t\t\tAlso available subscription to the Aweber, MailChimp, MailPoet <a "
+"href='%s' target='_blank'>and other</a>. \n"
+"\t\t\t\t\tIf you want to add another subscription service - just <a "
+"href='%s' target='_blank'>contact us</a> and provide URL of the subscription "
+"service."
+msgstr ""
+"În mod implicit toți abonații se adauga la WordPress.\n"
+"\t\t\t\t\tPentru a va găsi abonații mergeti la fila Utilizatori din meniul "
+"de navigare din stânga a zonei admin WordPress.\n"
+"\t\t\t\t\tDe asemenea, disponibile abonamente la Aweber, MailChimp, MailPoet "
+"<a href='%s' target='_blank'> și altele </a>.\n"
+"\t\t\t\t\tDacă doriți să adăugați un alt serviciu de abonament - doar <a "
+"href='%s' target='_blank'> contactati-ne </a> și oferiti-ne URL-ul "
+"serviciului de abonament."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:59
+msgid "PopUp doesn't appear on the website"
+msgstr "PopUp nu apare pe site"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:60
+#, php-format
+msgid ""
+"If you setup you're PopUp properly, and it still doesn't show on the page - "
+"there are can be conflict with your WordPress theme or other plugins. <a "
+"href='%s' target='_blank'>Contact us</a> with the URL of the webpage you add "
+"popup and screenshots / text of the error messages, if you have one - and we "
+"will help you resolve your issue."
+msgstr ""
+"Dacă vă configurati PopUp-ul în mod corespunzător, și încă nu apare pe "
+"pagina - atunci e posibil sa fie conflict cu tema WordPress sau alte plugin-"
+"uri. <a href='%s' target='_blank'> Contactati-ne </a> cu URL-ul paginii Web "
+"unde ati adaugat pop-up și capturi de ecran / text cu mesaju de eroare, dacă "
+"aveți unul - și va vom ajuta să va rezolvați problema."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+#, php-format
+msgid ""
+"There were some problems while trying to retrieve our news, but you can "
+"always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+"Au existat unele probleme în timp ce încercam sa preluam noutatile dar "
+"puteți verifica oricând toata lista <a target=\"_blank\" lista <a href=\"%s"
+"\"> aici </a>."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:85
+msgid "Undefined"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:9
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:10
+msgid "Available in PRO"
+msgstr "Disponibil în PRO"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Versiune"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr "Merge"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr "PRO"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:15
+#: modules/supsystic_promo/views/tpl/welcomePage.php:28
+msgid "Support"
+msgstr "Suport"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:4
+#, fuzzy, php-format
+#| msgid "Welcome to the %s v %s"
+msgid "Welcome to %s plugin!"
+msgstr "Bine ați venit la % s% s v"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:5
+#, php-format
+msgid ""
+"Thank you for choosing our %s plugin. Just click here to start using it - "
+"and we will show you it's possibilities and powerfull features."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:8
+#: modules/supsystic_promo/views/tpl/adminTour.php:18
+#: modules/supsystic_promo/views/tpl/adminTour.php:28
+#: modules/supsystic_promo/views/tpl/adminTour.php:38
+#: modules/supsystic_promo/views/tpl/adminTour.php:48
+#: modules/supsystic_promo/views/tpl/adminTour.php:58
+#: modules/supsystic_promo/views/tpl/adminTour.php:68
+#: modules/supsystic_promo/views/tpl/adminTour.php:78
+#: modules/supsystic_promo/views/tpl/adminTour.php:88
+#: modules/supsystic_promo/views/tpl/adminTour.php:98
+#, fuzzy
+#| msgid "Close after"
+msgid "Close"
+msgstr "Inchide dupa"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:9
+#: modules/supsystic_promo/views/tpl/adminTour.php:19
+#: modules/supsystic_promo/views/tpl/adminTour.php:29
+#: modules/supsystic_promo/views/tpl/adminTour.php:39
+#: modules/supsystic_promo/views/tpl/adminTour.php:49
+#: modules/supsystic_promo/views/tpl/adminTour.php:59
+#: modules/supsystic_promo/views/tpl/adminTour.php:69
+#: modules/supsystic_promo/views/tpl/adminTour.php:79
+#: modules/supsystic_promo/views/tpl/adminTour.php:89
+#: modules/supsystic_promo/views/tpl/adminTour.php:99
+msgid "Next"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:14
+msgid "Create your firs PopUp"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:15
+msgid ""
+"Click on \"Add New PopUp\" button to create your firs PopUp. Just try - this "
+"is really simple!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:24
+#, fuzzy
+#| msgid "Select position for your PopUp"
+msgid "Enter name for your PopUp"
+msgstr "Selecteaza pozitia PopUp-ului"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:25
+#, fuzzy
+#| msgid "Choose Pop-Up Template. You can change it later."
+msgid "This will be name of your PopUp. You can change it latter."
+msgstr "Alege Sablon Popup. Se poate modifica mai tarziu."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:34
+#, fuzzy
+#| msgid "Select position for your PopUp"
+msgid "Selecte template for your PopUp"
+msgstr "Selecteaza pozitia PopUp-ului"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:35
+msgid ""
+"Choose any templates from this list. You will be able to customize it after "
+"creation, and also - you will be able to change it latter if you will need "
+"this."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:44
+msgid "Save first PopUp"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:45
+msgid ""
+"After you entered name of your PopUp and selected it's template - just save "
+"it, and you will be redirected to PopUp edit screen - where you will be able "
+"to customize your PopUp."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:54
+#, fuzzy
+#| msgid "Settings"
+msgid "Main Settings"
+msgstr "Setari"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:55
+msgid ""
+"Here you can setup main display settings for your PopUp - when it should be "
+"visible for your user, when it need to be closed, if required - select "
+"specific pages/posts where you need to show your PopUp."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:64
+#, fuzzy
+#| msgid "Settings"
+msgid "Design Settings"
+msgstr "Setari"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:65
+msgid ""
+"One of our most powerfull features - possibility to <strong>customize</"
+"strong> design for each PopUp window for your needs. In this section you can "
+"select your PopUp colors and images, enter required texts that will describe "
+"your neds for your visitors, setup social settings (if required), select "
+"PopUp location, and in the end - select Animation style for your PopUp from "
+"list of more then 20 different animation styles!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:74
+#, fuzzy
+#| msgid "Subscribe Field Settings"
+msgid "Subscribe Settings"
+msgstr "Subscrie Setarile Campului"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:75
+msgid ""
+"Setup your Subscription settings here - select Subscribers destination in "
+"\"Subscribe to\" option - it allow to flow your subscribers not only to "
+"WordPress Users, but to other popular subscribe services. With other "
+"subscription options you will be able to easily customize your subscribe "
+"form in PopUp window."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:84
+#, fuzzy
+#| msgid "Statistics"
+msgid "PopUp Statistics"
+msgstr "Statistici"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:85
+msgid ""
+"After you will setup your PopUp - it will start displaying to your site "
+"visitors. And now - you need to check it's displaying statistics. Here, in "
+"Statistics tab, you will be able to see how many times PopUp was shown to "
+"your visitors, how many times visitors subscribed to it (if subscription is "
+"enabled), how many times visitors shared your site using Social Share PopUp "
+"functionality and what social networks for share is most popular (if it was "
+"enabled). If you will use AB Testing feature to increase your site "
+"popularity - you will see here all your main and tested PopUps statistics - "
+"in one graph or diagramm, - and this will provide you with all required "
+"information about your POpUp popularity!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:94
+#, fuzzy
+#| msgid "CSS / HTML Code"
+msgid "PopUp CSS / HTML Code"
+msgstr "Cod CSS / HTML"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:95
+#, php-format
+msgid ""
+"In case you will need modify source CSS / HTML code of your PopUp - you can "
+"easily do this here. Just make sure that you know what you are doing - don't "
+"break PopUp. You can also find additional information about editing source "
+"code <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:104
+msgid "Well Done!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:105
+#, php-format
+msgid ""
+"That's it! Now you know how to use our %s. Just save your PopUp after you "
+"will setup it - and you will see results. You can also check our site - <a "
+"href=\"%s\" target=\"_blank\">supsystic.com</a> to find out more about our "
+"%s plugin. If you will have any questions - you can always contact us on <a "
+"href=\"%s\" target=\"_blank\">WordPress plugin forum</a> or in <a href=\"%s"
+"\" target=\"_blank\">our support system</a>. We really hope that our "
+"solution will be helpful for you. Good luck!"
+msgstr ""
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:108
+#, fuzzy
+#| msgid "Vanish"
+msgid "Finish"
+msgstr "Disparut"
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:77
+#, php-format
+msgid ""
+"This functionality and more - is available in PRO version. <a class=\"button "
+"button-primary\" target=\"_blank\" href=\"%s\">Get it</a> today for 29$"
+msgstr ""
+"Aceasta functionalitate si mai mult - este disponibil in versiunea PRO. <a "
+"target=\"_blank\" class=\"button button-primary\" href=\"%s\"> Ia-l de azi </"
+"a> pentru 29 $"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:5
+msgid "FAQ and Documentation"
+msgstr "FAQ și Documentatie"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:17
+#: modules/supsystic_promo/views/tpl/welcomePage.php:51
+msgid "Check all FAQs"
+msgstr "Verifica toate FAQs"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:22
+#: modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr "Tutorial Video"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:31
+msgid "Server Settings"
+msgstr "Setări Server"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:44
+msgid "News"
+msgstr "Ştiri"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:50
+msgid "All news and info"
+msgstr "Toate știrile și informatiile"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:55
+msgid "Contact form"
+msgstr "Formular de contact"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:87
+msgid "Send email"
+msgstr "Trimite email"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:96
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+"Adresa ta de email a fost trimisa, vom încerca să răspundem cât mai curând "
+"posibil. Vă mulțumim pentru sprijin!"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr "Bine ați venit la % s% s v"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr "Treci peste tutorial"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid ""
+"The best way to collect subscribers and show notifications.<br />We are "
+"trying to make our plugin work in most comfortable way for you. Here is some "
+"base information about it."
+msgstr ""
+"Cel mai bun mod de a colecta abonați și afisa notificări. <br /> Noi "
+"încercăm să facem plugin-ul nostrum sa functioneze in cel mai confortabil "
+"mod pentru tine. Iată câteva informații de bază despre el."
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr "Tutorial pas-cu-pas"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:21
+msgid ""
+"There're really many options of popup customization. So as soon as you close "
+"that page, I'll show you step-by-step tutorial of how to use plugin. Hope it "
+"will be usefull for you :)"
+msgstr ""
+"Sunt multe optiuni de customizare a pop-up-ului. Deci, de îndată ce inchizi "
+"pagina, Iti voi arata un tutorial pas cu pas cum se foloseste plugin-ul. "
+"Sper ca va fi util pentru tine :)"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr "Ca o opțiune noi  va putem instala si configure plugin-ul pentru dvs."
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+"Ne place plugin nostru și facem tot posibilul pentru a îmbunătăți toate "
+"caracteristicile pentru tine. Dar, uneori probleme sa întâmplat, sau uneori "
+"nu puteți găsi funcția dorită de care aveți nevoie. Nu vă faceți griji, doar "
+"<a href='%s' target='_blank'>Contactati-ne </a> si noi va vom ajuta!"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr "întrebări frecvente"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:59
+msgid "Let's Start!"
+msgstr "Să începem!"
+
+#~ msgid "Clear All"
+#~ msgstr "Sterge tot"
+
+#~ msgid ""
+#~ "Hide standard video player controls. For vimeo videos - you need to "
+#~ "change this in your account settings, check <a href=\"%s\" target=\"_blank"
+#~ "\">this FAQ</a>."
+#~ msgstr "Ascunde comenzile standard pentru programul de redare video"

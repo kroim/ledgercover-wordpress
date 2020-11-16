@@ -1,0 +1,4933 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PopUp by Supsystic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-01 16:11+0200\n"
+"PO-Revision-Date: 2019-06-11 14:54+0300\n"
+"Last-Translator: Shahab <roshanshahab@hotmail.com>\n"
+"Language-Team: Shahab <https://getifo.ge>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: lang\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPathExcluded-0: doc/promo-popup-by-supsystic-pro\n"
+
+#: classes/controller.php:199 classes/controller.php:207
+msgid "Done"
+msgstr "انجام شد"
+
+#: classes/field.php:131
+msgid "Select"
+msgstr "انتخاب کنید"
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr "نامشخص"
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr "اضافه کردن چک باکس"
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr "افزودن آیتم"
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr "اضافه کردن دکمه های رادیویی"
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr "ابعاد"
+
+#: classes/field.php:314
+msgid "width"
+msgstr "عرض"
+
+#: classes/field.php:316
+msgid "height"
+msgstr "طول"
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "کلیک کنید برای تنظیم \"id\" و \"class\""
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr "ویژگی ها"
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "هیچ گزینه ای برای تنظیم در این قسمت وجود ندارد"
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "اعمال به"
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "آدرس"
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "مقصد"
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "کشور"
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "شما دسته بندی ای ندارید"
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "برند ها"
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "شما هیچ برندی ندارید"
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "نرخ مالیات"
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "مطلق"
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "انتخاب نشده"
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr "کلاس"
+
+#: classes/fieldAdapter.php:186
+msgid "id"
+msgstr "آیدی ID"
+
+#: classes/frame.php:139
+msgid "You have no permissions to view this page"
+msgstr "شما اجازه مشاهده این صفحه را ندارید"
+
+#: classes/html.php:231
+msgid "Upload"
+msgstr "بارگذاری"
+
+#: classes/html.php:648
+msgid "ON"
+msgstr "روشن"
+
+#: classes/html.php:649
+msgid "OFF"
+msgstr "خاموش"
+
+#: classes/html.php:673
+#, php-format
+msgid "Select %s"
+msgstr "انتخاب %s"
+
+#: classes/model.php:176 classes/model.php:188
+msgid "Database error detected"
+msgstr "خطای پایگاه داده (Database) تشخیص داده شد"
+
+#: classes/model.php:178
+msgid "Invalid ID"
+msgstr "شناسه (id) معتبر نیست"
+
+#: classes/model.php:211
+msgid "Empty or invalid ID"
+msgstr "شناسه (id) خالی و یا غیر معتبر"
+
+#: classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr "انتقال فایل ها برای %s انجام نشد"
+
+#: classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr "%s ماژول پلاگین نیست"
+
+#: classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr ""
+"قادر به ایجاد فهرست ماژول نمی باشد. سعی کنید برای تنظیم اجازه دسترسی به "
+
+#: classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr "هیچ ماژولی در فایل XML یافت نشد"
+
+#: classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr "فایل XML غیرمعتبر است"
+
+#: classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr "هیچ فایل XML پیدا شد"
+
+#: classes/modInstaller.php:132
+#, php-format
+msgid "Install %s failed"
+msgstr "نصب %s ناموفق بود"
+
+#: classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr "خطا در فعال کردن ماژول"
+
+#: classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr "خطا در غیر فعال سازی ماژول"
+
+#: classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr "خطا در فعال کردن ماژول"
+
+#: classes/table.php:277
+msgid "Nothing to update"
+msgstr "موردی برای به روز رسانی وجود ندارد"
+
+#: classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr "خطای پایگاه داده. لطفا با طراح و برنامه نویس خود تماس بگیرید."
+
+#: classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr "طول نامعتبر برای %s حداکثر طول مجاز %s است"
+
+#: classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr "مقدار نامعتبر عددی برای %s"
+
+#: classes/validator.php:71
+#, php-format
+msgid "Please enter %s"
+msgstr "لطفا %s را وارد نمایید"
+
+#: classes/validator.php:78
+#, php-format
+msgid "Please select %s"
+msgstr "لطفاً  %s را انتخاب نمایید"
+
+#: classes/validator.php:85 classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr "%s نا‌معتبر"
+
+#: classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr "%s در حال حاضر ثبت شده است"
+
+#: classes/tables/modules.php:7 classes/tables/modules_type.php:8
+msgid "Label"
+msgstr "برچسب"
+
+#: classes/tables/modules.php:8
+msgid "Type"
+msgstr "نوع"
+
+#: classes/tables/modules.php:9
+msgid "Active"
+msgstr "فعال"
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr "پارامتر ها"
+
+#: classes/tables/modules.php:13
+msgid "Code"
+msgstr "کد"
+
+#: classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "دایرکتوری پلاگین های خارجی"
+
+#: classes/tables/modules_type.php:7
+msgid "ID"
+msgstr "آیدی ID"
+
+#: classes/tables/usage_stat.php:8
+msgid "code"
+msgstr "کد"
+
+#: classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr "بازدیدها"
+
+#: classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr "spent_time"
+
+#: classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr "modify_timestamp"
+
+#: doc/popup-by-supsystic-pro/wpUpdater.php:68
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"یک ارور HTTP ناخواسته در زمان درخواست API رخ داد.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">تلاش دوباره</a>"
+
+#: doc/popup-by-supsystic-pro/wpUpdater.php:73
+msgid "An unknown error occurred"
+msgstr "یک خطای ناشناخته رخ داده است"
+
+#: doc/popup-by-supsystic-pro/ab_testing/mod.php:21
+msgid "Testing"
+msgstr "تست"
+
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:18
+msgid "Enter Name"
+msgstr "نام را وارد کنید"
+
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:20
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:32
+msgid "Empty Base ID"
+msgstr "شناسه پایه خالی"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abEditFormControls.php:3
+msgid "Back to Main PopUp"
+msgstr "بازگشت به پنجره اصلی پاپ آپ"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:2
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:3
+msgid "Add New Test"
+msgstr "تست جدید اضافه کنید"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:5
+msgid "Test PopUp Name"
+msgstr "نام پاپ آپ تست"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:7
+msgid "Delete selected"
+msgstr "حذف انتخاب شده ها"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:11
+msgid "Clear"
+msgstr "پاک کردن"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:17
+msgid ""
+"You have no Test PopUps for now. <a href=\"#\" class=\"ppsAbAddNew\" style="
+"\"font-style: italic;\">Create</a> your first Test!"
+msgstr ""
+"شما در حال حاضر هیچ پاپ آپ تستی ندارید. <a href=\"#\" class=\"ppsAbAddNew\" "
+"style=\"font-style: italic;\">ایجاد</a>اولین پاپ آپ تست شما!"
+
+#: doc/popup-by-supsystic-pro/activecampaign/mod.php:11
+msgid "Active Campaign"
+msgstr "کمپین فعال"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:22
+msgid ""
+"Please make sure that you created some Lists under your Active Campaign "
+"account."
+msgstr "لطفا مطمئن شوید که در کمپین فعال خود تعدادی لیست ساخته اید."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:26
+msgid "Make sure that you entered correct API data."
+msgstr "اطمینان حاصل کنید که شما داده API درست را وارد نموده اید."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:40
+msgid "Please enter your API URL"
+msgstr "لطفا آدرس API خود را وارد کنید"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:42
+msgid "Please enter your API key"
+msgstr "لطفا کلید API خود را وارد کنید"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:82
+#, php-format
+msgid "Add contact failed with error: %s"
+msgstr "اضافه کردن مخاطب با خطا مواجه شد: %s"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:94
+msgid ""
+"No lists to add selected in admin area - contact site owner to resolve this "
+"issue."
+msgstr ""
+"لیستی برای اضافه نمودن مورد انتخابی در قسمت مدیریت وجود ندارد - با صاحب سایت "
+"برای حل این مسئله تماس بگیرید."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:4
+msgid "Not supported by Server"
+msgstr "توسط سرور پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:5
+msgid "Not supported on your server"
+msgstr "بر روی سرور شما پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed. Please "
+"contact your hosting provider and ask them to enable cUrl for you, this is "
+"Free library."
+msgstr ""
+"این ماژول نیاز به cUrl library برای PHP بر روی سرور دارد. لطفا با هاست خود "
+"تماس بگیرید و درخواست کنید تا برای شما cUrl را فعال کنند. این یک سرویس "
+"رایگان است."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:14
+msgid "API URL"
+msgstr "آدرس API"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:15
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:27
+#, php-format
+msgid ""
+"You can find it under your Active Campaign Account -> My Settings -> API, "
+"here is <a href=\"%s\" class=\"ppsAcHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+"شما می توانید آن را در قسمت کمپین فعال خود پیدا کنید -> تنظیمات من -> API، "
+"برای تصویر کمکی <a href=\"%s\" class=\"ppsAcHelpApiKeyLink\">اینجا کلیک "
+"کنید</a>"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:26
+msgid "API Key"
+msgstr "کلید API"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:38
+msgid "Campaigns for subscribe"
+msgstr "کمپین ها برای اشتراک"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:39
+msgid ""
+"Select Campaigns for subscribe. They are taken from your Active Campaign "
+"account."
+msgstr ""
+"کمپین ها را برای اشتراک را انتخاب کنید. آنها از حساب کمپین فعال شما گرفته "
+"شده است."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:46
+msgid "Choose Lists"
+msgstr "لیست ها را انتخاب کنید"
+
+#: doc/popup-by-supsystic-pro/arpreach/mod.php:8
+msgid "arpReach"
+msgstr "arpReach"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:4
+msgid "arpReach not supported"
+msgstr "arpReach پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:5
+msgid "This module is not supported by your server configuration."
+msgstr "این ماژول در پیکربندی سرور شما پشتیبانی نمی شود."
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:8
+msgid "arpReach is not supported on your server."
+msgstr "arpReach بر روی سرور شما پشتیبانی نمی شود."
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:14
+msgid "arpReach intake form Action URL"
+msgstr "آدرس URL فرم ورود اطلاعات arpReach"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:15
+msgid ""
+"Open your script for intake form, find there form tag with form "
+"method='post' action='http://yourdomain.coma/a/a.php/sub/a/xxxxxx', then "
+"copy \"action\" attribute - and paste it in text field below."
+msgstr ""
+"اسکریپت خود را برای فرم دریافت اطلاعات باز نمایید، در آنجا تگ فرم را با روش "
+"فرم = 'post' پیدا کنید action='http://yourdomain.coma/a/a.php/sub/a/xxxxxx "
+"سپس خاصیت \"action\" را کپی کرده و در محل زیر قرار دهید."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/mod.php:12
+msgid "Benchmark"
+msgstr "معیار"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:41
+msgid ""
+"Please make sure that you created some Lists under your Benchmark account."
+msgstr ""
+"لطفا اطمینان حاصل کنید که لیستی در اکانت معیار (Benchmark) خود ساخته اید."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:45
+msgid "Please enter your Benchmark Password"
+msgstr "لطفا رمز عبور اکانت معیار(Benchmark)  خود را وارد کنید"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:47
+msgid "Please enter your Benchmark Login"
+msgstr "لطفا نام کاربری اکانت معیار(Benchmark)  خود را وارد کنید"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:15
+msgid "Benchmark Login"
+msgstr "ورود به حساب معیار Benchmark"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:16
+msgid "Login for your Benchmark account."
+msgstr "برای حساب معیار (Benchmark) وارد شوید."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:27
+msgid "Benchmark Password"
+msgstr "رمز عبور حساب معیار Benchmark"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:28
+msgid "Password for your Benchmark account."
+msgstr "رمز عبور برای حساب معیار (Benchmark) شما."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:40
+msgid ""
+"Select Campaigns for subscribe. They are taken from your Benchmark account."
+msgstr ""
+"کمپین برای اشتراک را انتخاب کنید. آنها از حساب معیار)Benchmark) شما گرفته "
+"شده اند."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/mod.php:8
+msgid "Campaign Monitor"
+msgstr "کمپین مانیتور"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:16
+#, php-format
+msgid ""
+"You have no lists for now. Go to your <a href=\"%s\" target=\"_blank"
+"\">Campaign Monitor Account -> Lists & Subscribers</a> and create list at "
+"first, then just reload this page"
+msgstr ""
+"شما هیچ لیستی در حال حاضر ندارید. به صفحه <a href=\"%s\" target=\"_blank"
+"\">حساب کمپین مانیتور -> لیست هاو مشترکان</a> بروید و ابتدا لیستی بسازید و "
+"سپس این صفحه را دوباره بارگذاری نمایید"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:185
+msgid ""
+"Something going wrong while trying to send data to mail list service. Please "
+"contact site owner."
+msgstr ""
+"در هنگام تلاش برای ارسال اطلاعات به سرویس لیست ایمیل خطایی رخ داد. لطفا با "
+"صاحب سایت تماس بگیرید."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:195
+msgid ""
+"Can not detect authorization fo account owner. Contact site owner to resolve "
+"this issue."
+msgstr ""
+"مجوز لازم برای صاحب اکانت یافت نمی شود. برای حل این مشکل با صاحب سایت تماس "
+"بگیرید."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:4
+msgid "Campaign Monitor not supported"
+msgstr "کمپین مانیتور پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:8
+msgid ""
+"Campaign Monitor require at least PHP version 5.3. Please contact your "
+"hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+"کمپین مانیتور نیاز به حداقل پی اچ پی (PHP) نسخه 5.3 دارد. لطفا با پشتیبانی "
+"هاست خود تماس بگیرید و بخواهید نسخه پی اچ پی (PHP) شما را به 5.3 یا بالاتر "
+"تغییر دهند."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:14
+msgid "Campaign Monitor Setup"
+msgstr "راه اندازی کمپین مانیتور"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:15
+msgid "You must authorize to use Campaign Monitor features"
+msgstr "برای استفاده از ویژگی های کمپین مانیتور باید اجازه دسترسی بدهید"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:18
+msgid "Authorize in Campaign Monitor"
+msgstr "اجازه دسترسی در کمپین مانیتور"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:24
+msgid "Lists for subscribe"
+msgstr "لیست ها برای اشتراک"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:25
+msgid ""
+"Select lists for subscribe. They are taken from your Campaign Monitor "
+"account."
+msgstr ""
+"لیستی برای اشتراک را انتخاب کنید. آنها از حساب مانیتور کمپین شما گرفته شده "
+"اند."
+
+#: doc/popup-by-supsystic-pro/constantcontact/mod.php:11
+msgid "Constant Contact"
+msgstr "مخاطبین ثابت"
+
+#: doc/popup-by-supsystic-pro/constantcontact/models/constantcontact.php:39
+msgid "You are not logged-in"
+msgstr "شما وارد سیستم نشده اید"
+
+#: doc/popup-by-supsystic-pro/constantcontact/models/constantcontact.php:41
+msgid "Can not get cc obj"
+msgstr "قادر به دریافت cc obj نیست"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:4
+msgid "Constant Contact not supported"
+msgstr "مخاطبین ثابت پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:8
+msgid ""
+"Constant Contact require at least PHP version 5.3. Please contact your "
+"hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+"مخاطبین ثابت نیاز به حداقل پی اچ پی (PHP) نسخه 5.3 دارد. لطفا با پشتیبانی "
+"هاست خود تماس بگیرید و بخواهید نسخه پی اچ پی (PHP) شما را به 5.3 یا بالاتر "
+"تغییر دهند."
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:14
+msgid "Constant Contact Setup"
+msgstr "راه اندازی مخاطبین ثابت"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:15
+msgid "You must authorize to use Constant Contact features"
+msgstr "برای استفاده از ویژگی های مخاطبین ثابت باید اجازه دسترسی بدهید"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:18
+msgid "Authorize in Constant Contact"
+msgstr "اجازه دسترسی در مخاطبین ثابت"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:25
+msgid ""
+"Select lists for subscribe. They are taken from your Constant Contact "
+"account."
+msgstr ""
+"لیستی برای اشتراک را انتخاب کنید. آنها از حساب مخاطبین ثابت شما گرفته شده "
+"اند."
+
+#: doc/popup-by-supsystic-pro/feedblitz/mod.php:8
+msgid "FeedBlitz"
+msgstr "Feedblitz"
+
+#: doc/popup-by-supsystic-pro/feedblitz/models/feedblitz.php:11
+msgid ""
+"You have no lists. Login to your SendGrid account and create your first list "
+"before start using this functionality."
+msgstr ""
+"شما هیچ لیستی ندارید. به حساب SendGrid خود وارد شوید و قبل از استفاده از این "
+"قابلیت، ابتدا لیستی بسازید."
+
+#: doc/popup-by-supsystic-pro/feedblitz/models/feedblitz.php:61
+msgid "Some error occured during connection to the server"
+msgstr "خطاهایی در اتصال به سرور رخ داد"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:4
+msgid "FeedBlitz not supported"
+msgstr "FeedBlitz پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:8
+msgid "FeedBlitz is not supported on your server"
+msgstr "FeedBlitz بر روی سرور شما پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:14
+msgid "FeedBlitz API Key"
+msgstr "کلید API حساب FeedBlitz"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:15
+msgid "Your FeedBlitz API Key"
+msgstr "کلید API حساب FeedBlitz شما"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:26
+msgid "Select lists for subscribe. They are taken from your FeedBlitz account."
+msgstr ""
+"لیست برای اشتراک را انتخاب کنید. آنها از حساب FeedBlitz شما گرفته شده اند."
+
+#: doc/popup-by-supsystic-pro/get_response/mod.php:11
+msgid "GetResponse"
+msgstr "GetResponse"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, php-format
+msgid ""
+"You can find it under your GetResponse Account -> GetResponse API, here is "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\" target=\"_blank\">help "
+"screenshot</a>"
+msgstr ""
+"شما می توانید آن را در قسمت اکانت GetResponse خود پیدا کنید -> GetResponse "
+"API، برای تصویر کمکی <a href=\"%s\" class=\"ppsAcHelpApiKeyLink\">اینجا کلیک "
+"کنید</a>"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:26
+msgid ""
+"Select Campaigns for subscribe. They are taken from your GetResponse account."
+msgstr ""
+"کمپین برای اشتراک را انتخاب کنید. آنها از حساب GetResponse شما گرفته شده اند."
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:41
+msgid "Cycle Day"
+msgstr "Cycle Day"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:42
+msgid ""
+"Insert contact on a given day at the autoresponder cycle. Value of 0 means "
+"the beginning of the cycle. Lack of this param means that a contact will not "
+"be inserted into cycle."
+msgstr ""
+"مخاطب را در چرخه پاسخ گوی اتوماتیک در روز داده شده وارد کنید. عدد 0 شروع "
+"چرخه است. فقدان این پارامتر به معنی وارد نشدن مخاطب در چرخه می باشد."
+
+#: doc/popup-by-supsystic-pro/icontact/mod.php:11
+msgid "iContact"
+msgstr "iContact"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:20
+msgid "Please enter your Application ID"
+msgstr "لطفاً شناسه اپلیکیشن(Application ID) خود را وارد کنید"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:23
+msgid "Please enter your API Username"
+msgstr "لطفاً نام کاربری API خود را‌ وارد کنید"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:26
+msgid "Please enter your API Password"
+msgstr "لطفا رمز عبور API خود را وارد کنید"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:43
+msgid "You have no lists in your iContact account for now."
+msgstr "شما در حال حاضر هیچ لیستی در حساب iContact خود ندارید."
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:107
+msgid "Can't add contact"
+msgstr "قادر به افزودن مخاطب نمی باشد"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:14
+msgid "Application ID"
+msgstr "شناسه اپلیکیشن"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:15
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:26
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:37
+#, php-format
+msgid ""
+"You can create it <a href=\"%s\" target=\"_blank\">here</a>. More info can "
+"be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+"شما می توانید آن را <a href=\"%s\" target=\"_blank\">اینجا</a> ایجاد کنید. "
+"می توانید اطلاعات بیشتر را <a href=\"%s\" target=\"_blank\">اینجا</a> بیابید"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:25
+msgid "API Username"
+msgstr "نام کاربری API"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:36
+msgid "API Password"
+msgstr "رمز عبور API"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:48
+msgid "Select Lists for subscribe. They are taken from your iContact account."
+msgstr ""
+"لیست را برای اشتراک را انتخاب کنید. آنها از حساب iContact شما گرفته شده اند."
+
+#: doc/popup-by-supsystic-pro/infusionsoft/mod.php:13
+msgid "InfusionSoft"
+msgstr "InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/models/infusionsoft.php:87
+msgid ""
+"Administrator of this site need to re-autentificate in InfusionSoft system "
+"from admin area"
+msgstr ""
+"مدیر این سایت نیاز به اعتبار سنجی دوباره در سیستم InfusionSoft از بخش مدیریت "
+"دارد"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed and PHP "
+"version to be at least 5.3.2. Please contact your hosting provider and ask "
+"them to enable cUrl for you, this is Free library, and check your PHP "
+"version."
+msgstr ""
+"این ماژول نیاز به cUrl library برای PHP بر روی سرور و PHP ورژن 5.3.2 دارد. "
+"لطفا با هاست خود تماس بگیرید و درخواست کنید تا برای شما cUrl را فعال کنند و "
+"ورژن PHP خود را بررسی نمایید. این یک سرویس رایگان است."
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:14
+msgid "InfusionSoft Setup"
+msgstr "راه اندازی InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:15
+msgid "You must authorize to use InfusionSoft features"
+msgstr "برای استفاده از ویژگی های InfusionSoft باید اجازه دسترسی بدهید"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:18
+msgid "Authorize in InfusionSoft"
+msgstr "اجازه دسترسی در InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/layered_popup/mod.php:10
+msgid "Popup Location"
+msgstr "مکان پنجره پاپ آپ"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:7
+msgid "Enable Layered PopUp Style"
+msgstr "فعال کردن پاپ آپ لایه بندی شده"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:9
+msgid ""
+"By default all PopUps have modal style: it appears on user screen over the "
+"whole site. Layered style allows you to show your PopUp - on selected "
+"position: top, bottom, etc. and not over your site - but right near your "
+"content."
+msgstr ""
+"بصورت پیشفرض همه پنجره های پاپ آپ دارای استایل مودال هستند: آنها بر صفحه "
+"کاربر بر روی کل سایت نشان داده می شوند. استایل لایه بندی شده به شما امکان می "
+"دهد پاپ آپ خود را - در قسمتهای منتخب: بالا، پایین و غیره و نه بر کل سایت - "
+"نشان دهید اما در کنار محتویات صفحه خود."
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:13
+msgid "Select position for your PopUp"
+msgstr "موقعیت پنجره پاپ آپ خود را انتخاب کنید"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:16
+msgid "Top Left"
+msgstr "بالا چپ"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:17
+msgid "Top"
+msgstr "بالا"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:18
+msgid "Top Right"
+msgstr "بالا راست"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:20
+msgid "Center Left"
+msgstr "مرکز چپ"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:21
+msgid "Center"
+msgstr "مرکز"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:22
+msgid "Center Right"
+msgstr "راست مرکز"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:24
+msgid "Bottom Left"
+msgstr "پایین چپ"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:25
+msgid "Bottom"
+msgstr "پایین"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:26
+msgid "Bottom Right"
+msgstr "پایین راست"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:30
+#, php-format
+msgid ""
+"Your license has expired. Once you extend your license - you will be able to "
+"Update PRO version. To extend PRO version license - follow <a href=\"%s\" "
+"target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</a> tab "
+"anc click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"لایسنس شما منقضی شده است. بعد از تمدید لایسنس - شما می توانید ورژن PRO را "
+"آپدیت نمایید. برای تمدید لاسنس PRO خود این <a href=\"%s\" target=\"_blank\"> "
+"لینک</a> را کلیک کنید، سپس به تب <a href=\"%s\">لایسنس </a> بروید و روی Re-"
+"activate کلیک نمایید."
+
+#: doc/popup-by-supsystic-pro/license/mod.php:38
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a href=\"%s"
+"\" target=\"_blank\">click here</a> to extend your license, then - go to <a "
+"href=\"%s\">License</a> tab and click on \"Re-activate\" button to re-"
+"activate your PRO version."
+msgstr ""
+"لایسنس شما برای پلاگین %s منقضی شده است. برای تمدید لایسنس PRO خود این <a "
+"href=\"%s\" target=\"_blank\"> لینک</a> را کلیک کنید، سپس به تب <a href=\"%s"
+"\">لایسنس </a> بروید و روی Re-activate کلیک نمایید."
+
+#: doc/popup-by-supsystic-pro/license/mod.php:51
+msgid "License"
+msgstr "لایسنس"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:74
+msgid "Activate License"
+msgstr "فعال کردن لایسنس"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:76
+msgid "Renew License"
+msgstr "لایسنس خود را تمدید کنید"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:54
+msgid "Please enter your License Key"
+msgstr "لطفا کد لایسنس خود را وارد نمایید"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:56
+msgid "Please enter your Email address"
+msgstr "لطفا آدرس ایمیل خود را وارد کنید"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:131
+msgid ""
+"There was a problem with sending request to our authentication server. "
+"Please try later."
+msgstr ""
+"مشکل در ارسال درخواست به سرور احراز هویت ما وجود دارد. لطفا بعدا امتحان کنید."
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:154
+#, php-format
+msgid "License for plugin %s will expire today."
+msgstr "لایسنس برای پلاگین %s امروز منقضی می شود."
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:156
+#, php-format
+msgid "License for plugin %s will expire tomorrow."
+msgstr "لایسنس برای پلاگین %s فردا منقضی می شود."
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:158
+#, php-format
+msgid "License for plugin %s will expire in %d days."
+msgstr "لایسنس برای پلاگین %s در %d روز منقضی می شود."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:4
+#, php-format
+msgid ""
+"Congratulations! PRO version of %s plugin has been activated and is working "
+"fine!"
+msgstr ""
+"تبریک میگوییم! نسخه حرفه ای (PRO) از پلاگین %s فعال شده است و بخوبی کار می "
+"کند!"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:6
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a href=\"%s"
+"\" target=\"_blank\">click here</a> to extend your license, then - click on "
+"\"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"لایسنس شما برای پلاگین %s منقضی شده است. برای تمدید لایسنس PRO خود به تب <a "
+"href=\"%s\">لایسنس </a> بروید و روی فعالسازی مجدد کلیک نمایید."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:8
+#, php-format
+msgid ""
+"Congratulations! You have successfully installed PRO version of %s plugin. "
+"Final step to finish Your PRO version setup - is to enter your Email and "
+"License Key on this page. This will activate Your copy of software on this "
+"site."
+msgstr ""
+"تبریک می گوییم! شما با موفقیت نسخه PRO پلاگین %s را نصب کردید. قدم پایانی "
+"جهت اتمام راه اندازی نسخه PRO - وارد نمودن ایمیل و کد لایسنس در این صفحه می "
+"باشد. این کار نسخه نرم افزار شما را در این سایت فعال می کند."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:20
+msgid "Email"
+msgstr "ایمیل"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:23
+#, php-format
+msgid ""
+"Your email address, used on checkout procedure on <a href=\"%s\" target="
+"\"_blank\">%s</a>"
+msgstr ""
+"آدرس ایمیل شما، در صفحه پرداخت استفاده شد <a href=\"%s\" target=\"_blank\">"
+"%s</a>"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:31
+msgid "License Key"
+msgstr "کد لایسنس"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:34
+#, php-format
+msgid ""
+"Your License Key from your account on <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr "کد لایسنس شما از اکانتتان در <a href=\"%s\" target=\"_blank\">%s</a>"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:47
+msgid "Re-activate"
+msgstr "فعالسازی دوباره"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:49
+msgid "Activate"
+msgstr "فعالسازی"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:19
+msgid "Login Success!"
+msgstr "با موفقیت وارد شدید!"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:39
+msgid "Thank you for registration!"
+msgstr "از شما برای ثبت نام در سایت متشکریم!"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:43
+msgid "Confirmation link was sent to your email address. Check your email!"
+msgstr "لینک تایید به آدرس ایمیل شما فرستاده شد. ایمیل خود را چک کنید!"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:13
+msgid "Login/Registration"
+msgstr "ورود / ثبت نام"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:30
+msgid "E-Mail"
+msgstr "ایمیل"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:32
+msgid "Username"
+msgstr "نام کاربری"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:34
+msgid "Password"
+msgstr "رمز عبور"
+
+#: doc/popup-by-supsystic-pro/login/models/login.php:80
+msgid "Empty or invalid username"
+msgstr "نام کاربری خالی و یا نا معتبر است"
+
+#: doc/popup-by-supsystic-pro/login/models/login.php:85
+msgid "Empty or invalid password"
+msgstr "کلمه عبور خالی و یا نا معتبر است"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:9
+msgid "Text"
+msgstr "متن"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:10
+msgid "Text area"
+msgstr "قسمت نوشتاری"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:11
+msgid "Select box"
+msgstr "جعبه های انتخابی"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:12
+msgid "Hidden Field"
+msgstr "فیلد مخفی"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:1
+msgid "This option will replace Subscribe form with Login / Registration forms"
+msgstr "این گزینه فرم اشتراک را با فرم ورود، ثبت نام جایگزین می کند"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:8
+msgid "Enable Login"
+msgstr "فعال سازی ورود"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:15
+msgid "Login by"
+msgstr "ورود توسط"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:16
+msgid ""
+"Choose what info needs to be entered for login. Password will be included by "
+"default."
+msgstr ""
+"اطلاعاتی که در زمان ورود باید وارد شود را انتخاب کنید. قسمت رمز ورود بصورت "
+"پیشفرض وجود دارد."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:35
+msgid "Redirect after login URL"
+msgstr "هدایت به ادرس خاص بعد از وارد"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:36
+msgid ""
+"You can enable redirection after login, just enter here URL that you want to "
+"redirect to after login - and user will be redirected there. If you don't "
+"need this feature - just leave this field empty: browser window will be just "
+"reloaded after successful login."
+msgstr ""
+"شما می توانید بعد از ورود کاربر را به صفحه خاصی هدایت نمایید، کافیست URL "
+"صفحه مورد نظر را وارد کنید - و کاربر به آن صفحه منتقل می شود. اگر این قابلیت "
+"را نمی خواهید - این قسمت را خالی رها کنید: صفحه مرورگر بعد از ورود موفقیت "
+"آمیز دوباره بارگذاری می شود."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:46
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:85
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:234
+msgid "Open in a new window (tab)"
+msgstr "باز کردن پیوند در پنجره جدید (زبانه)"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:52
+msgid "Login button name"
+msgstr "نام دکمه ورود"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:56
+msgid "Login"
+msgstr "ورود"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:67
+msgid "Enable Registration"
+msgstr "فعال سازی ثبت نام"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:74
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:223
+msgid "Redirect after registration URL"
+msgstr "URL هدایت به ادرس خاص بعد از ثبت نام"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:75
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:224
+msgid ""
+"You can enable redirection after registration, just enter here URL that you "
+"want to redirect to after registration - and user will be redirected there. "
+"If you don't need this feature - just leave this field empty."
+msgstr ""
+"شما می توانید بعد از ثبت نام کاربر را به صفحه خاصی هدایت نمایید، کافیست URL "
+"صفحه مورد نظر را وارد کنید - و کاربر به آن صفحه منتقل می شود. اگر این قابلیت "
+"را نمی خواهید - این قسمت را خالی رها کنید."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:91
+msgid "Create user with the chosen role after registration"
+msgstr "ایجاد کاربر با نقش انتخاب شده پس از ثبت نام"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:92
+msgid ""
+"Use this only if you really need it. Remember! After you change this option "
+"- your new users will have more privileges than usual subscribers, so be "
+"careful with this option!"
+msgstr ""
+"فقط در صورتی که واقعا نیاز دارید از این گزینه استفاده کنید. بیاد داشته باشید "
+"بعد از انتخاب این گزینه - کاربر شما بیش از پیش حق دسترسی دارد، پس با دقت از "
+"این گزینه استفاده نمایید!"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:102
+msgid "Create User without confirmation"
+msgstr "ایجاد کاربر بدون تایید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:103
+msgid ""
+"Usually, after user registration, we send an email with the confirmation "
+"link - to confirm the email address, and only after user clicks on the link "
+"from this email - we will create a new user. This option allows you to "
+"create user - right after registration, without the email confirmation "
+"process."
+msgstr ""
+"معمولا بعد از ثبت کاربر جدید ما یک ایمل حاوی لینک فعالسازی جهت تایید ایمیل "
+"به کاربر ارسال میکنیم و فقط بعد از تایید آدرس ایمیل توسط کاربر حساب کاربری "
+"جدید ساخته می شود. این گزینه به شما امکان می دهد حساب کاربری را بدون نیاز به "
+"تایید ایمیل بسازید."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:112
+msgid "Export Users"
+msgstr "استخراج کاربران"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:113
+msgid "Export all users, who registered using your PopUp, as CSV file."
+msgstr ""
+"همه کاربرانی که توسط پاپ آپ شما ثبت نام کرده اند را در یک فایل CSV استخراج "
+"کنید."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:116
+msgid "Get CSV List"
+msgstr "دریافت لیست CSV"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:121
+msgid "Registration button name"
+msgstr "نام دکمه ثبت نام"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:125
+msgid "Register"
+msgstr "ثبت نام"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:132
+msgid "Registration fields"
+msgstr "فیلد های ثبت نام"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:133
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Registration form - click on \"+ Add\" "
+"button."
+msgstr ""
+"برای تغییر محل قرارگیری فیلد کافیست آنرا با موس خود بگیرید و بین بقیه فیلدها "
+"قرار دهید. برای اضافه کردن فیلد جدید روی \"+افزودن\" کلیک کنید."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:182
+msgid "Add"
+msgstr "افزودن"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:190
+msgid "\"Confirmation sent\" message"
+msgstr "پیام تأیید ارسال"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:191
+msgid ""
+"This is the message that the user will see after registration, when letter "
+"with confirmation link was sent."
+msgstr ""
+"این پیامی است که کاربر بعد از ثبت نام وقتی که ایمیل تایید برایش ارسال شده "
+"است می بیند."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:201
+msgid "Registration success message"
+msgstr "پیغام ثبت نام موفقیت آمیز"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:202
+msgid ""
+"Right after new user will be created and confirmed - this message will be "
+"shown."
+msgstr ""
+"بلافاصله پس از اینکه حساب کاربری جدید تایید و ساخته شد - این پیام نشان داده "
+"خواهد شد."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:212
+msgid "Email error message"
+msgstr "پیام خطای ایمیل"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:213
+msgid ""
+"If email that was entered by user is invalid, user will see this message"
+msgstr ""
+"اگر ایمیل وارد شده توسط کاربر غیر معتبر باشد، کاربر این پیام را مشاهده میکند"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:217
+msgid "Empty or invalid email"
+msgstr "ایمیل خالی و یا نا معتبر است"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:240
+msgid "Confirmation email subject"
+msgstr "عنوان ایمیل تایید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:241
+msgid "Email with confirmation link subject"
+msgstr "موضوع ایمیل حاوی لینک تایید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:247
+msgid "Confirm registration on [sitename]"
+msgstr "ثبت نام خود را در سایت تایید نمایید [sitename]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:253
+msgid "Confirmation email From field"
+msgstr "فیلد مبدا ایمیل تایید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:254
+msgid "Email with confirmation link From field"
+msgstr "فیلد مبدا ایمیل حاوی لینک تایید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:266
+msgid "Confirmation email text"
+msgstr "متن ایمیل تایید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:267
+msgid "Email with confirmation link content"
+msgstr "محتوای ایمیل حاوی لینک تایید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:269
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:310
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:338
+#, php-format
+msgid "You can use next variables here: %s"
+msgstr "شما می توانید این متغیر ها را استفاده نمایید: %s"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:275
+msgid ""
+"You registered on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your registration. If you did "
+"not register here - just ignore this message."
+msgstr ""
+"شما در سایت <a href=\"[siteurl]\">[sitename]</a> ثبت نام نموده اید. این <a "
+"href=\"[confirm_link]\"> لینک</a> را برای تکمیل ثبت نام خود را دنبال کنید. "
+"اگر شما اینجا ثبت نام نکرده اید - به این ایمیل توجه نکنید."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:281
+msgid "New Member email subject"
+msgstr "موضوع ایمیل عضو جدید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:282
+msgid "Email to New Member subject"
+msgstr "موضوع ایمیل به کاربر جدید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:288
+msgid "[sitename] Your username and password"
+msgstr "نام کاربری و رمز عبور شما در [sitename] عبارتست از"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:294
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:295
+msgid "New Member email From field"
+msgstr "مبدا ایمیل به کاربر جدید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:307
+msgid "New Member email text"
+msgstr "متن ایمیل کاربر جدید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:308
+msgid "Email to New Member content"
+msgstr "محتوای ایمیل به کاربر جدید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:316
+msgid "Username: [user_login]<br />Password: [password]<br />[login_url]"
+msgstr "Username: [user_login]<br />Password: [password]<br />[login_url]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:322
+msgid "New Member Notification"
+msgstr "اعلان کاربر جدید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:323
+msgid ""
+"Enter the email addresses that should receive notifications (separate by "
+"comma). Leave it blank - and you will not get any notifications."
+msgstr ""
+"ایمیل هایی که باید اعلان کاربر جدید را دریافت کنند وارد کنید (با کاما جدا "
+"شوند). اگر این قسمت خالی باشد ایمیلی دریافت نخواهید کرد."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:335
+msgid "New Member Notification email text"
+msgstr "متن ایمیل اطلاع رسانی کاربر جدید"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:336
+msgid "Message that you will receive about new members on your site."
+msgstr "پیامی که شما در مورد اعضای جدید در سایت خود دریافت خواهید کرد."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:345
+msgid ""
+"You have new member on your site <a href=\"[siteurl]\">[sitename]</a>, here "
+"us member information:<br />[subscriber_data]"
+msgstr ""
+"شما کاربر جدیدی در سایت <a href=\"[siteurl]\">[sitename]</a> دارید، اطلاعات "
+"کاربر جدید:<br>کاربر جدید [subscriber_data]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:352
+msgid "Registration Field Settings"
+msgstr "تنظیمات فیلد ثبت نام"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:356
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:405
+msgid "Name"
+msgstr "نام"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:357
+#, php-format
+msgid ""
+"Name (key) for your field. This parameter is for system - to be able to "
+"determine the field. Use here only latin letters, numbers and symbols -_+. "
+"For more info about this parameter - your can check <a href=\"%s\" target="
+"\"_blank\">this page</a>."
+msgstr ""
+"نام (key) فیلد شما. این پارامتر برای استفاده سیستم می باشد - برای شناسایی و "
+"تشخیص فیلدها. در این قسمت فقط از حروف لاتین، اعداد و نشانهای +_- استفاده "
+"نمایید. برای اطلاعات بیشتر می توانید به <a href=\"%s\" target=\"_blank\">این "
+"صفحه</a> مراجعه نمایید."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:366
+msgid "Label that will be visible for your members."
+msgstr "برچسب که برای کاربران شما قابل مشاهده می باشد."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:374
+msgid "Value"
+msgstr "مقدار"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:375
+msgid "Default value for your field"
+msgstr "مقدار پیشفرض برای این فیلد"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:383
+msgid "Html Type"
+msgstr "نوع در HTML"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:384
+msgid "This parameter will show - how we must render this field."
+msgstr "این پارامتر نشان می دهد- چگونه ما باید این فیلد را ارائه کنیم."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:394
+msgid "Select Options"
+msgstr "انتخاب گزینه ها"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:412
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:436
+msgid "Remove"
+msgstr "حذف"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:421
+msgid "Mandatory"
+msgstr "الزامی"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:422
+msgid ""
+"Is this field mandatory to fill-in. If yes - then users will not be able to "
+"continue without filling-in this field."
+msgstr ""
+"آیا پر کردن این فیلد برای کاربران الزامیست؟ اگر فیلدی الزامی انتخاب شود "
+"کاربران بدون پر کردن آن نمی توانند ادامه دهند."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:433
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: doc/popup-by-supsystic-pro/mailrelay/mod.php:9
+msgid "Mailrelay"
+msgstr "Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:15
+msgid ""
+"You have no lists. Login to your Mailrelay account and create your first "
+"list before start using this functionality."
+msgstr ""
+"شما هیچ لیستی ندارید. به حساب Mailrelay خود وارد شوید و قبل از استفاده از "
+"این قابلیت، ابتدا لیستی بسازید."
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:159
+msgid "Failed to create subscriber."
+msgstr "مشترک ایجاد نشد."
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:165
+msgid ""
+"Can not detect Host and API key. Contact site owner to resolve this issue."
+msgstr ""
+"قادر به شناسایی هاست و کد API نیستیم. برای حل این مشکل با مدیر سایت تماس "
+"بگیرید."
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:4
+msgid "Mailrelay not supported"
+msgstr "Mailrelay پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:8
+msgid "Mailrelay is not supported on your server"
+msgstr "Mailrelay بر روی سرور شما پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:14
+msgid "Mailrelay Host"
+msgstr "هاست Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:15
+msgid ""
+"Please enter the host that you have in your Mairelay welcome email. Please "
+"enter it without the initial http:// (for example demo.ip-zone.com)"
+msgstr ""
+"لطفا هاستی که در ایمیل خوش آمد Mairelay برای شما ارسال شده است را وارد "
+"نمایی. آنرا بدون http:// وارد کنید (برای مثال demo.ip-zone.com)"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:34
+msgid "Mailrelay API Key"
+msgstr "کد API برای Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:35
+msgid ""
+"Please enter your API key. You can generate your API key on your Mailrelay "
+"panel, Configuration -> API access -> Generate API key"
+msgstr ""
+"لطفا کلید API خود را وارد کنید. شما می توانید کلید API خود را در پنل "
+"Mailrelay خود ایجاد نمایید. پیکربندی-> API دسترسی-> تولید کلید API"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:47
+msgid ""
+"To create new groups in Mailrelay, you must login into the control panel and "
+"click into the Mail Relay > Subscribers groups. Once there you can add a new "
+"group for your Wordpress users, or edit an existing one"
+msgstr ""
+"برای ایجاد گروه های جدید در Mailrelay، شما باید به کنترل پانل وارد شوید و "
+"روی Mail Relay کلیک کنید > گروه مشترکین. در آن قسمت شما می توانید گروه جدیدی "
+"برای کاربران وردپرس خود بسازید یا گروه موجود را ویرایش کنید"
+
+#: doc/popup-by-supsystic-pro/on_exit/views/tpl/onExitAdminOption.php:1
+#, php-format
+msgid ""
+"Show when user tries to exit from your site. <a target=\"_blank\" href=\"%s"
+"\">Check example.</a>"
+msgstr ""
+"وقتی کاربری سعی در خروج از سایت شما دارد، نشان می دهد. <a target=\"_blank\" "
+"href=\"%s\">بررسی مثال</a>"
+
+#: doc/popup-by-supsystic-pro/on_exit/views/tpl/onExitAdminOption.php:5
+msgid "On Exit from Site"
+msgstr "هنگام خروج از سایت"
+
+#: doc/popup-by-supsystic-pro/salesforce/mod.php:11
+msgid "SalesForce - Web-to-Lead"
+msgstr "SalesForce - Web-to-Lead"
+
+#: doc/popup-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:14
+msgid "Form ID"
+msgstr "آرایه (ID) فرم"
+
+#: doc/popup-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:15
+#, php-format
+msgid ""
+"Generate your lead form in your Salesforce account (more about generating "
+"form you can read <a target=\"_blank\" href=\"%s\">here</a>), then copy \"oid"
+"\" value from it (<a target=\"_blank\" href=\"%s\">like this</a>) and insert "
+"it into this paramter"
+msgstr ""
+"فرم خود را در اکانت Salesforce بسازید و مقدار \"oid\" را در اینجا وارد کنید "
+"(<a target=\"_blank\" href=\"%s\">مانند اینجا</a>). می توانید در <a target="
+"\"_blank\" href=\"%s\">اینجا</a> بیشتر بدانید"
+
+#: doc/popup-by-supsystic-pro/sendgrid/mod.php:9
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:4
+msgid "SendGrid not supported"
+msgstr "SendGrid پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:8
+msgid "SendGrid is not supported on your server"
+msgstr "SendGrid بر روی سرور شما پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:14
+msgid "SendGrid Username"
+msgstr "نام کاربری SendGrid"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:15
+msgid "Your SendGrid name"
+msgstr "نام SendGrid شما"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:25
+msgid "SendGrid Password"
+msgstr "پسورد SendGrid"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:26
+msgid "Your SendGrid password"
+msgstr "پسورد SendGrid شما"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:37
+msgid "Select lists for subscribe. They are taken from your SendGrid account."
+msgstr ""
+"لیست برای اشتراک را انتخاب کنید. آنها از حساب SendGrid شما گرفته شده اند."
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/mod.php:8
+msgid "SG Autorepondeur"
+msgstr "پاسخگوی اتوماتیک SG"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:86
+msgid "Required fields are missing"
+msgstr "فیلدهای ضروری پر نشده اند"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:87
+msgid "The email is already in the list"
+msgstr "این ایمیل در حال حاضر در لیست موجود است"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:88
+msgid "Registration was refused-blacklisted"
+msgstr "ثبت نام انجام نشد - در لیست سیاه بود"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:89
+msgid "The country has been blocked"
+msgstr "کشور مسدود شده است"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:90
+msgid "Too many entries with the same IP address"
+msgstr "ورود اطلاعات بیش از معمول با یک آدرس IP"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:91
+msgid "Ok Register following a behavioral segmentation"
+msgstr "ثبت نام مطلوب بر اساس تقسیم بندی رفتاری"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:94
+msgid "The email is not the right format"
+msgstr "فرمت ایمیل مناسب نیست"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:95
+msgid "Error on one of the variables - User ID or List ID or Activation Code"
+msgstr "خطا در یکی از متغیرها - نام کاربری یا شناسه لیست یا کد فعال سازی"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:4
+msgid "SG Autorepondeur not supported"
+msgstr "پاسخگوی اتوماتیک SG پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:8
+msgid "SG Autorepondeur is not supported on your server"
+msgstr "پاسخگوی اتوماتیک SG بر روی سرور شما پشتیبانی نمی شود"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:14
+msgid "SG Autorepondeur User ID"
+msgstr "شناسه کاربری پاسخگوی اتوماتیک SG"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:15
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:26
+msgid "This info available on your home page in SG Autorepondeur"
+msgstr "این اطلاعات در صفحه اصلی شما در پاسخگوی اتوماتیک SG موجود است"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:25
+msgid "SG Autorepondeur List ID"
+msgstr "شناسه (ID) لیست پاسخگوی اتوماتیک SG"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:36
+msgid "SG Client Activation Code"
+msgstr "کد فعال سازی حساب کاربری مشتری SG"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:37
+msgid ""
+"This info available on the member's area in the top menu \"my account\" (at "
+"the bottom of the page)"
+msgstr ""
+"این اطلاعات در صفحه کاربری و در قسمت \"اکانت من\" موچود است (در پایین صفحه)"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/sub_fields.php:7
+msgid "Selectbox"
+msgstr "جعبه انتخابی"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/sub_fields.php:8
+msgid "Checkbox"
+msgstr "چک باکس"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/tpl/sfAdminControls.php:2
+msgid "Subscribe Field Settings"
+msgstr "تنظیمات فیلد اشتراک"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/tpl/sfAdminControls.php:16
+msgid "Label that will be visible for your subscribers."
+msgstr "برچسب که برای کاربران شما قابل مشاهده می باشد."
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:9
+msgid "PopUp ID is not specified."
+msgstr "شناسه (ID) پاپ آپ مشخص نشده است."
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:13
+msgid "Authorization code is not specified."
+msgstr "کد مجوز مشخص نشده است."
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:36
+msgid "Subscribing"
+msgstr "اشتراک"
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:45
+msgid "Cannot get your email address"
+msgstr "آدرس ایمیل شما قابل بازیابی نیست"
+
+#: doc/popup-by-supsystic-pro/sub_social/mod.php:75
+msgid "Sign in with"
+msgstr "وارد شدن با"
+
+#: doc/popup-by-supsystic-pro/sub_social/mod.php:76
+msgid "Facebook"
+msgstr "فیس بوک"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/mod.php:16
+msgid "Vertical Response"
+msgstr "Vertical Response"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/models/verticalresponse.php:104
+msgid "Can not access to Vertical Responce server"
+msgstr "دسترسی به سرور Vertical Response مقدور نیست"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/models/verticalresponse.php:106
+msgid "Empty code returned"
+msgstr "کد خالی برگشت داده شد"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:4
+msgid "Vertical Response Setup"
+msgstr "راه اندازی Vertical Response"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:5
+msgid "You must authorize to use Vertical Response features"
+msgstr "برای استفاده از ویژگی های Vertical Response باید اجازه دسترسی بدهید"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:8
+msgid "Authorize in Vertical Response"
+msgstr "اجازه دسترسی در Vertical Response"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:15
+msgid ""
+"Select lists for subscribe. They are taken from your Vertical Response "
+"account."
+msgstr ""
+"لیستی برای اشتراک انتخاب کنید. آنها را از حساب Vertical Response گرفته شده "
+"اند."
+
+#: doc/promo-popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, php-format
+msgid ""
+"You can find it under your GetResponse Account -> GetResponse API, here is "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+"شما می توانید آن را در قسمت اکانت GetResponse خود پیدا کنید -> GetResponse "
+"API، برای تصویر کمکی <a href=\"%s\" class=\"ppsAcHelpApiKeyLink\">اینجا کلیک "
+"کنید</a>"
+
+#: doc/promo-popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed and PHP "
+"version to be at least 5.3. Please contact your hosting provider and ask "
+"them to enable cUrl for you, this is Free library, and check your PHP "
+"version."
+msgstr ""
+"این ماژول نیاز به cUrl library برای PHP بر روی سرور و PHP ورژن 5.3 دارد. "
+"لطفا با هاست خود تماس بگیرید و درخواست کنید تا برای شما cUrl را فعال کنند و "
+"ورژن PHP خود را بررسی نمایید. این یک سرویس رایگان است."
+
+#: doc/promo-popup-by-supsystic-pro/layered_popup/mod.php:10
+msgid "Layered Style"
+msgstr "استایل لایه بندی شده"
+
+#: modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from supsystic.com developers. I tried %s - and this "
+"was what I need! #supsystic.com"
+msgstr ""
+"افزونه های وردپرس عالی از طراحان supsystic.com. من %s را استفاده کردم و همان "
+"بود که لازم داشتم! #supsystic.com"
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr "پلاگین های بیشتر برای سایت وردپرسی شما در اینجا!"
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr "به گوش همگان برسانید!"
+
+#: modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr ""
+"حالا ایمیل خود را برای یافتن ایمیل تست چک کنید. پوشه هرزنامه را نیز چک کنید."
+
+#: modules/mail/mod.php:41
+msgid "Cannot send email - problem with send server"
+msgstr "قادر به ارسال ایمیل نیست - مشکل با سرور فرستنده"
+
+#: modules/mail/mod.php:54
+msgid "Mail"
+msgstr "ایمیل"
+
+#: modules/mail/mod.php:56
+msgid "Mail function tested and work"
+msgstr "ایمیل تست شده و کار می کند"
+
+#: modules/mail/mod.php:57
+msgid "Notify Email"
+msgstr "ایمیل اطلاع رسانی"
+
+#: modules/mail/mod.php:57
+msgid "Email address used for all email notifications from plugin"
+msgstr "آدرس ایمیل برای دریافت تمام اطلاعیه های این پلاگین"
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr "تست کارایی ایمیل"
+
+#: modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr "این ایمیل آزمایشی برای تست کارایی ایمیل در سایت شما %s است."
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "آدرس ایمیل خالی است"
+
+#: modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr "ارسال ایمیل آزمایشی به"
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "ارسال تست"
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr "این گزینه به شما اجازه میدهد تا کارایی سرور ایمیل خود را بررسی کنید"
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr "آیا ایمیل تست را دریافت نمودید؟"
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr "بله! کار می کند!"
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr "نه، من نیاز به تماس با هاست خود در مورد مشکل کارایی ایمیل خود دارم."
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr "عالی! ایمیل مورد آزمایش قرار گرفت و بخوبی کار می کند."
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+"بد، لطفا با هاست خود تماس بگیرید و از آنها بخواهید کارایی ایمیل را برای سرور "
+"شما راه اندازی کنند."
+
+#: modules/mail/views/tpl/mailAdmin.php:47
+#: modules/options/views/tpl/optionsSettingsTabContent.php:44
+#, php-format
+msgid "Turned On %s"
+msgstr "روشن شد %s"
+
+#: modules/mail/views/tpl/mailAdmin.php:48
+#: modules/options/views/tpl/optionsSettingsTabContent.php:45
+#, php-format
+msgid "Turned Off %s"
+msgstr "خاموش شد %s"
+
+#: modules/mail/views/tpl/mailAdmin.php:69
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr "ذخیره"
+
+#: modules/options/mod.php:114
+msgid "General"
+msgstr "عمومی"
+
+#: modules/options/mod.php:116
+msgid "Send usage statistics"
+msgstr "ارسال آمار کاربرد"
+
+#: modules/options/mod.php:116
+msgid ""
+"Send information about what plugin options you prefer to use, this will help "
+"us make our solution better for You."
+msgstr ""
+"ارسال اطلاعات گزینه های انتخابی شما در پلاگین، این اطلاعات در بهبود این "
+"افزونه به ما کمک میکند."
+
+#: modules/options/mod.php:117
+msgid "Disable blocking Subscription from same IP"
+msgstr "غیر فعال کردن مسدود شدن اشتراک از IP مشابه"
+
+#: modules/options/mod.php:117
+msgid ""
+"By default our plugin have feature to block subscriptions from same IP more "
+"then one time per hour - to avoid spam subscribers. But you can disable this "
+"feature here."
+msgstr ""
+"بصورت پیشفرض این افزونه اشتراکهای بیشتر از یکی در هر ساعت را از IP مشابه "
+"مسدود می کند - برای جلوگیری از اشتراک های هرز. اما این قابلیت را شما می "
+"توانید اینجا غیر فعال کنید."
+
+#: modules/options/mod.php:118
+msgid "Disable autosave on PopUp Edit"
+msgstr "غیر فعال کردن ذخیره خودکار در هنگام ویرایش پاپ آپ"
+
+#: modules/options/mod.php:118
+msgid ""
+"By default our plugin will make autosave all your changes that you do in "
+"PopUp edit screen, but you can disable this feature here. Just don't forget "
+"to save your PopUp each time you make any changes in it."
+msgstr ""
+"بصورت پیشفرض این افزونه تغییراتی را که در صفحه ویرایش پاپ آپ ایجاد میکنید "
+"ذخیره می کند، اما شما می توانید این قابلیت را اینجا غیر فعال کنید. فقط "
+"فراموش نکنید که تغییرات خود را در صفحه ویرایش پاپ آپ به موقع ذخیره کنید."
+
+#: modules/options/mod.php:119
+msgid "Enable promo link"
+msgstr "فعال کردن لینک تبلیغی"
+
+#: modules/options/mod.php:119
+msgid ""
+"We are trying to make our plugin better for you, and you can help us with "
+"this. Just check this option - and small promotion link will be added in the "
+"bottom of your PopUp. This is easy for you - but very helpful for us!"
+msgstr ""
+"ما در حال تلاشیم تا افزونه خود را برای شما بهتر کنیم و شما می توانید به ما "
+"کمک کنید. کافیست این گزینه را فعال کنید تا لینک کوچکی از ما در پایین پاپ آپ "
+"شما اضافه شود. این برای شما آسان است - اما برای ما بسیار کارآمد!"
+
+#: modules/options/mod.php:120
+msgid "User role can use plugin"
+msgstr "کاربری که می تواند از پلاگین استفاده کند"
+
+#: modules/options/mod.php:120
+msgid "User with next roles will have access to whole plugin from admin area."
+msgstr ""
+"این نوع کاربرها می توانند به کل تنظیمات پلاگین از قسمت مدیریت سایت دسترسی "
+"داشته باشند."
+
+#: modules/options/mod.php:121
+msgid "Load Assets in Footer"
+msgstr "بارگذاری اسکریپت ها در فوتر"
+
+#: modules/options/mod.php:121
+msgid ""
+"Force load all plugin CSS and JavaScript files in footer - to increase page "
+"load speed. Please make sure that you have correct footer.php file in your "
+"WordPress theme with wp_footer() function call in it."
+msgstr ""
+"تمام فایلهای CSS و جاوا اسکریپت در فوتر سایت بارگذاری می شوند - برای افزایش "
+"سرعت بارگذاری صفحه. لطفا اطمینان حاصل کنید که شما فایل footer.php را با هوک "
+"wp_footer() در فایلهای قالب وردپرس خود دارید."
+
+#: modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr "ماژول با موفقیت به روز رسانی شد"
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "به روز رسانی نا موفق بود"
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "شناسه (ID) ماژول غیر معتبر"
+
+#: modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr "اطلاعات را جهت ذخیره تنظیمات حذف کنید"
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr "صفحه اصلی اینجا قرار میگیرد!!!!"
+
+#: modules/options/views/tpl/optionsAdminPage.php:35
+msgid "Improve Free version"
+msgstr "نسخه رایگان را ارتقا دهید"
+
+#: modules/options/views/tpl/optionsAdminPage.php:37
+#, php-format
+msgid ""
+"Please be advised that this template with all other options and PRO "
+"templates is available only in <a target=\"_blank\" href=\"%s\">PRO version</"
+"a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> "
+"today and get this and other PRO templates and features for your PopUps!"
+msgstr ""
+"لطفا در نظر داشته باشید که این قالب و تمام قابلیتهای دیگر و قالبهای PRO تنها "
+"در <a target=\"_blank\" href=\"%s\">PRO version</a> موجود می باشد. شما می "
+"توانید <a target=\"_blank\" href=\"%s\" class=\"button\">از اینجا</a> این "
+"قالب و بقیه قالبها و قابلیتهای نسخه PRO را همین امروز دریافت کنید!"
+
+#: modules/options/views/tpl/optionsAdminPage.php:40
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option for your "
+"PopUps!"
+msgstr ""
+"لطفا در نظر داشته باشید که این قابلیت تنها در <a target=\"_blank\" href=\"%s"
+"\">PRO version</a> موجود می باشد. شما می توانید <a target=\"_blank\" href="
+"\"%s\" class=\"button\">از اینجا</a> این قالب و بقیه قالبها و قابلیتهای نسخه "
+"PRO را همین امروز دریافت کنید!"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr "ذخیره تمام تغییرات"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:52
+msgid "PRO option"
+msgstr "قابلیت نسخه PRO"
+
+#: modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+"حذف داده های افزونه (گزینه ها، داده های راه اندازی، جداول پایگاه داده، و "
+"غیره)"
+
+#: modules/popup/controller.php:22
+msgid "Yes"
+msgstr "بله"
+
+#: modules/popup/controller.php:22
+msgid "No"
+msgstr "نه"
+
+#: modules/popup/controller.php:257
+msgid "Done, redirecting to new PopUp..."
+msgstr "انجام شد، هدایت به پاپ آپ جدید..."
+
+#: modules/popup/mod.php:20
+msgid "Add New PopUp"
+msgstr "اضافه کردن پاپ آپ جدید"
+
+#: modules/popup/mod.php:23
+msgid "Edit"
+msgstr "ویرایش"
+
+#: modules/popup/mod.php:26
+msgid "Show All PopUps"
+msgstr "نمایش همه پاپ آپها"
+
+#: modules/popup/mod.php:371
+msgid "PopUp"
+msgstr "پاپ آپ"
+
+#: modules/popup/models/popup.php:98
+msgid "img/preview/"
+msgstr "تصویر/پیش نمایش/"
+
+#: modules/popup/models/popup.php:151
+msgid "Please select PopUp template from list below"
+msgstr "لطفا قالب پاپ آپ را از لیست زیر انتخاب کنید"
+
+#: modules/popup/models/popup.php:153 modules/popup/models/popup.php:534
+msgid "Please enter Name"
+msgstr "لطفا نام را وارد کنید"
+
+#: modules/popup/models/popup.php:186
+msgid "Enter your Facebook page URL"
+msgstr "آدرس فیس بوک خود را وارد کنید"
+
+#: modules/popup/models/popup.php:193
+msgid "Enter your video URL"
+msgstr "آدرس ویدئو را وارد نمائید"
+
+#: modules/popup/models/popup.php:344
+msgid "Common"
+msgstr "رایج"
+
+#: modules/popup/models/popup.php:345
+msgid "Facebook Like"
+msgstr "لایک فیس بوک"
+
+#: modules/popup/models/popup.php:346
+msgid "Video"
+msgstr "ویدیو"
+
+#: modules/popup/models/popup.php:347
+msgid "iFrame"
+msgstr "آی فریم"
+
+#: modules/popup/models/popup.php:348
+msgid "Simple HTML"
+msgstr "HTML ساده"
+
+#: modules/popup/models/popup.php:349
+msgid "PDF"
+msgstr "PDF"
+
+#: modules/popup/models/popup.php:350
+msgid "Age Verification"
+msgstr "تایید سن"
+
+#: modules/popup/models/popup.php:351
+msgid "Full Screen"
+msgstr "تمام صفحه"
+
+#: modules/popup/models/popup.php:352
+msgid "Login / Registration"
+msgstr "ورود / ثبت نام"
+
+#: modules/popup/models/popup.php:353
+msgid "Notification Bar"
+msgstr "نوار اطلاع رسانی"
+
+#: modules/popup/models/popup.php:395
+msgid "Provided data was corrupted"
+msgstr "اطلاعات ارسال شده ناقص است"
+
+#: modules/popup/models/popup.php:560
+msgid "Name can not be empty"
+msgstr "نام نباید خالی باشد"
+
+#: modules/popup/models/popup.php:575 modules/popup/models/popup.php:589
+#: modules/popup/models/popup.php:668 modules/popup/models/popup.php:671
+#: modules/popup/models/popup.php:700
+msgid "Left side background"
+msgstr "پس زمینه قسمت چپ"
+
+#: modules/popup/models/popup.php:576 modules/popup/models/popup.php:586
+#: modules/popup/models/popup.php:590 modules/popup/models/popup.php:632
+#: modules/popup/models/popup.php:672 modules/popup/models/popup.php:701
+msgid "Right side background"
+msgstr "پس زمینه قسمت راست"
+
+#: modules/popup/models/popup.php:577
+msgid "Subscribe button background"
+msgstr "پس زمینه دکمه اشتراک"
+
+#: modules/popup/models/popup.php:580 modules/popup/models/popup.php:584
+#: modules/popup/models/popup.php:594 modules/popup/models/popup.php:603
+#: modules/popup/models/popup.php:607 modules/popup/models/popup.php:616
+#: modules/popup/models/popup.php:620
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:158
+msgid "Background"
+msgstr "پس زمینه"
+
+#: modules/popup/models/popup.php:581
+msgid "Sign up button background"
+msgstr "پس زمینه دکمه ثبت نام"
+
+#: modules/popup/models/popup.php:585 modules/popup/models/popup.php:591
+#: modules/popup/models/popup.php:595 modules/popup/models/popup.php:600
+#: modules/popup/models/popup.php:604 modules/popup/models/popup.php:608
+#: modules/popup/models/popup.php:613 modules/popup/models/popup.php:617
+#: modules/popup/models/popup.php:633 modules/popup/models/popup.php:639
+#: modules/popup/models/popup.php:644 modules/popup/models/popup.php:649
+#: modules/popup/models/popup.php:655 modules/popup/models/popup.php:667
+#: modules/popup/models/popup.php:673 modules/popup/models/popup.php:696
+#: modules/popup/models/popup.php:702 modules/popup/models/popup.php:712
+#: modules/popup/models/popup.php:719 modules/popup/models/popup.php:723
+#: modules/popup/models/popup.php:736 modules/popup/models/popup.php:747
+#: modules/popup/models/popup.php:752 modules/popup/models/popup.php:757
+#: modules/popup/models/popup.php:765 modules/popup/models/popup.php:770
+msgid "Button background"
+msgstr "پس زمینه دکمه"
+
+#: modules/popup/models/popup.php:598
+msgid "Main Background"
+msgstr "پس زمینه اصلی"
+
+#: modules/popup/models/popup.php:599
+msgid "Down background"
+msgstr "پس زمینه پایین"
+
+#: modules/popup/models/popup.php:611
+msgid "Left Side Background"
+msgstr "پس زمینه قسمت چپ"
+
+#: modules/popup/models/popup.php:612
+msgid "Right Side background"
+msgstr "پس زمینه قسمت راست"
+
+#: modules/popup/models/popup.php:621
+msgid "Sign-up button background"
+msgstr "پس زمینه دکمه ثبت نام"
+
+#: modules/popup/models/popup.php:622 modules/popup/models/popup.php:684
+msgid "Close button background"
+msgstr "پس زمینه دکمه بستن"
+
+#: modules/popup/models/popup.php:625 modules/popup/models/popup.php:630
+#: modules/popup/models/popup.php:636 modules/popup/models/popup.php:643
+#: modules/popup/models/popup.php:648 modules/popup/models/popup.php:653
+#: modules/popup/models/popup.php:658 modules/popup/models/popup.php:666
+#: modules/popup/models/popup.php:677 modules/popup/models/popup.php:683
+#: modules/popup/models/popup.php:689 modules/popup/models/popup.php:695
+#: modules/popup/models/popup.php:705 modules/popup/models/popup.php:711
+#: modules/popup/models/popup.php:715 modules/popup/models/popup.php:722
+#: modules/popup/models/popup.php:726 modules/popup/models/popup.php:730
+#: modules/popup/models/popup.php:735 modules/popup/models/popup.php:740
+#: modules/popup/models/popup.php:745 modules/popup/models/popup.php:750
+#: modules/popup/models/popup.php:755 modules/popup/models/popup.php:760
+#: modules/popup/models/popup.php:764 modules/popup/models/popup.php:768
+msgid "Main background"
+msgstr "پس زمینه اصلی"
+
+#: modules/popup/models/popup.php:626 modules/popup/models/popup.php:650
+#: modules/popup/models/popup.php:685
+msgid "Middle side background"
+msgstr "پس زمینه قسمت وسط"
+
+#: modules/popup/models/popup.php:627
+msgid "Down side background"
+msgstr "پس زمینه قسمت پایین"
+
+#: modules/popup/models/popup.php:631
+msgid "Fields background"
+msgstr "پس زمینه فیلدها"
+
+#: modules/popup/models/popup.php:637
+msgid "Left picture background"
+msgstr "پس زمینه عکس چپ"
+
+#: modules/popup/models/popup.php:638
+msgid "Background image"
+msgstr "تصویر پس زمینه"
+
+#: modules/popup/models/popup.php:640 modules/popup/models/popup.php:654
+#: modules/popup/models/popup.php:662 modules/popup/models/popup.php:734
+msgid "Additional background"
+msgstr "پس زمینه اضافی"
+
+#: modules/popup/models/popup.php:645 modules/popup/models/popup.php:727
+#: modules/popup/models/popup.php:731 modules/popup/models/popup.php:761
+msgid "Frame background"
+msgstr "پس زمینه فریم"
+
+#: modules/popup/models/popup.php:659
+msgid "Exit button background"
+msgstr "پس زمینه دکمه خروج"
+
+#: modules/popup/models/popup.php:660 modules/popup/models/popup.php:707
+#: modules/popup/models/popup.php:771
+msgid "Left image background"
+msgstr "پس زمینه عکس چپ"
+
+#: modules/popup/models/popup.php:661 modules/popup/models/popup.php:686
+#: modules/popup/models/popup.php:690
+msgid "Submit button background"
+msgstr "پس زمینه دکمه ثبت"
+
+#: modules/popup/models/popup.php:663 modules/popup/models/popup.php:717
+msgid "Right image background"
+msgstr "پس زمینه عکس راست"
+
+#: modules/popup/models/popup.php:674 modules/popup/models/popup.php:679
+#: modules/popup/models/popup.php:697 modules/popup/models/popup.php:746
+#: modules/popup/models/popup.php:751 modules/popup/models/popup.php:756
+msgid "Image background"
+msgstr "پس زمینه تصویر"
+
+#: modules/popup/models/popup.php:678 modules/popup/models/popup.php:706
+#: modules/popup/models/popup.php:769
+msgid "Field background"
+msgstr "پس زمینه فیلد"
+
+#: modules/popup/models/popup.php:680
+msgid "Go button background"
+msgstr "پس زمینه دکمه شروع"
+
+#: modules/popup/models/popup.php:691
+msgid "Right Image background"
+msgstr "پس زمینه عکس راست"
+
+#: modules/popup/models/popup.php:692
+msgid "Right background"
+msgstr "پس زمینه قسمت راست"
+
+#: modules/popup/models/popup.php:708
+msgid "Get it now button background"
+msgstr "پس زمینه دکمه حالا دریافت کنید"
+
+#: modules/popup/models/popup.php:716 modules/popup/models/popup.php:739
+msgid "Upper background"
+msgstr "پس زمینه بالایی"
+
+#: modules/popup/models/popup.php:718
+msgid "Bottom background"
+msgstr "پس زمینه پایین"
+
+#: modules/popup/models/popup.php:741
+msgid "Yes button background"
+msgstr "پس زمینه دکمه بله"
+
+#: modules/popup/models/popup.php:742
+msgid "No button background"
+msgstr "پس زمینه دکمه خیر"
+
+#: modules/popup/views/popup.php:42
+msgid "Modify PopUp Template"
+msgstr "تغییر قالب پاپ آپ"
+
+#: modules/popup/views/popup.php:52
+msgid "Cannot find required PopUp"
+msgstr "پاپ آپ مورد نیاز پیدا نشد"
+
+#: modules/popup/views/popup.php:89
+msgid "Available in PRO version"
+msgstr "در نسخه حرفه ای (PRO) فعال است"
+
+#: modules/popup/views/popup.php:92 modules/popup/views/popup.php:393
+#: modules/popup/views/popup.php:743
+msgid "None"
+msgstr "هیچ"
+
+#: modules/popup/views/popup.php:93
+msgid "Image"
+msgstr "تصویر"
+
+#: modules/popup/views/popup.php:94
+msgid "Color"
+msgstr "رنگ"
+
+#: modules/popup/views/popup.php:98
+msgid "Mobile"
+msgstr "تلفن همراه"
+
+#: modules/popup/views/popup.php:99
+msgid "Tablet"
+msgstr "تبلت"
+
+#: modules/popup/views/popup.php:100
+msgid "Desktop PC"
+msgstr "کامپیوتر ها"
+
+#: modules/popup/views/popup.php:118
+msgid "Main Home page"
+msgstr "صفحه اصلی سایت"
+
+#: modules/popup/views/popup.php:207
+msgid "Appearance"
+msgstr "ظاهر"
+
+#: modules/popup/views/popup.php:212
+msgid "Popup Opening Animation"
+msgstr "انیمیشن باز و بسته شدن پاپ آپ"
+
+#: modules/popup/views/popup.php:219
+msgid "Texts"
+msgstr "متن"
+
+#: modules/popup/views/popup.php:226
+msgid "Social"
+msgstr "اجتماعی"
+
+#: modules/popup/views/popup.php:237
+msgid "Main"
+msgstr "اصلی"
+
+#: modules/popup/views/popup.php:242
+msgid "Design"
+msgstr "طرح"
+
+#: modules/popup/views/popup.php:247
+msgid "CSS / HTML Code"
+msgstr "کد CSS / HTML"
+
+#: modules/popup/views/popup.php:254
+msgid "Subscribe"
+msgstr "اشتراک"
+
+#: modules/popup/views/popup.php:278
+msgid "Facebook page URL"
+msgstr "نشانی اینترنتی صفحه فیس بوک"
+
+#: modules/popup/views/popup.php:280
+msgid ""
+"The absolute URL of the Facebook Page that will be liked. This is a required "
+"setting."
+msgstr "آدرس مطلق از صفحه فیس بوک که لایک خواهد شد. این تنظیمات مورد نیاز است."
+
+#: modules/popup/views/popup.php:282
+msgid "Color scheme"
+msgstr "رنگ طرح"
+
+#: modules/popup/views/popup.php:284
+msgid "Light"
+msgstr "روشن"
+
+#: modules/popup/views/popup.php:284
+msgid "Dark"
+msgstr "تیره"
+
+#: modules/popup/views/popup.php:285
+msgid "The color scheme used by the plugin. Can be \"light\" or \"dark\"."
+msgstr "رنگ بندی استفاده شده برای افزونه. می تواند \"روشن\" یا \"تیره\" باشد."
+
+#: modules/popup/views/popup.php:287
+msgid "Force wall"
+msgstr "اجبار به دیوار (wall) فیسبوک"
+
+#: modules/popup/views/popup.php:289
+msgid ""
+"For \"place\" Pages (Pages that have a physical location that can be used "
+"with check-ins), this specifies whether the stream contains posts by the "
+"Page or just check-ins from friends."
+msgstr ""
+"برای صفحات \"مکانها\" در فیسبوک که قابلیت چک این دارند، این قابلیت مشخص می "
+"کند که فعالیت دوستان در آن صفحه یا پستهای صفحه در نظر گرفته شوند."
+
+#: modules/popup/views/popup.php:291
+msgid "Header"
+msgstr "هدر"
+
+#: modules/popup/views/popup.php:293
+msgid ""
+"Specifies whether to display the Facebook header at the top of the plugin."
+msgstr "نمایش هدر فیس بوک در بالای پلاگین را مشخص می کند."
+
+#: modules/popup/views/popup.php:295
+msgid "Show border"
+msgstr "نمایش مرز"
+
+#: modules/popup/views/popup.php:297
+msgid "Specifies whether or not to show a border around the plugin."
+msgstr "انتخاب نمایش یا عدم نمایش نقطه مرز دور افزونه."
+
+#: modules/popup/views/popup.php:299
+msgid "Show faces"
+msgstr "نمایش صورت ها"
+
+#: modules/popup/views/popup.php:301
+msgid ""
+"Specifies whether to display profile photos of people who like the page."
+msgstr ""
+"در مورد اینکه آیا عکس از افرادی که صفحه فیسبوک را لایک می کنند نمایش داده "
+"شود یا خیر."
+
+#: modules/popup/views/popup.php:303
+msgid "Stream"
+msgstr "جریان"
+
+#: modules/popup/views/popup.php:305
+msgid "Specifies whether to display a stream of the latest posts by the Page."
+msgstr "نشان دادن جریان آخرین پستهای صفحه فیسبوک را مشخص می کند."
+
+#: modules/popup/views/popup.php:357
+msgid "None - use Standard PopUp Social Buttons"
+msgstr "هیچ کدام - استفاده از دکمه های استاندارد اجتماعی پاپ آپ"
+
+#: modules/popup/views/popup.php:394
+msgid "Puff"
+msgstr "Puff"
+
+#: modules/popup/views/popup.php:395
+msgid "Vanish"
+msgstr "Vanish"
+
+#: modules/popup/views/popup.php:397
+msgid "Open down left"
+msgstr "باز شدن در سمت چپ پایین"
+
+#: modules/popup/views/popup.php:398
+msgid "Open down right"
+msgstr "باز شدن در سمت راست پایین"
+
+#: modules/popup/views/popup.php:400
+msgid "Perspective down"
+msgstr "چشم انداز پایین"
+
+#: modules/popup/views/popup.php:401
+msgid "Perspective up"
+msgstr "چشم انداز بالا"
+
+#: modules/popup/views/popup.php:403
+msgid "Slide down"
+msgstr "اسلاید پایین"
+
+#: modules/popup/views/popup.php:404
+msgid "Slide up"
+msgstr "اسلاید بالا"
+
+#: modules/popup/views/popup.php:406
+msgid "Swash"
+msgstr "سواش"
+
+#: modules/popup/views/popup.php:407
+msgid "Foolis"
+msgstr "فولیس"
+
+#: modules/popup/views/popup.php:409
+msgid "Tin right"
+msgstr "تین راست"
+
+#: modules/popup/views/popup.php:410
+msgid "Tin left"
+msgstr "تین چپ"
+
+#: modules/popup/views/popup.php:411
+msgid "Tin up"
+msgstr "تین بالا"
+
+#: modules/popup/views/popup.php:412
+msgid "Tin down"
+msgstr "تین پایین"
+
+#: modules/popup/views/popup.php:414
+msgid "Boing"
+msgstr "بویینگ"
+
+#: modules/popup/views/popup.php:416
+msgid "Space right"
+msgstr "فاصله راست"
+
+#: modules/popup/views/popup.php:417
+msgid "Space left"
+msgstr "فاصله چپ"
+
+#: modules/popup/views/popup.php:418
+msgid "Space up"
+msgstr "فاصله بالا"
+
+#: modules/popup/views/popup.php:419
+msgid "Space down"
+msgstr "فاصله پایین"
+
+#: modules/popup/views/popup.php:426
+msgid "Bounce"
+msgstr "جهش"
+
+#: modules/popup/views/popup.php:427
+msgid "Bounce Up"
+msgstr "جهش به بالا"
+
+#: modules/popup/views/popup.php:428
+msgid "Bounce Down"
+msgstr "جهش به پایین"
+
+#: modules/popup/views/popup.php:429
+msgid "Bounce Left"
+msgstr "جهش به چپ"
+
+#: modules/popup/views/popup.php:430
+msgid "Bounce Right"
+msgstr "جهش به راست"
+
+#: modules/popup/views/popup.php:432
+msgid "Fade"
+msgstr "محو شدن"
+
+#: modules/popup/views/popup.php:433
+msgid "Fade Up"
+msgstr "محو شدن به بالا"
+
+#: modules/popup/views/popup.php:434
+msgid "Fade Down"
+msgstr "محو شدن به پایین"
+
+#: modules/popup/views/popup.php:435
+msgid "Fade Left"
+msgstr "محو شدن به چپ"
+
+#: modules/popup/views/popup.php:436
+msgid "Fade Right"
+msgstr "محو شدن به راست"
+
+#: modules/popup/views/popup.php:438
+msgid "Flip X"
+msgstr "چرخش به محور X"
+
+#: modules/popup/views/popup.php:439
+msgid "Flip Y"
+msgstr "چرخش به محور Y"
+
+#: modules/popup/views/popup.php:441
+msgid "Rotate"
+msgstr "چرخش"
+
+#: modules/popup/views/popup.php:442
+msgid "Rotate Up Left"
+msgstr "چرخش بیرون بالا چپ"
+
+#: modules/popup/views/popup.php:443
+msgid "Rotate Up Right"
+msgstr "چرخش بیرون بالا راست"
+
+#: modules/popup/views/popup.php:444
+msgid "Rotate Down Left"
+msgstr "چرخش بیرون پایین چپ"
+
+#: modules/popup/views/popup.php:445
+msgid "Rotate Down Right"
+msgstr "چرخش بیرون پایین راست"
+
+#: modules/popup/views/popup.php:447
+msgid "Slide Up"
+msgstr "اسلاید به بالا"
+
+#: modules/popup/views/popup.php:448
+msgid "Slide Down"
+msgstr "اسلاید به پایین"
+
+#: modules/popup/views/popup.php:449
+msgid "Slide Left"
+msgstr "اسلاید به چپ"
+
+#: modules/popup/views/popup.php:450
+msgid "Slide Right"
+msgstr "اسلاید به راست"
+
+#: modules/popup/views/popup.php:452
+msgid "Zoom"
+msgstr "بزرگنمایی"
+
+#: modules/popup/views/popup.php:453
+msgid "Zoom Up"
+msgstr "زوم بالا"
+
+#: modules/popup/views/popup.php:454
+msgid "Zoom Down"
+msgstr "زوم پایین"
+
+#: modules/popup/views/popup.php:455
+msgid "Zoom Left"
+msgstr "زوم چپ"
+
+#: modules/popup/views/popup.php:456
+msgid "Zoom Right"
+msgstr "زوم راست"
+
+#: modules/popup/views/popup.php:458
+msgid "Light Speed"
+msgstr "سرعت نور"
+
+#: modules/popup/views/popup.php:459
+msgid "Rolling!"
+msgstr "غلت زنی!"
+
+#: modules/popup/views/popup.php:767
+msgid "None (standard)"
+msgstr "هیچ کدام (استاندارد)"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:20
+#, php-format
+msgid ""
+"Change Template to any other from the list below or <a class=\"button\" href="
+"\"%s\">return to Pop-Up edit</a>"
+msgstr ""
+"قالب را به هر کدام از گزینه های زیر تغییر دهید و یا <a class=\"button\" href="
+"\"%s\">بازگشت به ویرایش پاپ آپ</a>"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:22
+msgid "Choose Pop-Up Template. You can change it later."
+msgstr "الگوی پاپ آپ را انتخاب کنید. شما می توانید آن را بعدا تغییر دهید."
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:31
+msgid "PopUp Name"
+msgstr "نام پاپ آپ"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:44
+#: modules/popup/views/tpl/popupAddNewAdmin.php:54
+msgid "All"
+msgstr "همه"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:69
+msgid "type"
+msgstr "نوع"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:72
+msgid "Get in PRO"
+msgstr "دریافت نسخه حرفه ای PRO"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:83
+msgid "Change Template"
+msgstr "تغییر قالب"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:85
+msgid "Are you sure you want to change your current template - to "
+msgstr "آیا مطمئن هستید که می خواهید قالب فعلی خود را تغییر دهید - به "
+
+#: modules/popup/views/tpl/popupAdmin.php:11
+#: modules/popup/views/tpl/popupAdmin.php:12
+msgid "Search"
+msgstr "جستجو"
+
+#: modules/popup/views/tpl/popupAdmin.php:21
+#, php-format
+msgid ""
+"You have no PopUps for now. <a href=\"%s\" style=\"font-style: italic;"
+"\">Create</a> your PopUp!"
+msgstr ""
+"شما در حال حاضر پاپ آپی ندارید. پاپ آپ خود را <a href=\"%s\" style=\"font-"
+"style: italic;\">بسازید</a> !"
+
+#: modules/popup/views/tpl/popupEditAdmin.php:108
+msgid "Loading preview..."
+msgstr "بارگذاری پیش نمایش ..."
+
+#: modules/popup/views/tpl/popupEditAdmin.php:113
+msgid "Back to top"
+msgstr "رفتن به بالا"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:2
+msgid "Choose PopUp animation style"
+msgstr "انتخاب سبک انیمیشن پاپ آپ"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:3
+msgid "current style"
+msgstr "استایل کنونی"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:30
+msgid "Animation Duration"
+msgstr "مدت زمان انیمیشن"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:32
+msgid "miliseconds"
+msgstr "میلی ثانیه"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:2
+#, php-format
+msgid ""
+"Edit this ONLY if you know basics of HTML, CSS and have been acquainted with "
+"the rules of template editing described <a target=\"_blank\" href=\"%s"
+"\">here</a>"
+msgstr ""
+"فقط در صورتی که اطلاعات پایه HTML و CSS دارید این قسمت را ویرایش کنید <a "
+"target=\"_blank\" href=\"%s\">اطلاعات بیشتر</a>"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:5
+msgid "CSS code"
+msgstr "کد CSS"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:9
+msgid "HTML code"
+msgstr "کد HTML"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:5
+msgid "Video URL"
+msgstr "لینک ویدئو"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:6
+msgid "Copy and paste here URL of your video source"
+msgstr "جهت وارد کردن ویدئوی خود لینک مورد نظر را  اینجا قرار دهید"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:16
+msgid "iFrame URL"
+msgstr "آدرس (URL) آی فریم"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:17
+#, php-format
+msgid ""
+"Copy and paste here URL of site, that you need to display in PopUp as "
+"iFrame. Please note that some sites can block such possibility, you can read "
+"more about this <a target=\"_blank\" href=\"%s\">for example here</a>"
+msgstr ""
+"URL سایتی که می خواهید اطلاعاتش را بصورت پاپ آپ نمایش دهید اینجا وارد کنید. "
+"لطفا در نظر داشته باشید که برخی سایتها این امکان را می توانند مسدود کنند.  "
+"<a target=\"_blank\" href=\"%s\">اطلاعات بیشتر</a>"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:27
+msgid "PDF URL"
+msgstr "لینک pdf"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:28
+msgid ""
+"Copy and paste here URL to your PDF file. You can simply upload it on your "
+"server (using FTP for example), then insert URL in this field - and you will "
+"see how it work. Enjoy!"
+msgstr ""
+"در اینجا لینک مربوط به فایل PDF را وارد کنید. شما براحتی می توانید آنرا در "
+"سرور خود بارگذاری نموده و سپس آدرس URL آنرا اینجا وارد کنید و لذت ببرید!"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:37
+msgid "Width"
+msgstr "عرض"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:44
+msgid "Max width for percentage - is 100"
+msgstr "حداکثر عرض درصد با بیان درصد - 100 است"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:46
+msgid "Percents"
+msgstr "درصد"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:50
+msgid "Pixels"
+msgstr "پیکسل ها"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:60
+msgid "Height"
+msgstr "ارتفاع"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:72
+msgid "Video Autoplay"
+msgstr "پخش خودکار ویدئو"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:73
+msgid "Play video - right after PopUp show"
+msgstr "دقیقا بعد از نمایش پاپ آپ ویئو نماش داده شود"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:83
+msgid "Hide controls"
+msgstr "مخفی کردن کنترل ها"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:94
+msgid "Ignore related videos"
+msgstr "چشم پوشی از ویدیوهای مرتبط"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:135
+msgid "Background overlay opacity"
+msgstr "میزان وضوح پس زمینه"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:144
+msgid "Disable window scroll"
+msgstr "غیر فعال کردن اسکرول در سایت"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:145
+msgid ""
+"Disable browser window scrolling while PopUp is opened. Good way to disallow "
+"viewing your site content before PopUp will be closed."
+msgstr ""
+"در جالی که پاپ آپ باز است اسکرول را در سایت غیر فعال می کند. راه خوبی برای "
+"جلوگیری از دیدن صفحه در حین باز بودن پاپ آپ."
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:158
+#, php-format
+msgid "Background %d"
+msgstr "پس زمینه %d"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:183
+msgid "Label Font style"
+msgstr "استایل فونت لیبل"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:192
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:215
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:239
+msgid "Default"
+msgstr "پیشفرض"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:206
+msgid "Text Font style"
+msgstr "استایل قلم متن"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:206
+#, php-format
+msgid "Text Font style %d"
+msgstr "استایل قلم متن %d"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:230
+msgid "Footer Font style"
+msgstr "استایل فونت فوتر"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:253
+msgid "Responsive mode"
+msgstr "حالت ریسپانسیو یا واکنش‌گرا"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:254
+msgid ""
+"You can choose PopUp behavior for responsive mode from one of the following. "
+"If you don't know - what to select - you can just try both and leave most "
+"suitable for you."
+msgstr ""
+"می توانید پنجره رفتار حالت پاسخگو را از یکی از موارد زیر انتخاب کنید. اگر "
+"شما نمی دانید، می توانید هر دو را امتحان کنید و گزینه مناسب را انتخاب کنید."
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:257
+msgid "PopUp will be fully zoomed for smaller screens"
+msgstr "پاپ آپ بصورت کامل برای صفحه های کوچکتر زوم خواهد شد"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:262
+msgid "Full resize"
+msgstr "تغییر اندازه کامل"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:264
+msgid ""
+"PopUp will not be zoomed like with prev. mode, it will adapt only Width for "
+"users screen size"
+msgstr ""
+"پاپ آپ مانند گزینه قبلی کاملا زوم نخواهد شد، بلکه فقط با عرض صفحه کاربر "
+"تطبیق می یابد"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:269
+msgid "Width only"
+msgstr "فقط عرض"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:276
+msgid "Close button"
+msgstr "دکمه بستن"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:296
+msgid "Bullets"
+msgstr "آیکن های سرخط"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:13
+#, php-format
+msgid ""
+"You are using Google Maps in this PopUp, but don't have Google Maps Easy "
+"plugin installed. You can get it for Free from WordPress site <a target="
+"\"_blank\" href=\"%s\">here</a>, install and start using this PopUp with map."
+msgstr ""
+"شما در حال استفاده از نقشه گوگل در این پلاگین هستید اما افزونه نقشه گوگل "
+"توسط ما را ( Google Maps Easy) ندارید. شما می توانید این افزونه را به رایگان "
+"از <a target=\"_blank\" href=\"%s\">اینجا</a> دریافت کنید و در این پاپ آپ "
+"بکار ببرید."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:19
+msgid ""
+"Please be advised that you are editing AB Test PopUp. This means that "
+"independently of options you select in Main settings - there will be always "
+"only one PopUp: Base or one from AB Test."
+msgstr ""
+"لطفا در نظر داشته باشید که شما در حال ویرایش پاپ آپ AB Test هستید. این بدین "
+"معنی است که علی رغم هر تنظیمی در تنظیمات اصلی، همیشه فقط یک پاپ آپ وجود "
+"خواهد داشت: پایه یا یکی از AB Test."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:26
+msgid "When to show PopUp"
+msgstr "پاپ آپ در چه زمانی به نمایش در بیاید"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:32
+msgid "When page loads"
+msgstr "زمانی که صفحه بارگذاری شد"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:37
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:73
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:90
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:206
+msgid "Delay for"
+msgstr "تاخیر برای"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:41
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:78
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:146
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:211
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:271
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:290
+msgid "Seconds"
+msgstr "ثانیه ها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:41
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:78
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:146
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:211
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:271
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:290
+msgid "sec"
+msgstr "ثانیه"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:48
+msgid "User click on the page"
+msgstr "کاربر روی صفحه کلیک کند"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:54
+msgid "Click on certain link / button / other element"
+msgstr "با کلیک بر روی لینک خاص / دکمه / عنصر دیگر"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:57
+msgid "Copy & paste next code - into required link to open PopUp on Click"
+msgstr ""
+"این کد را در لینکی که نیاز دارید کپی کنید تا با کلیک برروی آن، پاپ آپ باز شود"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:60
+#, php-format
+msgid ""
+"Check screenshot with details - <a onclick=\"ppsShowTipScreenPopUp(this); "
+"return false;\" href=\"%s\">here</a>."
+msgstr ""
+"تصویر کمکی را با جزییات مشاهده نمایید - <a onclick="
+"\"ppsShowTipScreenPopUp(this); return false;\" href=\"%s\">اینجا</a>."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:62
+msgid ""
+"Or, if you know HTML basics, - you can insert \"onclick\" attribute to any "
+"of your element from code below"
+msgstr ""
+"یا اگر HTML می دانید- می توانید قابلیت \"onclick\" را از کد زیر به قسمتهای "
+"مورد نظر خود اضافه کنید"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:66
+msgid "Or you can even use it for your Menu item, just add code"
+msgstr ""
+"و یا می توانید در آیتم های منوی خود استفاده کنید. کافیست کد را اضافه کنید"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:70
+msgid ""
+"to your menu item \"URL\" or into \"Title Attribute\" field. Don't worry - "
+"users will not see this code as menu item title on your site."
+msgstr ""
+"به \"URL\" منوی خود یا در \"Title Attribute\" اضافه نمایید. نگران نباشید - "
+"کاربران این کد را به عنوان عنوان منوی شما نمی بینند."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:85
+msgid "Scroll window"
+msgstr "اسکرول صفحه"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:94
+msgid "seconds after first scroll"
+msgstr "ثانیه پس از اسکرول اول"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:98
+msgid "Scrolled to"
+msgstr "اسکرول به"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:102
+msgid "percents of total scroll"
+msgstr "درصد از کل اسکرول"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:122
+msgid ""
+"When user is at the bottom of the page: scrolls it down to the bottom, or if "
+"there is no vertical scroll on his device - just show it right after page "
+"loads."
+msgstr ""
+"وقتی کاربر در پایین صفحه است: اسکرول میکند به پایین، ویا اگر اسکرول عمودی در "
+"دستگاه او نیست - درست بعد از بارگذاری صفحه نشان بده."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:123
+msgid "Bottom of the page"
+msgstr "پایین صفحه"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:134
+msgid "After user was inactive on your page for some time."
+msgstr "پس از اینکه کاربر برای مدتی در صفحه شما بیکار باشد."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:135
+msgid "After Inactivity"
+msgstr "پس از عدم فعالیت"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:143
+msgid "After user was inactive for"
+msgstr "پس از اینکه کاربر در صفحه فعالیتی ندارد برای"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:153
+msgid ""
+"When user adds a comment on your site he will see this PopUp after comment "
+"was placed. This will help you to get active users interested in your site."
+msgstr ""
+"زمانی که کاربر کامنتی در سایت شما بنویسد این پاپ آپ را خواهد دید. این گزینه "
+"به شما امکان میدهد کاربران فعال و علاقه مند را جذب کنید."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:154
+msgid "After User Comment"
+msgstr "پس از نظر دادن کاربر"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:165
+msgid "Show PopUp after successful checkout process in your online store."
+msgstr "پاپ آپ را بعد از پرداخت موفق در فروشگاه آنلاین شما نشان بدهد."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:166
+msgid "After Purchasing (Checkout)"
+msgstr "پس از خرید (پرداخت)"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:174
+msgid "Copy & Paste next code on your Success checkout page content editor"
+msgstr "این کد را در صفحه پرداخت موفق خود قرار دهید"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:178
+msgid ""
+"Or, if you are using your own html/php for this page - insert there next code"
+msgstr ""
+"و یا اگر از کد html/php خودتان در این صفحه استفاده می کنید - این کد را وارد "
+"کنید"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:192
+#, php-format
+msgid ""
+"Show when user opens your site exactly with link, where in the end will be "
+"#ppsShowPopUp_%d. For example <a href=\"%s\" target=\"_blank\">%s</a> (will "
+"work only with PRO version)."
+msgstr ""
+"وقتی نمایش دهد که کاربر صفحه شما را دقیقا با لینکی باز می کند که در انتهایش "
+"#ppsShowPopUp_%d قرار دار. به عنوان مثال <a href=\"%s\" target=\"_blank\">"
+"%s</a> (فقط با نسخه حرفه ای کار می کنند)."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:193
+msgid "On Link Follow"
+msgstr "در زمان کلیک کردن لینک"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:200
+msgid "Copy & paste next code - into end of required link on your site"
+msgstr "این کد را به لینک مورد نظر خود اضافه کنید"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:222
+msgid "PopUp will be build-in page content - as part of your page."
+msgstr "پاپ آپ - به عنوان بخشی از صفحه شما خواهد بود."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:223
+msgid "Build-In Page"
+msgstr "ساخت در صفحه"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:230
+msgid "Copy & paste next code - into required place in your page"
+msgstr "این کد را در قسمت مورد نظر خود در صفحه قرار دهید"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:237
+msgid "When to close PopUp"
+msgstr "زمان بستن پاپ آپ"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:243
+msgid "After user close it"
+msgstr "بعد از بسته شدن توسط کاربر"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:249
+msgid "Close PopUp when user clicks outside of the actually PopUp window."
+msgstr "زمانی که کاربر بیرون از پنجره پاپ آپ کلیک می کند بسته شود."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:250
+msgid "Click outside PopUp"
+msgstr "کلیک کردن خارج از پاپ آپ"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:258
+msgid ""
+"Will not allow user to close your PopUp - until finish at least one action: "
+"Subscribe, Share or Like."
+msgstr ""
+"تا زمانی که کاربر یکی از فعالیتهای اشتراک گذاری، عضویت و یا لایک را انجام "
+"نداده اجازه بستن پاپ آپ را نمیدهد."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:259
+msgid "Only after action (Subscribe / Share / Like)"
+msgstr "تنها پس از عملی (عضویت / اشتراک گذاری / لایک)"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:268
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:287
+msgid "Close after"
+msgstr "ببند بعد از"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:274
+msgid "Close PopUp after it will be visible during specified time."
+msgstr "پاپ آپ را بعد از مدت مشخصی از نمایش می بندد."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:279
+msgid "After time passed"
+msgstr "پس از گذشت زمان"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:294
+msgid "Show on next pages"
+msgstr "نمایش در بقیه صفحه ها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:300
+msgid "All pages"
+msgstr "تمام صفحات"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:306
+msgid "Show on next pages / posts"
+msgstr "نمایش در صفحات / پست ها بعدی"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:309
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:318
+msgid "Choose Pages"
+msgstr "انتخاب صفحات"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:315
+msgid "Don't show on next pages / posts"
+msgstr "عدم نمایش در صفحات / پست های بعدی"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:321
+msgid "Time display settings"
+msgstr "تنظیمات زمان نمایش"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:327
+msgid "Set display time"
+msgstr "تنظیم زمان نمایش"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:330
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:353
+msgid "From"
+msgstr "از"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:336
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:357
+msgid "to"
+msgstr "تا"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:344
+msgid "Date display settings"
+msgstr "تنظیمات تاریخ نمایش"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:350
+msgid "Set display date"
+msgstr "تنظیم تاریخ نمایش"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:364
+msgid "Whom to show"
+msgstr "برای چه کسی نمایش داده شود"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:370
+msgid "Everyone"
+msgstr "برای همه"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:376
+msgid "For first-time visitors"
+msgstr "برای بازدید کنندگان برای اولین بار"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:379
+msgid ""
+"Will remember user visit for entered number of days and show PopUp to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"بازدید کاربر را برای زمان ارائه شده به یاد خواهد داشت و بعد از آن زمان به "
+"همان کاربر نشان خواهد داد. برای به یاد داشتن یک مرورگر - از 0 استفاده کنید. "
+"برای به یاد داشتن برای همیشه عدد بزرگی وارد کنید مانند 99999."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:380
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:396
+msgid "Remember for"
+msgstr "به یاد داشته باشد برای"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:385
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:401
+msgid "days"
+msgstr "روز"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:388
+msgid "Subscribe, share, like, etc."
+msgstr "اشتراک، اشتراک گذاری، لایک، و غیره."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:392
+msgid "Until user makes an action"
+msgstr "تا زمانی که کاربر اقدامی انجام دهد"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:395
+msgid ""
+"Will remember user action for entered number of days and show PopUp to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"بازدید کاربر را برای زمان ارائه شده به یاد خواهد داشت و بعد از آن زمان به "
+"همان کاربر نشان خواهد داد. برای به یاد داشتن یک مرورگر - از 0 استفاده کنید. "
+"برای به یاد داشتن برای همیشه عدد بزرگی وارد کنید مانند 99999."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:405
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:420
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:435
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:451
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:466
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:485
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:503
+msgid "Click to revert feature function: from Hide - to Show, and vice versa."
+msgstr ""
+"برای برگرداندن تابع ویژگی کلیک کنید: از پنهان کردن - به نشان دادن و بالعکس."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:406
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:421
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:436
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:452
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:467
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:486
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:504
+msgid "Hide"
+msgstr "پنهان"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:406
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:421
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:436
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:452
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:467
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:486
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:504
+msgid "Show Only"
+msgstr "نمایش فقط"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:411
+msgid "for Devices"
+msgstr "برای دستگاه های"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:412
+msgid ""
+"You can make PopUp visible or hidden only when users will view your site "
+"from selected devices."
+msgstr ""
+"شما می توانید پاپ آپ را برای فقط دستگاههای خاصی نمایش دهید یا مخفی کنید."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:417
+msgid "Choose devices"
+msgstr "انتخاب دستگاه ها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:426
+msgid "for Post Types"
+msgstr "برای نوع پستها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:427
+msgid ""
+"You can make PopUp visible or hidden only for specified Post Types, for "
+"example - hide it on all Pages."
+msgstr ""
+"شما می توانید پاپ آپ را فقط برای نوع پست انتخابی نمایش دهید یا مخفی کنید، "
+"مثلا - برای تمام صفحات مخفی شود."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:432
+msgid "Choose post types"
+msgstr "انتخاب نوع پست"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:441
+msgid "for IP"
+msgstr "برای IP"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:442
+#, php-format
+msgid ""
+"For those IPs PopUp will not be displayed (or vice versa - depending on Hide/"
+"Show Only option). Please be advised that your IP - %s"
+msgstr ""
+"برای آن IPها پاپ آپ نمایش داده نخواهد شد (و یا برعکس - بسته به انتخاب نشان "
+"دادن یا ندادن). در نظر داشته باشید که IP شما عبارتست از- %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:444
+msgid "Show IPs List"
+msgstr "نمایش لیست IPها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:457
+msgid "for Countries"
+msgstr "برای کشورها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:458
+#, php-format
+msgid ""
+"For those Countries PopUp will not be displayed (or vice versa - depending "
+"on Hide/Show Only option). Please be advised that your Country code is %s"
+msgstr ""
+"برای آن کشور ها پاپ آپ نمایش داده نخواهد شد (و یا برعکس بسته به تنظیمات نشان "
+"دادن یا ندادن شما). در نظر داشته باشید که کد کشور شما عبارتست از %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:463
+msgid "Choose countries"
+msgstr "انتخاب کشورها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:472
+msgid "for Languages"
+msgstr "برای زبان ها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:473
+#, php-format
+msgid ""
+"For those Languages PopUp will not be displayed. Language is defined by "
+"visitor browser language. Please be advised that your browser language is %s"
+msgstr ""
+"برای آن زبان ها پاپ آپ نمایش داده نخواهد شد. زبان بر اساس زبان مرورگر انخاب "
+"می شود. در نظر داشته باشید که زبان مرورگر شما عبارتست از- %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:479
+msgid "Choose languages"
+msgstr "انتخاب زبان ها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:481
+msgid "This feature is supported only in WordPress version 4.0.0 or higher"
+msgstr "این ویژگی فقط در نسخه وردپرس 4.0.0 و یا بالاتر پشتیبانی می شود"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:491
+msgid "for Search Engines or Social Media"
+msgstr "برای موتورهای جستجو و یا رسانه های اجتماعی"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:492
+msgid ""
+"If user coming from those Search Engines - PopUp will not be displayed. This "
+"is helpfull when you want to hide or show your PopUp only for users, who "
+"come to your site from particular search engine."
+msgstr ""
+"اگر کاربر از این موتورهای جستجو بیاید - پاپ آپ نمایش داده نمی شود. این گزینه "
+"زمانی که شما بخواهید نمایش پاپ آپ را به برخی از موتور های جستجو محدود کنید "
+"قابل استفاده است."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:497
+msgid "Choose Search Engines"
+msgstr "موتورهای جستجو را انتخاب کنید"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:509
+msgid "for URL match"
+msgstr "برای تطبیق آدرس URL"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:510
+#, php-format
+msgid ""
+"You can enter here URL pattern - and users with URL matched this pattern "
+"will not see (or vice versa) your PopUp. Use <a _target=\"_blank\" href=\"%s"
+"\">official documentation</a> about regular expression to make this work "
+"correctly."
+msgstr ""
+"شما می توانید شکل URL مورد نظر خود را اینجا وارد کنید و کاربرانی با این شکل "
+"URL پاپ آپ را نمی بینند(یا می بینند). برای مطالعه بیشتر در مورد این گزینه <a "
+"_target=\"_blank\" href=\"%s\">مدارک مربوطه</a> را مطالعه نمایید تا این "
+"گزینه درست تنظیم شود."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:519
+msgid ""
+"Hide PopUp for Logged-in users and show it only for not Logged-in site "
+"visitors."
+msgstr ""
+"پاپ آپ را برای کاربران وارد شده به سایت غیر فعال کن و فقط به کاربرانی که "
+"وارد سایت نشده اند نشان بده."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:522
+msgid "Hide for Logged-in"
+msgstr "پنهان برای وارد شده ها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:525
+msgid "IPs List"
+msgstr "لیست IP ها"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:527
+msgid "Type here IPs that will not see PopUp, each IP - from new line"
+msgstr "اینجا لیست IP هایی که پاپ آپرا نمی بینند بنویسید - هر IP در یک خط"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:7
+msgid "Enable Social Buttons"
+msgstr "فعال کردن دکمه های شبکه های اجتماعی"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:21
+msgid "Social links design"
+msgstr "طراحی لینک های شبکه های اجتماعی"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:31
+msgid "OR"
+msgstr "یا"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:34
+msgid ""
+"Connect <b>around 20 social networks</b> to your PopUp, with various lists "
+"of design settings, using our plugin <b>Social Share Buttons by Supsystic</b>"
+msgstr ""
+"به پاپ آپ خود <b>حدود 20 شبکه اجتماعی</b> را با استفاده از افزونه ما "
+"<b>Social Share Buttons by Supsystic</b> اضافه نمایید"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:38
+msgid "Select Social Button Project"
+msgstr "دکمه شبکه های اجتماعی را انتخاب کنید"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:49
+#, php-format
+msgid ""
+"You have no Social Sharing projects for now. <a href=\"%s\" target=\"_blank"
+"\" class=\"button button-primary\">Create your first project</a> - then just "
+"reload page with your PopUp settings, and you will see list with available "
+"Social Projects for your PopUp."
+msgstr ""
+"شما هیچ پروژه شبکه اجتماعی ندارید. <a href=\"%s\" target=\"_blank\" class="
+"\"button button-primary\">اولین پروژه خود را بسازید</a> سپس این صفحه را "
+"مجددا بارگذاری کنید تا لیست شبکه های اجتماعی برای پاپ آپ را ببینید."
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:55
+#, php-format
+msgid ""
+"You need to install Social Share Buttons by Supsystic to use this feature. "
+"<a href=\"%s\" target=\"_blank\" class=\"button\">Install plugin</a> from "
+"your admin area, or visit it's official page on Wordpress.org <a href=\"%s\" "
+"target=\"_blank\">here.</a>"
+msgstr ""
+"برای استفاده از این گزینه به افزونه Share Buttons از تیم Supsystic نیاز "
+"دارید. از قسمت پنل مدیریت وردپرس <a href=\"%s\" target=\"_blank\" class="
+"\"button\">افزونه </a> را نصب کنید و یا از صفحه رسمی آن <a href=\"%s\" "
+"target=\"_blank\">دیدن نمایید.</a>"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:7
+msgid "Enable Subscription"
+msgstr "فعال کردن عضویت در خبرنامه"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:14
+msgid "Subscribe to"
+msgstr "اشتراک در"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:15
+msgid "Destination for your Subscribers."
+msgstr "مقصد برای مشترکان شما."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:25
+msgid "Create user with the chosen role after subscribing"
+msgstr "ایجاد کاربر با نقش انتخاب شده پس از ثبت نام"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:26
+msgid ""
+"Use this only if you really need it. Remember! After you change this option "
+"- your new subscriber will have more privileges than usual subscribers, so "
+"be careful with this option!"
+msgstr ""
+"فقط در صورتی که واقعا نیاز دارید از این گزینه استفاده کنید. بیاد داشته باشید "
+"بعد از انتخاب این گزینه - کاربر شما بیش از پیش حق دسترسی دارد، پس با دقت از "
+"این گزینه استفاده نمایید!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:36
+msgid "Create Subscriber without confirmation"
+msgstr "ایجاد اشتراک بدون تایید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:37
+msgid ""
+"Usually, after user subscribes, we send an email with the confirmation link "
+"- to confirm the email address, and only after user clicks on the link from "
+"this email - we will create a new subscriber. This option allows you to "
+"create a subscriber - right after subscription, without the email "
+"confirmation process."
+msgstr ""
+"معمولا بعد از ثبت اشتراک جدید ما یک ایمل حاوی لینک فعالسازی جهت تایید ایمیل "
+"به کاربر ارسال میکنیم و فقط بعد از تایید آدرس ایمیل توسط کاربر حساب مشترک "
+"جدید ساخته می شود. این گزینه به شما امکان می دهد حساب کاربری را بدون نیاز به "
+"تایید ایمیل بسازید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:46
+msgid "Export Subscribers"
+msgstr "استخراج اطلاعات مشترکین"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:47
+msgid ""
+"Export all subscribers, who subscribed using WordPress \"Subscribe to\" "
+"method, as CSV file."
+msgstr ""
+"همه کاربرانی که توسط \"Subscribe to\" وردپرس ثبت نام کرده اند را در یک فایل "
+"CSV استخراج کنید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:55
+msgid "Aweber Unique List ID"
+msgstr "شناسه (ID) لیست منحصر به فرد Awebe"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:56
+#, php-format
+msgid "Check <a href=\"%s\" target=\"_blank\">this page</a> for more details"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">این صفحه</a> را برای جزئیات بیشتر ملاحظه "
+"نمایید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:65
+msgid "Aweber AD Tracking"
+msgstr "ردیابی آگهی Aweber"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:66
+#, php-format
+msgid ""
+"You can easy track your subscribers from PopUp using this feature. For more "
+"info - check <a href=\"%s\" target=\"_blank\">this page</a>."
+msgstr ""
+"با استفاده از این گزینه براحتی می توانید مشترکینی که از طریق پاپ آپ عضو شده "
+"اند را رهگیری کنید. برای اطلاعات بیشتر <a href=\"%s\" target=\"_blank\">این "
+"صفحه</a> را دنبال کنید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:75
+msgid "MailChimp API key"
+msgstr "کد API مخصوص MailChimp"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:76
+#, php-format
+msgid ""
+"To find your MailChimp API Key login to your mailchimp account at <a href="
+"\"%s\" target=\"_blank\">%s</a> then from the left main menu, click on your "
+"Username, then select \"Account\" in the flyout menu. From the account page "
+"select \"Extras\", \"API Keys\". Your API Key will be listed in the table "
+"labeled \"Your API Keys\". Copy / Paste your API key into \"MailChimp API key"
+"\" field here. For more detailed instruction - check article <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"برای پیدا کردن کد API اکانت MailChimp خود، با وارد شدن به اکانت خود از <a "
+"href=\"%s\" target=\"_blank\">%s</a> از منوی سمت چپ روی \"Username\" و سپس "
+"\"Account\" کلیک کنید. در صفحه اکانت خود روی \"Extras\" و \"API Keys\" کلیک "
+"کنید. کد API شما در جدولی به نام \"Your API Keys\" لیست شده است. کد API خود "
+"را در قسمت \"کد API مخصوص MailChimp\" در اینجا کپی کنید. برای اطلاعات بیشتر  "
+"<a href=\"%s\" target=\"_blank\">این صفحه</a> را ببینید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:87
+msgid ""
+"Select lists for subscribe. They are taken from your MailChimp account - so "
+"make sure that you entered correct API key before."
+msgstr ""
+"لیست برای اشتراک را انتخاب کنید. آنها از حساب MailChimp گرفته شده اند-"
+"بنابراین مطمئن شوید که شما کد API را درست وارد کرده اید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:96
+msgid "Enter API key - and your list will appear here"
+msgstr "کلید API را وارد کنید - لیست در اینجا نشان داده می شود"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:102
+msgid "Disable double opt-in"
+msgstr "غیر فعال کردن تایید کاربر"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:103
+msgid ""
+"Disable double opt-in confirmation message sending - will create subscriber "
+"directly after he will sign-up to your form."
+msgstr ""
+"غیر فعال کردن ارسال پیام تایید کاربر باعث می شود اکانت وی درست بعد از ثبت "
+"نام در فرم شما ساخته شود."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:112
+msgid "Group for subscribe"
+msgstr "گروه مشترکان"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:113
+msgid ""
+"In MailChimp there are possibility to select groups for your subscribers. "
+"This is not mandatory, but some times is really helpful. So, we added this "
+"possibility for you in our plugin too - hope you will like it!"
+msgstr ""
+"در MailChimp امکان انتخاب گروه ها برای مشترکان شما وجود دارد. این اجباری "
+"نیست اما برخی اوقات واقعا مفید است. بنابراین، ما این امکان را نیز برای شما "
+"در افزونه فراهم کرده ایم - امیدواریم دوستش داشته باشید!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:119
+msgid "Choose Groups"
+msgstr "انتخاب گروه ها"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:122
+msgid "Enter API key, select List - and your groups will appear here"
+msgstr ""
+"کلید API را وارد کنید و لیست را انتخاب کنید - گروهها در اینجا نشان داده می "
+"شود"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:129
+msgid "MailPoet Subscribe Lists"
+msgstr "لیست مشترکان MailPoet"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:138
+#, php-format
+msgid ""
+"You have no subscribe lists, <a target=\"_blank\" href=\"%s\">create lists</"
+"a> at first, then - select them here."
+msgstr ""
+"شما هیچ لیستی برای مشترکان خود ندارید. <a target=\"_blank\" href=\"%s"
+"\">ابتدا لیستی بسازید</a> سپس اینجا انتخاب نمایید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:143
+#, php-format
+msgid ""
+"To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s"
+"\">MailPoet plugin</a> installed on your site"
+msgstr ""
+"برای استفاده از این موتور اشتراک - شما باید افزونه <a target=\"_blank\" href="
+"\"%s\">MailPoet</a> را در سایت خود نصب کرده باشید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:170
+#, php-format
+msgid ""
+"To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s"
+"\">Jetpack plugin</a> installed on your site"
+msgstr ""
+"برای استفاده از این موتور اشتراک - شما باید افزونه <a target=\"_blank\" href="
+"\"%s\">Jetpack </a> را روی سایت خود نصب کنید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:183
+msgid "Infusion Soft"
+msgstr "Infusion Soft"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:200
+msgid "Activate License or update PRO version plugin"
+msgstr "لایسنس را فعال کنید یا نسخه حرفه ای (PRO) را بروز رسانی نمایید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:201
+msgid ""
+"Apparently - you have installed PRO version, but did not activate it license "
+"- then please activate it. Or you have old version of plugin - then you need "
+"go to Plugins page and Update PRO version plugin, after this go to License "
+"tab and re-activate license (just click one more time on \"Activate\" "
+"button)."
+msgstr ""
+"ظاهرا شما نسخه حرفه ای نصب کرده اید اما هنوز آن را فعال نکرده اید - پس لطفا "
+"آن را فعال کنید. یا شما نسخه قدیمی از افزونه را در اختیار دارید - پس شما "
+"نیاز به رفتن به صفحه افزونه و به روز رسانی نسخه حرفه ای (PRO) دارید، پس از "
+"این مراحل به برگه لایسنس رفته و پروانه را دوباره فعال کنید (فقط یک بار دیگر "
+"بر روی دکمه \"فعال کردن\" کلیک کنید)."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:210
+#, php-format
+msgid "Enable %s with PRO"
+msgstr "فعال کردن %s با دریافت نسخه حرفه ای PRO"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:211
+#, php-format
+msgid ""
+"This is PRO feature, and it will be available once you will install <a href="
+"\"%s\" target=\"_blank\">PRO version</a> of our plugin"
+msgstr ""
+"این ویژگی نسخه حرفه ای (PRO) است و به محض نصب <a href=\"%s\" target=\"_blank"
+"\">نسخه حرفه ای</a> افزونه مادر دسترس خواهد بود"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:215
+msgid "Get PRO"
+msgstr "دریافت نسخه حرفه ای PRO"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:222
+msgid "Subscribe with Facebook"
+msgstr "اشتراک با فیسبوک"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:223
+#, php-format
+msgid ""
+"Add button to your PopUp with possibility to subscribe just in one click - "
+"without filling fields in your subscribe form, <img src=\"%s\" />"
+msgstr ""
+"افزودن دکمه به پاپ آپ شما با امکان عضویت فقط با یک کلیک - بدون پر کردن "
+"فیلدهای فرم اشتراک<img src=\"%s\">"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:236
+msgid "Create WP user"
+msgstr "ایجاد کاربر وردپرس"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:237
+msgid ""
+"Once user will subscribe to selected Subscription service - it will create "
+"WordPress Subscriber too. PLease be carefull using this option: "
+"WordPressusers will be created right after you submit your Subscribe form "
+"without confirmation."
+msgstr ""
+"وقتی کاربر در خبرنامه انتخابی ثبت نام نمود - یک اکانت عضویت وردپرس نیز ساخته "
+"می شود. در استفاده از این گزینه دقت کنید: اکانت عضویت وردپرس بدون تایید "
+"ایمیل ساخته می شود."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:246
+msgid "Test Email Function"
+msgstr "تست کارایی ایمیل"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:247
+msgid ""
+"Email delivery depends from your server configuration. For some cases - you "
+"and your subscribers can not receive emails just because email on your "
+"server is not working correctly. You can easy test it here - by sending test "
+"email. If you receive it - then it means that email functionality on your "
+"server works well. If not - this means that it is not working correctly and "
+"you should contact your hosting provider with this issue and ask them to "
+"setup email functionality for you on your server."
+msgstr ""
+"ارسال ایمیل به تنظیمات سرور شما بستگی دارد. در مواردی - شما و مشترکانتان نمی "
+"توانید ایمیلی دریافت کنید فقط به خاطر اینکه ایمیل سرور شما به خوبی کار "
+"نمیکند. به آسانی می توانید این مسئله را اینجا با ارسال ایمیل آزمایشی تست "
+"کنید. اگر ایمیل را دریافت کنید که مشکلی وجود ندارد اما اگر دریافت نکردید با "
+"هاست خود درباره این مشکل تماس بگیرید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:255
+msgid "Send Test Email"
+msgstr "ارسال ایمیل آزمایشی"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:258
+msgid ""
+"Email was sent. Now check your email inbox / spam folders for test mail. If "
+"you don’t find it - it means that your server can't send emails - and you "
+"need to contact your hosting provider with this issue."
+msgstr ""
+"ایمیل فرستاده شد. اکنون ایمیل خود را برای پیدا کردن ایمیل آزمایشی بررسی "
+"کنید. اگر آنرا پیدا نمی کنید مشکلی در تنظیمات سرور وجود دارد و شما باید با "
+"هاست خود تماس بگیرید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:266
+msgid "Subscription fields"
+msgstr "فیلدهای فرم اشتراک"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:267
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Subscribe form - click on \"+ Add\" button."
+msgstr ""
+"برای تغییر محل قرارگیری فیلد کافیست آنرا با موس خود بگیرید و بین بقیه فیلدها "
+"قرار دهید. برای اضافه کردن فیلد جدید روی \"+افزودن\" کلیک کنید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:330
+msgid ""
+"This is the message that the user will see after subscription, when letter "
+"with confirmation link was sent."
+msgstr ""
+"این پیامی است که کاربر بعد از ثبت نام وقتی که ایمیل تایید برایش ارسال شده "
+"است می بیند."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:340
+msgid "Subscribe success message"
+msgstr "پیغام اشتراک موفقیت آمیز"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:341
+msgid ""
+"Right after subscriber will be created and confirmed - this message will be "
+"shown."
+msgstr ""
+"بلافاصله پس از اینکه حساب مشترک جدید تایید و ساخته شد - این پیام نشان داده "
+"خواهد شد."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:345
+#: modules/subscribe/controller.php:40
+msgid "Thank you for subscribing!"
+msgstr "ممنون از شما به خاطر اشتراک در خبرنامه!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:362
+msgid "Email exists error message"
+msgstr "پیام خطای وجود ایمیل در سیستم"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:363
+msgid ""
+"If email that was entered by user already exists - user will see this "
+"message. But be careful: this can be used by hackers - to detect existing "
+"email in your database, so it's better for you to leave this message same as "
+"error message about invalid email above."
+msgstr ""
+"اگر ایمیل ارائه شده توسط کاربر در سیستم موجود باشد - کاربر این پیام را می "
+"بیند. اما مراقب باشید: این قابلیت می تواند توسط هکرها جهت شناسایی ایمیلهای "
+"موجود در دیتابیس شمااستفاده شود، پس بهتر است در مت این پیام اخطار ایمیل "
+"نامعتبر وارد شود."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:373
+msgid "Redirect after subscription URL"
+msgstr "URL هدایت به ادرس خاص بعد از اشتراک"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:374
+msgid ""
+"You can enable redirection after subscription, just enter here URL that you "
+"want to redirect to after subscribe - and user will be redirected there. If "
+"you don't need this feature - just leave this field empty."
+msgstr ""
+"شما می توانید بعد از ثبت نام کاربر را به صفحه خاصی هدایت نمایید، کافیست URL "
+"صفحه مورد نظر را وارد کنید - و کاربر به آن صفحه منتقل می شود. اگر این قابلیت "
+"را نمی خواهید - این قسمت را خالی رها کنید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:397
+#: modules/subscribe/models/subscribe.php:386
+msgid "Confirm subscription on [sitename]"
+msgstr "عضویت خود را تایید کنید در [sitename]"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:425
+#: modules/subscribe/models/subscribe.php:389
+msgid ""
+"You subscribed on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your subscription. If you did "
+"not subscribe here - just ignore this message."
+msgstr ""
+"شما در سایت <a href=\"[siteurl]\">[sitename]</a> ثبت نام نموده اید. این <a "
+"href=\"[confirm_link]\"> لینک</a> را برای تکمیل ثبت نام خود را دنبال کنید. "
+"اگر شما اینجا ثبت نام نکرده اید - به این ایمیل توجه نکنید."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:428
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:472
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:525
+msgid "Add Attach"
+msgstr "افزودن پیوست"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:434
+msgid "New Subscriber email subject"
+msgstr "موضوع ایمیل مشترک جدید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:435
+msgid "Email to New Subscriber subject"
+msgstr "موضوع ایمیل به مشترک جدید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:447
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:448
+msgid "New Subscriber email From field"
+msgstr "فرستنده ایمیل عضویت جدید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:460
+msgid "New Subscriber email text"
+msgstr "متن ایمیل مشترک جدید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:461
+msgid "Email to New Subscriber content"
+msgstr "محتوای ایمیل به مشترک جدید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:478
+msgid "Redirect if email already exists"
+msgstr "هدایت به صفحه خاص اگر ایمیل از قبل وجود دارد"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:479
+msgid "Link to redirect to if user subscribes - but this email already exists"
+msgstr ""
+"اگر ایمیل ثبت نام از قبل وجود داشته باشد کاربر به این صفحه منتقل می شود"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:492
+msgid "Submit button name"
+msgstr "نام دکمه ارسال"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:500
+msgid "New Subscriber Notification"
+msgstr "اعلان مشترک جدید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:513
+msgid "New Subscriber Notification email text"
+msgstr "متن ایمیل اطلاع رسانی مشترک جدید"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:514
+msgid "Message that you will receive about new subscribers on your site."
+msgstr "پیامی که شما در مورد مشترکین جدید در سایت خود دریافت خواهید کرد."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:522
+#: modules/subscribe/models/subscribe.php:81
+msgid ""
+"You have new subscriber on your site <a href=\"[siteurl]\">[sitename]</a>, "
+"here is subscriber information:<br />[subscriber_data]"
+msgstr ""
+"شما کاربر جدیدی در سایت <a href=\"[siteurl]\">[sitename]</a> دارید، اطلاعات "
+"کاربر جدید:<br>کاربر جدید [subscriber_data]"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:570
+msgid "Select File"
+msgstr "فایل را انتخاب کنید"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:19
+msgid "Text block"
+msgstr "بلوک متن"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:19
+#, php-format
+msgid "Text block %d"
+msgstr "بلوک متن %d"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:39
+msgid "Button block"
+msgstr "بلوک دکمه"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:39
+#, php-format
+msgid "Button block %d"
+msgstr "بلوک دکمه %d"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:44
+msgid "Button Name"
+msgstr "نام دکمه"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:50
+msgid "Button URL"
+msgstr "لینک دکمه"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:56
+msgid "or close PopUp on click"
+msgstr "یا بستن پاپ آپ با کلیک"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:73
+msgid "Foot note"
+msgstr "یادداشت"
+
+#: modules/popup/views/tpl/popupEditAdminTplOpts.php:3
+msgid "Change PopUp Template"
+msgstr "تغییر قالب پاپ آپ"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:1
+msgid "Click to Edit"
+msgstr "برای ویرایش کلیک کنید"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:9
+msgid "Save all changes"
+msgstr "ذخیره تمام تغییرات"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:13
+msgid "Clone to New PopUp"
+msgstr "کپی کردن به عنوان پاپ آپ جدید"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:15
+msgid "Clone"
+msgstr "تکثیر"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:19
+msgid "Preview"
+msgstr "پیش نمایش"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:21
+msgid "Turn Off"
+msgstr "خاموش کردن"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:21
+msgid "Turn On"
+msgstr "روشن کردن"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:27
+msgid "Delete"
+msgstr "حذف"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:34
+msgid "New Name"
+msgstr "نام جدید"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:35
+msgid "Copy"
+msgstr "کپی"
+
+#: modules/sm/mod.php:31
+msgid "Google+"
+msgstr "گوگل پلاس"
+
+#: modules/sm/mod.php:32
+msgid "Twitter"
+msgstr "توییتر"
+
+#: modules/sm/mod.php:56
+msgid "Simple"
+msgstr "ساده"
+
+#: modules/sm/mod.php:57
+msgid "Boxy"
+msgstr "جعبه ای"
+
+#: modules/statistics/controller.php:40
+#, php-format
+msgid "Statistics for %s"
+msgstr "آمار برای %s"
+
+#: modules/statistics/controller.php:42
+msgid "Date"
+msgstr "تاریخ"
+
+#: modules/statistics/controller.php:43
+msgid "Views"
+msgstr "نمایش ها"
+
+#: modules/statistics/controller.php:44
+msgid "Unique Views"
+msgstr "نمایش های منحصر به فرد"
+
+#: modules/statistics/controller.php:45
+msgid "Actions"
+msgstr "اعمال"
+
+#: modules/statistics/controller.php:46
+msgid "Conversion"
+msgstr "تبدیل"
+
+#: modules/statistics/mod.php:11
+msgid "Displayed"
+msgstr "نمایش داده شده"
+
+#: modules/statistics/mod.php:12
+msgid "Subscribed"
+msgstr "اشتراک انجام شد"
+
+#: modules/statistics/mod.php:13
+msgid "Shared"
+msgstr "باز نشر شده"
+
+#: modules/statistics/mod.php:14
+msgid "Facebook Liked"
+msgstr "لایک فیسبوک"
+
+#: modules/statistics/mod.php:16
+msgid "Registration"
+msgstr "ثبت نام"
+
+#: modules/statistics/mod.php:27
+msgid "Statistics"
+msgstr "آمار"
+
+#: modules/statistics/models/statistics.php:35
+#: modules/subscribe/models/subscribe.php:452
+msgid "Send me some info, pls"
+msgstr "لطفا برای من اطلاعات بفرست"
+
+#: modules/statistics/models/statistics.php:165
+msgid "No data found"
+msgstr "اطلاعاتی پیدا نشد"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:4
+#, php-format
+msgid ""
+"Want to increase conversion, subscribers and social share? <a target=\"_blank"
+"\" href=\"%s\" class=\"button\">Get know - how!</a>"
+msgstr ""
+"می خواهید بازنشر و لایک و اعضای بیشتری داشته باشید؟ <a target=\"_blank\" "
+"href=\"%s\" class=\"button\">بیشتر بدانید</a>"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:8
+msgid "Main PopUp Usage Statistics"
+msgstr "آمار کاربرد پاپ آپ اصلی"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:10
+msgid "Clear selection"
+msgstr "پاک کردن انتخاب ها"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:12
+msgid "To"
+msgstr "تا"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:26
+msgid "Reset Zoom"
+msgstr "تنظیم مجدد بزرگنمایی"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:31
+msgid "Group by"
+msgstr "گروه بندی بر اساس"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:32
+msgid "Hour"
+msgstr "ساعت"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:33
+msgid "Day"
+msgstr "روز"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:34
+msgid "Week"
+msgstr "هفته"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:35
+msgid "Month"
+msgstr "ماه"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:37
+msgid "Export to CSV"
+msgstr "خروجی به فایل CSV"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:42
+msgid "Clear data"
+msgstr "پاک کردن داده ها"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:48
+msgid "You can Zoom In by allocating mouse on Graph area."
+msgstr ""
+"شما میتوانید با استفاده از موس و بردن آن روی قسمت نمودار بزرگنمایی کنید."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:51
+msgid "Ratio of All Actions"
+msgstr "نسبت تمام اقدامات"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:56
+msgid ""
+"Once you will have enough different statistics - like shares, subscribes, "
+"likes - you will be able to see here which action is used more or less "
+"frequently."
+msgstr ""
+"هنگامی که به اندازه مورد نیاز اطلاعات در مورد بازنشر، لایک و عضویت در دسترس "
+"باشد - شما قادر خواهید بود در اینجا ببینید کدام عمل بیشتر مورد استفاده قرار "
+"گرفته است."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:60
+msgid "Ratio of All Social Share"
+msgstr "نسبت سهم باز نشر در تمام شبکه های اجتماعی"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:65
+msgid ""
+"Once you will have enough different statistics about share from PopUp on "
+"social media, you will be able to see here which social media is used more "
+"or less frequently."
+msgstr ""
+"هنگامی که به اندازه مورد نیاز اطلاعات در مورد بازنشر، لایک و عضویت از طریق "
+"پاپ آپ در دسترس باشد - شما قادر خواهید بود در اینجا ببینید کدام عمل بیشتر "
+"مورد استفاده قرار گرفته است."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:72
+#, php-format
+msgid ""
+"You have no statistics for \"%s\" PopUp for now. Setup its options and wait "
+"until users will view it on your site."
+msgstr ""
+"شما در حال حاضر هیج آماری برای پاپ آپ \"%s\" ندارید. تنظیمات آنرا انجام دهید "
+"و منتظر عکس العمل کاربران باشید."
+
+#: modules/subscribe/controller.php:113
+#, php-format
+msgid "Registered from %s"
+msgstr "ثبت نام شده از %s"
+
+#: modules/subscribe/controller.php:114
+#, php-format
+msgid "Subscribed to %s"
+msgstr "مشترک شدن در %s"
+
+#: modules/subscribe/controller.php:128
+msgid "Activated"
+msgstr "فعال شد"
+
+#: modules/subscribe/controller.php:129
+msgid "PopUp ID"
+msgstr "شناسه(ID) پاپ آپ"
+
+#: modules/subscribe/controller.php:130
+msgid "Date Created"
+msgstr "تاریخ ایجاد"
+
+#: modules/subscribe/controller.php:165
+msgid "There are no members for now"
+msgstr "در حال حاضر کاربری وجود ندارد"
+
+#: modules/subscribe/controller.php:166
+msgid "There are no subscribers for now"
+msgstr "در حال حاضر مشترکی وجود ندارد"
+
+#: modules/subscribe/mod.php:7
+msgid "WordPress"
+msgstr "وردپرس"
+
+#: modules/subscribe/mod.php:8
+msgid "Aweber"
+msgstr "Aweber"
+
+#: modules/subscribe/mod.php:9
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: modules/subscribe/mod.php:10
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: modules/subscribe/mod.php:12
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: modules/subscribe/models/subscribe.php:50
+msgid "Something goes wrong"
+msgstr "خطایی رخ داده است"
+
+#: modules/subscribe/models/subscribe.php:77
+msgid "New Subscriber notification"
+msgstr "اعلان مشترک جدید"
+
+#: modules/subscribe/models/subscribe.php:78
+#, php-format
+msgid "New Subscriber on %s"
+msgstr "مشترک جدید در %s"
+
+#: modules/subscribe/models/subscribe.php:136
+#, php-format
+msgid "Please check %s"
+msgstr "لطفا %s را بررسی نمایید"
+
+#: modules/subscribe/models/subscribe.php:173
+msgid "Can't detect your IP, please don't spam"
+msgstr "آی پی شما قابل تشخیص نیست، لطفا اسپم نکنید"
+
+#: modules/subscribe/models/subscribe.php:205
+msgid "You just subscribed from this IP"
+msgstr "شما اخیرا از این آی پی ثبت نام نموده اید"
+
+#: modules/subscribe/models/subscribe.php:321
+msgid "Can't registrate for now. Please try again later."
+msgstr "در حال حاضر قادر به ثبت نام نیست. لطفا بعدا سعی کنید."
+
+#: modules/subscribe/models/subscribe.php:321
+msgid "Can't subscribe for now. Please try again later."
+msgstr "در حال حاضر قادر به عضویت نیست. لطفا بعدا سعی کنید."
+
+#: modules/subscribe/models/subscribe.php:489
+msgid ""
+"MailChimp requires CURL to be setup on your server. Please contact your "
+"hosting provider and ask them to setup CURL library for you."
+msgstr ""
+"حلقه های CURL برای شما فعال نشده است ، لطفا با شرکت میزبانی وب خود تماس "
+"بگیرید تا این CURL ها را برای شما فعال کنند."
+
+#: modules/subscribe/models/subscribe.php:513
+#: modules/subscribe/models/subscribe.php:547
+msgid ""
+"There was some problem while trying to get your lists. Make sure that your "
+"API key is correct."
+msgstr ""
+"چند مشکل در حال تلاش برای بدست آوردن لیست های شما وجود دارد. مطمئن شوید که "
+"شما کلید API درست را وارد نموده اید."
+
+#: modules/subscribe/models/subscribe.php:517
+#: modules/subscribe/models/subscribe.php:555
+msgid "Empty API key"
+msgstr "کلید API خالی"
+
+#: modules/subscribe/models/subscribe.php:553
+msgid "Select some Lists before"
+msgstr "لطفا لیستی را قبل انتخاب کنید"
+
+#: modules/subscribe/models/subscribe.php:627
+msgid ""
+"Something going wrong while trying to send data to MailChimp. Please contact "
+"site owner."
+msgstr ""
+"در هنگام ارسال اطلاعات به MailChimp مشکلی پیش آمد. لطفا با مدیر سایت تماس "
+"بگیرید."
+
+#: modules/subscribe/models/subscribe.php:646
+msgid ""
+"No API key entered in admin area - contact site owner to resolve this issue."
+msgstr "هیچ کد APIایی یافت نشد - با مدیریت سایت تماس بگیرید."
+
+#: modules/subscribe/models/subscribe.php:738
+msgid "Some error occured during subscription process"
+msgstr "خطایی در هنگام عضویت رخ داد"
+
+#: modules/subscribe/models/subscribe.php:741
+msgid "Can't find MailPoet on this server"
+msgstr "MailPoet در این سرور یافت نشد"
+
+#: modules/subscribe/models/subscribe.php:789
+msgid "Not a valid email address"
+msgstr "آدرس ایمیل معتبر نیست"
+
+#: modules/subscribe/models/subscribe.php:790
+msgid "Not a valid post ID"
+msgstr "شناسه پست معتبر نیست"
+
+#: modules/subscribe/models/subscribe.php:791
+msgid "Unknown post"
+msgstr "پست ناشناخته"
+
+#: modules/subscribe/models/subscribe.php:792
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com could subscribe the email."
+msgstr "خطای عجیب.  سرور های Jetpack در وردپرس می توانند ایمیل را ثبت کنند."
+
+#: modules/subscribe/models/subscribe.php:793
+msgid "Site owner has disabled subscriptions."
+msgstr "صاحب سایت اشتراک را غیر فعال کرده است."
+
+#: modules/subscribe/models/subscribe.php:794
+msgid "Already subscribed."
+msgstr "شما در حال حاضر در خبرنامه عضو هستید."
+
+#: modules/subscribe/models/subscribe.php:795
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com returned something "
+"malformed."
+msgstr "خطای عجیب.  سرور های Jetpack در وردپرس پاسخ غیر عادی فرستاده اند."
+
+#: modules/subscribe/models/subscribe.php:796
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com returned something I didn't "
+"understand."
+msgstr ""
+"خطای عجیب.  سرور های Jetpack در وردپرس پاسخ غیر عادی که قابل شناسایی نیست "
+"فرستاده اند."
+
+#: modules/subscribe/models/subscribe.php:799
+msgid "SOmething is going wrong"
+msgstr "اشتباهی رخ داده است"
+
+#: modules/subscribe/models/subscribe.php:805
+msgid "Empty response from Jetpack"
+msgstr "پاسخ خالی از Jetpack دریافت شد"
+
+#: modules/subscribe/models/subscribe.php:807
+msgid ""
+"Subscriptions module is not activated in Jetpack plugin settings. Activate "
+"it before start using this subscribe method."
+msgstr ""
+"ماژول اشتراک در تنظیمات Jetpack فعال نشده است. قبل از استفاده از این ماژول "
+"آنرا فعال کنید."
+
+#: modules/subscribe/models/subscribe.php:809
+msgid "Can't find Jetpack plugin on this server"
+msgstr "افزونه Jetpack در این سرور را پیدا نشد"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:10
+msgid "Registration Confirmation"
+msgstr "تایید ثبت نام"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:11
+msgid "Subscribe Confirmation"
+msgstr "تایید اشتراک"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:53
+msgid "Some errors occured while trying to registrate"
+msgstr "خطاهایی هنگام ثبت نام رخ داد"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:54
+msgid "Some errors occured while trying to subscribe"
+msgstr "خطاهایی هنگام ثبت اشتراک رخ داد"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:75
+msgid "Registration confirmed"
+msgstr "ثبت نام تأیید شده است"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:76
+msgid "Subscription confirmed"
+msgstr "اشتراک تایید شد"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:81
+#, php-format
+msgid ""
+"<a href=\"%s\">Back to site</a> in <i id=\"ppsConfirmBackCounter\">%d</i> "
+"seconds"
+msgstr ""
+"<a href=\"%s\">بازگشت به سایت</a> در <i id=\"ppsConfirmBackCounter\">%d</i> "
+"ثانیه"
+
+#: modules/supsystic_promo/controller.php:7
+#: modules/supsystic_promo/controller.php:100
+#: modules/supsystic_promo/controller.php:108
+#: modules/supsystic_promo/controller.php:116
+msgid "Information was saved. Thank you!"
+msgstr "اطلاعات ذخیره شد. متشکرم!"
+
+#: modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+"لطفا به سرعت درخواست تماس ننمایید - برای پاسخ درخواست قبلی خود صبر کنید."
+
+#: modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "لطفا آدرس پست الکترونیکی معتبری وارد نمایید"
+
+#: modules/supsystic_promo/mod.php:36
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+"<h3>هم اکنون شما بیشتر از یک هفته از %s استفاده کرده اید - بسیار عالی </h3> "
+"ا <p> می توانم از شما درخواست کنم در وردپرس به ما امتیاز 5 ستاره بدهید؟ فقط "
+"به خاطر کمک به ما و انگیزه بیشتر برای ما. </p>"
+
+#: modules/supsystic_promo/mod.php:37 modules/supsystic_promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr "بسیار خوب، شما شایسته آن هستید"
+
+#: modules/supsystic_promo/mod.php:38 modules/supsystic_promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr "متاسفم، شاید بعدتر"
+
+#: modules/supsystic_promo/mod.php:39
+msgid "I already did"
+msgstr "قبلا انجام داده ام"
+
+#: modules/supsystic_promo/mod.php:40
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3>بیشتر از یازده روز با افزونه %s ما -تبریک!</h3>"
+
+#: modules/supsystic_promo/mod.php:41
+msgid ""
+"<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+"<p>از طرف شرکت <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> من می خواهم از شما تشکر کنم برای با ما بودن و من واقعا "
+"امیدوارم که نرم افزار ما به شما کمک کرده باشد.</p>"
+
+#: modules/supsystic_promo/mod.php:42
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site under your PopUps. This is small "
+"step for you, but a big help for us! Sure, if you don't want - just skip "
+"this and continue enjoy our software!</p>"
+msgstr ""
+"<p>و امروز اگر شما می خواهید--شما می توانید به ما کمک کنید. این واقعا ساده "
+"است--شما فقط لینک تبلیغی کوچکی به سایت ما زیر پاپ آپ های خود بیافزایید. این "
+"گام کوچکی برای شماست، اما کمک بزرگی برای ماست! مطمئنا, اگر شما نمی خواهید به "
+"لذت بردن از افزونه ادامه دهید و این پیام را نادیده بگیرید!</p>"
+
+#: modules/supsystic_promo/mod.php:45
+msgid "Skip"
+msgstr "رد کردن"
+
+#: modules/supsystic_promo/mod.php:92
+msgid "Overview"
+msgstr "بررسی عمومی"
+
+#: modules/supsystic_promo/mod.php:99
+msgid "Constant Contact - PRO"
+msgstr "مخاطبین ثابت - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:100
+msgid "Campaign Monitor - PRO"
+msgstr "مانیتور کمپین - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:101
+msgid "Vertical Response - PRO"
+msgstr "Vertical Response - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:102
+msgid "SendGrid - PRO"
+msgstr "SendGrid - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:103
+msgid "GetResponse - PRO"
+msgstr "GetResponse - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:105
+msgid "Active Campaign - PRO"
+msgstr "کمپین فعال - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:106
+msgid "Mailrelay - PRO"
+msgstr "Mailrelay - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:107
+msgid "arpReach - PRO"
+msgstr "arpReach - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:108
+msgid "SG Autorepondeur - PRO"
+msgstr "پاسخگوی SG - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:109
+msgid "Benchmark - PRO"
+msgstr "معیار( Benchmark) - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:110
+msgid "InfusionSoft - PRO"
+msgstr "InfusionSoft - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:111
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr "SalesForce - Web-to-Lead - نسخه حرفه ای"
+
+#: modules/supsystic_promo/mod.php:218
+msgid "Website"
+msgstr "سایت"
+
+#: modules/supsystic_promo/mod.php:219
+msgid "Subject"
+msgstr "عنوان"
+
+#: modules/supsystic_promo/mod.php:220
+msgid "Topic"
+msgstr "موضوع"
+
+#: modules/supsystic_promo/mod.php:221
+msgid "Plugin options"
+msgstr "تنظیمات افزونه"
+
+#: modules/supsystic_promo/mod.php:222
+msgid "Report a bug"
+msgstr "گزارش یک خطا"
+
+#: modules/supsystic_promo/mod.php:223
+msgid "Require a new functionality"
+msgstr "نیاز به قابلیت جدید"
+
+#: modules/supsystic_promo/mod.php:224
+msgid "Other"
+msgstr "دیگر"
+
+#: modules/supsystic_promo/mod.php:226
+msgid "Message"
+msgstr "پیام"
+
+#: modules/supsystic_promo/mod.php:226
+msgid "Hello Supsystic Team!"
+msgstr "سلام به تیم Supsystic!"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:25
+msgid "Why Popup by Supsystic is \"must have\" for your website?"
+msgstr "چرا پاپ آپ توسط \"Supsystic\" برای وب سایت شما یک باید است؟"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:26
+#, php-format
+msgid ""
+"Increase your sales by 500%% using Popup by Supsystic! More subscribers = "
+"more sales! It's that simple!<br />More info you can find here <a target="
+"\"_blank\" href=\"%s\">Popup by Supsystic is \"must have\" for your website</"
+"a>"
+msgstr ""
+"فروش خود را با افزونه Popup از گروه Supsystic به 500%% برسانید! عضویت بیشتر "
+"= فروش بیشتر! به همین سادگی! <br /> برای دریافت اطلاعات بیشتر به <a target="
+"\"_blank\" href=\"%s\">وبسایت افزونه</a> مراجعه نمایید"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:27
+msgid "What is A/B testing?"
+msgstr "تست A/B چیست؟"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:28
+#, php-format
+msgid ""
+"A/B testing is one of the easiest ways to increase conversion rates and "
+"learn more about your audience!<br />A/B test in Popup plugin involves "
+"testing two or more versions of a popup window - an A version (original) and "
+"a B versions (the variation) - with live traffic and measuring the effect "
+"each version has on your conversion rate.<br />To know more detail – click "
+"<a target=\"_blank\" href=\"%s\">here</a>"
+msgstr ""
+"A / B تست یکی از ساده ترین راهها برای افزایش نرخ تبدیل و دریافت اطلاعات "
+"بیشتر از مخاطبین شماست! <br /> تست A/B در افزونه پاپ آپ دو یا چند ورژن "
+"متفاوت پاپ آپ را بررسی میکند - ورژن A (اصلی) و ورژن B (یک پاپ آپ متفاوت) - "
+"با داشتن ترافیک واقعی و تاثیر هر ورژن بر نرخ تبدیل شما. <br /> برای دریافت "
+"اطلاعات بیشتر <a target=\"_blank\" href=\"%s\">این صفحه</a> را ببینید"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:29
+msgid "How to enable subscription to Aweber?"
+msgstr " فعال سازی اشتراک Aweber چگونه است؟"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:30
+#, php-format
+msgid ""
+"In order to subscribe to Aweber you need to know unique list id of your "
+"aweber account - check this <a target=\"_blank\" href=\"%s\">page</a> for "
+"more details."
+msgstr ""
+"به منظور عضویت در Aweber شما نیاز به دانستن شناسه منحصر به فرد فهرست حساب "
+"aweber دارید - این <a target=\"_blank\" href=\"%s\">صفحه</a> را برای جزئیات "
+"بیشتر چک کنید."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:31
+msgid "How to subscribe to MailChimp?"
+msgstr "نحوه اشتراک در MailChimp چگونه است؟"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:32
+msgid ""
+"To subscribe to MailChimp you need enter your MailChimp API key and name of "
+"list for subscription. To find your MailChimp API key - follow the "
+"instructions below:<br />\n"
+"\t\t\t\t1. Login to your mailchimp account at http://mailchimp.com<br />\n"
+"\t\t\t\t2. From the left main menu, click on your Username, then select "
+"\"Account\" in the flyout menu.<br />\n"
+"\t\t\t\t3. From the account page select \"Extras\" -> \"API Keys\".<br />\n"
+"\t\t\t\t4. Your API Key will be listed in the table labeled \"Your API Keys"
+"\".<br />\n"
+"\t\t\t\t5. Copy / Paste your API key into \"MailChimp API key\" field in "
+"PopUp edit screen -> Subscribe section."
+msgstr ""
+"برای عضویت در MailChimp شما باید کد API مربوط به MailChimp و اسم لیست برای "
+"عضویت را وارد کنید. برای بدست آوردن کد API اکانت MailChimp خود مراحل زیر را "
+"دنبال کنید:<br />\n"
+"\t\t\t\t ابتدا به اکانت خود در http://mailchimp.com وارد شوید <br />\n"
+"\t\t\t\t از منوس اصلی سمت چپ روی نام کاربری خود کلیک کنید و \"Account\" را "
+"انتخاب کنید.<br />\n"
+"\t\t\t\t در صفحه اکانت \"Extras\" و سپس \"API Keys\" را انتخاب نمایید.<br /"
+">\n"
+"\t\t\t\t کد API خود را کپی نموده و در قسمت \"MailChimp API key\" در صفحه "
+"تنظیمات پاپ آپ و قسمت \"Subscribe section\" وارد نمایید."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:38
+msgid "Where to find css code for the pop-up window?"
+msgstr "کجا می توان فایل css را برای پنجره پاپ آپ پیدا نمود؟"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:39
+msgid ""
+"With Popup by Supsystic you can edit CSS style directly from the plugin. "
+"<br />\n"
+"\t\t\t\tIn WordPress admin area - \n"
+"go to Popup by Supsystic -> choose a popup, what you need -> click Code tab. "
+"<br />\n"
+"Here you can edit css style of the pop-up window."
+msgstr ""
+"با افزونه پاپ آپ Supsystic شما می توانید استایل CSS را مستقیما از داخل "
+"افزونه تغییر دهید.<br />\n"
+"\t\t\t\t در پنل مدیریت وردپرس -\n"
+"به قسمت مربوط به تنظیمات افزونه پاپ آپ بروید و یکی از پاپ آپهای خود را "
+"انتخاب نمایید و روی تب کد کلیک کنید.<br />\n"
+"در اینجا شما می توانید استایل CSS پنجره پاپ آپ خود را تغییر دهید."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:43
+msgid "How to get PRO version of plugin for FREE?"
+msgstr ""
+"چگونه می توانید نسخه حرفه ای (PRO) از پلاگین را بصورت رایگان دریافت کنید؟"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:44
+#, php-format
+msgid ""
+"You have an incredible opportunity to get PRO version for free. Make "
+"Translation of the plugin! It will be amazing if you take advantage of this "
+"offer!<br />\n"
+"\t\t\t\t\tMore info you can find here <a target=\"_blank\" href=\"%s\">“Get "
+"PRO version of any plugin for FREE”</a>"
+msgstr ""
+"شما فرصت باور نکردنی برای دریافت نسخه حرفه ای PRO را بصورت کاملا رایگان "
+"دارید. افزونه را ترجمه کنید! این فرصت باورنکردنی را از دست ندهید و از این "
+"فرصت استفاده کنید! <br />\n"
+"\t\t\t\t\t اطلاعات بیشتر را می توانید از این لینک بدست آورید <a target="
+"\"_blank\" href=\"%s\">نسخه حرفه ای افزونه را کاملا رایگان دریافت کنید</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+msgid "Translation"
+msgstr "ترجمه"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:47
+#, php-format
+msgid ""
+"All available languages are provided with the Supsystic Popup plugin. If "
+"your language isn’t available, your plugin will be in English by default."
+"<br />\n"
+"\t\t\t\t\tAvailable Translations: English, French, German, Spanish, "
+"Russian<br />\n"
+"\t\t\t\t\tTranslate or update a translation Popup WordPress plugin in your "
+"language and get a Premium license for FREE. <a target=\"_blank\" href=\"%s"
+"\">Contact us.</a>"
+msgstr ""
+"همه ترجمه های موجود با افزونه پاپ آپ Supsystic ارائه شده است. اگر ترجمه به "
+"زبان شما موجود نباشد، افزونه بصورت پیشفرض به زبان انگلیسی خواهد بود. <br />\n"
+"\t\t\t\t\tترجمه های موجود: انگلیسی، فرانسه، آلمانی، اسپانیایی و روسی<br />\n"
+"\t\t\t\t\tیک ترجمه و یا ویرایش ترجمه از افزونه پاپ آپ انجاد دهید و لایسنس "
+"حرفه ای را به رایگان دریافت کنید. <a target=\"_blank\" href=\"%s\">با ما "
+"تماس بگیرید.</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Where's my subscribers?"
+msgstr "مشترکین من کجا هستند؟"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:55
+#, php-format
+msgid ""
+"By default all subscribers add to the WordPress. \n"
+"\t\t\t\t\tTo find your subscribers go to Users tab on the left navigation "
+"menu of WordPress admin area. \n"
+"\t\t\t\t\tAlso available subscription to the Aweber, MailChimp, MailPoet <a "
+"href='%s' target='_blank'>and other</a>. \n"
+"\t\t\t\t\tIf you want to add another subscription service - just <a "
+"href='%s' target='_blank'>contact us</a> and provide URL of the subscription "
+"service."
+msgstr ""
+"به طور پیش فرض تمام مشترکین به وردپرس اضافه می شوند. \n"
+"\t\t\t\t\tبرای پیدا کردن مشترکین خود به برگه اعضا در منوی سمت چپ بخش مدیریت "
+"وردپرس بروید. \n"
+"\t\t\t\t\tهمچنین اشتراک با استفاده از Aweber, MailChimp, MailPoet و  <a "
+"href='%s' target='_blank'>دیگر شبکه ها</a> وجود دارد.\n"
+"\t\t\t\t\tاگر شما می خواهید سرویس های اشتراک دیگری اضافه نمایید - فقط <a "
+"href='%s' target='_blank'>با ما تماس بگیرید</a> و آدرس URL ارائه دهنده سرویس "
+"را ارسال کنید."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:59
+msgid "PopUp doesn't appear on the website"
+msgstr "پاپ آپ در وب سایت ظاهر نمی شود"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:60
+#, php-format
+msgid ""
+"If you setup you're PopUp properly, and it still doesn't show on the page - "
+"there are can be conflict with your WordPress theme or other plugins. <a "
+"href='%s' target='_blank'>Contact us</a> with the URL of the webpage you add "
+"popup and screenshots / text of the error messages, if you have one - and we "
+"will help you resolve your issue."
+msgstr ""
+"اگر شما پاپ آپ را به درستی تنظیم کرده اید و همچنان در صفحه نمایش داده نمی "
+"شود - ممکن است تضادی بین قالب و یا افزونه دیگری در سایت شما با افزونه ما "
+"موجود باشد. <a href='%s' target='_blank'>با ما تماس بگیرید</a> و آدرس صفحه "
+"خود را به همراه تصاویری از صفحه و یا متن خطاهای دریافتی ارسال کنید - ما به "
+"شما کمک خواهیم کرد تا مشکل برطرف شود."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+#, php-format
+msgid ""
+"There were some problems while trying to retrieve our news, but you can "
+"always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+"در هنگام بارگذاری اخبار ما خطایی رخ داده است اما شما همیشه می توانید از <a "
+"target=\"_blank\" href=\"%s\">این لینک</a> اخبار ما را دنبال کنید."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:85
+msgid "Undefined"
+msgstr "تعریف نشده"
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:9
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:10
+msgid "Available in PRO"
+msgstr "در نسخه حرفه ای PRO قابل دسترس است"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "نسخه"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr "شروع"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr "نسخه حرفه ای"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:15
+#: modules/supsystic_promo/views/tpl/welcomePage.php:28
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:4
+#, php-format
+msgid "Welcome to %s plugin!"
+msgstr "به افزونه %s خوش آمدید!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:5
+#, php-format
+msgid ""
+"Thank you for choosing our %s plugin. Just click here to start using it - "
+"and we will show you it's possibilities and powerfull features."
+msgstr ""
+"از شما به خاطر انتخاب افزونه %s ما سپاسگزاریم. برای شروع به استفاده از آن "
+"اینجا کلیک کنید - و ما شما امکانات و ویژگی های قدرتمند آنرا نشان می دهیم."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:8
+#: modules/supsystic_promo/views/tpl/adminTour.php:18
+#: modules/supsystic_promo/views/tpl/adminTour.php:28
+#: modules/supsystic_promo/views/tpl/adminTour.php:38
+#: modules/supsystic_promo/views/tpl/adminTour.php:48
+#: modules/supsystic_promo/views/tpl/adminTour.php:58
+#: modules/supsystic_promo/views/tpl/adminTour.php:68
+#: modules/supsystic_promo/views/tpl/adminTour.php:78
+#: modules/supsystic_promo/views/tpl/adminTour.php:88
+#: modules/supsystic_promo/views/tpl/adminTour.php:98
+msgid "Close"
+msgstr "بستن"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:9
+#: modules/supsystic_promo/views/tpl/adminTour.php:19
+#: modules/supsystic_promo/views/tpl/adminTour.php:29
+#: modules/supsystic_promo/views/tpl/adminTour.php:39
+#: modules/supsystic_promo/views/tpl/adminTour.php:49
+#: modules/supsystic_promo/views/tpl/adminTour.php:59
+#: modules/supsystic_promo/views/tpl/adminTour.php:69
+#: modules/supsystic_promo/views/tpl/adminTour.php:79
+#: modules/supsystic_promo/views/tpl/adminTour.php:89
+#: modules/supsystic_promo/views/tpl/adminTour.php:99
+msgid "Next"
+msgstr "ادامه"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:14
+msgid "Create your firs PopUp"
+msgstr "ساختن اولین پاپ آپ شما"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:15
+msgid ""
+"Click on \"Add New PopUp\" button to create your firs PopUp. Just try - this "
+"is really simple!"
+msgstr ""
+"برای ساختن پاپ آپ جدید روی دکمه \"اضافه کردن پاپ آپ جدید\" کلیک کنید. امتحان "
+"کنید- واقعاً ساده است!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:24
+msgid "Enter name for your PopUp"
+msgstr "نام پاپ آپ خود را وارد کنید"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:25
+msgid "This will be name of your PopUp. You can change it latter."
+msgstr "این نام پاپ آپ شما خواهد بود. شما می توانید آن را بعدا تغییر دهید."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:34
+msgid "Selecte template for your PopUp"
+msgstr "قالب پاپ آپ خود را انتخاب کنید"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:35
+msgid ""
+"Choose any templates from this list. You will be able to customize it after "
+"creation, and also - you will be able to change it latter if you will need "
+"this."
+msgstr ""
+"هر قالبی را از این لیست انتخاب کنید. شما قادر خواهید بود آن را پس از ایجاد "
+"سفارشی کنید. همچنین قادر خواهید بود در صورت نیاز آنرا تعویض کنید."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:44
+msgid "Save first PopUp"
+msgstr "ذخیره اولین پاپ آپ"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:45
+msgid ""
+"After you entered name of your PopUp and selected it's template - just save "
+"it, and you will be redirected to PopUp edit screen - where you will be able "
+"to customize your PopUp."
+msgstr ""
+"بعد از انتخاب قالب و نام برای پاپ آپ خود آنرا ذخیره کنید. سپس شما به صفحه "
+"ویرایش پاپ آپ منتقل می شوید - در آنجا قادر خواهید بود پاپ آپ خود را سفارشی "
+"سازی کنید."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:54
+msgid "Main Settings"
+msgstr "تنظیمات اصلی"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:55
+msgid ""
+"Here you can setup main display settings for your PopUp - when it should be "
+"visible for your user, when it need to be closed, if required - select "
+"specific pages/posts where you need to show your PopUp."
+msgstr ""
+"در این قسمت شما می توانید تنظیمات اصلی نمایش پاپ آپ خود را انتخاب کنید - چه "
+"زمانی برای کاربر نمایش داده شود و در صورت لزوم چه زمانی بسته شود - می توانید "
+"انتخاب کنید در صفحه یا پست خاصی نماش داده شود."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:64
+msgid "Design Settings"
+msgstr "تنظیمات طراحی"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:65
+msgid ""
+"One of our most powerfull features - possibility to <strong>customize</"
+"strong> design for each PopUp window for your needs. In this section you can "
+"select your PopUp colors and images, enter required texts that will describe "
+"your neds for your visitors, setup social settings (if required), select "
+"PopUp location, and in the end - select Animation style for your PopUp from "
+"list of more then 20 different animation styles!"
+msgstr ""
+"یکی از قویترین امکانات احتمالا <strong> قابلیت ویرایش</strong> در طراحی هر "
+"صفحه پاپ آپ بر اساس نیاز شماست. در این قسمت شما می توانید رنگ و عکس هر پاپ "
+"آپ را تغییر دهید، متن مورد نیاز خود را برای توضیح بیشتر به کاربران اضافه "
+"کنید، در صورت نیاز شبکه های اجتماعی را تنظیم کنید، محل قرار گیری پاپ آپ را "
+"انتخاب کنید و البته نحوه حرکت و انیمیشن پاپ آپ را از بین بیش از 20 استایل "
+"متفاوت انتخاب نمایید!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:74
+msgid "Subscribe Settings"
+msgstr "تنظیمات اشتراک"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:75
+msgid ""
+"Setup your Subscription settings here - select Subscribers destination in "
+"\"Subscribe to\" option - it allow to flow your subscribers not only to "
+"WordPress Users, but to other popular subscribe services. With other "
+"subscription options you will be able to easily customize your subscribe "
+"form in PopUp window."
+msgstr ""
+"تنظیمات نحوه عضویت را در این قسمت انجام دهید - مقصد عضویت را در گزینه "
+"\"اشتراک در\" انجام دهید - این به شما امکان می دهد اعضای خود را نه تنها در "
+"ورد پرس بلکه در دیگر سرویسهای محبوب عضوگیری شکل دهید. با گزینه های دیگر در "
+"این قسمت به آسانی می توانید فرم ثبت نام عضو های خود را در پاپ آپ ها تغییر "
+"دهید."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:84
+msgid "PopUp Statistics"
+msgstr "آمار پاپ آپ"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:85
+msgid ""
+"After you will setup your PopUp - it will start displaying to your site "
+"visitors. And now - you need to check it's displaying statistics. Here, in "
+"Statistics tab, you will be able to see how many times PopUp was shown to "
+"your visitors, how many times visitors subscribed to it (if subscription is "
+"enabled), how many times visitors shared your site using Social Share PopUp "
+"functionality and what social networks for share is most popular (if it was "
+"enabled). If you will use AB Testing feature to increase your site "
+"popularity - you will see here all your main and tested PopUps statistics - "
+"in one graph or diagramm, - and this will provide you with all required "
+"information about your POpUp popularity!"
+msgstr ""
+"بعد از اینکه پاپ آپ خود را ساختید شروع به نمایش دادن به کاربران شما می کند. "
+"و آنگاه شما نیاز به داشتن آمار نمایش و فعالیتهای آن دارید. در این قسمت، شما "
+"قادر خواهید بود تعداد نمایش پاپ آپ خود را ببینید، تعداد دفعاتی که بازدید "
+"کنندگان اقدام به عضویت کرده اند را (در صورت فعال بودن) در یابید، تعداد دفعات "
+"به اشتراک گذاری توسط بازدید کنندگان را متوجه شوید و محبوبیت هر کدام از شبکه "
+"های اجتماعی و میزان استفاده کاربران از آن را متوجه شوید - در این قسمت شما "
+"تمام پاپ آپ های اصلی و آزمایشی خود را خواهید دید - در یک نمودار یا چارت - و "
+"این قابلیت به شما امکان میدهد میزان محبوبیت هر پاپ آپ خود را ببینید!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:94
+msgid "PopUp CSS / HTML Code"
+msgstr "کد CSS و کد HTML پاپ آپ"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:95
+#, php-format
+msgid ""
+"In case you will need modify source CSS / HTML code of your PopUp - you can "
+"easily do this here. Just make sure that you know what you are doing - don't "
+"break PopUp. You can also find additional information about editing source "
+"code <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+"در صورتی که نیاز به تغییر کد CSS یا HTML پاپ آپ خود دارید - براحتی می توانید "
+"در این قسمت آنها را تغییر دهید. فقط با دقت و در صورت داشتن اطلاعات کافی آنها "
+"را تغییر دهید تا باعث خرابی پاپ آپ نشوید. در صورت نیاز می توانید <a href=\"%s"
+"\" target=\"_blank\">در این لینک</a> اطلاعات بیشتری کسب کنید."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:104
+msgid "Well Done!"
+msgstr "بسیار هم عالی!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:105
+#, php-format
+msgid ""
+"That's it! Now you know how to use our %s. Just save your PopUp after you "
+"will setup it - and you will see results. You can also check our site - <a "
+"href=\"%s\" target=\"_blank\">supsystic.com</a> to find out more about our "
+"%s plugin. If you will have any questions - you can always contact us on <a "
+"href=\"%s\" target=\"_blank\">WordPress plugin forum</a> or in <a href=\"%s"
+"\" target=\"_blank\">our support system</a>. We really hope that our "
+"solution will be helpful for you. Good luck!"
+msgstr ""
+"تمام شد! حالا شما نحوه استفاده از %s را میدانید. فقط پاپ آپ خود را بعد از "
+"ویرایش ذخیره کنید تا نتیجه را ببینید. همچنین شما می توانید سایت ما به نشانی "
+"<a href=\"%s\" target=\"_blank\">supsystic.com</a> را برای کسب اطلاعات بیشتر "
+"در مورد افزونه %s مطالعه کنید. اگر سوالی دارید - همیشه می توانید با ما در <a "
+"href=\"%s\" target=\"_blank\">فروم وردپرس</a> یا <a href=\"%s\" target="
+"\"_blank\">فروم پشتیبانی</a> تماس بگیرید. ما واقعا امیدواریم راه حل ما برای "
+"شما کارآمد باشد. موفق باشید!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:108
+msgid "Finish"
+msgstr "پایان"
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:77
+#, php-format
+msgid ""
+"This functionality and more - is available in PRO version. <a class=\"button "
+"button-primary\" target=\"_blank\" href=\"%s\">Get it</a> today for 29$"
+msgstr ""
+"این قابلیت و بیشتر - در نسخه حرفه ای در دسترس است. <a class=\"button button-"
+"primary\" target=\"_blank\" href=\"%s\">دریافت نسخه حرفه ای</a> امروز فقط با "
+"29$"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:5
+msgid "FAQ and Documentation"
+msgstr "پرسش و پاسخ و مستندات"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:17
+#: modules/supsystic_promo/views/tpl/welcomePage.php:51
+msgid "Check all FAQs"
+msgstr "تمام سوالات متداول را بررسی کنید"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:22
+#: modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr "آموزش ویدئویی"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:31
+msgid "Server Settings"
+msgstr "تنظیمات سرور"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:44
+msgid "News"
+msgstr "اخبار"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:50
+msgid "All news and info"
+msgstr "تمام اخبار و اطلاعات"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:55
+msgid "Contact form"
+msgstr "فرم تماس با ما"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:87
+msgid "Send email"
+msgstr "ارسال ایمیل"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:96
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+"پست الکترونیک شما ارسال شد، ما تلاش می کنیم در کوتاه ترین زمان ممکن به شما "
+"پاسخ بدهیم. از شما به خاطر پشتیبانی سپاسگزاریم!"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr "به %s ورژن %s خوش آمدید"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr "رد کردن آموزش"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid ""
+"The best way to collect subscribers and show notifications.<br />We are "
+"trying to make our plugin work in most comfortable way for you. Here is some "
+"base information about it."
+msgstr ""
+"بهترین روش برای جمع آوری اعضا و نمایش اعلانات. <br /> ما در تلاشیم تا افزونه "
+"ما به راحت ترین شکل ممکن برای شما قابل استفاده باشد. در این قسمت می توانید "
+"برخی از اطلاعات کلی در مورد آنرا بیابید."
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr "آموزش گام به گام"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:21
+msgid ""
+"There're really many options of popup customization. So as soon as you close "
+"that page, I'll show you step-by-step tutorial of how to use plugin. Hope it "
+"will be usefull for you :)"
+msgstr ""
+"واقعا گزینه های بسیاری برای سفارشی سازی پاپ آپ وجود دارد. پس به محض اینکه "
+"شما صفحه را ببندید، من به شما آموزش گام به گام نحوه استفاده از افزونه را "
+"نشان خواهم داد. امیدوارم برای شما کاربردی باشد :)"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr ""
+"به عنوان یک گزینه ما می توانیم افزونه را برای شما نصب و راه اندازی کنیم."
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+"ما عاشق افزونه خود هستیم و تمام تلاش خود را برای ارتقاء تمام قابلیتها جهت "
+"استفاده شما میکنیم. اما گاهی اوقات مشکلاتی پیش می آید، یا شما قابلیت خاصی که "
+"نیاز دارید را پیدا نمی کنید. نگران نباشید، کافیست <a href='%s' "
+"target='_blank'>با ما تماس بگیرید</a> و ما به شما کمک خواهیم کرد!"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr "پرسش و پاسخ های متداول"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:59
+msgid "Let's Start!"
+msgstr "شروع کنیم!"

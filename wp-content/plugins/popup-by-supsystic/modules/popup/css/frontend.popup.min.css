@@ -1,0 +1,25 @@
+.ppsPopupShell{position:fixed;z-index:999999999;display:none}#ppsPopupBgOverlay{display:none;width:100%;height:100%;top:0;left:0;position:fixed;z-index:999999998;background-color:#000;opacity:.5}.ppsSubFlexLoader{position:fixed;display:none;z-index:1000002;width:40px;height:8px}.ppsPopupShell .ppsInputError{border:1px solid #fa4e7f!important;color:#fa4e7f!important}.ppsPopupShell .ppsErrorMsg{color:#fa4e7f!important;padding:5px;margin:5px 0}.ppsPopupShell .ppsSuccessMsg{padding:5px;margin:5px 0;text-align:center;color:#4ae8ea!important;}.ppsPopupPreloadImg{width:auto!important;height:auto!important;position:absolute!important;top:-9999px!important;left:-9999px!important;opacity:0!important;display:none!important;visibility:hidden!important}.ppsPopupShell .alignleft{float:left;margin:7px 10px 10px 0}.ppsPopupShell .alignright{float:right;margin:7px 0 10px 10px}.ppsPopupShell .container{padding-right:15px;padding-left:15px;margin-right:auto;margin-left:auto}@media (min-width:768px){.ppsPopupShell .container{width:540px}}@media (min-width:992px){.ppsPopupShell .container{width:750px}}@media (min-width:1200px){.ppsPopupShell .container{width:960px}}.ppsPopupClose{z-index:1}.ppsSnow{background:none;background-image:url(//supsystic-42d7.kxcdn.com/_assets/popup/img/assets/2016_ht_1_snow1.png),url(//supsystic-42d7.kxcdn.com/_assets/popup/img/assets/2016_ht_1_snow2.png),url(//supsystic-42d7.kxcdn.com/_assets/popup/img/assets/2016_ht_1_snow3.png);position:absolute;top:0;left:0;height:100%;width:100%;-webkit-animation:snow 10s linear infinite;-moz-animation:snow 10s linear infinite;-ms-animation:snow 10s linear infinite;animation:snow 10s linear infinite;z-index:0}@keyframes snow{0%{background-position:0 0,0 0,0 0}50%{background-position:500px 500px,100px 200px,-100px 150px}100%{background-position:500px 1000px,200px 400px,-100px 300px}}@-moz-keyframes snow{0%{background-position:0 0,0 0,0 0}50%{background-position:500px 500px,100px 200px,-100px 150px}100%{background-position:400px 1000px,200px 400px,100px 300px}}@-webkit-keyframes snow{0%{background-position:0 0,0 0,0 0}50%{background-position:500px 500px,100px 200px,-100px 150px}100%{background-position:500px 1000px,200px 400px,-100px 300px}}@-ms-keyframes snow{0%{background-position:0 0,0 0,0 0}50%{background-position:500px 500px,100px 200px,-100px 150px}100%{background-position:500px 1000px,200px 400px,-100px 300px}}.ppsRePassLnk{text-decoration:none;color:#555d66}
+
+/* .ppsPopupShell[data-responsive="true"]:not(.ppsResponsiveInside){
+	max-width: 96%;
+} */
+
+[data-responsive="true"] {
+	overflow-y: initial !important;
+}
+
+.ppsPopupTimerWrapper {
+	display: block;
+	position: relative;
+	z-index: 99999999;
+	text-align: center;
+	font-size: 11px;
+	color: #101010;
+}
+
+@media only screen and (max-width: 767px){
+	.ppsPopupVideo iframe {
+		width: 100% !important;
+		height: 250px !important;
+	}
+}

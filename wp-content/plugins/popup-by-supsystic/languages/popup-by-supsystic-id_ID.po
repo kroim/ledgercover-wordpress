@@ -1,0 +1,5158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PopUp by Supsystic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-01 16:11+0200\n"
+"PO-Revision-Date: 2019-06-11 14:54+0300\n"
+"Last-Translator: supsystic.com <supsystic.team@gmail.com>\n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: lang\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPathExcluded-0: doc/promo-popup-by-supsystic-pro\n"
+
+#: classes/controller.php:199 classes/controller.php:207
+msgid "Done"
+msgstr "Selesai"
+
+#: classes/field.php:131
+msgid "Select"
+msgstr "Pilih"
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Tambahkan kotak centang"
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr "Tambahkan Item"
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Tambahkan tombol Radio"
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr "Ukuran"
+
+#: classes/field.php:314
+msgid "width"
+msgstr "lebar"
+
+#: classes/field.php:316
+msgid "height"
+msgstr "tinggi"
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Klik untuk mengatur bidang \"id\" dan \"class\""
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr "Atribut"
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Tidak ada opsi konfigurasi untuk modul ini"
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Terapkan Ke"
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Alamat"
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Tujuan"
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Negara"
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Kategori"
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Anda tidak memiliki kategori"
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Merek"
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Anda tidak memiliki merek"
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Tarif pajak"
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Mutlak"
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Tidak dipilih"
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr "class"
+
+#: classes/fieldAdapter.php:186
+msgid "id"
+msgstr "id"
+
+#: classes/frame.php:139
+msgid "You have no permissions to view this page"
+msgstr "Anda tidak memiliki ada izin untuk melihat Halaman ini"
+
+#: classes/html.php:231
+msgid "Upload"
+msgstr "Unggah"
+
+#: classes/html.php:648
+msgid "ON"
+msgstr "Nyala"
+
+#: classes/html.php:649
+msgid "OFF"
+msgstr "Mati"
+
+#: classes/html.php:673
+#, php-format
+msgid "Select %s"
+msgstr "Pilih %s"
+
+#: classes/model.php:176 classes/model.php:188
+msgid "Database error detected"
+msgstr "Database terdeteksi error"
+
+#: classes/model.php:178
+msgid "Invalid ID"
+msgstr "ID tidak valid"
+
+#: classes/model.php:211
+msgid "Empty or invalid ID"
+msgstr "Kosong atau ID tidak valid"
+
+#: classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr "Pindahkan file untuk %s gagal"
+
+#: classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr "%s bukan modul plugin"
+
+#: classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr "Tidak dapat membuat direktori modul. Coba atur izin ke"
+
+#: classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr "Tidak ada modul ditemukan di file XML"
+
+#: classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr "File XML tidak valid"
+
+#: classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr "Tidak ada file XML ditemukan"
+
+#: classes/modInstaller.php:132
+#, php-format
+msgid "Install %s failed"
+msgstr "Instal %s gagal"
+
+#: classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr "Error mengaktifkan modul"
+
+#: classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr "Error Menon-aktifkan modul"
+
+#: classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr "Error Mengaktifkan modul"
+
+#: classes/table.php:277
+msgid "Nothing to update"
+msgstr "Tidak ada untuk diperbarui"
+
+#: classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr "Darabase error. Silahkan hubungi developer Anda."
+
+#: classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr "Panjang tidak valid untuk %s, panjang maks adalah %s"
+
+#: classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr "Nilai numerik tidak valid untuk %s"
+
+#: classes/validator.php:71
+#, php-format
+msgid "Please enter %s"
+msgstr "Silahkan masukkan %s"
+
+#: classes/validator.php:78
+#, php-format
+msgid "Please select %s"
+msgstr "Silahkan pilih %s"
+
+#: classes/validator.php:85 classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr "Tidak valid %s"
+
+#: classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr "%s sudah terdaftar"
+
+#: classes/tables/modules.php:7 classes/tables/modules_type.php:8
+msgid "Label"
+msgstr "Label"
+
+#: classes/tables/modules.php:8
+msgid "Type"
+msgstr "Tipe"
+
+#: classes/tables/modules.php:9
+msgid "Active"
+msgstr "Aktif"
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr "Params"
+
+#: classes/tables/modules.php:13
+msgid "Code"
+msgstr "Kode"
+
+#: classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Direktori plugin eksternal"
+
+#: classes/tables/modules_type.php:7
+msgid "ID"
+msgstr "ID"
+
+#: classes/tables/usage_stat.php:8
+msgid "code"
+msgstr "kode"
+
+#: classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr "Kunjungan"
+
+#: classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr "spent_time"
+
+#: classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr "modify_timestamp"
+
+#: doc/popup-by-supsystic-pro/wpUpdater.php:68
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Sebuah Kesalahan HTTP tak terduga terjadi selama permintaan API. </p><p> <a "
+"href=\"?\" onclick=\"document.location.reload(); return false;\">Coba lagi</"
+"a>"
+
+#: doc/popup-by-supsystic-pro/wpUpdater.php:73
+msgid "An unknown error occurred"
+msgstr "Terjadi galat yang tak dikenal."
+
+#: doc/popup-by-supsystic-pro/ab_testing/mod.php:21
+msgid "Testing"
+msgstr "Sedang menguji..."
+
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:18
+msgid "Enter Name"
+msgstr "Masukkan Nama"
+
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:20
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:32
+msgid "Empty Base ID"
+msgstr "ID Basis Kosong"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abEditFormControls.php:3
+msgid "Back to Main PopUp"
+msgstr "Kembali ke PopUp Utama"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:2
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:3
+msgid "Add New Test"
+msgstr "Tambah Test Baru"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:5
+msgid "Test PopUp Name"
+msgstr "Nama Popup Test"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:7
+msgid "Delete selected"
+msgstr "Hapus yang dipilih"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:11
+msgid "Clear"
+msgstr "Bersihkan"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:17
+msgid ""
+"You have no Test PopUps for now. <a href=\"#\" class=\"ppsAbAddNew\" style="
+"\"font-style: italic;\">Create</a> your first Test!"
+msgstr ""
+"Anda tidak memiliki popup test saat ini. <a href=\"#\" class=\"ppsAbAddNew\" "
+"style=\"font-style: italic;\">Buat</a> Test pertama Anda!"
+
+#: doc/popup-by-supsystic-pro/activecampaign/mod.php:11
+msgid "Active Campaign"
+msgstr "Kampanye aktif"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:22
+msgid ""
+"Please make sure that you created some Lists under your Active Campaign "
+"account."
+msgstr ""
+"Harap pastikan Anda telah membuat beberapa Daftar dibawah akun kampanye "
+"aktif Anda."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:26
+msgid "Make sure that you entered correct API data."
+msgstr "PAstikan Anda memasukkan data API yang benar."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:40
+msgid "Please enter your API URL"
+msgstr "Silahkan masukkan URL API Anda"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:42
+msgid "Please enter your API key"
+msgstr "Silahkan Masukkan Kunci API"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:82
+#, php-format
+msgid "Add contact failed with error: %s"
+msgstr "Menambah kontak gagal dengan error: %s"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:94
+msgid ""
+"No lists to add selected in admin area - contact site owner to resolve this "
+"issue."
+msgstr ""
+"Tidak da daftar dipilih di area admin - hubungi pemilik situs untuk "
+"mengatasi masalah."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:4
+msgid "Not supported by Server"
+msgstr "Tidak di support oleh server"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:5
+msgid "Not supported on your server"
+msgstr "Tidak support pada server Anda"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed. Please "
+"contact your hosting provider and ask them to enable cUrl for you, this is "
+"Free library."
+msgstr ""
+"Modul ini memerlukan pustaka cUrl untuk PHP terinstal pada server. Silahkan "
+"hubungi hosting provider dan minta mereka mengaktifkan cUrl Anda, ini "
+"pustaka gratis."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:14
+msgid "API URL"
+msgstr "URL API"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:15
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:27
+#, php-format
+msgid ""
+"You can find it under your Active Campaign Account -> My Settings -> API, "
+"here is <a href=\"%s\" class=\"ppsAcHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+"Anda dapat menemukannya di Akun Kampanye Aktif Anda -> Pengaturan Saya -> "
+"API, disini <a href=\"%s\" class=\"ppsAcHelpApiKeyLink\">bantuan screenshot</"
+"a>"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:26
+msgid "API Key"
+msgstr "Kunci API"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:38
+msgid "Campaigns for subscribe"
+msgstr "Kampanye untuk berlangganan"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:39
+msgid ""
+"Select Campaigns for subscribe. They are taken from your Active Campaign "
+"account."
+msgstr ""
+"Pilih Kampanye untuk berlangganan. Diambil dari akun Kampanye Aktif Anda."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:46
+msgid "Choose Lists"
+msgstr "Pilih Daftar"
+
+#: doc/popup-by-supsystic-pro/arpreach/mod.php:8
+msgid "arpReach"
+msgstr "arpReach"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:4
+msgid "arpReach not supported"
+msgstr "arpReach tidak di support"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:5
+msgid "This module is not supported by your server configuration."
+msgstr "Modul ini tidak di support oleh konfigurasi server Anda."
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:8
+msgid "arpReach is not supported on your server."
+msgstr "arpReach tidak di support do server Anda."
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:14
+msgid "arpReach intake form Action URL"
+msgstr "arpReach form asupan Tindakan URL"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:15
+msgid ""
+"Open your script for intake form, find there form tag with form "
+"method='post' action='http://yourdomain.coma/a/a.php/sub/a/xxxxxx', then "
+"copy \"action\" attribute - and paste it in text field below."
+msgstr ""
+"Buka skrip Anda untuk form asupan, temukan via tag dengan form method='post' "
+"action='http://domainanda.coma/a/a.php/sub/a/xxxxxx', kemudian salin atribut "
+"\"action\" - dan tempel pada bidang teks dibawah."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/mod.php:12
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:41
+msgid ""
+"Please make sure that you created some Lists under your Benchmark account."
+msgstr ""
+"Harap pastikan Anda sudah membuat beberapa Daftar di akun Patokan Anda."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:45
+msgid "Please enter your Benchmark Password"
+msgstr "Silahkan masukkan Kata Sandi Patokan Anda"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:47
+msgid "Please enter your Benchmark Login"
+msgstr "Silahkan masukkan Login Patokan Anda"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:15
+msgid "Benchmark Login"
+msgstr "Patokan Login"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:16
+msgid "Login for your Benchmark account."
+msgstr "Login untuk akun Patokan Anda."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:27
+msgid "Benchmark Password"
+msgstr "Kata Sandi Patokan"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:28
+msgid "Password for your Benchmark account."
+msgstr "KAta Sandi untuk akun Patokan Anda."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:40
+msgid ""
+"Select Campaigns for subscribe. They are taken from your Benchmark account."
+msgstr "Pilih Kampanye untuk subscribe. Diambil dari akun Patokan Anda."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/mod.php:8
+msgid "Campaign Monitor"
+msgstr "Monitor Kampanye"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:16
+#, php-format
+msgid ""
+"You have no lists for now. Go to your <a href=\"%s\" target=\"_blank"
+"\">Campaign Monitor Account -> Lists & Subscribers</a> and create list at "
+"first, then just reload this page"
+msgstr ""
+"Anda tidak punya daftar sekarang. Pergi ke <a href=\"%s\" target=\"_blank"
+"\">Akun Monitor Kampanye -> Daftar & Subscribers</a> dan buat daftar "
+"pertama, kemudian reload laman"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:185
+msgid ""
+"Something going wrong while trying to send data to mail list service. Please "
+"contact site owner."
+msgstr ""
+"Ada kesalahan saat mencoba mengirim data ke layanan daftar email. SIlahkan "
+"hubungi pemilik situs Anda."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:195
+msgid ""
+"Can not detect authorization fo account owner. Contact site owner to resolve "
+"this issue."
+msgstr ""
+"Tidak dapat mendeteksi otorisasi untuk pemilik akun. Hubungi pemilik situs "
+"untuk mengatasi masalah ini."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:4
+msgid "Campaign Monitor not supported"
+msgstr "Monitor Kampanye tidak di support"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:8
+msgid ""
+"Campaign Monitor require at least PHP version 5.3. Please contact your "
+"hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+"Monitor Kampanye memerlukan setidaknya PHP versi 5.3. Silahkan hubungi "
+"provider hosting Anda dan minta mereka mengganti PHP  ke versi 5.3 atau "
+"lebih."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:14
+msgid "Campaign Monitor Setup"
+msgstr "Pengaturan Monitor Kampanye"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:15
+msgid "You must authorize to use Campaign Monitor features"
+msgstr "Anda harus terotorisasi untuk menggunakan fitur Monitor Kampanye"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:18
+msgid "Authorize in Campaign Monitor"
+msgstr "Otorisasi dalam Monitor Kampanye"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:24
+msgid "Lists for subscribe"
+msgstr "Daftar untuk subscribe"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:25
+msgid ""
+"Select lists for subscribe. They are taken from your Campaign Monitor "
+"account."
+msgstr "Pilih daftar untuk subscribe. Diambil dari akun Monitor Kampanye Anda."
+
+#: doc/popup-by-supsystic-pro/constantcontact/mod.php:11
+msgid "Constant Contact"
+msgstr "Kontak konstan"
+
+#: doc/popup-by-supsystic-pro/constantcontact/models/constantcontact.php:39
+msgid "You are not logged-in"
+msgstr "Anda tidak login"
+
+#: doc/popup-by-supsystic-pro/constantcontact/models/constantcontact.php:41
+msgid "Can not get cc obj"
+msgstr "Tidak dapat mendapatkan cc obj"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:4
+msgid "Constant Contact not supported"
+msgstr "Kontak konstan tidak di spoort"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:8
+msgid ""
+"Constant Contact require at least PHP version 5.3. Please contact your "
+"hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+"Kontak Konstan memerlukan setidaknya PHP versi 5.3 atau lebih. Silahkan "
+"hubungi provider hosting Anda dan minta mereka mengganti PHP ke versi 5.3 "
+"atau lebih."
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:14
+msgid "Constant Contact Setup"
+msgstr "Pengaturan Kontak Konstan"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:15
+msgid "You must authorize to use Constant Contact features"
+msgstr "Anda harus terotorisasi untuk menggunakan fitur Kontak Konstan"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:18
+msgid "Authorize in Constant Contact"
+msgstr "Otorisasi dalam Kontak Konstan"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:25
+msgid ""
+"Select lists for subscribe. They are taken from your Constant Contact "
+"account."
+msgstr "Pilih daftar untuk subscribe. Diambil dari akun Kontak Konstan Anda."
+
+#: doc/popup-by-supsystic-pro/feedblitz/mod.php:8
+msgid "FeedBlitz"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/feedblitz/models/feedblitz.php:11
+msgid ""
+"You have no lists. Login to your SendGrid account and create your first list "
+"before start using this functionality."
+msgstr ""
+"Anda tidak memiliki daftar. Masuk ke akun SendGrid Anda dan buat daftar "
+"pertama sebelum mulai menggunakan fungsi ini."
+
+#: doc/popup-by-supsystic-pro/feedblitz/models/feedblitz.php:61
+msgid "Some error occured during connection to the server"
+msgstr "Terjadi kesalahan selama koneksi ke server"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:4
+#, fuzzy
+#| msgid "SendGrid not supported"
+msgid "FeedBlitz not supported"
+msgstr "SendGrid tidak di support"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:8
+#, fuzzy
+#| msgid "SendGrid is not supported on your server"
+msgid "FeedBlitz is not supported on your server"
+msgstr "SendGrid tidak di support pada server Anda"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:14
+msgid "FeedBlitz API Key"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:15
+msgid "Your FeedBlitz API Key"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:26
+#, fuzzy
+#| msgid ""
+#| "Select lists for subscribe. They are taken from your SendGrid account."
+msgid "Select lists for subscribe. They are taken from your FeedBlitz account."
+msgstr "Pilih daftar untuk subscribe. Diambil dari akun SendGrid Anda."
+
+#: doc/popup-by-supsystic-pro/get_response/mod.php:11
+msgid "GetResponse"
+msgstr "GetResponse"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, fuzzy, php-format
+#| msgid ""
+#| "You can find it under your GetResponse Account -> GetResponse API, here "
+#| "is <a href=\"%s\" class=\"ppsGrHelpApiKeyLink\">help screenshot</a>"
+msgid ""
+"You can find it under your GetResponse Account -> GetResponse API, here is "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\" target=\"_blank\">help "
+"screenshot</a>"
+msgstr ""
+"Anda dapat menemukannya di Akun GetResponse -> GetResponse API, disini <a "
+"href=\"%s\" class=\"ppsGrHelpApiKeyLink\">screenshot bantuannya</a>"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:26
+msgid ""
+"Select Campaigns for subscribe. They are taken from your GetResponse account."
+msgstr "Pilih Kampanye untuk subscribe. Diambil dari akun GetResponse Anda."
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:41
+msgid "Cycle Day"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:42
+msgid ""
+"Insert contact on a given day at the autoresponder cycle. Value of 0 means "
+"the beginning of the cycle. Lack of this param means that a contact will not "
+"be inserted into cycle."
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/icontact/mod.php:11
+#, fuzzy
+#| msgid "Contact form"
+msgid "iContact"
+msgstr "Formulir Kontak"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:20
+#, fuzzy
+#| msgid "Please enter your License Key"
+msgid "Please enter your Application ID"
+msgstr "Masukkan kunci lisensi Anda"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:23
+#, fuzzy
+#| msgid "Please enter your API URL"
+msgid "Please enter your API Username"
+msgstr "Silahkan masukkan URL API Anda"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:26
+#, fuzzy
+#| msgid "Please enter your Benchmark Password"
+msgid "Please enter your API Password"
+msgstr "Silahkan masukkan Kata Sandi Patokan Anda"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:43
+msgid "You have no lists in your iContact account for now."
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:107
+#, fuzzy
+#| msgid "Constant Contact"
+msgid "Can't add contact"
+msgstr "Kontak konstan"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:14
+msgid "Application ID"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:15
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:26
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:37
+#, php-format
+msgid ""
+"You can create it <a href=\"%s\" target=\"_blank\">here</a>. More info can "
+"be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:25
+#, fuzzy
+#| msgid "Username"
+msgid "API Username"
+msgstr "Username"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:36
+#, fuzzy
+#| msgid "Password"
+msgid "API Password"
+msgstr "Kata Sandi"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:48
+#, fuzzy
+#| msgid ""
+#| "Select lists for subscribe. They are taken from your Constant Contact "
+#| "account."
+msgid "Select Lists for subscribe. They are taken from your iContact account."
+msgstr "Pilih daftar untuk subscribe. Diambil dari akun Kontak Konstan Anda."
+
+#: doc/popup-by-supsystic-pro/infusionsoft/mod.php:13
+msgid "InfusionSoft"
+msgstr "InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/models/infusionsoft.php:87
+msgid ""
+"Administrator of this site need to re-autentificate in InfusionSoft system "
+"from admin area"
+msgstr ""
+"Admin situs ini perlu mengautentikasi ulang dalam sistem InfusionSoft dari "
+"area admin"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+#, fuzzy
+#| msgid ""
+#| "This module require to have cUrl library for PHP on server installed and "
+#| "PHP version to be at least 5.3. Please contact your hosting provider and "
+#| "ask them to enable cUrl for you, this is Free library, and check your PHP "
+#| "version."
+msgid ""
+"This module require to have cUrl library for PHP on server installed and PHP "
+"version to be at least 5.3.2. Please contact your hosting provider and ask "
+"them to enable cUrl for you, this is Free library, and check your PHP "
+"version."
+msgstr ""
+"Modul ini memerlukan pustaka cUrl untuk PHP terinstal pada server dan versi "
+"PHP setidaknya 5.3. Silahkan hubungi provider hosting Anda dan minta mereka "
+"mengadakan cUrl untuk Anda, ini pustaka gratis, dan cek versi PHP Anda."
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:14
+msgid "InfusionSoft Setup"
+msgstr "Pengaturan InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:15
+msgid "You must authorize to use InfusionSoft features"
+msgstr "Anda harus terotorisasi untuk menggunakan fitur InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:18
+msgid "Authorize in InfusionSoft"
+msgstr "Otorisasi dalam InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/layered_popup/mod.php:10
+msgid "Popup Location"
+msgstr "Lokasi Popup"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:7
+msgid "Enable Layered PopUp Style"
+msgstr "Adakan Gaya Popup yang Dilapis"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:9
+msgid ""
+"By default all PopUps have modal style: it appears on user screen over the "
+"whole site. Layered style allows you to show your PopUp - on selected "
+"position: top, bottom, etc. and not over your site - but right near your "
+"content."
+msgstr ""
+"Secara default semua Popup memiliki gaya modul: muncul pada layar pengguna "
+"pada seluruh situs. Gaya berlapis memungkinkan Anda menampilkan PopUp Anda - "
+"pada posisi terpilih: atas, bawah, dll. dan tidak semua situs - tapi tepat "
+"dekat konten Anda."
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:13
+msgid "Select position for your PopUp"
+msgstr "Pilih lokasi untuk PopUp Anda"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:16
+msgid "Top Left"
+msgstr "Kiri Atas"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:17
+msgid "Top"
+msgstr "Atas"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:18
+msgid "Top Right"
+msgstr "Kanan Atas"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:20
+msgid "Center Left"
+msgstr "Kiri Tengah"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:21
+msgid "Center"
+msgstr "Tengah"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:22
+msgid "Center Right"
+msgstr "KananTengah"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:24
+msgid "Bottom Left"
+msgstr "Kiri Bawah"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:25
+msgid "Bottom"
+msgstr "Bawah"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:26
+msgid "Bottom Right"
+msgstr "Kanan Bawah"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:30
+#, php-format
+msgid ""
+"Your license has expired. Once you extend your license - you will be able to "
+"Update PRO version. To extend PRO version license - follow <a href=\"%s\" "
+"target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</a> tab "
+"anc click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"Lisensi Anda sudah kadaluarsa. Setelah memperpanjang lisensi Anda - Anda "
+"boleh memperbarui versi PRO. Untuk lisensi memperpanjang versi PRO - ikuti "
+"<a href=\"%s\" target=\"_blank\">this link</a>, kemudian - pergi ke tab <a "
+"href=\"%s\">Lisensi</a>dan klik tombol \"Aktifkan-Lagi\" untuk mengaktifkan "
+"kembali versi PRO."
+
+#: doc/popup-by-supsystic-pro/license/mod.php:38
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a href=\"%s"
+"\" target=\"_blank\">click here</a> to extend your license, then - go to <a "
+"href=\"%s\">License</a> tab and click on \"Re-activate\" button to re-"
+"activate your PRO version."
+msgstr ""
+"Lisensi versi Pro plugin %s sudah kadaluarsa. Anda dapat <a href=\"%s\" "
+"target=\"_blank\">klik disini</a> untuk perpanjang lisensi, kemudian - pergi "
+"ke tab <a href=\"%s\">Lisensi</a> dan klik tombol \"Aktifkan-Lagi\" untuk "
+"mengaktifkan ulang veris PRO."
+
+#: doc/popup-by-supsystic-pro/license/mod.php:51
+msgid "License"
+msgstr "Lisensi"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:74
+msgid "Activate License"
+msgstr "Aktifkan Lisensi"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:76
+msgid "Renew License"
+msgstr "Perbarui Lisensi"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:54
+msgid "Please enter your License Key"
+msgstr "Masukkan kunci lisensi Anda"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:56
+msgid "Please enter your Email address"
+msgstr "Masukkan alamat email Anda"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:131
+msgid ""
+"There was a problem with sending request to our authentication server. "
+"Please try later."
+msgstr ""
+"Ada masalah dengan mengirimkan permintaan ke server otentikasi kami. Coba "
+"nanti."
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:154
+#, php-format
+msgid "License for plugin %s will expire today."
+msgstr "Lisensi untuk plugin %s akan berakhir hari ini."
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:156
+#, php-format
+msgid "License for plugin %s will expire tomorrow."
+msgstr "Lisensi untuk plugin %s akan berakhir besok."
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:158
+#, php-format
+msgid "License for plugin %s will expire in %d days."
+msgstr "Lisensi untuk plugin %s akan berakhir dalam %d hari."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:4
+#, php-format
+msgid ""
+"Congratulations! PRO version of %s plugin has been activated and is working "
+"fine!"
+msgstr "Selamat! Versi PRO plugin %s telah diaktifkan dan bekerja dengan baik!"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:6
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a href=\"%s"
+"\" target=\"_blank\">click here</a> to extend your license, then - click on "
+"\"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"Lisensi Anda untuk versi PRO plugin %s telah kedaluwarsa. Anda dapat <a href="
+"\"%s\" target=\"_blank\">Klik di sini</a> untuk memperpanjang lisensi Anda, "
+"kemudian - klik pada tombol \"Aktifkan-Lagi\" untuk Aktifkan ulang versi PRO "
+"Anda."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:8
+#, php-format
+msgid ""
+"Congratulations! You have successfully installed PRO version of %s plugin. "
+"Final step to finish Your PRO version setup - is to enter your Email and "
+"License Key on this page. This will activate Your copy of software on this "
+"site."
+msgstr ""
+"Selamat! Anda telah berhasil menginstal versi PRO plugin %s. Langkah "
+"terakhir untuk menyelesaikan pengaturan versi PRO Anda - adalah untuk "
+"memasukkan Email Anda dan kunci lisensi pada Halaman ini. Ini akan "
+"mengaktifkan salinan perangkat lunak pada situs ini."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:20
+msgid "Email"
+msgstr "Email"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:23
+#, php-format
+msgid ""
+"Your email address, used on checkout procedure on <a href=\"%s\" target="
+"\"_blank\">%s</a>"
+msgstr ""
+"Alamat email Anda, digunakan pada prosedur checkout pada <a href=\"%s\" "
+"target=\"_blank\">%s</a>"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:31
+msgid "License Key"
+msgstr "Kunci lisensi"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:34
+#, php-format
+msgid ""
+"Your License Key from your account on <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+"Kunci lisensi Anda dari akun Anda pada <a href=\"%s\" target=\"_blank\">%s</"
+"a>"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:47
+msgid "Re-activate"
+msgstr "Aktifkan-Lagi"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:49
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:19
+msgid "Login Success!"
+msgstr "Sukses login!"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:39
+msgid "Thank you for registration!"
+msgstr "Terima kasih untuk bergabung!"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:43
+msgid "Confirmation link was sent to your email address. Check your email!"
+msgstr "Link konfirmasi dikirim ke alamat email Anda. Periksa email Anda!"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:13
+msgid "Login/Registration"
+msgstr "Log masuk/daftar"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:30
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:32
+msgid "Username"
+msgstr "Username"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:34
+msgid "Password"
+msgstr "Kata Sandi"
+
+#: doc/popup-by-supsystic-pro/login/models/login.php:80
+msgid "Empty or invalid username"
+msgstr "Kosong atau tidak valid username"
+
+#: doc/popup-by-supsystic-pro/login/models/login.php:85
+msgid "Empty or invalid password"
+msgstr "Password kosong atau tidak valid"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:9
+msgid "Text"
+msgstr "Teks"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:10
+msgid "Text area"
+msgstr "Area Teks"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:11
+msgid "Select box"
+msgstr "Kotak pilihan"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:12
+msgid "Hidden Field"
+msgstr "Bidang tersembunyi"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:1
+msgid "This option will replace Subscribe form with Login / Registration forms"
+msgstr ""
+"Pilihan ini akan menggantikan formulir berlangganan dengan Login / formulir "
+"pendaftaran"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:8
+msgid "Enable Login"
+msgstr "Mengaktifkan Login"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:15
+msgid "Login by"
+msgstr "Login dengan"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:16
+#, fuzzy
+#| msgid ""
+#| "Choose what info need to be entered for login. Password will be included "
+#| "by default."
+msgid ""
+"Choose what info needs to be entered for login. Password will be included by "
+"default."
+msgstr ""
+"Pilih info apa perlu dimasukkan untuk login. Password akan disertakan secara "
+"default."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:35
+msgid "Redirect after login URL"
+msgstr "Mengarahkan setelah login"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:36
+#, fuzzy
+#| msgid ""
+#| "You can enable redirection after login, just enter here URL that you want "
+#| "to redirect to after login - and user will be redirected there. If you "
+#| "don't need this feature - just leave this field empty: browser window "
+#| "will be just reloaded after success login."
+msgid ""
+"You can enable redirection after login, just enter here URL that you want to "
+"redirect to after login - and user will be redirected there. If you don't "
+"need this feature - just leave this field empty: browser window will be just "
+"reloaded after successful login."
+msgstr ""
+"Anda dapat mengadakan pengalihan setelah login, cukup masukkan URL disini "
+"yang Anda ingin alihkan setelah login - dan pengguna akan dialihkan. Jika "
+"tidak butuh fitur ini - cukup biarkan kosong: browser akan reload setelah "
+"login sukses."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:46
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:85
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:234
+msgid "Open in a new window (tab)"
+msgstr "Buka tautan di jendela/tab yang baru"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:52
+msgid "Login button name"
+msgstr "Nama tombol login"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:56
+msgid "Login"
+msgstr "Login"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:67
+msgid "Enable Registration"
+msgstr "Mengaktifkan pendaftaran"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:74
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:223
+msgid "Redirect after registration URL"
+msgstr "URL pengarahan setelah pendaftaran"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:75
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:224
+msgid ""
+"You can enable redirection after registration, just enter here URL that you "
+"want to redirect to after registration - and user will be redirected there. "
+"If you don't need this feature - just leave this field empty."
+msgstr ""
+"Anda dapat mengadakan pengarahan setelah pendaftaran, masukkan URL disini "
+"yang Anda ingin arahkan ke setelah pendaftaran - dan pengguna akan "
+"diarahkan. Jika tidak butuh fitur ini - biarkan saja kosong."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:91
+#, fuzzy
+#| msgid "Create User without confirmation"
+msgid "Create user with the chosen role after registration"
+msgstr "Buat Pengguna tanpa harus konfirmasi"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:92
+#, fuzzy
+#| msgid ""
+#| "Use this only if you are really need it. Remember! After you change this "
+#| "option - your new users will have more privileges than usual subscribers, "
+#| "so be careful with this option!"
+msgid ""
+"Use this only if you really need it. Remember! After you change this option "
+"- your new users will have more privileges than usual subscribers, so be "
+"careful with this option!"
+msgstr ""
+"Gunakan ini hanya jika Anda memang butuh. Ingat! Setelah Adna merubah opsi "
+"ini - pengguna baru Anda akan memiliki hak lebih banyak dari biasanya, hati-"
+"hati dengan opsi ini!"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:102
+msgid "Create User without confirmation"
+msgstr "Buat Pengguna tanpa harus konfirmasi"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:103
+#, fuzzy
+#| msgid ""
+#| "Usually, after user registration, we send email with confirmation link - "
+#| "to confirm email addres, and only after user will click on link from this "
+#| "email - we will create new user. This option allow you to create user - "
+#| "right after registration, without email confirmation process."
+msgid ""
+"Usually, after user registration, we send an email with the confirmation "
+"link - to confirm the email address, and only after user clicks on the link "
+"from this email - we will create a new user. This option allows you to "
+"create user - right after registration, without the email confirmation "
+"process."
+msgstr ""
+"Biasanya, setelah pendaftaran, kami mengirim email link konfirmasi - untuk "
+"konfirmasi alamat email, dan hanya setelah link itu di klik - kami membuat "
+"pengguna baru. Opsi ini memungkinkan Anda untuk membuat pengguna baru - "
+"setelah pendaftaran, tanpa proses konfirmasi email."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:112
+msgid "Export Users"
+msgstr "Ekspor pengguna"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:113
+msgid "Export all users, who registered using your PopUp, as CSV file."
+msgstr ""
+"Ekspor semua pengguna yang terdaftar menggunakan PopUp Anda, sebagai CSV "
+"file."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:116
+msgid "Get CSV List"
+msgstr "Dapatkan daftar CSV"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:121
+msgid "Registration button name"
+msgstr "Nama tombol pendaftaran"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:125
+msgid "Register"
+msgstr "Daftar"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:132
+msgid "Registration fields"
+msgstr "Bidang pendaftaran"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:133
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Registration form - click on \"+ Add\" "
+"button."
+msgstr ""
+"Untuk mengganti opsi bidang - cukup seret-&-jatuhkan kedalam tempat "
+"diperlukan antara bidang lainnya. Untuk menambahkan bidang baru pada form "
+"pendaftaran - klik tombol \"+Tambah\"."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:182
+msgid "Add"
+msgstr "Tambah"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:190
+msgid "\"Confirmation sent\" message"
+msgstr "Pesan \"Konfirmasi Terkirim\""
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:191
+msgid ""
+"This is the message that the user will see after registration, when letter "
+"with confirmation link was sent."
+msgstr ""
+"Ini pesan yang pengguna akan lihat setelah pendaftaran, ketika link "
+"konfirmasi sudah terikirim."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:201
+msgid "Registration success message"
+msgstr "Pesan pendaftaran berhasil"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:202
+msgid ""
+"Right after new user will be created and confirmed - this message will be "
+"shown."
+msgstr ""
+"Tepat setelah pengguna baru dibuat dan dikonfirmasi - pesan ini akan muncul."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:212
+msgid "Email error message"
+msgstr "Pesan email error"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:213
+msgid ""
+"If email that was entered by user is invalid, user will see this message"
+msgstr "Jika email yang dimasukkan tidak valid, pengguna akan lihat pesan ini"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:217
+msgid "Empty or invalid email"
+msgstr "Kosong atau email tidak valid"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:240
+msgid "Confirmation email subject"
+msgstr "Subjek email konfirmasi"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:241
+msgid "Email with confirmation link subject"
+msgstr "Subjek email dengan link konfirmasi"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:247
+msgid "Confirm registration on [sitename]"
+msgstr "Konfirmasi pendaftaran di [sitename]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:253
+msgid "Confirmation email From field"
+msgstr "Bidang email konfirmasi Dari"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:254
+msgid "Email with confirmation link From field"
+msgstr "Bidang email dengan link konfirmasi Dari"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:266
+msgid "Confirmation email text"
+msgstr "Teks email konfirmasi"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:267
+msgid "Email with confirmation link content"
+msgstr "Konten email dengan link konfirmasi"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:269
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:310
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:338
+#, php-format
+msgid "You can use next variables here: %s"
+msgstr "Anda dapat menggunakan variabel berikutnya disini: %s"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:275
+msgid ""
+"You registered on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your registration. If you did "
+"not register here - just ignore this message."
+msgstr ""
+"Anda sudah daftar di situs <a href=\"[siteurl]\">[sitename]</a>. Ikuti <a "
+"href=\"[confirm_link]\">link ini</a> untuk melengkapi pendaftaran. Jika Anda "
+"tidak merasa mendaftar disini - abaikan pesan ini."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:281
+msgid "New Member email subject"
+msgstr "Subjek email anggota baru"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:282
+msgid "Email to New Member subject"
+msgstr "Subjek email ke Anggota Baru"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:288
+msgid "[sitename] Your username and password"
+msgstr "[sitename] username dan kata sandi Anda"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:294
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:295
+msgid "New Member email From field"
+msgstr "Bidang email Anggota Baru Dari"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:307
+msgid "New Member email text"
+msgstr "Teks email Anggota Baru"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:308
+msgid "Email to New Member content"
+msgstr "Konten email ke Anggota Baru"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:316
+msgid "Username: [user_login]<br />Password: [password]<br />[login_url]"
+msgstr "Username: [user_login]<br />Kata Sandi: [password]<br />[login_url]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:322
+msgid "New Member Notification"
+msgstr "Pemberitahuan Anggota Baru"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:323
+msgid ""
+"Enter the email addresses that should receive notifications (separate by "
+"comma). Leave it blank - and you will not get any notifications."
+msgstr ""
+"Masukkan alamat email yang akan menerima pemberitahuan (pisahkan dengan "
+"koma). Biarkan kosong - dan Anda tidak akan mendapatkan pemberitahuan."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:335
+msgid "New Member Notification email text"
+msgstr "Teks email Anggota Baru"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:336
+msgid "Message that you will receive about new members on your site."
+msgstr "PEsan yang akan Anda terima tentang anggota baru di situs Anda."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:345
+msgid ""
+"You have new member on your site <a href=\"[siteurl]\">[sitename]</a>, here "
+"us member information:<br />[subscriber_data]"
+msgstr ""
+"Anda memiliki anggota baru pada situs Anda <a href=\"[siteurl]\">[sitename]</"
+"a>, berikut ini informasinya:<br />[subscriber_data]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:352
+msgid "Registration Field Settings"
+msgstr "Pengaturan Bidang Pendaftaran"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:356
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:405
+msgid "Name"
+msgstr "Nama"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:357
+#, fuzzy, php-format
+#| msgid ""
+#| "Name (key) for your field. This parameter is for system - to be able to "
+#| "determine the field. Use here only latin letters, numbers, symbols -_+ "
+#| "and space. For more info about this parameter - your can check <a href="
+#| "\"%s\" target=\"_blank\">this page</a>."
+msgid ""
+"Name (key) for your field. This parameter is for system - to be able to "
+"determine the field. Use here only latin letters, numbers and symbols -_+. "
+"For more info about this parameter - your can check <a href=\"%s\" target="
+"\"_blank\">this page</a>."
+msgstr ""
+"Nama (kunci) untuk bidang Anda. Parameter ini untuk sistem - agar dapat "
+"menentukan bidang. Gunakan huruf latin saja, nomor, simbol -_+ dan spasi. "
+"Info lanjut untuk parameter ini - bisa lihat <a href=\"%s\" target=\"_blank"
+"\">laman ini</a>."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:366
+msgid "Label that will be visible for your members."
+msgstr "Label yang akan terlihat anggota Anda."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:374
+msgid "Value"
+msgstr "Nilai"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:375
+msgid "Default value for your field"
+msgstr "Nilai default untuk bidang Anda"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:383
+msgid "Html Type"
+msgstr "Tipe HTML"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:384
+msgid "This parameter will show - how we must render this field."
+msgstr ""
+"Parameter ini akan menjelaskan - bagaimana kita harus membuat bidang ini."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:394
+msgid "Select Options"
+msgstr "Pilih Pilihan"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:412
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:436
+msgid "Remove"
+msgstr "Singkirkan"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:421
+msgid "Mandatory"
+msgstr "Wajib"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:422
+msgid ""
+"Is this field mandatory to fill-in. If yes - then users will not be able to "
+"continue without filling-in this field."
+msgstr ""
+"Apakah bidang ini wajib untuk diisi. Jika ya - kemudian pengguna tidak akan "
+"bisa melanjutkan tanpa mengisi bidang ini."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:433
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: doc/popup-by-supsystic-pro/mailrelay/mod.php:9
+msgid "Mailrelay"
+msgstr "Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:15
+msgid ""
+"You have no lists. Login to your Mailrelay account and create your first "
+"list before start using this functionality."
+msgstr ""
+"Anda tidak memiliki daftar. Login ke Mailrelay Anda dan buat daftar pertama "
+"sebelum memulai fungsi ini."
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:159
+msgid "Failed to create subscriber."
+msgstr "Gagal membuat pelanggan."
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:165
+msgid ""
+"Can not detect Host and API key. Contact site owner to resolve this issue."
+msgstr ""
+"Tidak dapat mendeteksi Kunci host dan API. Hubungi pemilik situs untuk "
+"mengatasi masalah ini."
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:4
+msgid "Mailrelay not supported"
+msgstr "Mailrelay tidak di support"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:8
+msgid "Mailrelay is not supported on your server"
+msgstr "Mailrelay tidak di support pada server Anda"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:14
+msgid "Mailrelay Host"
+msgstr "Host Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:15
+msgid ""
+"Please enter the host that you have in your Mairelay welcome email. Please "
+"enter it without the initial http:// (for example demo.ip-zone.com)"
+msgstr ""
+"Silahkan masukkan host yang Anda dapat di email selamat datang Mailrelay. "
+"Silahkan masukkan tanpa inisial http:// (contoh demo.ip-zone.com)"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:34
+msgid "Mailrelay API Key"
+msgstr "Kunci API Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:35
+msgid ""
+"Please enter your API key. You can generate your API key on your Mailrelay "
+"panel, Configuration -> API access -> Generate API key"
+msgstr ""
+"Silahkan masukkan kunci API Anda. Anda dapat hasilkan kunci API pada panel "
+"Mailrelay, Konfigurasi -> Akses API - > HAsilkan kunci API"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:47
+msgid ""
+"To create new groups in Mailrelay, you must login into the control panel and "
+"click into the Mail Relay > Subscribers groups. Once there you can add a new "
+"group for your Wordpress users, or edit an existing one"
+msgstr ""
+"Untuk membuat grup baru di Mailrelay, Anda harus masuk ke kontrol panel dan "
+"klik Mail Relay > Grup pelanggan. Setelah Anda dapat menambahkan grup baru "
+"untuk pengguna Wordpress Anda, atau edit yang sudah ada"
+
+#: doc/popup-by-supsystic-pro/on_exit/views/tpl/onExitAdminOption.php:1
+#, php-format
+msgid ""
+"Show when user tries to exit from your site. <a target=\"_blank\" href=\"%s"
+"\">Check example.</a>"
+msgstr ""
+"Tampilkan ketika pengguna mencoba keluar dari situs Anda. <a target=\"_blank"
+"\" href=\"%s\">Cek contoh.</a>"
+
+#: doc/popup-by-supsystic-pro/on_exit/views/tpl/onExitAdminOption.php:5
+msgid "On Exit from Site"
+msgstr "Ketika Keluar dari Situs"
+
+#: doc/popup-by-supsystic-pro/salesforce/mod.php:11
+msgid "SalesForce - Web-to-Lead"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:14
+msgid "Form ID"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:15
+#, php-format
+msgid ""
+"Generate your lead form in your Salesforce account (more about generating "
+"form you can read <a target=\"_blank\" href=\"%s\">here</a>), then copy \"oid"
+"\" value from it (<a target=\"_blank\" href=\"%s\">like this</a>) and insert "
+"it into this paramter"
+msgstr ""
+
+#: doc/popup-by-supsystic-pro/sendgrid/mod.php:9
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:4
+msgid "SendGrid not supported"
+msgstr "SendGrid tidak di support"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:8
+msgid "SendGrid is not supported on your server"
+msgstr "SendGrid tidak di support pada server Anda"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:14
+msgid "SendGrid Username"
+msgstr "Username SendGrid"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:15
+msgid "Your SendGrid name"
+msgstr "Nama SendGrid Anda"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:25
+msgid "SendGrid Password"
+msgstr "Kata Sandi SendGrid "
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:26
+msgid "Your SendGrid password"
+msgstr "Kata Sandi SendGrid Anda"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:37
+msgid "Select lists for subscribe. They are taken from your SendGrid account."
+msgstr "Pilih daftar untuk subscribe. Diambil dari akun SendGrid Anda."
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/mod.php:8
+msgid "SG Autorepondeur"
+msgstr "SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:86
+msgid "Required fields are missing"
+msgstr "Bidang diperlukan menghilang"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:87
+msgid "The email is already in the list"
+msgstr "Email sudah ada di daftar"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:88
+msgid "Registration was refused-blacklisted"
+msgstr "Pendaftaran menolak daftar hitam"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:89
+msgid "The country has been blocked"
+msgstr "Negara di blok"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:90
+msgid "Too many entries with the same IP address"
+msgstr "Terlalu banyak entri dengan IP yang sama"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:91
+msgid "Ok Register following a behavioral segmentation"
+msgstr "Ok Pendaftaran berikut segemntasi perilaku"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:94
+msgid "The email is not the right format"
+msgstr "Email salah formatnya"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:95
+msgid "Error on one of the variables - User ID or List ID or Activation Code"
+msgstr ""
+"Error pada satu variabel - ID pengguna atau ID Daftar atau Kode Aktivasi"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:4
+msgid "SG Autorepondeur not supported"
+msgstr "SG Autorepondeur tidak di support"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:8
+msgid "SG Autorepondeur is not supported on your server"
+msgstr "SG Autorepondeur tidak di support pada server Anda"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:14
+msgid "SG Autorepondeur User ID"
+msgstr "ID Pengguna SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:15
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:26
+msgid "This info available on your home page in SG Autorepondeur"
+msgstr "Info ini tersedia pada laman depan Anda di SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:25
+msgid "SG Autorepondeur List ID"
+msgstr "ID Daftar SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:36
+msgid "SG Client Activation Code"
+msgstr "Kode Aktivasi Klien SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:37
+msgid ""
+"This info available on the member's area in the top menu \"my account\" (at "
+"the bottom of the page)"
+msgstr ""
+"Info tersedia pada area member di menu atas \"akun saya\" (dibawah laman)"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/sub_fields.php:7
+msgid "Selectbox"
+msgstr "Kotak pilih"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/sub_fields.php:8
+msgid "Checkbox"
+msgstr "Kotak centang"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/tpl/sfAdminControls.php:2
+msgid "Subscribe Field Settings"
+msgstr "Pengaturan Bidang Subscribe"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/tpl/sfAdminControls.php:16
+msgid "Label that will be visible for your subscribers."
+msgstr "Label akan terlihat untuk pelanggan Anda."
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:9
+msgid "PopUp ID is not specified."
+msgstr "ID PopUp belum ditentukan."
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:13
+msgid "Authorization code is not specified."
+msgstr "Kode otorisasi belum ditentukan."
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:36
+msgid "Subscribing"
+msgstr "Berlangganan"
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:45
+msgid "Cannot get your email address"
+msgstr "Tidak dapat menemukan email Anda"
+
+#: doc/popup-by-supsystic-pro/sub_social/mod.php:75
+msgid "Sign in with"
+msgstr "Login dengan"
+
+#: doc/popup-by-supsystic-pro/sub_social/mod.php:76
+msgid "Facebook"
+msgstr "Facebook"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/mod.php:16
+msgid "Vertical Response"
+msgstr "Respon Vertical"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/models/verticalresponse.php:104
+msgid "Can not access to Vertical Responce server"
+msgstr "Tidak dapat mengakses ke server Vertical Responce"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/models/verticalresponse.php:106
+msgid "Empty code returned"
+msgstr "Kode kosong dikembalikan"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:4
+msgid "Vertical Response Setup"
+msgstr "Pengaturan Vertical Responce"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:5
+msgid "You must authorize to use Vertical Response features"
+msgstr "Anda harus terotorisasi untuk menggunakan fitur Vertical Responce"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:8
+msgid "Authorize in Vertical Response"
+msgstr "Otorisasi di Vertical Responce"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:15
+msgid ""
+"Select lists for subscribe. They are taken from your Vertical Response "
+"account."
+msgstr ""
+"Pilih daftar untuk subscribe. Diambil dari akun Vertical Responce Anda."
+
+#: doc/promo-popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, php-format
+msgid ""
+"You can find it under your GetResponse Account -> GetResponse API, here is "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+"Anda dapat menemukannya di Akun GetResponse -> GetResponse API, disini <a "
+"href=\"%s\" class=\"ppsGrHelpApiKeyLink\">screenshot bantuannya</a>"
+
+#: doc/promo-popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed and PHP "
+"version to be at least 5.3. Please contact your hosting provider and ask "
+"them to enable cUrl for you, this is Free library, and check your PHP "
+"version."
+msgstr ""
+"Modul ini memerlukan pustaka cUrl untuk PHP terinstal pada server dan versi "
+"PHP setidaknya 5.3. Silahkan hubungi provider hosting Anda dan minta mereka "
+"mengadakan cUrl untuk Anda, ini pustaka gratis, dan cek versi PHP Anda."
+
+#: doc/promo-popup-by-supsystic-pro/layered_popup/mod.php:10
+msgid "Layered Style"
+msgstr "Gaya Terlapis"
+
+#: modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from supsystic.com developers. I tried %s - and this "
+"was what I need! #supsystic.com"
+msgstr ""
+"Plugin Wordpress keren dari developer supsystic.com. Saya mencoba %s - dan "
+"inilah yang saya perlukan! #supsystic.com"
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr "Lebih banyak plugin untuk situs Wordpress Anda disini!"
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr "Menyebarkan kata!"
+
+#: modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr "Sekarang cek email Anda / spam untuk email percobaan."
+
+#: modules/mail/mod.php:41
+msgid "Cannot send email - problem with send server"
+msgstr "Tidak dapat mengirim email - masalah dengan pengiriman server"
+
+#: modules/mail/mod.php:54
+msgid "Mail"
+msgstr "Mail"
+
+#: modules/mail/mod.php:56
+msgid "Mail function tested and work"
+msgstr "Fungsi mail sudah dicoba dan berhasil"
+
+#: modules/mail/mod.php:57
+msgid "Notify Email"
+msgstr "Email Pemberitahuan"
+
+#: modules/mail/mod.php:57
+msgid "Email address used for all email notifications from plugin"
+msgstr ""
+"Alamat email yang digunakan untuk semua pemberitahuan email dari plugin"
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr "Fungisonalitas pengujian email"
+
+#: modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+"Ini adalah test email untuk menguji fungsionalitas email pada situs Anda, %s."
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "Alamat email kosong"
+
+#: modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr "Kirim email percobaan untuk"
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "Kirim tes"
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr "Pilihan ini memungkinkan Anda untuk memeriksa fungsi mail server Anda"
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr "Apakah Anda menerima email percobaan?"
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr "Ya!!"
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+"Tidak, saya perlu menghubungi penyedia hosting saya dengan masalah fungsi "
+"mail."
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr "Hebat! Fungsi mail diuji dan bekerja dengan baik."
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+"Buruk, silakan hubungi penyedia hosting Anda dan meminta mereka untuk setup "
+"mail fungsi pada server Anda."
+
+#: modules/mail/views/tpl/mailAdmin.php:47
+#: modules/options/views/tpl/optionsSettingsTabContent.php:44
+#, php-format
+msgid "Turned On %s"
+msgstr "Menyalakan %s"
+
+#: modules/mail/views/tpl/mailAdmin.php:48
+#: modules/options/views/tpl/optionsSettingsTabContent.php:45
+#, php-format
+msgid "Turned Off %s"
+msgstr "Mematikan %s"
+
+#: modules/mail/views/tpl/mailAdmin.php:69
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr "Simpan"
+
+#: modules/options/mod.php:114
+msgid "General"
+msgstr "Umum"
+
+#: modules/options/mod.php:116
+msgid "Send usage statistics"
+msgstr "Mengirimkan statistik penggunaan"
+
+#: modules/options/mod.php:116
+msgid ""
+"Send information about what plugin options you prefer to use, this will help "
+"us make our solution better for You."
+msgstr ""
+"Kirim informasi tentang plugin apa pilihan Anda lebih memilih untuk "
+"menggunakan, ini akan membantu kami membuat solusi kami lebih baik untuk "
+"Anda."
+
+#: modules/options/mod.php:117
+msgid "Disable blocking Subscription from same IP"
+msgstr "Menonaktifkan memblokir langganan dari IP yang sama"
+
+#: modules/options/mod.php:117
+msgid ""
+"By default our plugin have feature to block subscriptions from same IP more "
+"then one time per hour - to avoid spam subscribers. But you can disable this "
+"feature here."
+msgstr ""
+"Secara default plugin kami memiliki fitur blok langganan dari IP yang sama "
+"satu kali per jam - untuk menghindari spam pelanggan. Tapi Anda dapat "
+"menonaktifkan fitur ini di sini."
+
+#: modules/options/mod.php:118
+msgid "Disable autosave on PopUp Edit"
+msgstr "Nonaktifkan simpan otomatis ketika mengedit"
+
+#: modules/options/mod.php:118
+msgid ""
+"By default our plugin will make autosave all your changes that you do in "
+"PopUp edit screen, but you can disable this feature here. Just don't forget "
+"to save your PopUp each time you make any changes in it."
+msgstr ""
+"Secara default plugin kami akan membuat simpan otomatis semua perubahan yang "
+"Anda lakukan dalam layar edit PopUp, tetapi Anda dapat menonaktifkan fitur "
+"ini di sini. Hanya jangan lupa untuk menyimpan PopUp Anda setiap kali Anda "
+"membuat perubahan di dalamnya."
+
+#: modules/options/mod.php:119
+msgid "Enable promo link"
+msgstr "Mengaktifkan link promo"
+
+#: modules/options/mod.php:119
+msgid ""
+"We are trying to make our plugin better for you, and you can help us with "
+"this. Just check this option - and small promotion link will be added in the "
+"bottom of your PopUp. This is easy for you - but very helpful for us!"
+msgstr ""
+"Kami berusaha untuk membuat plugin kami lebih baik untuk Anda, dan Anda "
+"dapat membantu kami dengan ini. Hanya mencentang pilihan ini - dan kecil "
+"promosi link akan ditambahkan di bagian bawah Anda PopUp. Ini mudah untuk "
+"Anda - tapi sangat membantu bagi kita!"
+
+#: modules/options/mod.php:120
+msgid "User role can use plugin"
+msgstr "Peran pengguna dapat menggunakan plugin"
+
+#: modules/options/mod.php:120
+msgid "User with next roles will have access to whole plugin from admin area."
+msgstr ""
+"Pengguna dengan peran berikutnya akan memiliki akses ke seluruh plugin dari "
+"admin area."
+
+#: modules/options/mod.php:121
+msgid "Load Assets in Footer"
+msgstr ""
+
+#: modules/options/mod.php:121
+msgid ""
+"Force load all plugin CSS and JavaScript files in footer - to increase page "
+"load speed. Please make sure that you have correct footer.php file in your "
+"WordPress theme with wp_footer() function call in it."
+msgstr ""
+
+#: modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr "Modul Diperbarui"
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Gagal Update modul"
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Kesalahan ID Modul"
+
+#: modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr "Data kosong untuk menyimpan pilihan"
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr "Halaman utama di sini!"
+
+#: modules/options/views/tpl/optionsAdminPage.php:35
+msgid "Improve Free version"
+msgstr "Meningkatkan versi gratis"
+
+#: modules/options/views/tpl/optionsAdminPage.php:37
+#, php-format
+msgid ""
+"Please be advised that this template with all other options and PRO "
+"templates is available only in <a target=\"_blank\" href=\"%s\">PRO version</"
+"a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> "
+"today and get this and other PRO templates and features for your PopUps!"
+msgstr ""
+"Harap perhatikan bahwa template ini dengan semua opsi lainnya dan template "
+"pro tersedia hanya di <a target=\"_blank\" href=\"%s\">versi PRO</a>. Anda "
+"bisa <a target=\"_blank\" href=\"%s\" class=\"button\">Dapakan PRO</a> hari "
+"ini dan dapatkan template PRO lainnya juga fitur untuk PopUp Anda!"
+
+#: modules/options/views/tpl/optionsAdminPage.php:40
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option for your "
+"PopUps!"
+msgstr ""
+"Harap perhatikan opsi ini hanya tersedia di <a target=\"_blank\" href=\"%s"
+"\">versi PRO</a>. Anda bisa <a target=\"_blank\" href=\"%s\" class=\"button"
+"\">Dapatkan PRO</a> hari ini dan dapatkan opsi PRO lainnya untuk PopUp Anda!"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr "Simpan semua opsi"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:52
+msgid "PRO option"
+msgstr "Opsi PRO"
+
+#: modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr "Hapus Plugin Data (pilihan, konfigurasi data, tabel database, dll.)"
+
+#: modules/popup/controller.php:22
+msgid "Yes"
+msgstr "Ya"
+
+#: modules/popup/controller.php:22
+msgid "No"
+msgstr "Tidak"
+
+#: modules/popup/controller.php:257
+msgid "Done, redirecting to new PopUp..."
+msgstr "Selesai, mengarahkan ke PopUp baru..."
+
+#: modules/popup/mod.php:20
+msgid "Add New PopUp"
+msgstr "Tambah PopUp Baru"
+
+#: modules/popup/mod.php:23
+msgid "Edit"
+msgstr "Edit"
+
+#: modules/popup/mod.php:26
+msgid "Show All PopUps"
+msgstr "Tampilkan semua popup"
+
+#: modules/popup/mod.php:371
+#, fuzzy
+#| msgid "PopUp ID"
+msgid "PopUp"
+msgstr "ID PopUp"
+
+#: modules/popup/models/popup.php:98
+msgid "img/preview/"
+msgstr "img/preview/"
+
+#: modules/popup/models/popup.php:151
+msgid "Please select PopUp template from list below"
+msgstr "Silahkan pilih template PopUp dari daftar dibawah"
+
+#: modules/popup/models/popup.php:153 modules/popup/models/popup.php:534
+msgid "Please enter Name"
+msgstr "Silahkan masukkan Nama"
+
+#: modules/popup/models/popup.php:186
+msgid "Enter your Facebook page URL"
+msgstr "Masukkan URL halaman Facebook"
+
+#: modules/popup/models/popup.php:193
+msgid "Enter your video URL"
+msgstr "Masukkan URL video"
+
+#: modules/popup/models/popup.php:344
+msgid "Common"
+msgstr "Biasa"
+
+#: modules/popup/models/popup.php:345
+msgid "Facebook Like"
+msgstr "Facebook Like"
+
+#: modules/popup/models/popup.php:346
+msgid "Video"
+msgstr "Video"
+
+#: modules/popup/models/popup.php:347
+msgid "iFrame"
+msgstr "iFrame"
+
+#: modules/popup/models/popup.php:348
+msgid "Simple HTML"
+msgstr "HTML sederhana"
+
+#: modules/popup/models/popup.php:349
+msgid "PDF"
+msgstr "PDF"
+
+#: modules/popup/models/popup.php:350
+msgid "Age Verification"
+msgstr "Verifikasi umur"
+
+#: modules/popup/models/popup.php:351
+msgid "Full Screen"
+msgstr "Layar Penuh"
+
+#: modules/popup/models/popup.php:352
+msgid "Login / Registration"
+msgstr "Login / Registrasi"
+
+#: modules/popup/models/popup.php:353
+msgid "Notification Bar"
+msgstr "Bar Pemberitahuan"
+
+#: modules/popup/models/popup.php:395
+msgid "Provided data was corrupted"
+msgstr "Data yang diberikan rusak"
+
+#: modules/popup/models/popup.php:560
+msgid "Name can not be empty"
+msgstr "Nama tidak boleh kosong"
+
+#: modules/popup/models/popup.php:575 modules/popup/models/popup.php:589
+#: modules/popup/models/popup.php:668 modules/popup/models/popup.php:671
+#: modules/popup/models/popup.php:700
+#, fuzzy
+#| msgid "Background"
+msgid "Left side background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:576 modules/popup/models/popup.php:586
+#: modules/popup/models/popup.php:590 modules/popup/models/popup.php:632
+#: modules/popup/models/popup.php:672 modules/popup/models/popup.php:701
+msgid "Right side background"
+msgstr ""
+
+#: modules/popup/models/popup.php:577
+#, fuzzy
+#| msgid "Subscribe Settings"
+msgid "Subscribe button background"
+msgstr "Subscribe"
+
+#: modules/popup/models/popup.php:580 modules/popup/models/popup.php:584
+#: modules/popup/models/popup.php:594 modules/popup/models/popup.php:603
+#: modules/popup/models/popup.php:607 modules/popup/models/popup.php:616
+#: modules/popup/models/popup.php:620
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:158
+msgid "Background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:581
+msgid "Sign up button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:585 modules/popup/models/popup.php:591
+#: modules/popup/models/popup.php:595 modules/popup/models/popup.php:600
+#: modules/popup/models/popup.php:604 modules/popup/models/popup.php:608
+#: modules/popup/models/popup.php:613 modules/popup/models/popup.php:617
+#: modules/popup/models/popup.php:633 modules/popup/models/popup.php:639
+#: modules/popup/models/popup.php:644 modules/popup/models/popup.php:649
+#: modules/popup/models/popup.php:655 modules/popup/models/popup.php:667
+#: modules/popup/models/popup.php:673 modules/popup/models/popup.php:696
+#: modules/popup/models/popup.php:702 modules/popup/models/popup.php:712
+#: modules/popup/models/popup.php:719 modules/popup/models/popup.php:723
+#: modules/popup/models/popup.php:736 modules/popup/models/popup.php:747
+#: modules/popup/models/popup.php:752 modules/popup/models/popup.php:757
+#: modules/popup/models/popup.php:765 modules/popup/models/popup.php:770
+#, fuzzy
+#| msgid "Background"
+msgid "Button background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:598
+#, fuzzy
+#| msgid "Background"
+msgid "Main Background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:599
+#, fuzzy
+#| msgid "Background"
+msgid "Down background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:611
+#, fuzzy
+#| msgid "Background"
+msgid "Left Side Background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:612
+msgid "Right Side background"
+msgstr ""
+
+#: modules/popup/models/popup.php:621
+msgid "Sign-up button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:622 modules/popup/models/popup.php:684
+#, fuzzy
+#| msgid "Close button"
+msgid "Close button background"
+msgstr "Tombol tutup"
+
+#: modules/popup/models/popup.php:625 modules/popup/models/popup.php:630
+#: modules/popup/models/popup.php:636 modules/popup/models/popup.php:643
+#: modules/popup/models/popup.php:648 modules/popup/models/popup.php:653
+#: modules/popup/models/popup.php:658 modules/popup/models/popup.php:666
+#: modules/popup/models/popup.php:677 modules/popup/models/popup.php:683
+#: modules/popup/models/popup.php:689 modules/popup/models/popup.php:695
+#: modules/popup/models/popup.php:705 modules/popup/models/popup.php:711
+#: modules/popup/models/popup.php:715 modules/popup/models/popup.php:722
+#: modules/popup/models/popup.php:726 modules/popup/models/popup.php:730
+#: modules/popup/models/popup.php:735 modules/popup/models/popup.php:740
+#: modules/popup/models/popup.php:745 modules/popup/models/popup.php:750
+#: modules/popup/models/popup.php:755 modules/popup/models/popup.php:760
+#: modules/popup/models/popup.php:764 modules/popup/models/popup.php:768
+#, fuzzy
+#| msgid "Background"
+msgid "Main background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:626 modules/popup/models/popup.php:650
+#: modules/popup/models/popup.php:685
+msgid "Middle side background"
+msgstr ""
+
+#: modules/popup/models/popup.php:627
+#, fuzzy
+#| msgid "Background"
+msgid "Down side background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:631
+#, fuzzy
+#| msgid "Background"
+msgid "Fields background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:637
+msgid "Left picture background"
+msgstr ""
+
+#: modules/popup/models/popup.php:638
+#, fuzzy
+#| msgid "Background"
+msgid "Background image"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:640 modules/popup/models/popup.php:654
+#: modules/popup/models/popup.php:662 modules/popup/models/popup.php:734
+msgid "Additional background"
+msgstr ""
+
+#: modules/popup/models/popup.php:645 modules/popup/models/popup.php:727
+#: modules/popup/models/popup.php:731 modules/popup/models/popup.php:761
+#, fuzzy
+#| msgid "Background"
+msgid "Frame background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:659
+msgid "Exit button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:660 modules/popup/models/popup.php:707
+#: modules/popup/models/popup.php:771
+msgid "Left image background"
+msgstr ""
+
+#: modules/popup/models/popup.php:661 modules/popup/models/popup.php:686
+#: modules/popup/models/popup.php:690
+#, fuzzy
+#| msgid "Submit button name"
+msgid "Submit button background"
+msgstr "Nama tombol kirim"
+
+#: modules/popup/models/popup.php:663 modules/popup/models/popup.php:717
+msgid "Right image background"
+msgstr ""
+
+#: modules/popup/models/popup.php:674 modules/popup/models/popup.php:679
+#: modules/popup/models/popup.php:697 modules/popup/models/popup.php:746
+#: modules/popup/models/popup.php:751 modules/popup/models/popup.php:756
+#, fuzzy
+#| msgid "Background"
+msgid "Image background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:678 modules/popup/models/popup.php:706
+#: modules/popup/models/popup.php:769
+#, fuzzy
+#| msgid "Background"
+msgid "Field background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:680
+#, fuzzy
+#| msgid "Background"
+msgid "Go button background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:691
+msgid "Right Image background"
+msgstr ""
+
+#: modules/popup/models/popup.php:692
+#, fuzzy
+#| msgid "Background"
+msgid "Right background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:708
+msgid "Get it now button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:716 modules/popup/models/popup.php:739
+#, fuzzy
+#| msgid "Background"
+msgid "Upper background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:718
+#, fuzzy
+#| msgid "Background"
+msgid "Bottom background"
+msgstr "Background"
+
+#: modules/popup/models/popup.php:741
+msgid "Yes button background"
+msgstr ""
+
+#: modules/popup/models/popup.php:742
+#, fuzzy
+#| msgid "Background"
+msgid "No button background"
+msgstr "Background"
+
+#: modules/popup/views/popup.php:42
+msgid "Modify PopUp Template"
+msgstr "Modifikasi Template PopUp"
+
+#: modules/popup/views/popup.php:52
+msgid "Cannot find required PopUp"
+msgstr "Tidak dapat menemukan PopUp yang diperlukan"
+
+#: modules/popup/views/popup.php:89
+msgid "Available in PRO version"
+msgstr "Tersedia dalam versi PRO"
+
+#: modules/popup/views/popup.php:92 modules/popup/views/popup.php:393
+#: modules/popup/views/popup.php:743
+msgid "None"
+msgstr "Tidak ada"
+
+#: modules/popup/views/popup.php:93
+msgid "Image"
+msgstr "Gambar"
+
+#: modules/popup/views/popup.php:94
+msgid "Color"
+msgstr "Warna"
+
+#: modules/popup/views/popup.php:98
+msgid "Mobile"
+msgstr "Ponsel"
+
+#: modules/popup/views/popup.php:99
+msgid "Tablet"
+msgstr "Tablet"
+
+#: modules/popup/views/popup.php:100
+msgid "Desktop PC"
+msgstr "Desktop PC"
+
+#: modules/popup/views/popup.php:118
+msgid "Main Home page"
+msgstr "Laman depan"
+
+#: modules/popup/views/popup.php:207
+msgid "Appearance"
+msgstr "Tampilan"
+
+#: modules/popup/views/popup.php:212
+msgid "Popup Opening Animation"
+msgstr "Popup animasi Pembukaan"
+
+#: modules/popup/views/popup.php:219
+msgid "Texts"
+msgstr "Teks"
+
+#: modules/popup/views/popup.php:226
+msgid "Social"
+msgstr "Sosial"
+
+#: modules/popup/views/popup.php:237
+msgid "Main"
+msgstr "Utama"
+
+#: modules/popup/views/popup.php:242
+msgid "Design"
+msgstr "Desain"
+
+#: modules/popup/views/popup.php:247
+msgid "CSS / HTML Code"
+msgstr "Kode CSS / HTML"
+
+#: modules/popup/views/popup.php:254
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: modules/popup/views/popup.php:278
+msgid "Facebook page URL"
+msgstr "URL halaman Facebook"
+
+#: modules/popup/views/popup.php:280
+msgid ""
+"The absolute URL of the Facebook Page that will be liked. This is a required "
+"setting."
+msgstr ""
+"URL mutlak dari laman Facebook yang akan disukai. Ini merupakan pengaturan "
+"yang diperlukan."
+
+#: modules/popup/views/popup.php:282
+msgid "Color scheme"
+msgstr "Skema warna"
+
+#: modules/popup/views/popup.php:284
+msgid "Light"
+msgstr "Terang"
+
+#: modules/popup/views/popup.php:284
+msgid "Dark"
+msgstr "Gelap"
+
+#: modules/popup/views/popup.php:285
+msgid "The color scheme used by the plugin. Can be \"light\" or \"dark\"."
+msgstr ""
+"Skema warna yang digunakan oleh plugin. Dapat \"terang\" atau \"gelap\"."
+
+#: modules/popup/views/popup.php:287
+msgid "Force wall"
+msgstr "Kekuatan dinding"
+
+#: modules/popup/views/popup.php:289
+msgid ""
+"For \"place\" Pages (Pages that have a physical location that can be used "
+"with check-ins), this specifies whether the stream contains posts by the "
+"Page or just check-ins from friends."
+msgstr ""
+"Untuk \"tempat\" halaman (halaman yang memiliki lokasi fisik yang dapat "
+"digunakan dengan check-in), ini menentukan apakah aliran berisi posting oleh "
+"halaman atau check-in hanya dari teman-teman."
+
+#: modules/popup/views/popup.php:291
+msgid "Header"
+msgstr "Header"
+
+#: modules/popup/views/popup.php:293
+msgid ""
+"Specifies whether to display the Facebook header at the top of the plugin."
+msgstr "Menentukan apakah menampilkan Facebook header di bagian atas plugin."
+
+#: modules/popup/views/popup.php:295
+msgid "Show border"
+msgstr "Tampilkan Garis"
+
+#: modules/popup/views/popup.php:297
+msgid "Specifies whether or not to show a border around the plugin."
+msgstr ""
+"Menentukan apakah ya atau tidak untuk menampilkan garis di sekitar plugin."
+
+#: modules/popup/views/popup.php:299
+msgid "Show faces"
+msgstr "Tampilkan wajah"
+
+#: modules/popup/views/popup.php:301
+msgid ""
+"Specifies whether to display profile photos of people who like the page."
+msgstr ""
+"Menentukan apakah akan menampilkan foto profil orang yang menyukai halaman."
+
+#: modules/popup/views/popup.php:303
+msgid "Stream"
+msgstr "Aliran"
+
+#: modules/popup/views/popup.php:305
+msgid "Specifies whether to display a stream of the latest posts by the Page."
+msgstr "Menentukan apakah menampilkan aliran posting terbaru oleh halaman."
+
+#: modules/popup/views/popup.php:357
+msgid "None - use Standard PopUp Social Buttons"
+msgstr "Tidak ada - menggunakan tombol standar PopUp sosial"
+
+#: modules/popup/views/popup.php:394
+msgid "Puff"
+msgstr "Puff"
+
+#: modules/popup/views/popup.php:395
+msgid "Vanish"
+msgstr "Menghilang"
+
+#: modules/popup/views/popup.php:397
+msgid "Open down left"
+msgstr "Buka kiri bawah"
+
+#: modules/popup/views/popup.php:398
+msgid "Open down right"
+msgstr "Buka kanan bawah"
+
+#: modules/popup/views/popup.php:400
+msgid "Perspective down"
+msgstr "Perspektif kebawah"
+
+#: modules/popup/views/popup.php:401
+msgid "Perspective up"
+msgstr "Perspektif keatas"
+
+#: modules/popup/views/popup.php:403
+msgid "Slide down"
+msgstr "Susut kebawah"
+
+#: modules/popup/views/popup.php:404
+msgid "Slide up"
+msgstr "Susut keatas"
+
+#: modules/popup/views/popup.php:406
+msgid "Swash"
+msgstr "Swash"
+
+#: modules/popup/views/popup.php:407
+msgid "Foolis"
+msgstr "Foolis"
+
+#: modules/popup/views/popup.php:409
+msgid "Tin right"
+msgstr "Tin right"
+
+#: modules/popup/views/popup.php:410
+msgid "Tin left"
+msgstr "Tin left"
+
+#: modules/popup/views/popup.php:411
+msgid "Tin up"
+msgstr "Tin up"
+
+#: modules/popup/views/popup.php:412
+msgid "Tin down"
+msgstr "Tin down"
+
+#: modules/popup/views/popup.php:414
+msgid "Boing"
+msgstr "Boing"
+
+#: modules/popup/views/popup.php:416
+msgid "Space right"
+msgstr "Space right"
+
+#: modules/popup/views/popup.php:417
+msgid "Space left"
+msgstr "Space left"
+
+#: modules/popup/views/popup.php:418
+msgid "Space up"
+msgstr "Space up"
+
+#: modules/popup/views/popup.php:419
+msgid "Space down"
+msgstr "Space down"
+
+#: modules/popup/views/popup.php:426
+msgid "Bounce"
+msgstr "Melambung"
+
+#: modules/popup/views/popup.php:427
+msgid "Bounce Up"
+msgstr "Melambung keatas"
+
+#: modules/popup/views/popup.php:428
+msgid "Bounce Down"
+msgstr "Melambung Kebawah"
+
+#: modules/popup/views/popup.php:429
+msgid "Bounce Left"
+msgstr "Melambung Ke kiri"
+
+#: modules/popup/views/popup.php:430
+msgid "Bounce Right"
+msgstr "Melambuing ke Kanan"
+
+#: modules/popup/views/popup.php:432
+msgid "Fade"
+msgstr "Memudar"
+
+#: modules/popup/views/popup.php:433
+msgid "Fade Up"
+msgstr "Memudar Keatas"
+
+#: modules/popup/views/popup.php:434
+msgid "Fade Down"
+msgstr "Memudar Kebawah"
+
+#: modules/popup/views/popup.php:435
+msgid "Fade Left"
+msgstr "Memudar ke Kiri"
+
+#: modules/popup/views/popup.php:436
+msgid "Fade Right"
+msgstr "Memudar ke Kanan"
+
+#: modules/popup/views/popup.php:438
+msgid "Flip X"
+msgstr "Flip X"
+
+#: modules/popup/views/popup.php:439
+msgid "Flip Y"
+msgstr "Flip Y"
+
+#: modules/popup/views/popup.php:441
+msgid "Rotate"
+msgstr "Berputar"
+
+#: modules/popup/views/popup.php:442
+msgid "Rotate Up Left"
+msgstr "Berputar ke Kiri Atas"
+
+#: modules/popup/views/popup.php:443
+msgid "Rotate Up Right"
+msgstr "Berputar ke Kanan Atas"
+
+#: modules/popup/views/popup.php:444
+msgid "Rotate Down Left"
+msgstr "Berputar ke Kiri Bawah"
+
+#: modules/popup/views/popup.php:445
+msgid "Rotate Down Right"
+msgstr "Berputar ke Kanan Bawah"
+
+#: modules/popup/views/popup.php:447
+msgid "Slide Up"
+msgstr "Slide keatas"
+
+#: modules/popup/views/popup.php:448
+msgid "Slide Down"
+msgstr "Slide Kebawah"
+
+#: modules/popup/views/popup.php:449
+msgid "Slide Left"
+msgstr "SLide ke Kiri"
+
+#: modules/popup/views/popup.php:450
+msgid "Slide Right"
+msgstr "Slide ke Kanan"
+
+#: modules/popup/views/popup.php:452
+msgid "Zoom"
+msgstr "Zoom"
+
+#: modules/popup/views/popup.php:453
+msgid "Zoom Up"
+msgstr "Zoom Up"
+
+#: modules/popup/views/popup.php:454
+msgid "Zoom Down"
+msgstr "Zoom Down"
+
+#: modules/popup/views/popup.php:455
+msgid "Zoom Left"
+msgstr "Zoom Left"
+
+#: modules/popup/views/popup.php:456
+msgid "Zoom Right"
+msgstr "Zoom Right"
+
+#: modules/popup/views/popup.php:458
+msgid "Light Speed"
+msgstr "Gerak Lamban"
+
+#: modules/popup/views/popup.php:459
+msgid "Rolling!"
+msgstr "Bergelinding"
+
+#: modules/popup/views/popup.php:767
+msgid "None (standard)"
+msgstr "Tidak ada (standar)"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:20
+#, fuzzy, php-format
+#| msgid ""
+#| "Change Template to any other from list below or <a class=\"button\" href="
+#| "\"%s\">return to Pop-Up edit</a>"
+msgid ""
+"Change Template to any other from the list below or <a class=\"button\" href="
+"\"%s\">return to Pop-Up edit</a>"
+msgstr ""
+"Mengubah Template lainnya dari daftar di bawah ini atau <a class=\"button\" "
+"href=\"%s\">mengedit kembali ke Pop-Up</a>"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:22
+msgid "Choose Pop-Up Template. You can change it later."
+msgstr "Pilih Pop-Up Template. Anda dapat mengubahnya nanti."
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:31
+msgid "PopUp Name"
+msgstr "Nama popUp"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:44
+#: modules/popup/views/tpl/popupAddNewAdmin.php:54
+msgid "All"
+msgstr "Semua"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:69
+msgid "type"
+msgstr "tipe"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:72
+msgid "Get in PRO"
+msgstr "Dapatkan di PRO"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:83
+msgid "Change Template"
+msgstr "Ganti Template"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:85
+#, fuzzy
+#| msgid "Are you sure want to change your current template - to "
+msgid "Are you sure you want to change your current template - to "
+msgstr "Apakah Anda yakin ingin mengubah template Anda saat ini -ke"
+
+#: modules/popup/views/tpl/popupAdmin.php:11
+#: modules/popup/views/tpl/popupAdmin.php:12
+msgid "Search"
+msgstr "Cari"
+
+#: modules/popup/views/tpl/popupAdmin.php:21
+#, php-format
+msgid ""
+"You have no PopUps for now. <a href=\"%s\" style=\"font-style: italic;"
+"\">Create</a> your PopUp!"
+msgstr ""
+"Anda tidak memiliki popup untuk sekarang. <a href=\"%s\" style=\"font-style: "
+"italic;\">Buat</a> PopUp Anda!"
+
+#: modules/popup/views/tpl/popupEditAdmin.php:108
+msgid "Loading preview..."
+msgstr "Memuat Tinjauan..."
+
+#: modules/popup/views/tpl/popupEditAdmin.php:113
+msgid "Back to top"
+msgstr "Kembali ke atas"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:2
+msgid "Choose PopUp animation style"
+msgstr "Pilih gaya animasi PopUp"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:3
+msgid "current style"
+msgstr "gaya sekarang"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:30
+msgid "Animation Duration"
+msgstr "Durasi animasi"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:32
+msgid "miliseconds"
+msgstr "milisecond"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:2
+#, php-format
+msgid ""
+"Edit this ONLY if you know basics of HTML, CSS and have been acquainted with "
+"the rules of template editing described <a target=\"_blank\" href=\"%s"
+"\">here</a>"
+msgstr ""
+"Mengedit ini hanya jika Anda tahu dasar-dasar HTML, CSS dan telah berkenalan "
+"dengan aturan template pengeditan yang dijelaskan <a target=\"_blank\" href="
+"\"%s\">di sini</a>"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:5
+msgid "CSS code"
+msgstr "Kode CSS"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:9
+msgid "HTML code"
+msgstr "Kode HTML"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:5
+msgid "Video URL"
+msgstr "URL Video"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:6
+msgid "Copy and paste here URL of your video source"
+msgstr "Salin dan tempel URL video Anda disini"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:16
+msgid "iFrame URL"
+msgstr "URL IFrame"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:17
+#, php-format
+msgid ""
+"Copy and paste here URL of site, that you need to display in PopUp as "
+"iFrame. Please note that some sites can block such possibility, you can read "
+"more about this <a target=\"_blank\" href=\"%s\">for example here</a>"
+msgstr ""
+"Salin dan sisipkan URL situs, yang Anda butuhkan dalam PopUp sebagai iFrame "
+"di sini. Harap dicatat bahwa beberapa situs dapat memblokir kemungkinan "
+"tersebut, Anda dapat membaca lebih lanjut tentang ini <a target=\"_blank\" "
+"href=\"%s\">di sini sebagai contoh</a>"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:27
+msgid "PDF URL"
+msgstr "URL PDF"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:28
+msgid ""
+"Copy and paste here URL to your PDF file. You can simply upload it on your "
+"server (using FTP for example), then insert URL in this field - and you will "
+"see how it work. Enjoy!"
+msgstr ""
+"Salin dan sisipkan URL di sini untuk PDF file. Anda hanya dapat meng-upload "
+"pada server Anda (menggunakan FTP misalnya), kemudian masukkan URL dalam "
+"bidang ini - dan Anda akan melihat bagaimana hal itu bekerja. Nikmati!"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:37
+msgid "Width"
+msgstr "Lebar"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:44
+msgid "Max width for percentage - is 100"
+msgstr "Maksimum lebar untuk persentase - adalah 100"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:46
+msgid "Percents"
+msgstr "Persen"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:50
+msgid "Pixels"
+msgstr "Pixel"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:60
+msgid "Height"
+msgstr "Tinggi"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:72
+msgid "Video Autoplay"
+msgstr "Video Main Otomatis"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:73
+msgid "Play video - right after PopUp show"
+msgstr "Mainkan video - tepat setelah PopUp Tampilkan"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:83
+msgid "Hide controls"
+msgstr "Sembunyikan kendali"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:94
+msgid "Ignore related videos"
+msgstr "Mengabaikan video terkait"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:135
+msgid "Background overlay opacity"
+msgstr "Opasiti overlay background"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:144
+msgid "Disable window scroll"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:145
+msgid ""
+"Disable browser window scrolling while PopUp is opened. Good way to disallow "
+"viewing your site content before PopUp will be closed."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:158
+#, php-format
+msgid "Background %d"
+msgstr "Background %d"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:183
+msgid "Label Font style"
+msgstr "Gaya Font label"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:192
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:215
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:239
+msgid "Default"
+msgstr "Default"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:206
+msgid "Text Font style"
+msgstr "Gaya Font teks"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:206
+#, php-format
+msgid "Text Font style %d"
+msgstr "Gaya Font teks %d"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:230
+msgid "Footer Font style"
+msgstr "Gaya Font Footer"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:253
+msgid "Responsive mode"
+msgstr "Mode responsif"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:254
+msgid ""
+"You can choose PopUp behavior for responsive mode from one of the following. "
+"If you don't know - what to select - you can just try both and leave most "
+"suitable for you."
+msgstr ""
+"Anda dapat memilih perilaku PopUp untuk mode responsif dari salah satu "
+"berikut. Jika Anda tidak tahu - untuk memilih apa - Anda bisa mencoba "
+"keduanya dan itu paling cocok untuk Anda."
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:257
+msgid "PopUp will be fully zoomed for smaller screens"
+msgstr "PopUp akan sepenuhnya diperbesar untuk layar yang lebih kecil"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:262
+msgid "Full resize"
+msgstr "Mengubah ukuran penuh"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:264
+msgid ""
+"PopUp will not be zoomed like with prev. mode, it will adapt only Width for "
+"users screen size"
+msgstr ""
+"PopUp tidak akan diperbesar seperti dengan mode sebelumnya, hanya akan "
+"beradaptasi lebar untuk ukuran layar pengguna"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:269
+msgid "Width only"
+msgstr "Lebar saja"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:276
+msgid "Close button"
+msgstr "Tombol tutup"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:296
+msgid "Bullets"
+msgstr "Peluru"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:13
+#, php-format
+msgid ""
+"You are using Google Maps in this PopUp, but don't have Google Maps Easy "
+"plugin installed. You can get it for Free from WordPress site <a target="
+"\"_blank\" href=\"%s\">here</a>, install and start using this PopUp with map."
+msgstr ""
+"Anda menggunakan Peta Google dalam PopUp ini, tetapi tidak memiliki plugin "
+"Google Maps Easy. Anda bisa mendapatkannya secara gratis dari situs "
+"WordPress <a target=\"_blank\" href=\"%s\">di sini</a>, Instal dan mulai "
+"menggunakan PopUp ini dengan peta."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:19
+#, fuzzy
+#| msgid ""
+#| "Please be advised that you are editing AB Test PopUp. This mean that "
+#| "independent of options you select in Main settings - there will be always "
+#| "only one PopUp: Base or one from AB Test."
+msgid ""
+"Please be advised that you are editing AB Test PopUp. This means that "
+"independently of options you select in Main settings - there will be always "
+"only one PopUp: Base or one from AB Test."
+msgstr ""
+"Harap diperhatikan bahwa Anda mengedit AB tes PopUp. Ini berarti bahwa "
+"independen dari pilihan yang Anda pilih di pengaturan utama - akan selalu "
+"hanya ada satu PopUp: Mendasar atau satu dari tes AB."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:26
+msgid "When to show PopUp"
+msgstr "Kapan menampilkan PopUp"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:32
+msgid "When page loads"
+msgstr "Ketika halaman dimuat"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:37
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:73
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:90
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:206
+msgid "Delay for"
+msgstr "Tunda untuk"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:41
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:78
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:146
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:211
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:271
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:290
+msgid "Seconds"
+msgstr "Detik"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:41
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:78
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:146
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:211
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:271
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:290
+msgid "sec"
+msgstr "det"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:48
+msgid "User click on the page"
+msgstr "Pengguna mengklik laman"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:54
+msgid "Click on certain link / button / other element"
+msgstr "Klik pada link tertentu / tombol / elemen lain"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:57
+msgid "Copy & paste next code - into required link to open PopUp on Click"
+msgstr ""
+"Menyalin & paste kode berikutnya - ke dalam link yang dibutuhkan untuk "
+"membuka PopUp pada klik"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:60
+#, php-format
+msgid ""
+"Check screenshot with details - <a onclick=\"ppsShowTipScreenPopUp(this); "
+"return false;\" href=\"%s\">here</a>."
+msgstr ""
+"Periksa screenshot dengan rincian - <a onclick="
+"\"ppsShowTipScreenPopUp(this); return false;\" href=\"%s\">di sini</a>."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:62
+msgid ""
+"Or, if you know HTML basics, - you can insert \"onclick\" attribute to any "
+"of your element from code below"
+msgstr ""
+"Atau, jika Anda tahu dasar-dasar HTML, - Anda dapat memasukkan atribut "
+"\"onclick\" ke salah satu elemen Anda dari kode di bawah ini"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:66
+msgid "Or you can even use it for your Menu item, just add code"
+msgstr ""
+"Atau Anda dapat bahkan menggunakannya untuk item Menu Anda, hanya "
+"menambahkan kode"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:70
+msgid ""
+"to your menu item \"URL\" or into \"Title Attribute\" field. Don't worry - "
+"users will not see this code as menu item title on your site."
+msgstr ""
+"ke menu item \"URL\" atau ke bidang \"Judul atribut\". Jangan khawatir - "
+"pengguna tidak akan melihat kode ini sebagai item menu judul situs Anda."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:85
+msgid "Scroll window"
+msgstr "Gulir window"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:94
+msgid "seconds after first scroll"
+msgstr "detik setelah pertama gulir"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:98
+msgid "Scrolled to"
+msgstr "Menggulir ke"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:102
+msgid "percents of total scroll"
+msgstr "persen dari total gulir"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:122
+#, fuzzy
+#| msgid ""
+#| "When user are on the bottom of the page: scroll it down to the bottom, or "
+#| "if there are no vertical scroll on his device - just show it right after "
+#| "page load."
+msgid ""
+"When user is at the bottom of the page: scrolls it down to the bottom, or if "
+"there is no vertical scroll on his device - just show it right after page "
+"loads."
+msgstr ""
+"Ketika pengguna yang di bagian bawah halaman: gulirkan ke bawah, atau jika "
+"ada tidak gulir vertikal pada perangkat nya - hanya muncul tepat setelah "
+"halaman dimuat."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:123
+msgid "Bottom of the page"
+msgstr "Bawah halaman"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:134
+msgid "After user was inactive on your page for some time."
+msgstr "Setelah pengguna tidak aktif pada halaman Anda untuk beberapa waktu."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:135
+msgid "After Inactivity"
+msgstr "Setelah tidak aktif"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:143
+msgid "After user was inactive for"
+msgstr "Setelah pengguna tidak aktif selama"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:153
+#, fuzzy
+#| msgid ""
+#| "User add comment on your site - and will see this PopUp after comment was "
+#| "placed. This will help you interest active users on your site."
+msgid ""
+"When user adds a comment on your site he will see this PopUp after comment "
+"was placed. This will help you to get active users interested in your site."
+msgstr ""
+"Pengguna menambahkan komentar di situs Anda - dan akan melihat PopUp ini "
+"setelah komentar ditempatkan. Ini akan membantu Anda menarik pengguna aktif "
+"di situs Anda."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:154
+msgid "After User Comment"
+msgstr "Setelah pengguna berkomentar"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:165
+#, fuzzy
+#| msgid "Show PopUp after success checkout process on your online store."
+msgid "Show PopUp after successful checkout process in your online store."
+msgstr "Tampilkan PopUp setelah proses checkout berhasil di toko online Anda."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:166
+msgid "After Purchasing (Checkout)"
+msgstr "Setelah membeli (Checkout)"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:174
+msgid "Copy & Paste next code on your Success checkout page content editor"
+msgstr ""
+"Salin & Tempel kode selanjutnya pada editor konten laman checkout berhasil"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:178
+msgid ""
+"Or, if you are using your own html/php for this page - insert there next code"
+msgstr ""
+"Atau, jika Anda menggunakan html/php untuk laman ini - masukkan disitu kode "
+"selanjutnya"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:192
+#, fuzzy, php-format
+#| msgid ""
+#| "Show when user open your site exactly by link, where in the end will be "
+#| "present #ppsShowPopUp_%d. For example <a href=\"%s\" target=\"_blank\">"
+#| "%s</a> (will work only with PRO version)."
+msgid ""
+"Show when user opens your site exactly with link, where in the end will be "
+"#ppsShowPopUp_%d. For example <a href=\"%s\" target=\"_blank\">%s</a> (will "
+"work only with PRO version)."
+msgstr ""
+"Tampilkan tepat setelah pengguna membuka situs Anda, pada akhirnya akan "
+"hadir #ppsShowPopUp_%d. Contoh <a href=\"%s\" target=\"_blank\">%s</a> "
+"(hanya berjalan untuk versi PRO)."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:193
+msgid "On Link Follow"
+msgstr "Follow Pada Link"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:200
+msgid "Copy & paste next code - into end of required link on your site"
+msgstr ""
+"Salin & Tempel kode selanjutnya - kedalam akhir dari link yang diperlukan "
+"pada situs Anda"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:222
+msgid "PopUp will be build-in page content - as part of your page."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:223
+msgid "Build-In Page"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:230
+#, fuzzy
+#| msgid "Copy & paste next code - into end of required link on your site"
+msgid "Copy & paste next code - into required place in your page"
+msgstr ""
+"Salin & Tempel kode selanjutnya - kedalam akhir dari link yang diperlukan "
+"pada situs Anda"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:237
+msgid "When to close PopUp"
+msgstr "Kapan menutup popup"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:243
+msgid "After user close it"
+msgstr "Setelah pengguna menutupnya"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:249
+#, fuzzy
+#| msgid "Close PopUp when user click outside of the actually PopUp window."
+msgid "Close PopUp when user clicks outside of the actually PopUp window."
+msgstr "Tutup PopUp ketika mengklik diluar jendela popup."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:250
+msgid "Click outside PopUp"
+msgstr "Klik diluar PopUp"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:258
+msgid ""
+"Will not allow user to close your PopUp - until finish at least one action: "
+"Subscribe, Share or Like."
+msgstr ""
+"Tidak akan mengizinkan pengguna menutup PopUp - sampai selesai minimal satu "
+"tindakan: Subscribe, share, atau like."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:259
+msgid "Only after action (Subscribe / Share / Like)"
+msgstr "Hanya setelah tindakan (Subscribe / Share / Like)"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:268
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:287
+msgid "Close after"
+msgstr "Tutup setelah"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:274
+#, fuzzy
+#| msgid "Close PopUp after it will be visible specified time."
+msgid "Close PopUp after it will be visible during specified time."
+msgstr "Tutup PopUp setelah ini akan terlihat waktu yang ditentukan."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:279
+msgid "After time passed"
+msgstr "Setelah waktu berlalu"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:294
+msgid "Show on next pages"
+msgstr "Tampilkan dihalaman berikutnya"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:300
+msgid "All pages"
+msgstr "Semua laman"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:306
+msgid "Show on next pages / posts"
+msgstr "Tampilkan di laman / post berikutnya"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:309
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:318
+msgid "Choose Pages"
+msgstr "Pilih Laman"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:315
+msgid "Don't show on next pages / posts"
+msgstr "Jangan tampilkan pada post / laman selanjutnya"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:321
+msgid "Time display settings"
+msgstr "Pengaturan tampilan waktu"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:327
+msgid "Set display time"
+msgstr "Mengatur waktu"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:330
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:353
+msgid "From"
+msgstr "Dari"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:336
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:357
+msgid "to"
+msgstr "hingga"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:344
+#, fuzzy
+#| msgid "Time display settings"
+msgid "Date display settings"
+msgstr "Pengaturan tampilan waktu"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:350
+#, fuzzy
+#| msgid "Set display time"
+msgid "Set display date"
+msgstr "Mengatur waktu"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:364
+msgid "Whom to show"
+msgstr "Siapa yang ditunjukan"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:370
+msgid "Everyone"
+msgstr "Semua Orang"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:376
+msgid "For first-time visitors"
+msgstr "Untuk pengunjung pertama kali"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:379
+msgid ""
+"Will remember user visit for entered number of days and show PopUp to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"Akan mengingat pengguna berkunjung dengan memasukkan jumlah hari dan "
+"tampilkan PopUp ke pengguna yang sama lagi - setelah peride ini. Untuk "
+"mengingat hanya untuk sesi satu browser - gunakan 0 disini, untuk mengingat "
+"selamanya - coba beri angka besar - contoh 99999"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:380
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:396
+msgid "Remember for"
+msgstr "Ingat untuk"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:385
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:401
+msgid "days"
+msgstr "hari"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:388
+msgid "Subscribe, share, like, etc."
+msgstr "Subscribe, share, like, dll."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:392
+msgid "Until user makes an action"
+msgstr "Sampai pengguna membuat tindakan"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:395
+msgid ""
+"Will remember user action for entered number of days and show PopUp to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+"Akan mengingat tindakan pengguna dengan jumlah hari yang dimasukkan dan "
+"tampilkan PopUp ke pengguna yang sama lagi - setelah periode ini. Untuk "
+"hanya mengingat satu sesi browser - gunakan 0 disni, untuk mengingat "
+"selamanya - coba beri nilai besar - contoh 99999."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:405
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:420
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:435
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:451
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:466
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:485
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:503
+msgid "Click to revert feature function: from Hide - to Show, and vice versa."
+msgstr ""
+"Klik untuk mengembalikan fungsi fitur: dari Sembunyi - Tampilkan, dan "
+"sebaliknya."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:406
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:421
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:436
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:452
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:467
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:486
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:504
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:406
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:421
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:436
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:452
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:467
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:486
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:504
+msgid "Show Only"
+msgstr "Tampilkan Hanya"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:411
+msgid "for Devices"
+msgstr "untuk perangkat"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:412
+msgid ""
+"You can make PopUp visible or hidden only when users will view your site "
+"from selected devices."
+msgstr ""
+"Anda dapat membuat PopUp terlihat atau sembunyi hanya ketika pengguna "
+"menggunakan perangkat yang dipilih."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:417
+msgid "Choose devices"
+msgstr "Pilih perangkat"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:426
+msgid "for Post Types"
+msgstr "untuk jenis posting"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:427
+#, fuzzy
+#| msgid ""
+#| "You can make PopUp visible or hidden only for specified Pos Types, for "
+#| "example - hide it on all Pages."
+msgid ""
+"You can make PopUp visible or hidden only for specified Post Types, for "
+"example - hide it on all Pages."
+msgstr ""
+"Anda dapat membuat PopUp ini terlihat atau sembunyi untuk Jenis Post "
+"tertentu, contoh - sembunyikan dari semua laman."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:432
+msgid "Choose post types"
+msgstr "Pilih jenis posting"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:441
+msgid "for IP"
+msgstr "untuk IP"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:442
+#, php-format
+msgid ""
+"For those IPs PopUp will not be displayed (or vice versa - depending on Hide/"
+"Show Only option). Please be advised that your IP - %s"
+msgstr ""
+"Untuk IP ini PopUp tidak akan ditampilkan (atau sebaliknya - tergantung pada "
+"Opsi Hanya Sembunyikan/Tampilkan). Silahkan perhatikan IP Anda - %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:444
+msgid "Show IPs List"
+msgstr "Tunjukan daftar IP"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:457
+msgid "for Countries"
+msgstr "untuk Negara"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:458
+#, php-format
+msgid ""
+"For those Countries PopUp will not be displayed (or vice versa - depending "
+"on Hide/Show Only option). Please be advised that your Country code is %s"
+msgstr ""
+"Untuk negara berikut PopUp tidak akan ditampilkan (atau sebaliknya - "
+"tergantung pada opsi Hanya Sembunyikan/Tampilkan). Harap perhatikan Kode "
+"negara Adna adalah %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:463
+msgid "Choose countries"
+msgstr "Pilih negara"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:472
+msgid "for Languages"
+msgstr "untuk Bahasa"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:473
+#, php-format
+msgid ""
+"For those Languages PopUp will not be displayed. Language is defined by "
+"visitor browser language. Please be advised that your browser language is %s"
+msgstr ""
+"Untuk Bahasa berikut PopUp tidak akan ditampilkan. Bahasa ditemukan oleh "
+"bahasa browser pengunjung. Harap perhatikan bahasa browser Anda adalah %s"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:479
+msgid "Choose languages"
+msgstr "Pilih bahasa"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:481
+msgid "This feature is supported only in WordPress version 4.0.0 or higher"
+msgstr "Fitur ini support hanya di versi Wordpress 4.0.0 atau lebih"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:491
+msgid "for Search Engines or Social Media"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:492
+msgid ""
+"If user coming from those Search Engines - PopUp will not be displayed. This "
+"is helpfull when you want to hide or show your PopUp only for users, who "
+"come to your site from particular search engine."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:497
+#, fuzzy
+#| msgid "Choose Pages"
+msgid "Choose Search Engines"
+msgstr "Pilih Laman"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:509
+msgid "for URL match"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:510
+#, php-format
+msgid ""
+"You can enter here URL pattern - and users with URL matched this pattern "
+"will not see (or vice versa) your PopUp. Use <a _target=\"_blank\" href=\"%s"
+"\">official documentation</a> about regular expression to make this work "
+"correctly."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:519
+#, fuzzy
+#| msgid ""
+#| "Hide PopUp for Logged-in users and show it only for not Logged site "
+#| "visitors."
+msgid ""
+"Hide PopUp for Logged-in users and show it only for not Logged-in site "
+"visitors."
+msgstr ""
+"Sembunyikan PopUp untuk pengguna login dan perlihatkan hanya untuk "
+"pengunjung tidak login."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:522
+msgid "Hide for Logged-in"
+msgstr "Sembunyikan untuk yang login"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:525
+msgid "IPs List"
+msgstr "Daftar IP"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:527
+msgid "Type here IPs that will not see PopUp, each IP - from new line"
+msgstr ""
+"Tulis disini IP yang tidak akan melihat PopUp, Setiap IP - beri baris baru"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:7
+msgid "Enable Social Buttons"
+msgstr "Adakan Tombol Sosial"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:21
+msgid "Social links design"
+msgstr "Desain Link Sosial"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:31
+msgid "OR"
+msgstr "ATAU"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:34
+msgid ""
+"Connect <b>around 20 social networks</b> to your PopUp, with various lists "
+"of design settings, using our plugin <b>Social Share Buttons by Supsystic</b>"
+msgstr ""
+"Hubungkan <b>antara 20 jejaring sosial</b> ke PopUp Anda, dengan berbagai "
+"macam pengaturan desain, menggunakan plugin kami <b>Social Share Buttons by "
+"Supsystic</b>"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:38
+msgid "Select Social Button Project"
+msgstr "Pilih Proyek Tombol Sosial"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:49
+#, php-format
+msgid ""
+"You have no Social Sharing projects for now. <a href=\"%s\" target=\"_blank"
+"\" class=\"button button-primary\">Create your first project</a> - then just "
+"reload page with your PopUp settings, and you will see list with available "
+"Social Projects for your PopUp."
+msgstr ""
+"Anda tidak memiliki proyek Share Sosial saat ini. <a href=\"%s\" target="
+"\"_blank\" class=\"button button-primary\">Buat proyek pertama Anda</a> - "
+"kemudian cukup reload laman dengan pengaturan PopUp Anda, dan Anda akan "
+"lihat daftar dengan Proyek Sosial yang tersedia untuk PopUp Anda."
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:55
+#, php-format
+msgid ""
+"You need to install Social Share Buttons by Supsystic to use this feature. "
+"<a href=\"%s\" target=\"_blank\" class=\"button\">Install plugin</a> from "
+"your admin area, or visit it's official page on Wordpress.org <a href=\"%s\" "
+"target=\"_blank\">here.</a>"
+msgstr ""
+"Anda perlu menginstal Social Share Buttons by Supsystic untuk menggunakan "
+"fitur ini. <a href=\"%s\" target=\"_blank\" class=\"button\">Instal plugin</"
+"a> dari area admin, atau kunjungi laman resmi di Wordpress.org <a href=\"%s"
+"\" target=\"_blank\">disini.</a>"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:7
+msgid "Enable Subscription"
+msgstr "Mengaktifkan berlangganan"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:14
+msgid "Subscribe to"
+msgstr "SubScribe ke"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:15
+msgid "Destination for your Subscribers."
+msgstr "Tujuan untuk pelanggan Anda."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:25
+#, fuzzy
+#| msgid "Create user after subscribe with role"
+msgid "Create user with the chosen role after subscribing"
+msgstr "Buat pengguna setelah subscribe dengan peran"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:26
+#, fuzzy
+#| msgid ""
+#| "Use this only if you are really need it. Remember! After you change this "
+#| "option - your new subscriber will have more privileges than usual "
+#| "subscribers, so be careful with this option!"
+msgid ""
+"Use this only if you really need it. Remember! After you change this option "
+"- your new subscriber will have more privileges than usual subscribers, so "
+"be careful with this option!"
+msgstr ""
+"Gunakan ini hanya jika Anda benar-benar perlu. Ingat! Setelah mengganti opsi "
+"ini - pelanggan baru Anda akan memiliki hak lebih banyak dibanding pelanggan "
+"biasanya, jadi hati-hatilah!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:36
+msgid "Create Subscriber without confirmation"
+msgstr "Membuat pelanggan tanpa konfirmasi"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:37
+#, fuzzy
+#| msgid ""
+#| "Usually, after user subscribe, we send email with confirmation link - to "
+#| "confirm email addres, and only after user will click on link from this "
+#| "email - we will create new subscriber. This option allow you to create "
+#| "subscriber - right after subscription, without email confirmation process."
+msgid ""
+"Usually, after user subscribes, we send an email with the confirmation link "
+"- to confirm the email address, and only after user clicks on the link from "
+"this email - we will create a new subscriber. This option allows you to "
+"create a subscriber - right after subscription, without the email "
+"confirmation process."
+msgstr ""
+"Biasanya, setelah pengguna berlangganan, kami akan mengirim email dengan "
+"link konfirmasi - konfirmasi alamat email, dan hanya setelah pengguna akan "
+"mengklik link dari email ini - kita akan menciptakan pelanggan baru. Pilihan "
+"ini memungkinkan Anda untuk membuat pelanggan - tepat setelah berlangganan, "
+"tanpa proses konfirmasi email."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:46
+msgid "Export Subscribers"
+msgstr "Ekspor pelanggan"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:47
+msgid ""
+"Export all subscribers, who subscribed using WordPress \"Subscribe to\" "
+"method, as CSV file."
+msgstr ""
+"Ekspor semua pelanggan yang berlangganan menggunakan metode \"Berlangganan\" "
+"WordPress, sebagai CSV file."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:55
+msgid "Aweber Unique List ID"
+msgstr "ID Unik Daftar Aweber"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:56
+#, php-format
+msgid "Check <a href=\"%s\" target=\"_blank\">this page</a> for more details"
+msgstr ""
+"Periksa <a href=\"%s\" target=\"_blank\">Halaman ini</a> untuk rincian lebih "
+"lanjut"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:65
+msgid "Aweber AD Tracking"
+msgstr "Pelacak Iklan Aweber"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:66
+#, php-format
+msgid ""
+"You can easy track your subscribers from PopUp using this feature. For more "
+"info - check <a href=\"%s\" target=\"_blank\">this page</a>."
+msgstr ""
+"Anda dapat mudah melacak pelanggan Anda dari PopUp menggunakan fitur ini. "
+"Untuk info lebih lanjut - periksa <a href=\"%s\" target=\"_blank\">Halaman "
+"ini</a>."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:75
+msgid "MailChimp API key"
+msgstr "MailChimp API key"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:76
+#, php-format
+msgid ""
+"To find your MailChimp API Key login to your mailchimp account at <a href="
+"\"%s\" target=\"_blank\">%s</a> then from the left main menu, click on your "
+"Username, then select \"Account\" in the flyout menu. From the account page "
+"select \"Extras\", \"API Keys\". Your API Key will be listed in the table "
+"labeled \"Your API Keys\". Copy / Paste your API key into \"MailChimp API key"
+"\" field here. For more detailed instruction - check article <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"Untuk menemukan Mailchimp API key login ke akun mailchimp Anda di <a href="
+"\"%s\" target=\"_blank\">%s</a> kemudian pada menu sebelah kiri, klik di "
+"Username, kemudian pilih \"Akun\" pada menu. Dari laman akun pilih \"Ekstra"
+"\". Api Keys\". Api key Anda akan akan terdaftar dalam tabel berlabel \"Api "
+"key Anda\". Salin / Tempel API key kedalam \"Mailchimp API Key\" disini. "
+"Untuk instruksi lebih lanjut - cek artikel <a href=\"%s\" target=\"_blank"
+"\">disini</a>."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:87
+msgid ""
+"Select lists for subscribe. They are taken from your MailChimp account - so "
+"make sure that you entered correct API key before."
+msgstr ""
+"Pilih daftar untuk subscribe. Diambil dari akun Mailchimp - pastikan Anda "
+"memasukkan API key yang benar."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:96
+msgid "Enter API key - and your list will appear here"
+msgstr "Masukkan API key - dan daftar Anda muncul disini"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:102
+msgid "Disable double opt-in"
+msgstr "Tiadakan double opt-in"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:103
+msgid ""
+"Disable double opt-in confirmation message sending - will create subscriber "
+"directly after he will sign-up to your form."
+msgstr ""
+"Tiadakan double pengiriman pesan konfirmasi opt-in akan membuat pelanggan "
+"langsung setelah mereka mendaftar pada form."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:112
+#, fuzzy
+#| msgid "Lists for subscribe"
+msgid "Group for subscribe"
+msgstr "Daftar untuk subscribe"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:113
+msgid ""
+"In MailChimp there are possibility to select groups for your subscribers. "
+"This is not mandatory, but some times is really helpful. So, we added this "
+"possibility for you in our plugin too - hope you will like it!"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:119
+#, fuzzy
+#| msgid "Choose countries"
+msgid "Choose Groups"
+msgstr "Pilih negara"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:122
+#, fuzzy
+#| msgid "Enter API key - and your list will appear here"
+msgid "Enter API key, select List - and your groups will appear here"
+msgstr "Masukkan API key - dan daftar Anda muncul disini"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:129
+msgid "MailPoet Subscribe Lists"
+msgstr "Daftar MailPoet Subscribe"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:138
+#, php-format
+msgid ""
+"You have no subscribe lists, <a target=\"_blank\" href=\"%s\">create lists</"
+"a> at first, then - select them here."
+msgstr ""
+"Anda tidak memiliki daftrar pelanggan, <a target=\"_blank\" href=\"%s\">buat "
+"daftar</a> dahulu, - pilih kesini."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:143
+#, php-format
+msgid ""
+"To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s"
+"\">MailPoet plugin</a> installed on your site"
+msgstr ""
+"Untuk menggunakan mesin subscribe ini - Anda harus memiliki <a target="
+"\"_blank\" href=\"%s\">plugin MailPoet</a> pada situs Anda"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:170
+#, fuzzy, php-format
+#| msgid ""
+#| "To use this subscribe engine - you must have <a target=\"_blank\" href="
+#| "\"%s\">MailPoet plugin</a> installed on your site"
+msgid ""
+"To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s"
+"\">Jetpack plugin</a> installed on your site"
+msgstr ""
+"Untuk menggunakan mesin subscribe ini - Anda harus memiliki <a target="
+"\"_blank\" href=\"%s\">plugin MailPoet</a> pada situs Anda"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:183
+#, fuzzy
+#| msgid "InfusionSoft"
+msgid "Infusion Soft"
+msgstr "InfusionSoft"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:200
+msgid "Activate License or update PRO version plugin"
+msgstr "Aktifkan Lisensi atau update plugin versi PRO"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:201
+msgid ""
+"Apparently - you have installed PRO version, but did not activate it license "
+"- then please activate it. Or you have old version of plugin - then you need "
+"go to Plugins page and Update PRO version plugin, after this go to License "
+"tab and re-activate license (just click one more time on \"Activate\" "
+"button)."
+msgstr ""
+"Tampaknya Anda sudah memasang versi PRO, tapi tidak mengaktifkan lisensinya "
+"- maka silahkan aktifkan. Atau Anda memiliki plugin versi lama - maka Anda "
+"perlu ke laman plugin dan update plugin versi PRO, setelah ini pergi ke tab "
+"Lisensi dan aktifkan kembali lisensi (cukup klik sekali pada tombol "
+"\"Aktifkan\")."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:210
+#, php-format
+msgid "Enable %s with PRO"
+msgstr "Ada %s dengan PRO"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:211
+#, php-format
+msgid ""
+"This is PRO feature, and it will be available once you will install <a href="
+"\"%s\" target=\"_blank\">PRO version</a> of our plugin"
+msgstr ""
+"Ini fitur PRO, dan ini akan tersedia setelah Anda menginstal plugin <a href="
+"\"%s\" target=\"_blank\">versi PRO</a>"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:215
+msgid "Get PRO"
+msgstr "Dapatkan PRO"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:222
+msgid "Subscribe with Facebook"
+msgstr "Subscribe dengan Facebook"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:223
+#, php-format
+msgid ""
+"Add button to your PopUp with possibility to subscribe just in one click - "
+"without filling fields in your subscribe form, <img src=\"%s\" />"
+msgstr ""
+"Tambahkan tombol ke PopUp Anda dengan kemungkinan untuk subscribe sekali "
+"klik - tanpa mengisi bidang pada form subscribe, <img src=\"%s\" />"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:236
+msgid "Create WP user"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:237
+msgid ""
+"Once user will subscribe to selected Subscription service - it will create "
+"WordPress Subscriber too. PLease be carefull using this option: "
+"WordPressusers will be created right after you submit your Subscribe form "
+"without confirmation."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:246
+msgid "Test Email Function"
+msgstr "Uji Fungsi Email"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:247
+#, fuzzy
+#| msgid ""
+#| "Email delivery depends from your server configuration. For some cases - "
+#| "you and your subscribers can not receive emails just because email on "
+#| "your server is not working correctly. You can easy test it here - by "
+#| "sending test email. If you will receive it - then this will mean that "
+#| "email functionality on your server works well. If not - this mean that it "
+#| "is not working correctly and you should contact your hosting provider "
+#| "with this issue and ask them to setup email functionality for you on your "
+#| "server."
+msgid ""
+"Email delivery depends from your server configuration. For some cases - you "
+"and your subscribers can not receive emails just because email on your "
+"server is not working correctly. You can easy test it here - by sending test "
+"email. If you receive it - then it means that email functionality on your "
+"server works well. If not - this means that it is not working correctly and "
+"you should contact your hosting provider with this issue and ask them to "
+"setup email functionality for you on your server."
+msgstr ""
+"Pengiriman email tergantung dari konfigurasi server Anda. Pada beberapa "
+"kasus - Anda dan pelanggan tidak dapat menerima email hanya karena email "
+"pada server Anda tidak bekerja dengan baik. Anda dapat mengujinya disini - "
+"dengan mengirim email ujian. Jika Anda menerimanya - Maka artinya "
+"fungsionalitas email ini bekerja dengan baik. Jika tidak - artinya tidak "
+"berjalan dengan baik dan Anda harus hubungi provider hosting Anda atas "
+"masalah ini dan minta mereka untuk setup fungsi email pada server."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:255
+msgid "Send Test Email"
+msgstr "Kirim Email Percobaan"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:258
+#, fuzzy
+#| msgid ""
+#| "Email was sent. Now check your email inbox / spam folders for test mail. "
+#| "If you will not find it - this mean that your server can't send emails - "
+#| "and you need to contact your hosting provider with this issue."
+msgid ""
+"Email was sent. Now check your email inbox / spam folders for test mail. If "
+"you don’t find it - it means that your server can't send emails - and you "
+"need to contact your hosting provider with this issue."
+msgstr ""
+"Email terkirim. Sekarang cek kotak masuk / folder spam untuk email ini. Jika "
+"Anda tidak menemukannya - ini artinya server Anda tidak dapat mengirim email "
+"- dan Anda perlu hubungi provider hosting atas masalah ini."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:266
+msgid "Subscription fields"
+msgstr "Bidang berlangganan"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:267
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Subscribe form - click on \"+ Add\" button."
+msgstr ""
+"Untuk merubah posisi bidang - cukup seret-&- jatuhkan pada tempat yang "
+"diperlukan. Untuk menambah bidang baru ke kontak Subscribe - klik tombol "
+"\"+Tambah\"."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:330
+msgid ""
+"This is the message that the user will see after subscription, when letter "
+"with confirmation link was sent."
+msgstr ""
+"Ini adalah pesan yang akan dilihat pengguna setelah berlangganan, ketika "
+"surat dengan link konfirmasi sudah terkirim."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:340
+msgid "Subscribe success message"
+msgstr "Pesan subscribe berhasil"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:341
+msgid ""
+"Right after subscriber will be created and confirmed - this message will be "
+"shown."
+msgstr ""
+"Tepat setelah subscribe akan dibuat dan dikonfirmasi - pesan ini akan "
+"ditampilkan."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:345
+#: modules/subscribe/controller.php:40
+msgid "Thank you for subscribing!"
+msgstr "Terimakasih sudah berlangganan!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:362
+#, fuzzy
+#| msgid "Email error message"
+msgid "Email exists error message"
+msgstr "Pesan email error"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:363
+msgid ""
+"If email that was entered by user already exists - user will see this "
+"message. But be careful: this can be used by hackers - to detect existing "
+"email in your database, so it's better for you to leave this message same as "
+"error message about invalid email above."
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:373
+msgid "Redirect after subscription URL"
+msgstr "URL pengalihan setelah berlangganan"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:374
+msgid ""
+"You can enable redirection after subscription, just enter here URL that you "
+"want to redirect to after subscribe - and user will be redirected there. If "
+"you don't need this feature - just leave this field empty."
+msgstr ""
+"Andad apat mengadakan pengalihan setelah berlangganan, masukkan URL disini "
+"yang ingin Anda arahkan setelah subscribe - dan pengguna akan diarahkan. "
+"Jika tidak perlu fitur ini - biarkan kosong."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:397
+#: modules/subscribe/models/subscribe.php:386
+msgid "Confirm subscription on [sitename]"
+msgstr "Konfirmasi berlangganan pada [sitename]"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:425
+#: modules/subscribe/models/subscribe.php:389
+msgid ""
+"You subscribed on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your subscription. If you did "
+"not subscribe here - just ignore this message."
+msgstr ""
+"Anda sudah berlangganan pada <a href=\"[siteurl]\">[sitename]</a>. Ikuti <a "
+"href=\"[confirm_link]\">link ini</a> untuk melengkapi langganan Anda. Jika "
+"Anda tidak merasa berlangganan disini - abaikan pesan ini."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:428
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:472
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:525
+msgid "Add Attach"
+msgstr ""
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:434
+msgid "New Subscriber email subject"
+msgstr "Subjek email Pelanggan baru"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:435
+msgid "Email to New Subscriber subject"
+msgstr "Subjek email ke Pelanggan baru"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:447
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:448
+msgid "New Subscriber email From field"
+msgstr "Bidang email dari Pelanggan baru"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:460
+msgid "New Subscriber email text"
+msgstr "Teks email Pelanggan baru"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:461
+msgid "Email to New Subscriber content"
+msgstr "Konten email ke Pelanggan Baru"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:478
+msgid "Redirect if email already exists"
+msgstr "Arahkah jika email sudah terdaftar"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:479
+#, fuzzy
+#| msgid ""
+#| "Link to redirect to if user subscribe - but this email already exists"
+msgid "Link to redirect to if user subscribes - but this email already exists"
+msgstr ""
+"Link untuk mengarahkan jika pengguna subscribe - tapi emai lsudah terdaftar"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:492
+msgid "Submit button name"
+msgstr "Nama tombol kirim"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:500
+msgid "New Subscriber Notification"
+msgstr "Pemberitahuan Pelanggan Baru"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:513
+msgid "New Subscriber Notification email text"
+msgstr "Teks email Pemberitahuan Pelanggan Baru"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:514
+msgid "Message that you will receive about new subscribers on your site."
+msgstr "PEsan yang akan Anda terima tentang pelanggan baru pada situs Anda."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:522
+#: modules/subscribe/models/subscribe.php:81
+#, fuzzy
+#| msgid ""
+#| "You have new subscriber on your site <a href=\"[siteurl]\">[sitename]</"
+#| "a>, here us subscriber information:<br />[subscriber_data]"
+msgid ""
+"You have new subscriber on your site <a href=\"[siteurl]\">[sitename]</a>, "
+"here is subscriber information:<br />[subscriber_data]"
+msgstr ""
+"Anda memiliki pelanggan baru pada situs <a href=\"[siteurl]\">[sitename]</"
+"a>, disini informasi pelanggannya:<br />[subscriber_data]"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:570
+#, fuzzy
+#| msgid "Select"
+msgid "Select File"
+msgstr "Pilih"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:19
+msgid "Text block"
+msgstr "Blok teks"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:19
+#, php-format
+msgid "Text block %d"
+msgstr "Gaya Font teks %dd"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:39
+msgid "Button block"
+msgstr "Blok tombol"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:39
+#, php-format
+msgid "Button block %d"
+msgstr "Blok tombol %d"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:44
+msgid "Button Name"
+msgstr "Nama Tombol"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:50
+msgid "Button URL"
+msgstr "URL Tombol"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:56
+msgid "or close PopUp on click"
+msgstr "atau menutup PopUp pada klik"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:73
+msgid "Foot note"
+msgstr "Catatan footer"
+
+#: modules/popup/views/tpl/popupEditAdminTplOpts.php:3
+msgid "Change PopUp Template"
+msgstr "Ganti Template PopUp"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:1
+msgid "Click to Edit"
+msgstr "Klik untuk Edit"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:9
+msgid "Save all changes"
+msgstr "Simpan semua perubahan"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:13
+msgid "Clone to New PopUp"
+msgstr "Klon untuk baru PopUp"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:15
+msgid "Clone"
+msgstr "Klon"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:19
+msgid "Preview"
+msgstr "Tinjau"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:21
+msgid "Turn Off"
+msgstr "Matikan"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:21
+msgid "Turn On"
+msgstr "Nyalakan"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:27
+msgid "Delete"
+msgstr "Hapus"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:34
+msgid "New Name"
+msgstr "Nama Baru"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:35
+msgid "Copy"
+msgstr "Salin"
+
+#: modules/sm/mod.php:31
+msgid "Google+"
+msgstr "Google+"
+
+#: modules/sm/mod.php:32
+msgid "Twitter"
+msgstr "Twitter"
+
+#: modules/sm/mod.php:56
+msgid "Simple"
+msgstr "Sederhana"
+
+#: modules/sm/mod.php:57
+msgid "Boxy"
+msgstr "Boxy"
+
+#: modules/statistics/controller.php:40
+#, php-format
+msgid "Statistics for %s"
+msgstr "Statistik untuk %s"
+
+#: modules/statistics/controller.php:42
+msgid "Date"
+msgstr "Tanggal"
+
+#: modules/statistics/controller.php:43
+msgid "Views"
+msgstr "Dilihat"
+
+#: modules/statistics/controller.php:44
+msgid "Unique Views"
+msgstr "Dilihat Unik"
+
+#: modules/statistics/controller.php:45
+msgid "Actions"
+msgstr "Tindakan"
+
+#: modules/statistics/controller.php:46
+msgid "Conversion"
+msgstr "Konversi"
+
+#: modules/statistics/mod.php:11
+msgid "Displayed"
+msgstr "Ditampilkan"
+
+#: modules/statistics/mod.php:12
+msgid "Subscribed"
+msgstr "Berlangganan"
+
+#: modules/statistics/mod.php:13
+msgid "Shared"
+msgstr "Di share"
+
+#: modules/statistics/mod.php:14
+msgid "Facebook Liked"
+msgstr "Facebook Disukai"
+
+#: modules/statistics/mod.php:16
+msgid "Registration"
+msgstr "Pendaftaran"
+
+#: modules/statistics/mod.php:27
+msgid "Statistics"
+msgstr "Statistik"
+
+#: modules/statistics/models/statistics.php:35
+#: modules/subscribe/models/subscribe.php:452
+msgid "Send me some info, pls"
+msgstr "Kirimi saya beberapa info, pls"
+
+#: modules/statistics/models/statistics.php:165
+msgid "No data found"
+msgstr "Tidak ada data ditemukan"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:4
+#, php-format
+msgid ""
+"Want to increase conversion, subscribers and social share? <a target=\"_blank"
+"\" href=\"%s\" class=\"button\">Get know - how!</a>"
+msgstr ""
+"Ingin meningkatkan konversi, pelanggan dan berbagi sosial? <a target=\"_blank"
+"\" href=\"%s\" class=\"button\">Dapatkan sekarang- caranya!</a>"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:8
+msgid "Main PopUp Usage Statistics"
+msgstr "Statistik penggunaan PopUp utama"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:10
+msgid "Clear selection"
+msgstr "Hapus yang telah dipilih"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:12
+msgid "To"
+msgstr "Ke"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:26
+msgid "Reset Zoom"
+msgstr "Reset Zoom"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:31
+msgid "Group by"
+msgstr "Kelompokkan dengan"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:32
+msgid "Hour"
+msgstr "Jam"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:33
+msgid "Day"
+msgstr "Hari"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:34
+msgid "Week"
+msgstr "Minggu"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:35
+msgid "Month"
+msgstr "Bulan"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:37
+msgid "Export to CSV"
+msgstr "Ekspor ke CSV"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:42
+msgid "Clear data"
+msgstr "Bersihkan data"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:48
+msgid "You can Zoom In by allocating mouse on Graph area."
+msgstr "Anda dapat Zoom In dengan mengalokasikan mouse pada daerah grafik."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:51
+msgid "Ratio of All Actions"
+msgstr "Rasio semua Tindakan"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:56
+msgid ""
+"Once you will have enough different statistics - like shares, subscribes, "
+"likes - you will be able to see here which action is used more or less "
+"frequently."
+msgstr ""
+"Anda aakan memiliki statistik berbeda - seperti share, langganan, likes - "
+"Anda dapat lihat disini tindakan mana digunakan lebih atau kurang secara "
+"frekuensi."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:60
+msgid "Ratio of All Social Share"
+msgstr "Rasio Semua Sosial Share"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:65
+msgid ""
+"Once you will have enough different statistics about share from PopUp on "
+"social media, you will be able to see here which social media is used more "
+"or less frequently."
+msgstr ""
+"Setelah Anda memiliki statistik berbeda tentang share dari PopUp pada media "
+"sosial, Anda dapat lihat disini sosial media mana yang digunakan lebih ata "
+"kurang secara frekuensi."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:72
+#, php-format
+msgid ""
+"You have no statistics for \"%s\" PopUp for now. Setup its options and wait "
+"until users will view it on your site."
+msgstr ""
+"Anda tidak memiliki statistik untuk PopUp \"%s\"  saat ini. Atur opsi ini "
+"dan tunggu sampai pengguna melihatnya di situs."
+
+#: modules/subscribe/controller.php:113
+#, php-format
+msgid "Registered from %s"
+msgstr "Terdaftar dar %s"
+
+#: modules/subscribe/controller.php:114
+#, php-format
+msgid "Subscribed to %s"
+msgstr "Berlangganan ke %s"
+
+#: modules/subscribe/controller.php:128
+msgid "Activated"
+msgstr "Diaktifkan"
+
+#: modules/subscribe/controller.php:129
+msgid "PopUp ID"
+msgstr "ID PopUp"
+
+#: modules/subscribe/controller.php:130
+msgid "Date Created"
+msgstr "Tanggal Dibuat"
+
+#: modules/subscribe/controller.php:165
+msgid "There are no members for now"
+msgstr "Tidak ada anggota sekarang"
+
+#: modules/subscribe/controller.php:166
+msgid "There are no subscribers for now"
+msgstr "Anda tidak memiliki pelanggan sekarang"
+
+#: modules/subscribe/mod.php:7
+msgid "WordPress"
+msgstr "WordPress"
+
+#: modules/subscribe/mod.php:8
+msgid "Aweber"
+msgstr "Aweber"
+
+#: modules/subscribe/mod.php:9
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: modules/subscribe/mod.php:10
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: modules/subscribe/mod.php:12
+msgid "Jetpack"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:50
+msgid "Something goes wrong"
+msgstr "Sesuatu yang tidak beres"
+
+#: modules/subscribe/models/subscribe.php:77
+msgid "New Subscriber notification"
+msgstr "Pemberitahuan Pelanggan Baru"
+
+#: modules/subscribe/models/subscribe.php:78
+#, php-format
+msgid "New Subscriber on %s"
+msgstr "Pelanggan Baru pada %s"
+
+#: modules/subscribe/models/subscribe.php:136
+#, php-format
+msgid "Please check %s"
+msgstr "Silakan periksa %s"
+
+#: modules/subscribe/models/subscribe.php:173
+msgid "Can't detect your IP, please don't spam"
+msgstr "Tidak dapat mendeteksi IP Anda, Harap jangan spam"
+
+#: modules/subscribe/models/subscribe.php:205
+msgid "You just subscribed from this IP"
+msgstr "Anda baru berlangganan dari IP ini"
+
+#: modules/subscribe/models/subscribe.php:321
+msgid "Can't registrate for now. Please try again later."
+msgstr "Tidak bisa daftar untuk sekarang. Harap coba lagi nanti."
+
+#: modules/subscribe/models/subscribe.php:321
+msgid "Can't subscribe for now. Please try again later."
+msgstr "Tidak dapat subscribe untuk saat ini. Silahkan coba lagi nanti."
+
+#: modules/subscribe/models/subscribe.php:489
+msgid ""
+"MailChimp requires CURL to be setup on your server. Please contact your "
+"hosting provider and ask them to setup CURL library for you."
+msgstr ""
+"Mailchimp memerlukan cURL diatur pada server Anda. Silahkan hubungi provider "
+"hosting Anda dan minta mereka mengatur pustaka cURL untuk Anda."
+
+#: modules/subscribe/models/subscribe.php:513
+#: modules/subscribe/models/subscribe.php:547
+msgid ""
+"There was some problem while trying to get your lists. Make sure that your "
+"API key is correct."
+msgstr ""
+"Ada beberapa maslaah saat mencoba mendapatkan daftar Anda. Pastikan API key "
+"Anda benar."
+
+#: modules/subscribe/models/subscribe.php:517
+#: modules/subscribe/models/subscribe.php:555
+msgid "Empty API key"
+msgstr "API Key kosong"
+
+#: modules/subscribe/models/subscribe.php:553
+msgid "Select some Lists before"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:627
+msgid ""
+"Something going wrong while trying to send data to MailChimp. Please contact "
+"site owner."
+msgstr ""
+"Terjadi kesalahan saat mencoba mengirim data ke MailChimp. Silahkan hubungi "
+"pemilik situs."
+
+#: modules/subscribe/models/subscribe.php:646
+msgid ""
+"No API key entered in admin area - contact site owner to resolve this issue."
+msgstr ""
+"Tidak ada API key dimasukkan di area admin - hubungi pemilik situs untuk "
+"mengatasi masalah ini."
+
+#: modules/subscribe/models/subscribe.php:738
+msgid "Some error occured during subscription process"
+msgstr "Beberapa kesalahan terjadi selama proses langganan"
+
+#: modules/subscribe/models/subscribe.php:741
+msgid "Can't find MailPoet on this server"
+msgstr "Tidak dapat menemukan MailPoet pada server ini"
+
+#: modules/subscribe/models/subscribe.php:789
+#, fuzzy
+#| msgid "Please enter valid email address"
+msgid "Not a valid email address"
+msgstr "Harap masukkan email yang valid"
+
+#: modules/subscribe/models/subscribe.php:790
+msgid "Not a valid post ID"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:791
+msgid "Unknown post"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:792
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com could subscribe the email."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:793
+msgid "Site owner has disabled subscriptions."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:794
+#, fuzzy
+#| msgid "Failed to create subscriber."
+msgid "Already subscribed."
+msgstr "Gagal membuat pelanggan."
+
+#: modules/subscribe/models/subscribe.php:795
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com returned something "
+"malformed."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:796
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com returned something I didn't "
+"understand."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:799
+#, fuzzy
+#| msgid "Something goes wrong"
+msgid "SOmething is going wrong"
+msgstr "Sesuatu yang tidak beres"
+
+#: modules/subscribe/models/subscribe.php:805
+msgid "Empty response from Jetpack"
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:807
+msgid ""
+"Subscriptions module is not activated in Jetpack plugin settings. Activate "
+"it before start using this subscribe method."
+msgstr ""
+
+#: modules/subscribe/models/subscribe.php:809
+#, fuzzy
+#| msgid "Can't find MailPoet on this server"
+msgid "Can't find Jetpack plugin on this server"
+msgstr "Tidak dapat menemukan MailPoet pada server ini"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:10
+msgid "Registration Confirmation"
+msgstr "Konfirmasi Pendaftaran"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:11
+msgid "Subscribe Confirmation"
+msgstr "Konfirmasi Langganan"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:53
+msgid "Some errors occured while trying to registrate"
+msgstr "Beberapa kesalahan terjadi saat mencoba mendaftar"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:54
+msgid "Some errors occured while trying to subscribe"
+msgstr "Beberapa kesalahan terjadi saat mencoba berlangganan"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:75
+msgid "Registration confirmed"
+msgstr "Pendaftaran Dikonfirmasi"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:76
+msgid "Subscription confirmed"
+msgstr "Langganan Dikonfirmasi"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:81
+#, php-format
+msgid ""
+"<a href=\"%s\">Back to site</a> in <i id=\"ppsConfirmBackCounter\">%d</i> "
+"seconds"
+msgstr ""
+"<a href=\"%s\">Kembali ke situs</a> dalam <i id=\"ppsConfirmBackCounter\">"
+"%d</i> detik"
+
+#: modules/supsystic_promo/controller.php:7
+#: modules/supsystic_promo/controller.php:100
+#: modules/supsystic_promo/controller.php:108
+#: modules/supsystic_promo/controller.php:116
+msgid "Information was saved. Thank you!"
+msgstr "Informasi telah disimpan. Terimakasih!"
+
+#: modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+"Harap jangan mengirim permintaan terlalu sering - tunggu untuk respon "
+"permintaan Anda sebelumnya."
+
+#: modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "Harap masukkan email yang valid"
+
+#: modules/supsystic_promo/mod.php:36
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+"<h3>Hey,Saya beritahu Anda cukup gunakan %s selama seminggu – luar biasa!</"
+"h3><p>Bisakan Anda beri saya bantuan BESAR dan memberikan 5-bintang di "
+"Wordpress? Bantu kami meningkatkan motivasi kita.</p>"
+
+#: modules/supsystic_promo/mod.php:37 modules/supsystic_promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr "OK, Anda pantas mendapatkannya"
+
+#: modules/supsystic_promo/mod.php:38 modules/supsystic_promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr "Mungkin Nanti"
+
+#: modules/supsystic_promo/mod.php:39
+msgid "I already did"
+msgstr "Aku sudah melakukan"
+
+#: modules/supsystic_promo/mod.php:40
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3>Lebih dari sebelas hari dengan plugin %s kami - Selamat!</h3>"
+
+#: modules/supsystic_promo/mod.php:41
+msgid ""
+"<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+"<p>Atas nama seluruh perusahaan <a href=\"https://supsystic.com/\" target="
+"\"_blank\">supsystic.com</a> Saya ingin berterimakasih, dan saya harap "
+"aplikasi kami berguna untuk Anda.</p>"
+
+#: modules/supsystic_promo/mod.php:42
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site under your PopUps. This is small "
+"step for you, but a big help for us! Sure, if you don't want - just skip "
+"this and continue enjoy our software!</p>"
+msgstr ""
+"<p>Dan sekarang, jika Anda ingin,  Anda dapat bantu kami. Sangat mudah - "
+"Anda bisa memberi link promo kecil ke situs Anda dibawah PopUp. Ini langkah "
+"kecil, tapi berarti besar bagi kami! Sungguh, jika Anda tidak ingin - lewati "
+"saja dan lanjutkan nikmati aplikasinya</p>"
+
+#: modules/supsystic_promo/mod.php:45
+msgid "Skip"
+msgstr "Lewati"
+
+#: modules/supsystic_promo/mod.php:92
+msgid "Overview"
+msgstr "Ringkasan"
+
+#: modules/supsystic_promo/mod.php:99
+msgid "Constant Contact - PRO"
+msgstr "Kontak konstan - PRO"
+
+#: modules/supsystic_promo/mod.php:100
+msgid "Campaign Monitor - PRO"
+msgstr "Monitor Kampanye - PRO"
+
+#: modules/supsystic_promo/mod.php:101
+msgid "Vertical Response - PRO"
+msgstr "Respon vertikal - PRO"
+
+#: modules/supsystic_promo/mod.php:102
+msgid "SendGrid - PRO"
+msgstr "SendGrid - PRO"
+
+#: modules/supsystic_promo/mod.php:103
+msgid "GetResponse - PRO"
+msgstr "GetResponse - PRO"
+
+#: modules/supsystic_promo/mod.php:105
+msgid "Active Campaign - PRO"
+msgstr "Kampanye aktif - PRO"
+
+#: modules/supsystic_promo/mod.php:106
+msgid "Mailrelay - PRO"
+msgstr "Mailrelay - PRO"
+
+#: modules/supsystic_promo/mod.php:107
+msgid "arpReach - PRO"
+msgstr "arpReach - PRO"
+
+#: modules/supsystic_promo/mod.php:108
+msgid "SG Autorepondeur - PRO"
+msgstr "SG Autorepondeur - PRO"
+
+#: modules/supsystic_promo/mod.php:109
+msgid "Benchmark - PRO"
+msgstr "Benchmark - PRO"
+
+#: modules/supsystic_promo/mod.php:110
+#, fuzzy
+#| msgid "InfusionSoft"
+msgid "InfusionSoft - PRO"
+msgstr "InfusionSoft"
+
+#: modules/supsystic_promo/mod.php:111
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr ""
+
+#: modules/supsystic_promo/mod.php:218
+msgid "Website"
+msgstr "Website"
+
+#: modules/supsystic_promo/mod.php:219
+msgid "Subject"
+msgstr "Subjek"
+
+#: modules/supsystic_promo/mod.php:220
+msgid "Topic"
+msgstr "Topik"
+
+#: modules/supsystic_promo/mod.php:221
+msgid "Plugin options"
+msgstr "Opsi plugin"
+
+#: modules/supsystic_promo/mod.php:222
+msgid "Report a bug"
+msgstr "Laporkan bug"
+
+#: modules/supsystic_promo/mod.php:223
+msgid "Require a new functionality"
+msgstr "Memerlukan fungsi baru"
+
+#: modules/supsystic_promo/mod.php:224
+msgid "Other"
+msgstr "Lainnya"
+
+#: modules/supsystic_promo/mod.php:226
+msgid "Message"
+msgstr "Pesan"
+
+#: modules/supsystic_promo/mod.php:226
+msgid "Hello Supsystic Team!"
+msgstr "Hello Tim Supsystic!"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:25
+msgid "Why Popup by Supsystic is \"must have\" for your website?"
+msgstr "Mengapa Popup oleh Supsystic \"harus dimiliki\" untuk situs web Anda?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:26
+#, php-format
+msgid ""
+"Increase your sales by 500%% using Popup by Supsystic! More subscribers = "
+"more sales! It's that simple!<br />More info you can find here <a target="
+"\"_blank\" href=\"%s\">Popup by Supsystic is \"must have\" for your website</"
+"a>"
+msgstr ""
+"Tingkatkan penjualan Anda dengan 500%% menggunakan PopUp oleh Supsystic! "
+"Lebih banyak Pelanggan = lebih bagus! Semudah itu!<br/>Infoe lebih lanjut "
+"bisa Anda dapatkan disini <a target=\"_blank\" href=\"%s\">Popup by "
+"Supsystic harus \"dimiliki\" untuk website Anda</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:27
+msgid "What is A/B testing?"
+msgstr "Apa itu testing A/B ?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:28
+#, php-format
+msgid ""
+"A/B testing is one of the easiest ways to increase conversion rates and "
+"learn more about your audience!<br />A/B test in Popup plugin involves "
+"testing two or more versions of a popup window - an A version (original) and "
+"a B versions (the variation) - with live traffic and measuring the effect "
+"each version has on your conversion rate.<br />To know more detail – click "
+"<a target=\"_blank\" href=\"%s\">here</a>"
+msgstr ""
+"Testing A/B adalah satu dari beberapa langkah mudah untuk meningkatkan "
+"tingkat konversi dan pelajari lebih lanjut tentang pengunjung Anda!<br/>A/B "
+"test di plugin PopUp melibatkan dua versi testing atau lebih tentang poup "
+"window - Versi A (original) dan B (variasi) - dengan trafik nyata dan "
+"mengukur efek versi mana yang pas dengan tingkat konversi Anda.<br/>Ketahui "
+"lebih lanjur - klik <a target=\"_blank\" href=\"%s\">disini</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:29
+msgid "How to enable subscription to Aweber?"
+msgstr "Bagaimana cara mengaktifkan langganan dengan Aweber?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:30
+#, php-format
+msgid ""
+"In order to subscribe to Aweber you need to know unique list id of your "
+"aweber account - check this <a target=\"_blank\" href=\"%s\">page</a> for "
+"more details."
+msgstr ""
+"Untuk berlangganan dengan Aweber Adna perlu tahu daftar id unik dar akun "
+"Aweber Anda - cek laman <a target=\"_blank\" href=\"%s\">ini</a> untuk "
+"rinciannya."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:31
+msgid "How to subscribe to MailChimp?"
+msgstr "Bagaimana cara berlangganan dengan MailChimp?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:32
+msgid ""
+"To subscribe to MailChimp you need enter your MailChimp API key and name of "
+"list for subscription. To find your MailChimp API key - follow the "
+"instructions below:<br />\n"
+"\t\t\t\t1. Login to your mailchimp account at http://mailchimp.com<br />\n"
+"\t\t\t\t2. From the left main menu, click on your Username, then select "
+"\"Account\" in the flyout menu.<br />\n"
+"\t\t\t\t3. From the account page select \"Extras\" -> \"API Keys\".<br />\n"
+"\t\t\t\t4. Your API Key will be listed in the table labeled \"Your API Keys"
+"\".<br />\n"
+"\t\t\t\t5. Copy / Paste your API key into \"MailChimp API key\" field in "
+"PopUp edit screen -> Subscribe section."
+msgstr ""
+"Berlangganan dengan MailChimp Anda harus memasukkan API key Mailchimp dan "
+"daftar nama untuk langganan. Temukan API key Mailchimp Anda - ikuti "
+"instruksi dibawah:<br/>\n"
+"\t\t\t\t1. Masuk ke akun Mailchimp di http://mailchimp.com<br/>\n"
+"\t\t\t\t2. Pada menu di kiri, klik pada username, kemudian pilih \"Akun\"."
+"<br/>\n"
+"\t\t\t\t3. Pada laman akun pilih \"Ekstra\" -> \"API Key\".<br/>\n"
+"\t\t\t\t4. API Key Anda akan terdaftar pada tabel berlabel \"API Key Anda\"."
+"<br/>\n"
+"\t\t\t\t5. Salin / Tempel API Key kedalam bidang \"Mailchimp API Key\" di "
+"layar PopUp -> Bagian subscribe."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:38
+msgid "Where to find css code for the pop-up window?"
+msgstr "Dimana menemukan kode css untuk popup window?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:39
+msgid ""
+"With Popup by Supsystic you can edit CSS style directly from the plugin. "
+"<br />\n"
+"\t\t\t\tIn WordPress admin area - \n"
+"go to Popup by Supsystic -> choose a popup, what you need -> click Code tab. "
+"<br />\n"
+"Here you can edit css style of the pop-up window."
+msgstr ""
+"Dengan PopUp oleh Supsystic Anda dapat mengedit gaya CSS langsung dari "
+"plugin.<br/>\n"
+"\t\t\t\tDi area admin Wordpress - \n"
+"pergi ke PopUp oleh Supsystic -> pilih popup, apa yang kamu perlu -> klik "
+"tab kode.<br/>\n"
+"Disini Anda dapat mengedit gaya css untuk popup windows."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:43
+msgid "How to get PRO version of plugin for FREE?"
+msgstr "Bagaimana cara mendapatkan versi PRO dengan GRATIS?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:44
+#, php-format
+msgid ""
+"You have an incredible opportunity to get PRO version for free. Make "
+"Translation of the plugin! It will be amazing if you take advantage of this "
+"offer!<br />\n"
+"\t\t\t\t\tMore info you can find here <a target=\"_blank\" href=\"%s\">“Get "
+"PRO version of any plugin for FREE”</a>"
+msgstr ""
+"Anda memiliki kesempatan yang luar biasa untuk mendapatkan versi PRO dengan "
+"gratis. Buat terjemahan untuk plugin ini! Akan luar biasa jika Anda ambil "
+"keuntungan tawaran ini!<br/>\n"
+"\t\t\t\tInfo lebih lanjut bisa Anda dapatkan disini <a target=\"_blank\" "
+"href=\"%s\">“Dapatkan versi PRO plugin apapun dengan GRATIS”</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+msgid "Translation"
+msgstr "Terjemahan"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:47
+#, php-format
+msgid ""
+"All available languages are provided with the Supsystic Popup plugin. If "
+"your language isn’t available, your plugin will be in English by default."
+"<br />\n"
+"\t\t\t\t\tAvailable Translations: English, French, German, Spanish, "
+"Russian<br />\n"
+"\t\t\t\t\tTranslate or update a translation Popup WordPress plugin in your "
+"language and get a Premium license for FREE. <a target=\"_blank\" href=\"%s"
+"\">Contact us.</a>"
+msgstr ""
+"Semua bahasa yang tersedia yang diberikan plugin Supsystic Popup. Jika "
+"bahasa Anda tidak tersedia, plugin Anda akan berbahasa inggris secara "
+"default.<br/>\n"
+"\t\t\t\t\tTerjemahan tersedia: Inggris, Francis, Jerman, Spanyol, Russia<br/"
+">\n"
+"\t\t\t\t\tTerjemahkan atau perbarui terjemahan plugin Popup Wordpress ke "
+"bahasa Anda dan dapatkan lisensi Premium dengan GRATIS. <a target=\"_blank\" "
+"href=\"%s\">Hubungi kami.</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Where's my subscribers?"
+msgstr "Dimana para pelanggan saya?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:55
+#, php-format
+msgid ""
+"By default all subscribers add to the WordPress. \n"
+"\t\t\t\t\tTo find your subscribers go to Users tab on the left navigation "
+"menu of WordPress admin area. \n"
+"\t\t\t\t\tAlso available subscription to the Aweber, MailChimp, MailPoet <a "
+"href='%s' target='_blank'>and other</a>. \n"
+"\t\t\t\t\tIf you want to add another subscription service - just <a "
+"href='%s' target='_blank'>contact us</a> and provide URL of the subscription "
+"service."
+msgstr ""
+"Secara default semua pelanggan ditambah ke Wordpress.\n"
+"\t\t\t\t\tUntuk menemukan pelanggan Anda pergi ke tab Pengguna di menu "
+"navigasi kiri dari area admin Wordpress.\n"
+"\t\t\t\t\tJuga tersedia langganan untuk Aweber, Mailchimp, Mailpoet <a "
+"href='%s' target='_blank'>dan yang lainnya</a>. \n"
+"\t\t\t\t\tJika Anda ingin menambahkan layanan langganan - cukup <a href='%s' "
+"target='_blank'>hubungi kami</a> dan berikan URL dari layanan langganan."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:59
+msgid "PopUp doesn't appear on the website"
+msgstr "PopUp tidak muncul pada website"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:60
+#, php-format
+msgid ""
+"If you setup you're PopUp properly, and it still doesn't show on the page - "
+"there are can be conflict with your WordPress theme or other plugins. <a "
+"href='%s' target='_blank'>Contact us</a> with the URL of the webpage you add "
+"popup and screenshots / text of the error messages, if you have one - and we "
+"will help you resolve your issue."
+msgstr ""
+"Jika Anda mengatur PopUp Anda dengan benar, dan masih tidak muncul - bisa "
+"saja ada konflik dengan tema atau plugin Wordpress Anda. <a href='%s' "
+"target='_blank'>Hubungi kami</a> dengan URL laman yang Anda beri PopUp dan "
+"foto layar / tulis pesan masalahnya, jika Anda punya itu - dan kami akan "
+"segera membantu Anda untuk masalah tersebut."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+#, php-format
+msgid ""
+"There were some problems while trying to retrieve our news, but you can "
+"always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+"Ada beberapa masalah saat mencoba mengembalikan berita kami, tapi Anda dapat "
+"selalu memeriksa semua daftar <a target=\"_blank\" href=\"%s\">disini</a>."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:85
+msgid "Undefined"
+msgstr "Tidak dijelaskan"
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:9
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:10
+msgid "Available in PRO"
+msgstr "Tersedia di PRO"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Versi"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr "Mulai"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr "PRO"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:15
+#: modules/supsystic_promo/views/tpl/welcomePage.php:28
+msgid "Support"
+msgstr "Support"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:4
+#, php-format
+msgid "Welcome to %s plugin!"
+msgstr "Selamat Datang Plugin %s!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:5
+#, php-format
+msgid ""
+"Thank you for choosing our %s plugin. Just click here to start using it - "
+"and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Terimakasih telah memilih Plugin %s kami. Klik di sini untuk mulai "
+"menggunakan - dan kami akan menunjukkan fasilitas dan fitur yang ada."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:8
+#: modules/supsystic_promo/views/tpl/adminTour.php:18
+#: modules/supsystic_promo/views/tpl/adminTour.php:28
+#: modules/supsystic_promo/views/tpl/adminTour.php:38
+#: modules/supsystic_promo/views/tpl/adminTour.php:48
+#: modules/supsystic_promo/views/tpl/adminTour.php:58
+#: modules/supsystic_promo/views/tpl/adminTour.php:68
+#: modules/supsystic_promo/views/tpl/adminTour.php:78
+#: modules/supsystic_promo/views/tpl/adminTour.php:88
+#: modules/supsystic_promo/views/tpl/adminTour.php:98
+msgid "Close"
+msgstr "Tutup"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:9
+#: modules/supsystic_promo/views/tpl/adminTour.php:19
+#: modules/supsystic_promo/views/tpl/adminTour.php:29
+#: modules/supsystic_promo/views/tpl/adminTour.php:39
+#: modules/supsystic_promo/views/tpl/adminTour.php:49
+#: modules/supsystic_promo/views/tpl/adminTour.php:59
+#: modules/supsystic_promo/views/tpl/adminTour.php:69
+#: modules/supsystic_promo/views/tpl/adminTour.php:79
+#: modules/supsystic_promo/views/tpl/adminTour.php:89
+#: modules/supsystic_promo/views/tpl/adminTour.php:99
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:14
+msgid "Create your firs PopUp"
+msgstr "Buat PopUp pertama Anda"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:15
+msgid ""
+"Click on \"Add New PopUp\" button to create your firs PopUp. Just try - this "
+"is really simple!"
+msgstr ""
+"Klik tombol \"Tambah Popup Baru\" untuk membuat PopUp pertama Anda. Coba aja "
+"- ini sangat mudah!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:24
+msgid "Enter name for your PopUp"
+msgstr "Masukkan nama PopUp Anda"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:25
+msgid "This will be name of your PopUp. You can change it latter."
+msgstr "Ini adalah nama PopUp. Anda bisa merubahnya nanti."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:34
+msgid "Selecte template for your PopUp"
+msgstr "Pilih template untuk PopUp Anda"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:35
+msgid ""
+"Choose any templates from this list. You will be able to customize it after "
+"creation, and also - you will be able to change it latter if you will need "
+"this."
+msgstr ""
+"Pili template dari daftar ini. Anda dapat menyesuaikannya setelah pembuatan, "
+"dan juga - Anda dapat menggantinya nanti jika perlu."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:44
+msgid "Save first PopUp"
+msgstr "Simpan PopUp pertama"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:45
+msgid ""
+"After you entered name of your PopUp and selected it's template - just save "
+"it, and you will be redirected to PopUp edit screen - where you will be able "
+"to customize your PopUp."
+msgstr ""
+"Setelah Anda memasukkan nama PopUp dan memilih template - segera simpan, dan "
+"Anda akan dialihkan ke layar edit PopUp - dimana Anda dapat menyesuaikan "
+"PopUp Anda."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:54
+msgid "Main Settings"
+msgstr "Pengaturan"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:55
+msgid ""
+"Here you can setup main display settings for your PopUp - when it should be "
+"visible for your user, when it need to be closed, if required - select "
+"specific pages/posts where you need to show your PopUp."
+msgstr ""
+"Disini Anda daat mengatur pengaturan tampilan utama PopUp - kapan ini akan "
+"terlihat oleh pengguna, kapan ini akan ditutup, jika diperlukan - pilih "
+"laman/post tertentu dimana Anda ingin menampilkan PopUp."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:64
+msgid "Design Settings"
+msgstr "Desain"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:65
+msgid ""
+"One of our most powerfull features - possibility to <strong>customize</"
+"strong> design for each PopUp window for your needs. In this section you can "
+"select your PopUp colors and images, enter required texts that will describe "
+"your neds for your visitors, setup social settings (if required), select "
+"PopUp location, and in the end - select Animation style for your PopUp from "
+"list of more then 20 different animation styles!"
+msgstr ""
+"Satu dari banyak fitur yang keren - memungkinkan untuk <strong>menyesuaikan</"
+"strong> desain untuk setiap PopUp yang Anda butuhkan. PAda bagian ini Anda "
+"dapat memilih warna dan gambar PopUp, masukkan teks yang diperlukan akan "
+"menjelaskan keperluan Anda pada pengunjung, atur pengaturan sosial (jika "
+"perlu), pilih lokasi PopUp, dan terakhir - pilih gaya animasi untuk PopUp "
+"dari daftar lebih dari 20 gaya animasi berbeda!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:74
+msgid "Subscribe Settings"
+msgstr "Subscribe"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:75
+msgid ""
+"Setup your Subscription settings here - select Subscribers destination in "
+"\"Subscribe to\" option - it allow to flow your subscribers not only to "
+"WordPress Users, but to other popular subscribe services. With other "
+"subscription options you will be able to easily customize your subscribe "
+"form in PopUp window."
+msgstr ""
+"Atur pengaturan langganan Anda disini - Pilih tujuan pelanggan di opsi "
+"\"Subscribe ke\" - memungkinkan pelanggan tidak hanya untuk pengguna "
+"Wordpress, tapi juga ke layanan subscribe lainnya. Dengan opsi langganan "
+"lain Anda dapat dengan mudah menyesuaikan form subscribe Anda di PopUp "
+"windows."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:84
+msgid "PopUp Statistics"
+msgstr "Statistik PopUp"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:85
+msgid ""
+"After you will setup your PopUp - it will start displaying to your site "
+"visitors. And now - you need to check it's displaying statistics. Here, in "
+"Statistics tab, you will be able to see how many times PopUp was shown to "
+"your visitors, how many times visitors subscribed to it (if subscription is "
+"enabled), how many times visitors shared your site using Social Share PopUp "
+"functionality and what social networks for share is most popular (if it was "
+"enabled). If you will use AB Testing feature to increase your site "
+"popularity - you will see here all your main and tested PopUps statistics - "
+"in one graph or diagramm, - and this will provide you with all required "
+"information about your POpUp popularity!"
+msgstr ""
+"Setelah mengatur PopUp Anda - akan mulai menampilkan pada situs pengunjung. "
+"Dan sekarang - Anda perlu memeriksa statistik penampilan. Disini, di tab "
+"statistik, Anda dapat melihat berapa kali PopUp ditampilkan ke pengunjung, "
+"berapa kali pengunjung subscribe (jika langganan diadakan), berapa kali "
+"pengunjung share dengan Social Share PopUp dan jejaring sosial apa yang "
+"sering di share (jika diadakan). Jika Anda menggunakan fitur testing AB "
+"untuk meningkatkan popularitas situs Anda - Anda akan lihat disini semua "
+"statistik PopUp utama dan uji coba - di one graph atau diagram, - dan "
+"memberikan Anda semua informasi yang diperlukan tentang populritas PopUp "
+"Anda!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:94
+msgid "PopUp CSS / HTML Code"
+msgstr "PopUp Kode CSS / HTML"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:95
+#, php-format
+msgid ""
+"In case you will need modify source CSS / HTML code of your PopUp - you can "
+"easily do this here. Just make sure that you know what you are doing - don't "
+"break PopUp. You can also find additional information about editing source "
+"code <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+"Suatu saat Anda akan perlu memodifikasi sumber kode CSS / HTML PopUp Anda - "
+"Anda dapat lakukan dengan mudah disini. Harap pastikan Anda tahu apa yang "
+"Anda lakukan - jangan rusak PopUp. Anda juga dapat menemukan informasi "
+"tambahan tentang mengedit sumber kode <a href=\"%s\" target=\"_blank"
+"\">disini</a>."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:104
+msgid "Well Done!"
+msgstr "Hebat!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:105
+#, php-format
+msgid ""
+"That's it! Now you know how to use our %s. Just save your PopUp after you "
+"will setup it - and you will see results. You can also check our site - <a "
+"href=\"%s\" target=\"_blank\">supsystic.com</a> to find out more about our "
+"%s plugin. If you will have any questions - you can always contact us on <a "
+"href=\"%s\" target=\"_blank\">WordPress plugin forum</a> or in <a href=\"%s"
+"\" target=\"_blank\">our support system</a>. We really hope that our "
+"solution will be helpful for you. Good luck!"
+msgstr ""
+"Itu saja! Sekarang Anda tahu bagaimana cara menggunakan %s. Simpan PopUp "
+"Anda setelah mengaturnya - dan Anda akan melihat hasilnya. Anda dapat "
+"memeriksa situs kami - <a href=\"%s\" target=\"_blank\">supsystic.com</a> "
+"untuk menemukan lebih banyak tentang plugin kami %s. Jika Anda punya "
+"pertanyaan - Anda bisa selalu menghubungi kami di <a href=\"%s\" target="
+"\"_blank\">forum plugin WordPress</a> atau di <a href=\"%s\" target=\"_blank"
+"\">sistem support kami</a>. Kami harap solusi kami akan membantu Anda. "
+"Semoga berhasil!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:108
+msgid "Finish"
+msgstr "Selesai"
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:77
+#, php-format
+msgid ""
+"This functionality and more - is available in PRO version. <a class=\"button "
+"button-primary\" target=\"_blank\" href=\"%s\">Get it</a> today for 29$"
+msgstr ""
+"Fungsionalitas ini dan banyak lagi - tersedia di versi PRO.  <a class="
+"\"button button-primary\" target=\"_blank\" href=\"%s\">Dapatkan</a> hari "
+"ini untuk 29$"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:5
+msgid "FAQ and Documentation"
+msgstr "FAQ dan Dokumentasi"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:17
+#: modules/supsystic_promo/views/tpl/welcomePage.php:51
+msgid "Check all FAQs"
+msgstr "Cek semua FAQ"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:22
+#: modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr "Video Tutorial"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:31
+msgid "Server Settings"
+msgstr "Pengaturan Server"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:44
+msgid "News"
+msgstr "Berita"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:50
+msgid "All news and info"
+msgstr "Semua berita dan info"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:55
+msgid "Contact form"
+msgstr "Formulir Kontak"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:87
+msgid "Send email"
+msgstr "Kirim email"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:96
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+"Email Anda dikirim, kami akan mencoba untuk menanggapi Anda sesegera "
+"mungkin. Terima kasih atas supportnya!"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr "Selamat datang di%s v %s"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr "Lewati tutorial"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid ""
+"The best way to collect subscribers and show notifications.<br />We are "
+"trying to make our plugin work in most comfortable way for you. Here is some "
+"base information about it."
+msgstr ""
+"Cara terbaik untuk mengumpulkan para pelanggan dan menampilkan "
+"pemberitahuan. <br/>Kami mencoba membuat plugin kami berjalan dengan cara "
+"yang paling nyaman. Ini informasi dasarnya."
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr "Tutorial langkah-demi-langkah"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:21
+msgid ""
+"There're really many options of popup customization. So as soon as you close "
+"that page, I'll show you step-by-step tutorial of how to use plugin. Hope it "
+"will be usefull for you :)"
+msgstr ""
+"Benar-benar ada banyak opsi untuk menyesuaikan popup. Segera setelah menutup "
+"laman itu, Saya akan memperlihatkan Anda tutorial langkah demi langkah "
+"menggunakan plugin. Semoga berguna bagi anda :)"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr "Sebagai opsi kami dapat memasang dan mengatur plugin untuk Anda."
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+"Kami suka plugin kami dan lakukan yang terbaik untuk meningkatkan semua "
+"fitur untuk Anda. Tapi terkadang masalah terjadi, atau Anda tidak dapat "
+"menemukan fitur yang diperlukan. Jangan khawatir, cukup <a href='%s' "
+"target='_blank'>hubungi kami</a> dan kami akan bantu!"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr "Pertanyaan yang Sering Diajukan"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:59
+msgid "Let's Start!"
+msgstr "Ayo mulai!"
+
+#~ msgid "Create user after registration with role"
+#~ msgstr "Buat peran pengguna setelah pendaftaran"
+
+#~ msgid "Hide standard video player controls"
+#~ msgstr "Sembunyikan kendali pemutar video standar"
+
+#~ msgid ""
+#~ "In the end there are list of related videos by default, but you can "
+#~ "disable ths feature using this option"
+#~ msgstr ""
+#~ "Pada akhirnya ada daftar terkait video secara default, tetapi Anda dapat "
+#~ "menonaktifkan fitur tersebut menggunakan opsi ini"

@@ -1,0 +1,4991 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PopUp by Supsystic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-01 16:11+0200\n"
+"PO-Revision-Date: 2019-06-11 15:14+0300\n"
+"Last-Translator: supsystic.com <supsystic.team@gmail.com>\n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: lang\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+"X-Poedit-SearchPathExcluded-0: doc/promo-popup-by-supsystic-pro\n"
+
+#: classes/controller.php:199 classes/controller.php:207
+msgid "Done"
+msgstr "Bitti"
+
+#: classes/field.php:131
+msgid "Select"
+msgstr "Select"
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Checkbox Ekle"
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr "Öğe Ekle"
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Radyo düğmesi ekle"
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr "Boyutlar"
+
+#: classes/field.php:314
+msgid "width"
+msgstr "genişlik"
+
+#: classes/field.php:316
+msgid "height"
+msgstr "yükseklik"
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "  \"id\" ve \"class\" alanlarını belirlemek için tıkla"
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr "Nitelikler"
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Bu modül için konfigürasyon seçenekleri yok"
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Şuna uygula"
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Adres"
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Hedef"
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Ülke"
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Kategoriye sahip değilsiniz"
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Markalar"
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Markanız yok"
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Vergi Oranı"
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Mutlak"
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Seçili değil"
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr "class"
+
+#: classes/fieldAdapter.php:186
+msgid "id"
+msgstr "id"
+
+#: classes/frame.php:139
+msgid "You have no permissions to view this page"
+msgstr "Bu sayfayı görmek için yetkiniz yok"
+
+#: classes/html.php:231
+msgid "Upload"
+msgstr "Yükle"
+
+#: classes/html.php:648
+msgid "ON"
+msgstr "AÇIK"
+
+#: classes/html.php:649
+msgid "OFF"
+msgstr "KAPALI"
+
+#: classes/html.php:673
+#, php-format
+msgid "Select %s"
+msgstr "%s Seç"
+
+#: classes/model.php:176 classes/model.php:188
+msgid "Database error detected"
+msgstr "Database hatası algılandı"
+
+#: classes/model.php:178
+msgid "Invalid ID"
+msgstr "Geçersiz ID"
+
+#: classes/model.php:211
+msgid "Empty or invalid ID"
+msgstr "Boş ve geçersiz ID"
+
+#: classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr "%s den dosya  taşıması başarısız"
+
+#: classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr "%s eklenti modülü değildir"
+
+#: classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr "Modül dizini oluşturulamıyor. İzni ayarlamak için deneyin"
+
+#: classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr "XML dosyasında modül bulunamadı"
+
+#: classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr "Geçersiz XML dosyası"
+
+#: classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr "XML dosyası bulunamadı"
+
+#: classes/modInstaller.php:132
+#, php-format
+msgid "Install %s failed"
+msgstr "%s kurulumu başarısız"
+
+#: classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr "Modül etkinleştirme hatası"
+
+#: classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr "Modül etkisizleştirme hatası"
+
+#: classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr "Modül etkinleştirirken hata"
+
+#: classes/table.php:277
+msgid "Nothing to update"
+msgstr "Güncellenecek bir şey yok"
+
+#: classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr "Database  hatası. Lütfen geliştiriciniz ile  irtibata geçiniz."
+
+#: classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr "%s için geçersiz uzunluk, maksimum uzunluk %s dir"
+
+#: classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr "%s için geçersiz nümerik değer"
+
+#: classes/validator.php:71
+#, php-format
+msgid "Please enter %s"
+msgstr "Lütfen %s giriniz"
+
+#: classes/validator.php:78
+#, php-format
+msgid "Please select %s"
+msgstr "Lütfen %s seçiniz"
+
+#: classes/validator.php:85 classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr "Geçersiz %s"
+
+#: classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr "%s zaten kayıtlı"
+
+#: classes/tables/modules.php:7 classes/tables/modules_type.php:8
+msgid "Label"
+msgstr "Etiket"
+
+#: classes/tables/modules.php:8
+msgid "Type"
+msgstr "Tip"
+
+#: classes/tables/modules.php:9
+msgid "Active"
+msgstr "Aktif"
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr "Parametreler"
+
+#: classes/tables/modules.php:13
+msgid "Code"
+msgstr "Kod"
+
+#: classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Harici eklenti dizini"
+
+#: classes/tables/modules_type.php:7
+msgid "ID"
+msgstr "ID"
+
+#: classes/tables/usage_stat.php:8
+msgid "code"
+msgstr "kod"
+
+#: classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr "ziyaretler"
+
+#: classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr "geçen süre"
+
+#: classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr "modify_timestamp"
+
+#: doc/popup-by-supsystic-pro/wpUpdater.php:68
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"<p>API isteği esnasında hata oluştu</p> <a href=\"?\" onclick=\"document."
+"location.reload(); return false;\">Tekrar deneyin</a>"
+
+#: doc/popup-by-supsystic-pro/wpUpdater.php:73
+msgid "An unknown error occurred"
+msgstr "bilinmeyen hata oluştu"
+
+#: doc/popup-by-supsystic-pro/ab_testing/mod.php:21
+msgid "Testing"
+msgstr "Test"
+
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:18
+msgid "Enter Name"
+msgstr "İsim Gir"
+
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:20
+#: doc/popup-by-supsystic-pro/ab_testing/models/ab_testing.php:32
+msgid "Empty Base ID"
+msgstr "Boş Base ID"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abEditFormControls.php:3
+msgid "Back to Main PopUp"
+msgstr "Ana PopUP a Dön"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:2
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:3
+msgid "Add New Test"
+msgstr "Yeni Test Ekle"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:5
+msgid "Test PopUp Name"
+msgstr "PopUp İsmini Test Et"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:7
+msgid "Delete selected"
+msgstr "Seçiliyi Sil"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:11
+msgid "Clear"
+msgstr "Temizle"
+
+#: doc/popup-by-supsystic-pro/ab_testing/views/tpl/abPopupEditTab.php:17
+msgid ""
+"You have no Test PopUps for now. <a href=\"#\" class=\"ppsAbAddNew\" style="
+"\"font-style: italic;\">Create</a> your first Test!"
+msgstr ""
+"Test PopUp ınız Yok. İlk Testinizi <a href=\"#\" class=\"ppsAbAddNew\" style="
+"\"font-style: italic;\">Yaratınız!</a> "
+
+#: doc/popup-by-supsystic-pro/activecampaign/mod.php:11
+msgid "Active Campaign"
+msgstr "Aktif Kampanya"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:22
+msgid ""
+"Please make sure that you created some Lists under your Active Campaign "
+"account."
+msgstr " Aktif Kampanya hesabı altında  liste yarattığından  emin olun."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:26
+msgid "Make sure that you entered correct API data."
+msgstr "Doğru API bilgisini girdiğinizden emin olun."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:40
+msgid "Please enter your API URL"
+msgstr "Lütfen API URL nizi giriniz."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:42
+msgid "Please enter your API key"
+msgstr "Lütfen API anahtarınızı giriniz."
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:82
+#, php-format
+msgid "Add contact failed with error: %s"
+msgstr "İletişim ekleme hata ile sonuçlandı : %s"
+
+#: doc/popup-by-supsystic-pro/activecampaign/models/activecampaign.php:94
+msgid ""
+"No lists to add selected in admin area - contact site owner to resolve this "
+"issue."
+msgstr ""
+"Admin alanında eklemek için liste seçilmedi - bu problemi çözmek için site "
+"sahibi ile iletişime geçin"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:4
+msgid "Not supported by Server"
+msgstr "Server tarafından desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:5
+msgid "Not supported on your server"
+msgstr "Sunucunuzda desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed. Please "
+"contact your hosting provider and ask them to enable cUrl for you, this is "
+"Free library."
+msgstr ""
+"Bu modül  sunucu üzerinde PHP için cUrl kütüphane olmasını gerektirir. "
+"Barındırma sağlayıcınıza başvurun ve sizin için cUrl etkinleştirmesini için "
+"isteyin, bu ücretsiz kütüphanedir."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:14
+msgid "API URL"
+msgstr "API URL"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:15
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:27
+#, php-format
+msgid ""
+"You can find it under your Active Campaign Account -> My Settings -> API, "
+"here is <a href=\"%s\" class=\"ppsAcHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+"Aktif Kampanya Hesabınız altında bulabilirsiniz-> Ayarlarım -> API,   <a "
+"href=\"%s\" class=\"ppsAcHelpApiKeyLink\">yardım ekran görüntüsü</a> "
+"buradadır"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:26
+msgid "API Key"
+msgstr "API Anahtarı"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:38
+msgid "Campaigns for subscribe"
+msgstr "Abone için kampanya"
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:39
+msgid ""
+"Select Campaigns for subscribe. They are taken from your Active Campaign "
+"account."
+msgstr ""
+"Aboneler için kampanya seçiniz. Onlar Aktif Kampanya hesabınızdan "
+"alınacaktır."
+
+#: doc/popup-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:46
+msgid "Choose Lists"
+msgstr "Liste Seçiniz"
+
+#: doc/popup-by-supsystic-pro/arpreach/mod.php:8
+msgid "arpReach"
+msgstr "arpReach"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:4
+msgid "arpReach not supported"
+msgstr "arpReach desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:5
+msgid "This module is not supported by your server configuration."
+msgstr "Bu modül server konfigürasyonunuz tarafından desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:8
+msgid "arpReach is not supported on your server."
+msgstr "arpReach serverınızda desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:14
+msgid "arpReach intake form Action URL"
+msgstr "arpReach intake form Eylem  URL"
+
+#: doc/popup-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:15
+msgid ""
+"Open your script for intake form, find there form tag with form "
+"method='post' action='http://yourdomain.coma/a/a.php/sub/a/xxxxxx', then "
+"copy \"action\" attribute - and paste it in text field below."
+msgstr ""
+"Giriş formu için script inizi açın, form method='post' action='http://"
+"yourdomain.coma/a/a.php/sub/a/xxxxxx', bulun, daha sonra \"action\" "
+"niteliğini kopyalayın, aşağıdaki metin alanına yapıştırın"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/mod.php:12
+msgid "Benchmark"
+msgstr "Mukayese"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:41
+msgid ""
+"Please make sure that you created some Lists under your Benchmark account."
+msgstr "Lütfen, Benchmark hesabınızda liste yarattığınızdan emin olun."
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:45
+msgid "Please enter your Benchmark Password"
+msgstr "lütfen Benchmark Şifrenizi giriniz"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:47
+msgid "Please enter your Benchmark Login"
+msgstr "Lütfen Benchmark kullanıcı adını giriniz"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:15
+msgid "Benchmark Login"
+msgstr "Benchmark Giriş"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:16
+msgid "Login for your Benchmark account."
+msgstr "Benchmark hesabınız için giriş yapınız"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:27
+msgid "Benchmark Password"
+msgstr "Benchmark Şifre"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:28
+msgid "Password for your Benchmark account."
+msgstr "Benchmark hesabınız için şifre"
+
+#: doc/popup-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:40
+msgid ""
+"Select Campaigns for subscribe. They are taken from your Benchmark account."
+msgstr "Abone için kampanya seçiniz. Onlar Benchmark hesabınızdan alınacaktır."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/mod.php:8
+msgid "Campaign Monitor"
+msgstr "Campaign Monitor"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:16
+#, php-format
+msgid ""
+"You have no lists for now. Go to your <a href=\"%s\" target=\"_blank"
+"\">Campaign Monitor Account -> Lists & Subscribers</a> and create list at "
+"first, then just reload this page"
+msgstr ""
+"Şimdilik listeniz yok. <a href=\"%s\" target=\"_blank\">Campaign Monitor "
+"Hesabı -> Listeler & Aboneler</a> e gidiniz ve başlangıç olarak bir liste "
+"oluşturunuz., sonra sayfayı yeniden yükleyiniz."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:185
+msgid ""
+"Something going wrong while trying to send data to mail list service. Please "
+"contact site owner."
+msgstr ""
+"Mail list hizmetlerine  bilgi gönderirken bir şeyler  yanlış oldu. Lütfen "
+"site sahibi ile temasa geçiniz."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:195
+msgid ""
+"Can not detect authorization fo account owner. Contact site owner to resolve "
+"this issue."
+msgstr ""
+"Hesap sahibinin yetkisi tespit edilemedi.  site sahibi ile bu sorunu "
+"gidermek için iletişime geçiniz."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:4
+msgid "Campaign Monitor not supported"
+msgstr "Campaign Monitor desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:8
+msgid ""
+"Campaign Monitor require at least PHP version 5.3. Please contact your "
+"hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+"Campaign Monitor en az PHP 5.3 sürümü gerektiriyor. Lütfen barındırma "
+"sağlayıcınızla iletişim geçip PHP sürümünüzü 5.3 veya daha yukarıya seviyeye "
+"geçirmelerini isteyin."
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:14
+msgid "Campaign Monitor Setup"
+msgstr "Campaign Monitor Ayarları"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:15
+msgid "You must authorize to use Campaign Monitor features"
+msgstr "Campaign Monitor özelliğini kullanmaya yetkili olmalısınız"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:18
+msgid "Authorize in Campaign Monitor"
+msgstr "Campaign Monitor e yetki ver"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:24
+msgid "Lists for subscribe"
+msgstr "Abone listeleri"
+
+#: doc/popup-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:25
+msgid ""
+"Select lists for subscribe. They are taken from your Campaign Monitor "
+"account."
+msgstr ""
+"Aboneler için liste seçiniz. Onlar Campaign Monitor hesabınızdan alınacaktır."
+
+#: doc/popup-by-supsystic-pro/constantcontact/mod.php:11
+msgid "Constant Contact"
+msgstr "Constant Contact"
+
+#: doc/popup-by-supsystic-pro/constantcontact/models/constantcontact.php:39
+msgid "You are not logged-in"
+msgstr "Giriş yapmadınız"
+
+#: doc/popup-by-supsystic-pro/constantcontact/models/constantcontact.php:41
+msgid "Can not get cc obj"
+msgstr "cc obj alınamıyor"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:4
+msgid "Constant Contact not supported"
+msgstr "Constant Contact desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:8
+msgid ""
+"Constant Contact require at least PHP version 5.3. Please contact your "
+"hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+"Constant Contact en az PHP sürüm 5.3 gerektiriyor.  Lütfen barındırma "
+"sağlayıcınızla iletişim geçip PHP sürümünüzü 5.3 veya daha yukarıya seviyeye "
+"geçirmelerini isteyin."
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:14
+msgid "Constant Contact Setup"
+msgstr "Constant Contact Ayarları"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:15
+msgid "You must authorize to use Constant Contact features"
+msgstr " Constant Contact özelliğini kullanmaya yetkili olmalısınız"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:18
+msgid "Authorize in Constant Contact"
+msgstr "Constant Contact a yetki ver"
+
+#: doc/popup-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:25
+msgid ""
+"Select lists for subscribe. They are taken from your Constant Contact "
+"account."
+msgstr ""
+"Aboneler için liste seçiniz. Onlar Constant Contact hesabınızdan alınacaktır."
+
+#: doc/popup-by-supsystic-pro/feedblitz/mod.php:8
+msgid "FeedBlitz"
+msgstr "FeedBlitz"
+
+#: doc/popup-by-supsystic-pro/feedblitz/models/feedblitz.php:11
+msgid ""
+"You have no lists. Login to your SendGrid account and create your first list "
+"before start using this functionality."
+msgstr ""
+"Listeniz yok. SendGrid hesabınıza giriş yapınız ve bu işlevselliği "
+"kullanmadan önce, ilk listenizi oluşturunuz."
+
+#: doc/popup-by-supsystic-pro/feedblitz/models/feedblitz.php:61
+msgid "Some error occured during connection to the server"
+msgstr "Sunucuya bağlantıda bazı hatalar oluştu"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:4
+msgid "FeedBlitz not supported"
+msgstr "FeedBlitz desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:8
+msgid "FeedBlitz is not supported on your server"
+msgstr "FeedBlitz sunucunuzda desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:14
+msgid "FeedBlitz API Key"
+msgstr "FeedBlitz API anahtarı"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:15
+msgid "Your FeedBlitz API Key"
+msgstr "FeedBlitz API anahtarınız"
+
+#: doc/popup-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:26
+msgid "Select lists for subscribe. They are taken from your FeedBlitz account."
+msgstr "Aboneler için liste seçiniz. Onlar FeedBlitz hesabınızdan alınacaktır."
+
+#: doc/popup-by-supsystic-pro/get_response/mod.php:11
+msgid "GetResponse"
+msgstr "GetResponse"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, php-format
+msgid ""
+"You can find it under your GetResponse Account -> GetResponse API, here is "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\" target=\"_blank\">help "
+"screenshot</a>"
+msgstr ""
+"Onu şuradan elde edebilirsiniz: GetResponse Hesabınız > GetResponse API , a "
+"href=\"%s\" class=\"ppsGrHelpApiKeyLink\" target=\"_blank\">Yardım ekran "
+"görüntüsü</a>"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:26
+msgid ""
+"Select Campaigns for subscribe. They are taken from your GetResponse account."
+msgstr ""
+"Aboneler için Kampanya seçiniz. Onlar GetResponse hesabınızdan alınacaktır."
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:41
+msgid "Cycle Day"
+msgstr "Cycle Day"
+
+#: doc/popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:42
+msgid ""
+"Insert contact on a given day at the autoresponder cycle. Value of 0 means "
+"the beginning of the cycle. Lack of this param means that a contact will not "
+"be inserted into cycle."
+msgstr ""
+"Otomatik cevaplayıcıda verilen gün için bir iletişim giriniz. 0 değeri "
+"tekrarın başlangıcı anlamına gelir. Bu parametrenin eksikliği tekrar a bir "
+"iletişim girilmediği anlamına gelir."
+
+#: doc/popup-by-supsystic-pro/icontact/mod.php:11
+msgid "iContact"
+msgstr "iContact"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:20
+msgid "Please enter your Application ID"
+msgstr "Lütfen uygulama ID nizi giriniz"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:23
+msgid "Please enter your API Username"
+msgstr "Lütfen API kullanıcı adını giriniz"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:26
+msgid "Please enter your API Password"
+msgstr "lütfen API şifrenizi giriniz"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:43
+msgid "You have no lists in your iContact account for now."
+msgstr "Şimdilik iContact  hesabınızda liste yok"
+
+#: doc/popup-by-supsystic-pro/icontact/models/icontact.php:107
+msgid "Can't add contact"
+msgstr "kişi eklenemiyor"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:14
+msgid "Application ID"
+msgstr "Uygulama ID"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:15
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:26
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:37
+#, php-format
+msgid ""
+"You can create it <a href=\"%s\" target=\"_blank\">here</a>. More info can "
+"be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+"Onu  <a href=\"%s\" target=\"_blank\">buradan</a> yaratabilirsiniz.  Daha "
+"fazla bilgi <a href=\"%s\" target=\"_blank\">buradan </a> bulunabilir"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:25
+msgid "API Username"
+msgstr "API Kullanıcı Adı"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:36
+msgid "API Password"
+msgstr "API Şifre"
+
+#: doc/popup-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:48
+msgid "Select Lists for subscribe. They are taken from your iContact account."
+msgstr "Abone için liste seçiniz. Onlar iContact hesabınızdan alınır."
+
+#: doc/popup-by-supsystic-pro/infusionsoft/mod.php:13
+msgid "InfusionSoft"
+msgstr "InfusionSoft"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/models/infusionsoft.php:87
+msgid ""
+"Administrator of this site need to re-autentificate in InfusionSoft system "
+"from admin area"
+msgstr ""
+"Bu sitenin yönetimi, yönetim   alanından InfusionSoft sisteminde yeniden "
+"kimlik doğrulaması gerekiyor"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed and PHP "
+"version to be at least 5.3.2. Please contact your hosting provider and ask "
+"them to enable cUrl for you, this is Free library, and check your PHP "
+"version."
+msgstr ""
+"Bu modül, PHP için cUrl kütüphanesini gerektirir ve  PHP sürümü en az 5.3.2 "
+"olmalıdır. Bu barındırma sağlayıcınıza başvurun ve sizin için Curl i "
+"etkinleştirmelerini  , Bu bir  Ücretsiz kütüphanedir  ve PHP sürümünüzü "
+"kontrol etmelerini isteyin."
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:14
+msgid "InfusionSoft Setup"
+msgstr "InfusionSoft Kurulumu"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:15
+msgid "You must authorize to use InfusionSoft features"
+msgstr "InfusionSoft özelliklerini kullanmak için yetkili olmalısınız"
+
+#: doc/popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:18
+msgid "Authorize in InfusionSoft"
+msgstr "InfusionSoft yetkisi"
+
+#: doc/popup-by-supsystic-pro/layered_popup/mod.php:10
+msgid "Popup Location"
+msgstr "PopUp konumu"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:7
+msgid "Enable Layered PopUp Style"
+msgstr "Katmanlı PopUp Stili Etkinleştir"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:9
+msgid ""
+"By default all PopUps have modal style: it appears on user screen over the "
+"whole site. Layered style allows you to show your PopUp - on selected "
+"position: top, bottom, etc. and not over your site - but right near your "
+"content."
+msgstr ""
+"Varsayılan olarak, tüm PopUp lar modal stildedir.:  bütün site üzerinden "
+"kullanıcı ekranında görüntülenir. Katmanlı stil, PopUp ınızı seçilen "
+"konumda: üst, alt, vs. ve sitenizin üzerinde değil ama içeriğiniz hemen "
+"yanında,  göstermenize imkan verir. "
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:13
+msgid "Select position for your PopUp"
+msgstr "PopUp ınız için konum seçiniz"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:16
+msgid "Top Left"
+msgstr "sol Üst"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:17
+msgid "Top"
+msgstr "Üst"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:18
+msgid "Top Right"
+msgstr "Sağ Üst"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:20
+msgid "Center Left"
+msgstr "Sol Merkez"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:21
+msgid "Center"
+msgstr "Merkez"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:22
+msgid "Center Right"
+msgstr "Merkez Sağ"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:24
+msgid "Bottom Left"
+msgstr "Sol Alt"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:25
+msgid "Bottom"
+msgstr "Alt"
+
+#: doc/popup-by-supsystic-pro/layered_popup/views/tpl/lpPopupEditTab.php:26
+msgid "Bottom Right"
+msgstr "Sağ Alt"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:30
+#, php-format
+msgid ""
+"Your license has expired. Once you extend your license - you will be able to "
+"Update PRO version. To extend PRO version license - follow <a href=\"%s\" "
+"target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</a> tab "
+"anc click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"Lisans süreniz dolmuştur. Eğer lisansınızı uzatırsanız, PRO sürüme "
+"güncelleme imkanınız olacaktır. PRO sürüm lisansı uzatımı için, <a href=\"%s"
+"\" target=\"_blank\">bu linki</a> takip edin, sonra  <a href=\"%s\">Lisans</"
+"a> sekmesine gidip \"Tekrar etkinleştir\" düğmesini tıklayın."
+
+#: doc/popup-by-supsystic-pro/license/mod.php:38
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a href=\"%s"
+"\" target=\"_blank\">click here</a> to extend your license, then - go to <a "
+"href=\"%s\">License</a> tab and click on \"Re-activate\" button to re-"
+"activate your PRO version."
+msgstr ""
+"%s eklentisi PRO sürümü lisans süreniz dolmuştur.  Uzatmak için, <a href=\"%s"
+"\" target=\"_blank\">bu linki</a> tıklayın, sonra  <a href=\"%s\">Lisans</a> "
+"sekmesine gidip PRO versiyonu tekrar etkinleştirmek için \"Tekrar etkinleştir"
+"\" düğmesini tıklayın."
+
+#: doc/popup-by-supsystic-pro/license/mod.php:51
+msgid "License"
+msgstr "Lisans"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:74
+msgid "Activate License"
+msgstr "Lisansınızı Aktif Edin"
+
+#: doc/popup-by-supsystic-pro/license/mod.php:76
+msgid "Renew License"
+msgstr "lisan Yenile"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:54
+msgid "Please enter your License Key"
+msgstr "lütfen Lisans Anahtarınızı giriniz"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:56
+msgid "Please enter your Email address"
+msgstr "lütfen Email adresinizi giriniz"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:131
+msgid ""
+"There was a problem with sending request to our authentication server. "
+"Please try later."
+msgstr ""
+"Kimlik doğrulama sunucusuna istek göndermede  bir sorun oluştu. Lütfen "
+"tekrar deneyiniz"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:154
+#, php-format
+msgid "License for plugin %s will expire today."
+msgstr "%s eklentisi için Lisansınız bugün sona erecek."
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:156
+#, php-format
+msgid "License for plugin %s will expire tomorrow."
+msgstr "%s eklentisi için lisansınız yarın sona erecek"
+
+#: doc/popup-by-supsystic-pro/license/models/license.php:158
+#, php-format
+msgid "License for plugin %s will expire in %d days."
+msgstr "%s eklentisi için lisansınız %d gün sonra sonlanacak"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:4
+#, php-format
+msgid ""
+"Congratulations! PRO version of %s plugin has been activated and is working "
+"fine!"
+msgstr ""
+"Tebrikler! %s eklentisinin PRO versiyonu aktif edildi ve düzgün şekilde "
+"çalışmaktadır!"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:6
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a href=\"%s"
+"\" target=\"_blank\">click here</a> to extend your license, then - click on "
+"\"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"%s eklentisi PRO sürümü lisans süreniz dolmuştur. Uzatmak için, <a href=\"%s"
+"\" target=\"_blank\">bu linki</a> tıklayın, sonra       PRO sürümünüzü "
+"tekrar etkinleştirmek için \"Tekrar etkinleştir\" düğmesini tıklayın."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:8
+#, php-format
+msgid ""
+"Congratulations! You have successfully installed PRO version of %s plugin. "
+"Final step to finish Your PRO version setup - is to enter your Email and "
+"License Key on this page. This will activate Your copy of software on this "
+"site."
+msgstr ""
+"Tebrikler! %s eklentisinin PRO sürümünü başarı ile kurdunuz.PRO sürümünüzün "
+"ayarları için son adım, Email ve Lisans  Anahtarınızı bu sayfaya giriniz. Bu "
+"sitenizde yazılım kopyanızı etkinleştirecektir."
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:20
+msgid "Email"
+msgstr "E-posta"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:23
+#, php-format
+msgid ""
+"Your email address, used on checkout procedure on <a href=\"%s\" target="
+"\"_blank\">%s</a>"
+msgstr ""
+" <a href=\"%s\" target=\"_blank\">%s</a> de ödeme sürecinde kullanılan e-"
+"posta adresiniz"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:31
+msgid "License Key"
+msgstr "lisans Anahtarı"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:34
+#, php-format
+msgid ""
+"Your License Key from your account on <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+"<a href=\"%s\" target=\"_blank\">%s</a> de  hesabınızdaki Lisans Anahtarınız"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:47
+msgid "Re-activate"
+msgstr "Tekrar Etkinleştir"
+
+#: doc/popup-by-supsystic-pro/license/views/tpl/licenseAdmin.php:49
+msgid "Activate"
+msgstr "Aktif Et"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:19
+msgid "Login Success!"
+msgstr "Giriş Başarılı!"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:39
+msgid "Thank you for registration!"
+msgstr "Kayıt için teşekkür ederiz!"
+
+#: doc/popup-by-supsystic-pro/login/controller.php:43
+msgid "Confirmation link was sent to your email address. Check your email!"
+msgstr "Onay linki e-posta adresinize gönderildi. E-postanızı kontrol ediniz!"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:13
+msgid "Login/Registration"
+msgstr "Giriş/Kayıt"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:30
+msgid "E-Mail"
+msgstr "E-Posta"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:32
+msgid "Username"
+msgstr "Kullanıcı Adı"
+
+#: doc/popup-by-supsystic-pro/login/mod.php:34
+msgid "Password"
+msgstr "şifre"
+
+#: doc/popup-by-supsystic-pro/login/models/login.php:80
+msgid "Empty or invalid username"
+msgstr "Boş veya geçersiz kullanıcı adı"
+
+#: doc/popup-by-supsystic-pro/login/models/login.php:85
+msgid "Empty or invalid password"
+msgstr "Boş veya  geçersiz şifre"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:9
+msgid "Text"
+msgstr "Metin"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:10
+msgid "Text area"
+msgstr "Metin alanı"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:11
+msgid "Select box"
+msgstr "Seçim Kutusu"
+
+#: doc/popup-by-supsystic-pro/login/views/login.php:12
+msgid "Hidden Field"
+msgstr "Gizli Alan"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:1
+msgid "This option will replace Subscribe form with Login / Registration forms"
+msgstr "Bu seçenek Abone formunu ile  Giriş / Kayıt formu ile  değiştirecek"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:8
+msgid "Enable Login"
+msgstr "Girişi Etkinleştir"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:15
+msgid "Login by"
+msgstr "Şununla Giriş Yap:"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:16
+msgid ""
+"Choose what info needs to be entered for login. Password will be included by "
+"default."
+msgstr ""
+"Giriş için girilmesi gereken  bilgileri seçin. Şifre varsayılan olarak dahil "
+"edilecektir."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:35
+msgid "Redirect after login URL"
+msgstr "Giriş URL sinden sonra yönlendir"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:36
+msgid ""
+"You can enable redirection after login, just enter here URL that you want to "
+"redirect to after login - and user will be redirected there. If you don't "
+"need this feature - just leave this field empty: browser window will be just "
+"reloaded after successful login."
+msgstr ""
+"Girişden sonra  kullanıcı yönlendirilmeyi etkinleştirebilirsiniz, - sadece "
+"burada giriş sonra yönlendirmek istediğiniz URL'yi girin, kullanıcı oraya "
+"yönlendirilecektir. Bu özelliğe ihtiyacınız yoksa,  bu alanı boş bırakın:  "
+"tarayıcı penceresi sadece başarılı bir girişten sonra yeniden yüklenecektir."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:46
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:85
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:234
+msgid "Open in a new window (tab)"
+msgstr "Yeni bir pencere(sekme) de aç"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:52
+msgid "Login button name"
+msgstr "Giriş düğmesi adı"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:56
+msgid "Login"
+msgstr "Giriş"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:67
+msgid "Enable Registration"
+msgstr "Kayıtı Etkinleştir"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:74
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:223
+msgid "Redirect after registration URL"
+msgstr "Kayıt URL den sonra yönlendir"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:75
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:224
+msgid ""
+"You can enable redirection after registration, just enter here URL that you "
+"want to redirect to after registration - and user will be redirected there. "
+"If you don't need this feature - just leave this field empty."
+msgstr ""
+"Kayıt sonra yeniden yönlendirilmeyi etkinleştirebilirsiniz,  kayıt sonrası "
+"yönlendirmek istediğiniz URL yi girin -  kullanıcı  oraya "
+"yönlendirilecektir. Eğer bu özelliğe ihtiyacınız yoksa, bu alanı boş bırakın"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:91
+msgid "Create user with the chosen role after registration"
+msgstr "Kayıttan sonra seçilmiş rol için kullanıcı oluştur"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:92
+msgid ""
+"Use this only if you really need it. Remember! After you change this option "
+"- your new users will have more privileges than usual subscribers, so be "
+"careful with this option!"
+msgstr ""
+"Eğer gerçekten ona ihtiyacın varsa bunu kullan. Hatırla !  Bu seçeneği "
+"değiştirdikten sonra yeni aboneler olağan abonelerden daha fazla "
+"ayrıcalıklara sahip olacaklar, bu yüzden bu seçeneği ile dikkatli olunuz!"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:102
+msgid "Create User without confirmation"
+msgstr "Onaysız kullanıcı oluştur"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:103
+msgid ""
+"Usually, after user registration, we send an email with the confirmation "
+"link - to confirm the email address, and only after user clicks on the link "
+"from this email - we will create a new user. This option allows you to "
+"create user - right after registration, without the email confirmation "
+"process."
+msgstr ""
+"Normal olarak,  kullanıcı abone olduktan sonra, e-posta adresini teyit etmek "
+"için, teyit linki içeren bir e-posta göndeririz ,  ve kullanıcı e-postadaki "
+"linki tıkladıktan sonra yeni abone olarak oluştururuz. Bu seçenek, e-posta "
+"teyit süreci olmadan,  doğrudan abone oluşturmanıza imkan verir."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:112
+msgid "Export Users"
+msgstr "Kullanıcıları dışa aktar"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:113
+msgid "Export all users, who registered using your PopUp, as CSV file."
+msgstr ""
+"PopUp ınızı  kullanarak kayıt olmuş kullanıcıları CSV dosyası olarak dışa "
+"aktar"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:116
+msgid "Get CSV List"
+msgstr "CSV Listesi olarak Al"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:121
+msgid "Registration button name"
+msgstr "Kayıt düğmesi ismi"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:125
+msgid "Register"
+msgstr "Kayıt"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:132
+msgid "Registration fields"
+msgstr "Kayıt alanları"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:133
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Registration form - click on \"+ Add\" "
+"button."
+msgstr ""
+"Alan konumunu değiştirmek için -  diğer alanlar arasına sadece sürükleyip "
+"bırakın. Abone formuna yeni alanlar eklemek için \"+Ekle\" düğmesini "
+"tıklayınız."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:182
+msgid "Add"
+msgstr "Ekle"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:190
+msgid "\"Confirmation sent\" message"
+msgstr "\"Onay gönderildi\" mesajı"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:191
+msgid ""
+"This is the message that the user will see after registration, when letter "
+"with confirmation link was sent."
+msgstr ""
+"Bu, onay linki olan  mail gönderildiği zaman,   abonelikten  sonra "
+"kullanıcının göreceği mesajdır."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:201
+msgid "Registration success message"
+msgstr "Başarılı kayıt mesajı"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:202
+msgid ""
+"Right after new user will be created and confirmed - this message will be "
+"shown."
+msgstr "Abone oluşturulduktan ve onaylandıktan sonra bu mesaj gösterilecektir."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:212
+msgid "Email error message"
+msgstr "Email hata mesajı"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:213
+msgid ""
+"If email that was entered by user is invalid, user will see this message"
+msgstr ""
+"Eğer kullanıcı tarafından girilmiş e-posta geçersiz ise , kullanıcı bu "
+"mesajı görecektir"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:217
+msgid "Empty or invalid email"
+msgstr "Boş veya geçersiz e-posta"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:240
+msgid "Confirmation email subject"
+msgstr "Onay Email konusu"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:241
+msgid "Email with confirmation link subject"
+msgstr "Onay linkli e-posta konusu"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:247
+msgid "Confirm registration on [sitename]"
+msgstr "[sitename] de  aboneliği onayla"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:253
+msgid "Confirmation email From field"
+msgstr "Yeni Abone e-posta gönderen alanı"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:254
+msgid "Email with confirmation link From field"
+msgstr "Onay linkli e-posta konusu"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:266
+msgid "Confirmation email text"
+msgstr "Onay e-posta metni"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:267
+msgid "Email with confirmation link content"
+msgstr "Onay linkli e-posta içeriği"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:269
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:310
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:338
+#, php-format
+msgid "You can use next variables here: %s"
+msgstr "Daha sonraki değişkenler için bunu kullanabilirsiniz : %s"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:275
+msgid ""
+"You registered on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your registration. If you did "
+"not register here - just ignore this message."
+msgstr ""
+"<a href=\"[siteurl]\">[sitename]</a> sitesinde kayıt oldunuz.  Kaydınızı "
+"tamamlamak için <a href=\"[confirm_link]\">bu linki </a> takip ediniz. Eğer "
+"buna kayıt olmadıysanız, bu mesajı ihmal ediniz."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:281
+msgid "New Member email subject"
+msgstr "Yeni Üye  e-posta konusu"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:282
+msgid "Email to New Member subject"
+msgstr "Yeni Üye  e-posta konusu"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:288
+msgid "[sitename] Your username and password"
+msgstr "[sitename] Kullanıcı adı ve şifreniz"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:294
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:295
+msgid "New Member email From field"
+msgstr "Yeni Abone e-posta gönderen alanı"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:307
+msgid "New Member email text"
+msgstr "Yeni Abone e-posta metni"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:308
+msgid "Email to New Member content"
+msgstr "Yeni Üye e-posta içeriği"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:316
+msgid "Username: [user_login]<br />Password: [password]<br />[login_url]"
+msgstr "Kullanıcı adı:  [user_login]<br />Şifre: [password]<br />[login_url]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:322
+msgid "New Member Notification"
+msgstr "Yeni Üye Uyarısı"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:323
+msgid ""
+"Enter the email addresses that should receive notifications (separate by "
+"comma). Leave it blank - and you will not get any notifications."
+msgstr ""
+" bildirimleri almak istediğiniz e-posta adreslerini girin (virgül ile "
+"ayırın).  Herhangi bir bildirim almak istemiyorsanız boş bırakın."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:335
+msgid "New Member Notification email text"
+msgstr "Yeni Abone Bildirimi e-posta metni"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:336
+msgid "Message that you will receive about new members on your site."
+msgstr "Sitenizde yeni üyeler hakkında alacağınız mesaj"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:345
+msgid ""
+"You have new member on your site <a href=\"[siteurl]\">[sitename]</a>, here "
+"us member information:<br />[subscriber_data]"
+msgstr ""
+"<a href=\"[siteurl]\">[sitename]</a> sitenizde  yeni üye sahipsiniz.,  üye "
+"bilgileri buradadır:<br />[subscriber_data]"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:352
+msgid "Registration Field Settings"
+msgstr "Kayıt Alanları Ayarları"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:356
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:405
+msgid "Name"
+msgstr "Ad"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:357
+#, php-format
+msgid ""
+"Name (key) for your field. This parameter is for system - to be able to "
+"determine the field. Use here only latin letters, numbers and symbols -_+. "
+"For more info about this parameter - your can check <a href=\"%s\" target="
+"\"_blank\">this page</a>."
+msgstr ""
+"Alanınız için Ad( anahtar). Bu parametre sistemin  alanı belirleyebilmesi "
+"içindir. Burada sadece latin harfleri, sayılar  -_,+ sembolleri ile boşluk "
+"kullanabilirsiniz. Bu parametre hakkında daha fazla bilgi için, <a href=\"%s"
+"\" target=\"_blank\">bu sayfayı </a> inceleyebilirsiniz."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:366
+msgid "Label that will be visible for your members."
+msgstr "Üyeniz için görünecek etiket"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:374
+msgid "Value"
+msgstr "Değer"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:375
+msgid "Default value for your field"
+msgstr "Alanınız için varsayılan değer"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:383
+msgid "Html Type"
+msgstr "Html Tip"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:384
+msgid "This parameter will show - how we must render this field."
+msgstr "Bu parametre  bu alanı nasıl işleyeceğimizi gösterir."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:394
+msgid "Select Options"
+msgstr "Seçenek Seçiniz"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:412
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:436
+msgid "Remove"
+msgstr "Sil"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:421
+msgid "Mandatory"
+msgstr "Zorunlu"
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:422
+msgid ""
+"Is this field mandatory to fill-in. If yes - then users will not be able to "
+"continue without filling-in this field."
+msgstr ""
+"doldurulması zorunlu  alan mıdır. Eğer evet ise - o zaman kullanıcıların  bu "
+"alanı doldurmadan devam etmek mümkün olmayacaktır."
+
+#: doc/popup-by-supsystic-pro/login/views/tpl/loginAdmin.php:433
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: doc/popup-by-supsystic-pro/mailrelay/mod.php:9
+msgid "Mailrelay"
+msgstr "Mailrelay"
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:15
+msgid ""
+"You have no lists. Login to your Mailrelay account and create your first "
+"list before start using this functionality."
+msgstr ""
+"Listeniz yok. Mailrelay hesabınıza giriş yapınız ve bu işlevselliği "
+"kullanmadan önce, ilk listenizi oluşturunuz."
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:159
+msgid "Failed to create subscriber."
+msgstr "Abone oluşturma başarısız"
+
+#: doc/popup-by-supsystic-pro/mailrelay/models/mailrelay.php:165
+msgid ""
+"Can not detect Host and API key. Contact site owner to resolve this issue."
+msgstr ""
+"Sunucu veya API anahtarı belirlenemiyor. Problemi çözmek için site sahibi "
+"ile iletişime geçiniz."
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:4
+msgid "Mailrelay not supported"
+msgstr "Mailrelay desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:8
+msgid "Mailrelay is not supported on your server"
+msgstr "Mailrelay sunucunuzda desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:14
+msgid "Mailrelay Host"
+msgstr "Mailrelay  Sunucusu"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:15
+msgid ""
+"Please enter the host that you have in your Mairelay welcome email. Please "
+"enter it without the initial http:// (for example demo.ip-zone.com)"
+msgstr ""
+"Lütfen, Mairelay hoş geldin e-postalarıni  alacağınız sunucuyu giriniz. "
+"Başlangıç  http:// (örneğin demo.ip-zone.com) olmadan giriniz."
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:34
+msgid "Mailrelay API Key"
+msgstr "Mailrelay API Anahtarı"
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:35
+msgid ""
+"Please enter your API key. You can generate your API key on your Mailrelay "
+"panel, Configuration -> API access -> Generate API key"
+msgstr ""
+"Lütfen API anahtarınızı giriniz. Mailrelay panel , Configuration -> API "
+"access -> Generate API key den API anahtarınızı yaratınız."
+
+#: doc/popup-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:47
+msgid ""
+"To create new groups in Mailrelay, you must login into the control panel and "
+"click into the Mail Relay > Subscribers groups. Once there you can add a new "
+"group for your Wordpress users, or edit an existing one"
+msgstr ""
+"Mailrelay de  yeni gruplar yaratmak için, kontrol paneline giriş yapıp ,  "
+"Mail Relay > Subscribers groups  tıklamanız gerekir. Bir kez orada,  "
+"Wordpress kullanıcıları için yeni bir grup ekleyebilirsiniz  veya var olanı  "
+"düzenleyebilirsiniz"
+
+#: doc/popup-by-supsystic-pro/on_exit/views/tpl/onExitAdminOption.php:1
+#, php-format
+msgid ""
+"Show when user tries to exit from your site. <a target=\"_blank\" href=\"%s"
+"\">Check example.</a>"
+msgstr ""
+"Kullanıcı sitenizden çıkmak istediğinde göster. <a target=\"_blank\" href="
+"\"%s\">Örneğe bak.</a>"
+
+#: doc/popup-by-supsystic-pro/on_exit/views/tpl/onExitAdminOption.php:5
+msgid "On Exit from Site"
+msgstr "Siteden ayrıldığında"
+
+#: doc/popup-by-supsystic-pro/salesforce/mod.php:11
+msgid "SalesForce - Web-to-Lead"
+msgstr "SalesForce - Web-to-Lead"
+
+#: doc/popup-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:14
+msgid "Form ID"
+msgstr "Form ID"
+
+#: doc/popup-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:15
+#, php-format
+msgid ""
+"Generate your lead form in your Salesforce account (more about generating "
+"form you can read <a target=\"_blank\" href=\"%s\">here</a>), then copy \"oid"
+"\" value from it (<a target=\"_blank\" href=\"%s\">like this</a>) and insert "
+"it into this paramter"
+msgstr ""
+"Salesforce hesabınızda lead formu oluşturun (  form oluşturmak için  daha "
+"fazla  okuyabileceğiniz bilgi<a target=\"_blank\" href=\"%s\">burada</a> ), "
+"daha sonra  \"oid\" değerini kopyalayın (  <a target=\"_blank\" href=\"%s"
+"\">buradaki gibi</a> ) ve onu bu parametreye girin"
+
+#: doc/popup-by-supsystic-pro/sendgrid/mod.php:9
+msgid "SendGrid"
+msgstr "SendGrid"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:4
+msgid "SendGrid not supported"
+msgstr "SendGrid desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:8
+msgid "SendGrid is not supported on your server"
+msgstr "SendGrid  sunucunuzda desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:14
+msgid "SendGrid Username"
+msgstr "SendGrid Kullanıcı adı"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:15
+msgid "Your SendGrid name"
+msgstr "SendGrid adı"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:25
+msgid "SendGrid Password"
+msgstr "SendGrid şifresi"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:26
+msgid "Your SendGrid password"
+msgstr "SendGrid şifreniz"
+
+#: doc/popup-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:37
+msgid "Select lists for subscribe. They are taken from your SendGrid account."
+msgstr "Aboneler için liste seçiniz. Onlar SendGrid hesabınızdan alınacaktır."
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/mod.php:8
+msgid "SG Autorepondeur"
+msgstr "SG Autorepondeur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:86
+msgid "Required fields are missing"
+msgstr "Gerekli alanlar unutulmuş"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:87
+msgid "The email is already in the list"
+msgstr "Email zaten listede mevcut"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:88
+msgid "Registration was refused-blacklisted"
+msgstr "Kayıt red edildi - kara listede"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:89
+msgid "The country has been blocked"
+msgstr "Ülke engellenmiş"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:90
+msgid "Too many entries with the same IP address"
+msgstr "Aynı IP den çok fazla giriş"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:91
+msgid "Ok Register following a behavioral segmentation"
+msgstr "Tamam, aşağıdaki davranışsal segmentasyona  kayıt ol"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:94
+msgid "The email is not the right format"
+msgstr "Email doğru formatta değil"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:95
+msgid "Error on one of the variables - User ID or List ID or Activation Code"
+msgstr ""
+"Değişkenlerden birinde hata - Kullanıcı Adı veya List ID veya Aktivasyon Kodu"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:4
+msgid "SG Autorepondeur not supported"
+msgstr "SG Autorepondeur desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:8
+msgid "SG Autorepondeur is not supported on your server"
+msgstr "SG Autorepondeur sunucunuzda desteklenmiyor"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:14
+msgid "SG Autorepondeur User ID"
+msgstr "SG Autorepondeur Kullanıcı ID"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:15
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:26
+msgid "This info available on your home page in SG Autorepondeur"
+msgstr "Bu bilgi SG Autorepondeur deki ana sayfanızda mevcuttur"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:25
+msgid "SG Autorepondeur List ID"
+msgstr "SG Autorepondeur List ID"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:36
+msgid "SG Client Activation Code"
+msgstr "SG Müşteri Aktivasyon Kodu"
+
+#: doc/popup-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:37
+msgid ""
+"This info available on the member's area in the top menu \"my account\" (at "
+"the bottom of the page)"
+msgstr ""
+"Bu, \"my account\"(sayfanın altında)  üst menüde üyeler alanında mevcuttur "
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/sub_fields.php:7
+msgid "Selectbox"
+msgstr "Selectbox"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/sub_fields.php:8
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/tpl/sfAdminControls.php:2
+msgid "Subscribe Field Settings"
+msgstr "Abone Alanları Ayarları"
+
+#: doc/popup-by-supsystic-pro/sub_fields/views/tpl/sfAdminControls.php:16
+msgid "Label that will be visible for your subscribers."
+msgstr "Abonleriniz tarafından görülecek etiket"
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:9
+msgid "PopUp ID is not specified."
+msgstr "PopUp ID belirtilmedi"
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:13
+msgid "Authorization code is not specified."
+msgstr "Yetki kodu belirtilmemiş."
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:36
+msgid "Subscribing"
+msgstr "Üye olma"
+
+#: doc/popup-by-supsystic-pro/sub_social/controller.php:45
+msgid "Cannot get your email address"
+msgstr "Email adresiniz alınamıyor"
+
+#: doc/popup-by-supsystic-pro/sub_social/mod.php:75
+msgid "Sign in with"
+msgstr "Şununla Giriş Yap"
+
+#: doc/popup-by-supsystic-pro/sub_social/mod.php:76
+msgid "Facebook"
+msgstr "Facebook"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/mod.php:16
+msgid "Vertical Response"
+msgstr "Vertical Response"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/models/verticalresponse.php:104
+msgid "Can not access to Vertical Responce server"
+msgstr "Vertical Response sunucusuna ulaşılamıyor"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/models/verticalresponse.php:106
+msgid "Empty code returned"
+msgstr "Boş kod döndü"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:4
+msgid "Vertical Response Setup"
+msgstr "Vertical Response Ayarları "
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:5
+msgid "You must authorize to use Vertical Response features"
+msgstr "Vertical Response özelliğini kullanmaya yetkili olmalısınız"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:8
+msgid "Authorize in Vertical Response"
+msgstr "Vertical Response için yetki alın"
+
+#: doc/popup-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:15
+msgid ""
+"Select lists for subscribe. They are taken from your Vertical Response "
+"account."
+msgstr ""
+"Aboneler için liste seçiniz. Onlar Vertical Response hesabınızdan "
+"alınacaktır."
+
+#: doc/promo-popup-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, php-format
+msgid ""
+"You can find it under your GetResponse Account -> GetResponse API, here is "
+"<a href=\"%s\" class=\"ppsGrHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+"Onu şuradan elde edebilirsiniz: GetResponse Hesabınız > GetResponse API , a "
+"href=\"%s\" class=\"ppsGrHelpApiKeyLink\" target=\"_blank\">Yardım ekran "
+"görüntüsü</a>"
+
+#: doc/promo-popup-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+msgid ""
+"This module require to have cUrl library for PHP on server installed and PHP "
+"version to be at least 5.3. Please contact your hosting provider and ask "
+"them to enable cUrl for you, this is Free library, and check your PHP "
+"version."
+msgstr ""
+"Bu modül, PHP için cUrl kütüphanesini gerektirir ve  PHP sürümü en az 5.3 "
+"olmalıdır. Bu barındırma sağlayıcınıza başvurun ve sizin için Curl i "
+"etkinleştirmelerini isteyiniz , bu bir  Ücretsiz kütüphanedir  ve PHP "
+"sürümünüzü kontrol etmelerini isteyin."
+
+#: doc/promo-popup-by-supsystic-pro/layered_popup/mod.php:10
+msgid "Layered Style"
+msgstr "Katmanlı Stil"
+
+#: modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from supsystic.com developers. I tried %s - and this "
+"was what I need! #supsystic.com"
+msgstr ""
+"supsystic.com geliştiricilerin harika WordPress eklentileri. Ben %s i "
+"denedim- ve  tam aradığım! # supsystic.com"
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr "WordPress siteniz için daha fazla eklentiler burada!"
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr "Herkese duyurun!"
+
+#: modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr ""
+"Şimdi, test mail için e-posta gelen kutunuz/önemsiz klasörünüzü kontrol "
+"ediniz."
+
+#: modules/mail/mod.php:41
+msgid "Cannot send email - problem with send server"
+msgstr "Email gönderilemiyor  - problem gönderme sunucusunda"
+
+#: modules/mail/mod.php:54
+msgid "Mail"
+msgstr "Mail"
+
+#: modules/mail/mod.php:56
+msgid "Mail function tested and work"
+msgstr "Mail fonksiyonu test edildi ve çalışıyor"
+
+#: modules/mail/mod.php:57
+msgid "Notify Email"
+msgstr "Email Bildirisi"
+
+#: modules/mail/mod.php:57
+msgid "Email address used for all email notifications from plugin"
+msgstr ""
+"Eklentiden gidecek tüm uyarı e-postaları için kullanılacak e-posta adresi"
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr "Test e-posta fonksiyonu"
+
+#: modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+"Bu, siteniz, %s  deki e-posta işlevselliğini test etmek için bir test e-"
+"postadır"
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "Boş e-posta adres"
+
+#: modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr "Test Email  gönder"
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "Test Gönder"
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr "Bu seçenek, sunucunuzun mail fonksiyonunu kontrol etmenize yarar"
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr "Test mailini aldınız mı?"
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr "Evet, Çalışıyor !"
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+"Hayır, mail işlevi problemim ile ilgili barındırma  sağlayıcımla iletişime "
+"geçmem gerekiyor"
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr "Mükemmel,  mail fonksiyonu test edildi ve düzgün çalışıyor."
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+"Kötü, lütfen barındırma sağlayıcınızla iletişime geçip, sunucuda mail "
+"fonksiyonu ayarlamalarını isteyiniz."
+
+#: modules/mail/views/tpl/mailAdmin.php:47
+#: modules/options/views/tpl/optionsSettingsTabContent.php:44
+#, php-format
+msgid "Turned On %s"
+msgstr "Açma zamanı: %s"
+
+#: modules/mail/views/tpl/mailAdmin.php:48
+#: modules/options/views/tpl/optionsSettingsTabContent.php:45
+#, php-format
+msgid "Turned Off %s"
+msgstr "Kapatma Zamanı : %s"
+
+#: modules/mail/views/tpl/mailAdmin.php:69
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr "Kaydet"
+
+#: modules/options/mod.php:114
+msgid "General"
+msgstr "Genel"
+
+#: modules/options/mod.php:116
+msgid "Send usage statistics"
+msgstr "Kullanım istatistiklerini gönder"
+
+#: modules/options/mod.php:116
+msgid ""
+"Send information about what plugin options you prefer to use, this will help "
+"us make our solution better for You."
+msgstr ""
+"Hangi eklenti seçeneklerini kullanmayı tercih ettiğinizi bize bildirin, bu "
+"Size daha iyi çözümler sunmak için bize yardımcı olacaktır."
+
+#: modules/options/mod.php:117
+msgid "Disable blocking Subscription from same IP"
+msgstr "Aynı IP'den  Abonelik engellemeyi devre dışı bırakın"
+
+#: modules/options/mod.php:117
+msgid ""
+"By default our plugin have feature to block subscriptions from same IP more "
+"then one time per hour - to avoid spam subscribers. But you can disable this "
+"feature here."
+msgstr ""
+"Spam abonelikleri önlemek için,   aynı IP den bir saat içinde birden fazla "
+"aboneliği önleme özelliğimiz varsayılan olarak  eklentimizde mevcuttur. "
+"Fakat buradan siz onu devre dışı bırakabilirsiniz."
+
+#: modules/options/mod.php:118
+msgid "Disable autosave on PopUp Edit"
+msgstr "PopUp Düzenlemede otomatik kaydetmeyi devre dışı bırak"
+
+#: modules/options/mod.php:118
+msgid ""
+"By default our plugin will make autosave all your changes that you do in "
+"PopUp edit screen, but you can disable this feature here. Just don't forget "
+"to save your PopUp each time you make any changes in it."
+msgstr ""
+"Varsayılan olarak, eklentimiz, PopUp düzenleme ekranında yaptığınız tüm "
+"değişikleri otomatik kaydeder, fakat bu özelliği buradan devre dışı "
+"bırakabilirsiniz.  Değişiklik  yaptığınızda PopUp ınızı  kaydetmeyi "
+"unutmayın."
+
+#: modules/options/mod.php:119
+msgid "Enable promo link"
+msgstr "promosyon linki devreye al"
+
+#: modules/options/mod.php:119
+msgid ""
+"We are trying to make our plugin better for you, and you can help us with "
+"this. Just check this option - and small promotion link will be added in the "
+"bottom of your PopUp. This is easy for you - but very helpful for us!"
+msgstr ""
+"Sizin için  eklentilerimizi daha iyi yapmak için çalışıyoruz, ve bununla "
+"bize yardımcı olabilirsiniz. Sadece bu seçeneği işaretleyin - ve küçük "
+"promosyon linki PopUp  ınızın altına eklenecektir. Bu sizin için kolay, ama "
+"bizim için çok yararlı!"
+
+#: modules/options/mod.php:120
+msgid "User role can use plugin"
+msgstr "Plugini kullanabilecek kullanıcı rolleri"
+
+#: modules/options/mod.php:120
+msgid "User with next roles will have access to whole plugin from admin area."
+msgstr ""
+"Şu roller ile  kullanıcı, admin alanından tüm eklentiye erişim hakkı "
+"olacaktır"
+
+#: modules/options/mod.php:121
+msgid "Load Assets in Footer"
+msgstr "Varlıkları Tema Alt bölümünde Yükle"
+
+#: modules/options/mod.php:121
+msgid ""
+"Force load all plugin CSS and JavaScript files in footer - to increase page "
+"load speed. Please make sure that you have correct footer.php file in your "
+"WordPress theme with wp_footer() function call in it."
+msgstr ""
+"Eklentinin tüm CSS ve Javascript dosyalarını, sayfa yüklenme hızını artırmak "
+"için,  tema alt bölümünde yüklemeye  zorla. WordPress temanızda doğru footer."
+"php olduğundan ve wp_footer()  fonksiyonu ile çağrıldığından emin olun."
+
+#: modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr "Modül Güncellendi"
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Modül Güncellemesi Başarısız"
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Hata modül ID"
+
+#: modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr "Seçeneği kaydetmek için boş data"
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr "Ana sayfa buraya Git !!!"
+
+#: modules/options/views/tpl/optionsAdminPage.php:35
+msgid "Improve Free version"
+msgstr "Ücretsiz sürümü geliştirin"
+
+#: modules/options/views/tpl/optionsAdminPage.php:37
+#, php-format
+msgid ""
+"Please be advised that this template with all other options and PRO "
+"templates is available only in <a target=\"_blank\" href=\"%s\">PRO version</"
+"a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> "
+"today and get this and other PRO templates and features for your PopUps!"
+msgstr ""
+"Tüm diğer seçenekler ile bu şablon ve PRO şablonların   sadece <a target="
+"\"_blank\" href=\"%s\">PRO sürümünde</a> mevcut olduğunu hatırlatırız.  "
+"Şimdi<a target=\"_blank\" href=\"%s\" class=\"button\"> PRO yı Satın "
+"alabilirsiniz</a> ve  PoPup ınız için bu ve diğer PRO özelliklere sahip "
+"olabilirsiniz."
+
+#: modules/options/views/tpl/optionsAdminPage.php:40
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option for your "
+"PopUps!"
+msgstr ""
+"Bu seçeneğin  sadece <a href=\"%s\" target=\"_blank\"> PRO sürümünde </a>  "
+"mevcut olduğunu hatırlatırız.  Hemen şimdi <a target=\"_blank\" href=\"%s\" "
+"class=\"button\">  PRO yı Satın alabilirsiniz</a> ve PopUp ınız için diğer "
+"PRO seçeneklerine sahip olunuz."
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr "Tüm seçenekleri kaydet"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:52
+msgid "PRO option"
+msgstr "PRO seçenek"
+
+#: modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr "Eklenti Bilgilerini ( seçenekler, kurulum ayarları, tablolar, vs ) Sil"
+
+#: modules/popup/controller.php:22
+msgid "Yes"
+msgstr "Evet"
+
+#: modules/popup/controller.php:22
+msgid "No"
+msgstr "Hayır"
+
+#: modules/popup/controller.php:257
+msgid "Done, redirecting to new PopUp..."
+msgstr "bitti, yeni PopUp a yönlendiriliyorsunuz"
+
+#: modules/popup/mod.php:20
+msgid "Add New PopUp"
+msgstr "Yeni PopUp Ekle"
+
+#: modules/popup/mod.php:23
+msgid "Edit"
+msgstr "Düzenle"
+
+#: modules/popup/mod.php:26
+msgid "Show All PopUps"
+msgstr "Tüm PopUp ları Göster"
+
+#: modules/popup/mod.php:371
+msgid "PopUp"
+msgstr "PopUp"
+
+#: modules/popup/models/popup.php:98
+msgid "img/preview/"
+msgstr "Resim/önizleme"
+
+#: modules/popup/models/popup.php:151
+msgid "Please select PopUp template from list below"
+msgstr "Lütfen aşağıdaki listeden PopUp şablonu seçiniz"
+
+#: modules/popup/models/popup.php:153 modules/popup/models/popup.php:534
+msgid "Please enter Name"
+msgstr "Lütfen İsim giriniz"
+
+#: modules/popup/models/popup.php:186
+msgid "Enter your Facebook page URL"
+msgstr "Facebook sayfanızın URL sini giriniz"
+
+#: modules/popup/models/popup.php:193
+msgid "Enter your video URL"
+msgstr "Video URL nizi giriniz"
+
+#: modules/popup/models/popup.php:344
+msgid "Common"
+msgstr "Ortak"
+
+#: modules/popup/models/popup.php:345
+msgid "Facebook Like"
+msgstr "Facebook Beğen"
+
+#: modules/popup/models/popup.php:346
+msgid "Video"
+msgstr "Video"
+
+#: modules/popup/models/popup.php:347
+msgid "iFrame"
+msgstr "iFrame"
+
+#: modules/popup/models/popup.php:348
+msgid "Simple HTML"
+msgstr "Basit HTML"
+
+#: modules/popup/models/popup.php:349
+msgid "PDF"
+msgstr "PDF"
+
+#: modules/popup/models/popup.php:350
+msgid "Age Verification"
+msgstr "Yaş Doğrulama"
+
+#: modules/popup/models/popup.php:351
+msgid "Full Screen"
+msgstr "Tam Ekran"
+
+#: modules/popup/models/popup.php:352
+msgid "Login / Registration"
+msgstr "Giriş/Kayıt"
+
+#: modules/popup/models/popup.php:353
+msgid "Notification Bar"
+msgstr "Bildirim Çubuğu"
+
+#: modules/popup/models/popup.php:395
+msgid "Provided data was corrupted"
+msgstr "Sağlanan veriler bozuktur"
+
+#: modules/popup/models/popup.php:560
+msgid "Name can not be empty"
+msgstr "İsim alanı boş olamaz"
+
+#: modules/popup/models/popup.php:575 modules/popup/models/popup.php:589
+#: modules/popup/models/popup.php:668 modules/popup/models/popup.php:671
+#: modules/popup/models/popup.php:700
+msgid "Left side background"
+msgstr "Sol kenar arkaplanı"
+
+#: modules/popup/models/popup.php:576 modules/popup/models/popup.php:586
+#: modules/popup/models/popup.php:590 modules/popup/models/popup.php:632
+#: modules/popup/models/popup.php:672 modules/popup/models/popup.php:701
+msgid "Right side background"
+msgstr "Sağ kenar arkaplanı"
+
+#: modules/popup/models/popup.php:577
+msgid "Subscribe button background"
+msgstr "Abone düğme arkaplanı"
+
+#: modules/popup/models/popup.php:580 modules/popup/models/popup.php:584
+#: modules/popup/models/popup.php:594 modules/popup/models/popup.php:603
+#: modules/popup/models/popup.php:607 modules/popup/models/popup.php:616
+#: modules/popup/models/popup.php:620
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:158
+msgid "Background"
+msgstr "Arkaplan"
+
+#: modules/popup/models/popup.php:581
+msgid "Sign up button background"
+msgstr "Kayıt Ol düğmesi arkaplanı"
+
+#: modules/popup/models/popup.php:585 modules/popup/models/popup.php:591
+#: modules/popup/models/popup.php:595 modules/popup/models/popup.php:600
+#: modules/popup/models/popup.php:604 modules/popup/models/popup.php:608
+#: modules/popup/models/popup.php:613 modules/popup/models/popup.php:617
+#: modules/popup/models/popup.php:633 modules/popup/models/popup.php:639
+#: modules/popup/models/popup.php:644 modules/popup/models/popup.php:649
+#: modules/popup/models/popup.php:655 modules/popup/models/popup.php:667
+#: modules/popup/models/popup.php:673 modules/popup/models/popup.php:696
+#: modules/popup/models/popup.php:702 modules/popup/models/popup.php:712
+#: modules/popup/models/popup.php:719 modules/popup/models/popup.php:723
+#: modules/popup/models/popup.php:736 modules/popup/models/popup.php:747
+#: modules/popup/models/popup.php:752 modules/popup/models/popup.php:757
+#: modules/popup/models/popup.php:765 modules/popup/models/popup.php:770
+msgid "Button background"
+msgstr "Düğme arkaplanı"
+
+#: modules/popup/models/popup.php:598
+msgid "Main Background"
+msgstr "Ana arkaplan"
+
+#: modules/popup/models/popup.php:599
+msgid "Down background"
+msgstr "Aşağı arkaplan"
+
+#: modules/popup/models/popup.php:611
+msgid "Left Side Background"
+msgstr "Sol kenar arakaplanı"
+
+#: modules/popup/models/popup.php:612
+msgid "Right Side background"
+msgstr "Sağ kenar arkaplanı"
+
+#: modules/popup/models/popup.php:621
+msgid "Sign-up button background"
+msgstr "Kayıt ol düğmesi arkaplanı"
+
+#: modules/popup/models/popup.php:622 modules/popup/models/popup.php:684
+msgid "Close button background"
+msgstr "Kapat düğmesi arkaplanı"
+
+#: modules/popup/models/popup.php:625 modules/popup/models/popup.php:630
+#: modules/popup/models/popup.php:636 modules/popup/models/popup.php:643
+#: modules/popup/models/popup.php:648 modules/popup/models/popup.php:653
+#: modules/popup/models/popup.php:658 modules/popup/models/popup.php:666
+#: modules/popup/models/popup.php:677 modules/popup/models/popup.php:683
+#: modules/popup/models/popup.php:689 modules/popup/models/popup.php:695
+#: modules/popup/models/popup.php:705 modules/popup/models/popup.php:711
+#: modules/popup/models/popup.php:715 modules/popup/models/popup.php:722
+#: modules/popup/models/popup.php:726 modules/popup/models/popup.php:730
+#: modules/popup/models/popup.php:735 modules/popup/models/popup.php:740
+#: modules/popup/models/popup.php:745 modules/popup/models/popup.php:750
+#: modules/popup/models/popup.php:755 modules/popup/models/popup.php:760
+#: modules/popup/models/popup.php:764 modules/popup/models/popup.php:768
+msgid "Main background"
+msgstr "Ana  arkaplan"
+
+#: modules/popup/models/popup.php:626 modules/popup/models/popup.php:650
+#: modules/popup/models/popup.php:685
+msgid "Middle side background"
+msgstr "Orta kenar  arkaplanı"
+
+#: modules/popup/models/popup.php:627
+msgid "Down side background"
+msgstr "Aşağı kenar  arkaplanı"
+
+#: modules/popup/models/popup.php:631
+msgid "Fields background"
+msgstr "Alanlar  arkaplanı"
+
+#: modules/popup/models/popup.php:637
+msgid "Left picture background"
+msgstr "Sol resim  arkaplanı"
+
+#: modules/popup/models/popup.php:638
+msgid "Background image"
+msgstr "Arkaplan resmi"
+
+#: modules/popup/models/popup.php:640 modules/popup/models/popup.php:654
+#: modules/popup/models/popup.php:662 modules/popup/models/popup.php:734
+msgid "Additional background"
+msgstr "İlave  arkaplan"
+
+#: modules/popup/models/popup.php:645 modules/popup/models/popup.php:727
+#: modules/popup/models/popup.php:731 modules/popup/models/popup.php:761
+msgid "Frame background"
+msgstr "Çerceve  arkaplanı"
+
+#: modules/popup/models/popup.php:659
+msgid "Exit button background"
+msgstr "Çıkış düğmesi  arkaplanı"
+
+#: modules/popup/models/popup.php:660 modules/popup/models/popup.php:707
+#: modules/popup/models/popup.php:771
+msgid "Left image background"
+msgstr "Left image  arkaplanı"
+
+#: modules/popup/models/popup.php:661 modules/popup/models/popup.php:686
+#: modules/popup/models/popup.php:690
+msgid "Submit button background"
+msgstr "Gönder düğmesi  arkaplanı"
+
+#: modules/popup/models/popup.php:663 modules/popup/models/popup.php:717
+msgid "Right image background"
+msgstr "Sağ resim  arkaplanı"
+
+#: modules/popup/models/popup.php:674 modules/popup/models/popup.php:679
+#: modules/popup/models/popup.php:697 modules/popup/models/popup.php:746
+#: modules/popup/models/popup.php:751 modules/popup/models/popup.php:756
+msgid "Image background"
+msgstr "Resim  arkaplanı"
+
+#: modules/popup/models/popup.php:678 modules/popup/models/popup.php:706
+#: modules/popup/models/popup.php:769
+msgid "Field background"
+msgstr "Alan  arkaplanı"
+
+#: modules/popup/models/popup.php:680
+msgid "Go button background"
+msgstr "Git düğmesi  arkaplanı"
+
+#: modules/popup/models/popup.php:691
+msgid "Right Image background"
+msgstr "Sağ resim  arkaplanı"
+
+#: modules/popup/models/popup.php:692
+msgid "Right background"
+msgstr "Sağ  arkaplanı"
+
+#: modules/popup/models/popup.php:708
+msgid "Get it now button background"
+msgstr "Düğme  arkaplanını şimdi edin"
+
+#: modules/popup/models/popup.php:716 modules/popup/models/popup.php:739
+msgid "Upper background"
+msgstr "Üst  arkaplan"
+
+#: modules/popup/models/popup.php:718
+msgid "Bottom background"
+msgstr "Alt  arkaplan"
+
+#: modules/popup/models/popup.php:741
+msgid "Yes button background"
+msgstr "Evet Düğmesi  arkaplanı"
+
+#: modules/popup/models/popup.php:742
+msgid "No button background"
+msgstr "Hayır  düğmesi arkaplanı"
+
+#: modules/popup/views/popup.php:42
+msgid "Modify PopUp Template"
+msgstr "PopUp şablonunu değiştir"
+
+#: modules/popup/views/popup.php:52
+msgid "Cannot find required PopUp"
+msgstr "Gerekli PopUp bulunamıyor"
+
+#: modules/popup/views/popup.php:89
+msgid "Available in PRO version"
+msgstr "PRO sürümünde mevcut"
+
+#: modules/popup/views/popup.php:92 modules/popup/views/popup.php:393
+#: modules/popup/views/popup.php:743
+msgid "None"
+msgstr "Yok"
+
+#: modules/popup/views/popup.php:93
+msgid "Image"
+msgstr "Resim"
+
+#: modules/popup/views/popup.php:94
+msgid "Color"
+msgstr "Renk"
+
+#: modules/popup/views/popup.php:98
+msgid "Mobile"
+msgstr "Akıllı Telefon"
+
+#: modules/popup/views/popup.php:99
+msgid "Tablet"
+msgstr "Tablet"
+
+#: modules/popup/views/popup.php:100
+msgid "Desktop PC"
+msgstr "Masaüstü PC"
+
+#: modules/popup/views/popup.php:118
+msgid "Main Home page"
+msgstr "Ana sayfa"
+
+#: modules/popup/views/popup.php:207
+msgid "Appearance"
+msgstr "Görünüm"
+
+#: modules/popup/views/popup.php:212
+msgid "Popup Opening Animation"
+msgstr "PopUp Açılış Animasyonu"
+
+#: modules/popup/views/popup.php:219
+msgid "Texts"
+msgstr "Metinler"
+
+#: modules/popup/views/popup.php:226
+msgid "Social"
+msgstr "Sosyal"
+
+#: modules/popup/views/popup.php:237
+msgid "Main"
+msgstr "Temel Ayarlar"
+
+#: modules/popup/views/popup.php:242
+msgid "Design"
+msgstr "Tasarım"
+
+#: modules/popup/views/popup.php:247
+msgid "CSS / HTML Code"
+msgstr "CSS / HTML Kod"
+
+#: modules/popup/views/popup.php:254
+msgid "Subscribe"
+msgstr "Abone"
+
+#: modules/popup/views/popup.php:278
+msgid "Facebook page URL"
+msgstr "Facebook sayfa URL si"
+
+#: modules/popup/views/popup.php:280
+msgid ""
+"The absolute URL of the Facebook Page that will be liked. This is a required "
+"setting."
+msgstr ""
+"Beğenilecek Facebook sayfasının URL ( mutlak yol giriniz) si. Bu zorunlu  "
+"bir alandır."
+
+#: modules/popup/views/popup.php:282
+msgid "Color scheme"
+msgstr "Renk Uyumu"
+
+#: modules/popup/views/popup.php:284
+msgid "Light"
+msgstr "Açık"
+
+#: modules/popup/views/popup.php:284
+msgid "Dark"
+msgstr "Koyu"
+
+#: modules/popup/views/popup.php:285
+msgid "The color scheme used by the plugin. Can be \"light\" or \"dark\"."
+msgstr ""
+"Eklenti tarafından kullanılan renk düzeni. \"açık\" veya \"koyu\" olabilir."
+
+#: modules/popup/views/popup.php:287
+msgid "Force wall"
+msgstr "Duvara zorla"
+
+#: modules/popup/views/popup.php:289
+msgid ""
+"For \"place\" Pages (Pages that have a physical location that can be used "
+"with check-ins), this specifies whether the stream contains posts by the "
+"Page or just check-ins from friends."
+msgstr ""
+"\"Yer\" Sayfaları için (check-in ile kullanılabilir fiziksel bir konuma "
+"sahip sayfalar),  bu  ya Sayfa tarafından yazıları içeren akış veya sadece "
+"arkadaşlardan gelen check-in leri belirler."
+
+#: modules/popup/views/popup.php:291
+msgid "Header"
+msgstr "Başlık"
+
+#: modules/popup/views/popup.php:293
+msgid ""
+"Specifies whether to display the Facebook header at the top of the plugin."
+msgstr ""
+"Eklentinin üstünde Fecebook başlığının gösterilip gösterilmeyeceğini belirtir"
+
+#: modules/popup/views/popup.php:295
+msgid "Show border"
+msgstr "Sınırları göster"
+
+#: modules/popup/views/popup.php:297
+msgid "Specifies whether or not to show a border around the plugin."
+msgstr "Eklenti çevresinde kenar gösterip gösterilmeyeceğini belirler"
+
+#: modules/popup/views/popup.php:299
+msgid "Show faces"
+msgstr "Yüzleri göster"
+
+#: modules/popup/views/popup.php:301
+msgid ""
+"Specifies whether to display profile photos of people who like the page."
+msgstr ""
+"sayfayı beğenecek insanların profil fotoğraflarını  görüntülenip "
+"görüntülenmeyeceğini belirtir."
+
+#: modules/popup/views/popup.php:303
+msgid "Stream"
+msgstr "Akış"
+
+#: modules/popup/views/popup.php:305
+msgid "Specifies whether to display a stream of the latest posts by the Page."
+msgstr ""
+"Sayfa en son yazılarının akışının görüntülenip görüntülenmeyeceğini belirler"
+
+#: modules/popup/views/popup.php:357
+msgid "None - use Standard PopUp Social Buttons"
+msgstr "Yok- Standart PopUp Sosyal Düğmelerini kullan"
+
+#: modules/popup/views/popup.php:394
+msgid "Puff"
+msgstr "Puff"
+
+#: modules/popup/views/popup.php:395
+msgid "Vanish"
+msgstr "Vanish"
+
+#: modules/popup/views/popup.php:397
+msgid "Open down left"
+msgstr "Sol aşağıya aç"
+
+#: modules/popup/views/popup.php:398
+msgid "Open down right"
+msgstr "Sağ aşağıya aç"
+
+#: modules/popup/views/popup.php:400
+msgid "Perspective down"
+msgstr "Aşağı perspektif"
+
+#: modules/popup/views/popup.php:401
+msgid "Perspective up"
+msgstr "Yukarı perspektif"
+
+#: modules/popup/views/popup.php:403
+msgid "Slide down"
+msgstr "Aşağı kayma"
+
+#: modules/popup/views/popup.php:404
+msgid "Slide up"
+msgstr "Yukarı kayma"
+
+#: modules/popup/views/popup.php:406
+msgid "Swash"
+msgstr "Çalkantı"
+
+#: modules/popup/views/popup.php:407
+msgid "Foolis"
+msgstr "Foolis"
+
+#: modules/popup/views/popup.php:409
+msgid "Tin right"
+msgstr "Sağa kutu"
+
+#: modules/popup/views/popup.php:410
+msgid "Tin left"
+msgstr "Sola kutu"
+
+#: modules/popup/views/popup.php:411
+msgid "Tin up"
+msgstr "Yukarı kutu"
+
+#: modules/popup/views/popup.php:412
+msgid "Tin down"
+msgstr "Aşağı kutu"
+
+#: modules/popup/views/popup.php:414
+msgid "Boing"
+msgstr "Boing"
+
+#: modules/popup/views/popup.php:416
+msgid "Space right"
+msgstr "Sağa mesafe"
+
+#: modules/popup/views/popup.php:417
+msgid "Space left"
+msgstr "Sola mesafe"
+
+#: modules/popup/views/popup.php:418
+msgid "Space up"
+msgstr "Yukarı mesafe"
+
+#: modules/popup/views/popup.php:419
+msgid "Space down"
+msgstr "Aşağı mesafe"
+
+#: modules/popup/views/popup.php:426
+msgid "Bounce"
+msgstr "Sıçrama"
+
+#: modules/popup/views/popup.php:427
+msgid "Bounce Up"
+msgstr "Yukarı sıçrama"
+
+#: modules/popup/views/popup.php:428
+msgid "Bounce Down"
+msgstr "Aşağı sıçrama"
+
+#: modules/popup/views/popup.php:429
+msgid "Bounce Left"
+msgstr "Sola sıçrama"
+
+#: modules/popup/views/popup.php:430
+msgid "Bounce Right"
+msgstr "Sağa sıçrama"
+
+#: modules/popup/views/popup.php:432
+msgid "Fade"
+msgstr "Soluklaştırmak"
+
+#: modules/popup/views/popup.php:433
+msgid "Fade Up"
+msgstr "Yukarı Soluklaştırma"
+
+#: modules/popup/views/popup.php:434
+msgid "Fade Down"
+msgstr "Aşağı  Soluklaştırma"
+
+#: modules/popup/views/popup.php:435
+msgid "Fade Left"
+msgstr "Sola  Soluklaştırma"
+
+#: modules/popup/views/popup.php:436
+msgid "Fade Right"
+msgstr "Sağa  Soluklaştırma"
+
+#: modules/popup/views/popup.php:438
+msgid "Flip X"
+msgstr "Çevirme X"
+
+#: modules/popup/views/popup.php:439
+msgid "Flip Y"
+msgstr "Çevirme Y"
+
+#: modules/popup/views/popup.php:441
+msgid "Rotate"
+msgstr "Döndür"
+
+#: modules/popup/views/popup.php:442
+msgid "Rotate Up Left"
+msgstr "Sol Yukarıya Döndür"
+
+#: modules/popup/views/popup.php:443
+msgid "Rotate Up Right"
+msgstr "Sağ Yukarıya Döndür"
+
+#: modules/popup/views/popup.php:444
+msgid "Rotate Down Left"
+msgstr "Sol Aşağıya Döndür"
+
+#: modules/popup/views/popup.php:445
+msgid "Rotate Down Right"
+msgstr "Sağ Aşağıya Döndür"
+
+#: modules/popup/views/popup.php:447
+msgid "Slide Up"
+msgstr "Yukarı Kaydır"
+
+#: modules/popup/views/popup.php:448
+msgid "Slide Down"
+msgstr "Aşağı Kaydır"
+
+#: modules/popup/views/popup.php:449
+msgid "Slide Left"
+msgstr "Sola Kaydır"
+
+#: modules/popup/views/popup.php:450
+msgid "Slide Right"
+msgstr "Sağa Kaydır"
+
+#: modules/popup/views/popup.php:452
+msgid "Zoom"
+msgstr "Yakınlaştır"
+
+#: modules/popup/views/popup.php:453
+msgid "Zoom Up"
+msgstr "Yukarı Yakınlaştır"
+
+#: modules/popup/views/popup.php:454
+msgid "Zoom Down"
+msgstr "Aşağı Yakınlaştır"
+
+#: modules/popup/views/popup.php:455
+msgid "Zoom Left"
+msgstr "sola Yakınlaştır"
+
+#: modules/popup/views/popup.php:456
+msgid "Zoom Right"
+msgstr "Sağa Yakınlaştır"
+
+#: modules/popup/views/popup.php:458
+msgid "Light Speed"
+msgstr "Yavaş Hız"
+
+#: modules/popup/views/popup.php:459
+msgid "Rolling!"
+msgstr "Yuvarlanma!"
+
+#: modules/popup/views/popup.php:767
+msgid "None (standard)"
+msgstr "Yok (Standart)"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:20
+#, php-format
+msgid ""
+"Change Template to any other from the list below or <a class=\"button\" href="
+"\"%s\">return to Pop-Up edit</a>"
+msgstr ""
+"Aşağıdaki listeden şablonu  başka şablona değiştir veya <a class=\"button\" "
+"href=\"%s\">- Pop-Up düzenleye geri dön</a>"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:22
+msgid "Choose Pop-Up Template. You can change it later."
+msgstr "PopUp Şablonunu Seçiniz. Onu daha sonra değiştirebilirsiniz."
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:31
+msgid "PopUp Name"
+msgstr "PopUp İsmi"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:44
+#: modules/popup/views/tpl/popupAddNewAdmin.php:54
+msgid "All"
+msgstr "Hepsi"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:69
+msgid "type"
+msgstr "cinsi"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:72
+msgid "Get in PRO"
+msgstr "PRO versiyonu edin"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:83
+msgid "Change Template"
+msgstr "Şablon Değiştir"
+
+#: modules/popup/views/tpl/popupAddNewAdmin.php:85
+msgid "Are you sure you want to change your current template - to "
+msgstr "Mevcut şablonu şuna değiştirmek istediğinizden emin misiniz? :"
+
+#: modules/popup/views/tpl/popupAdmin.php:11
+#: modules/popup/views/tpl/popupAdmin.php:12
+msgid "Search"
+msgstr "Arama"
+
+#: modules/popup/views/tpl/popupAdmin.php:21
+#, php-format
+msgid ""
+"You have no PopUps for now. <a href=\"%s\" style=\"font-style: italic;"
+"\">Create</a> your PopUp!"
+msgstr ""
+"Şu anda PopUp ınız yok. <a href=\"%s\" style=\"font-style: italic;\">PopUp "
+"ınızı </a>yaratın!"
+
+#: modules/popup/views/tpl/popupEditAdmin.php:108
+msgid "Loading preview..."
+msgstr "Önizleme yükleniyor..."
+
+#: modules/popup/views/tpl/popupEditAdmin.php:113
+msgid "Back to top"
+msgstr "Başa dön"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:2
+msgid "Choose PopUp animation style"
+msgstr "PopUp animasyon stilini seç"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:3
+msgid "current style"
+msgstr "Mevcut stil"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:30
+msgid "Animation Duration"
+msgstr "Animasyon Süresi"
+
+#: modules/popup/views/tpl/popupEditAdminAnimationOpts.php:32
+msgid "miliseconds"
+msgstr "milisaniye"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:2
+#, php-format
+msgid ""
+"Edit this ONLY if you know basics of HTML, CSS and have been acquainted with "
+"the rules of template editing described <a target=\"_blank\" href=\"%s"
+"\">here</a>"
+msgstr ""
+"Burayı SADECE HTML, CSS  in temellerini biliyorsan  ve <a target=\"_blank\" "
+"href=\"%s\">burada</a>  açıklanan şablon düzenleme kurallarına aşina isen "
+"düzenle"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:5
+msgid "CSS code"
+msgstr "CSS kod"
+
+#: modules/popup/views/tpl/popupEditAdminCodeOpts.php:9
+msgid "HTML code"
+msgstr "HTML Kod"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:5
+msgid "Video URL"
+msgstr "Video URL"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:6
+msgid "Copy and paste here URL of your video source"
+msgstr "Video kaynağınızın URL sini buraya kopyala ve yapıştır"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:16
+msgid "iFrame URL"
+msgstr "iFrame URL"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:17
+#, php-format
+msgid ""
+"Copy and paste here URL of site, that you need to display in PopUp as "
+"iFrame. Please note that some sites can block such possibility, you can read "
+"more about this <a target=\"_blank\" href=\"%s\">for example here</a>"
+msgstr ""
+"PopUp da iFrame olarak göstereceğiniz sitenin URL sini buraya kopyala ve "
+"yapıştır. Bazı sitelerin böyle bir imkanı engelleyebileceğini unutmayınız. "
+"Daha fazla bilgiyi <a target=\"_blank\" href=\"%s\">buradan</a> "
+"okuyabilirsiniz."
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:27
+msgid "PDF URL"
+msgstr "PDF URL"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:28
+msgid ""
+"Copy and paste here URL to your PDF file. You can simply upload it on your "
+"server (using FTP for example), then insert URL in this field - and you will "
+"see how it work. Enjoy!"
+msgstr ""
+"Buradaki URL'yi PDF dosyanıza kopyalayıp  yapıştırın. Basitçe (örneğin FTP "
+"kullanarak) sunucunuz  üzerinde yükleyebilirsiniz, daha sonra bu alanda URL "
+"ekleyin- ve bunun nasıl çalıştığını göreceksiniz. Tadını çıkarın!"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:37
+msgid "Width"
+msgstr "Genişlik"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:44
+msgid "Max width for percentage - is 100"
+msgstr "Yüzde için maksimum genişlik  100 dür"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:46
+msgid "Percents"
+msgstr "Yüzde"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:50
+msgid "Pixels"
+msgstr "Piksel"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:60
+msgid "Height"
+msgstr "Yükseklik"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:72
+msgid "Video Autoplay"
+msgstr "Video otomatik oynat"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:73
+msgid "Play video - right after PopUp show"
+msgstr "video oynat - PopUp gösteriminden hemen sonra"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:83
+msgid "Hide controls"
+msgstr "Kontrolleri gizle"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:94
+msgid "Ignore related videos"
+msgstr "İlgili videoları ihmal et"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:135
+msgid "Background overlay opacity"
+msgstr "Zemin kaplama  şeffaflığı"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:144
+msgid "Disable window scroll"
+msgstr "Pencere kaydırmayı devre dışı bırak"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:145
+msgid ""
+"Disable browser window scrolling while PopUp is opened. Good way to disallow "
+"viewing your site content before PopUp will be closed."
+msgstr ""
+"PopUp açıkken tarayıcı pencere kaydırmayı devreden çıkar. PopUp kapatılmadan "
+"önce, site içeriğini görüntülemeyi engeleme için iyi yöntemdir."
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:158
+#, php-format
+msgid "Background %d"
+msgstr "Arkaplan %d"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:183
+msgid "Label Font style"
+msgstr "Etiket Font stili"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:192
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:215
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:239
+msgid "Default"
+msgstr "Varsayılan"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:206
+msgid "Text Font style"
+msgstr "Metin fontu stili"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:206
+#, php-format
+msgid "Text Font style %d"
+msgstr "Metin fontu stili %d"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:230
+msgid "Footer Font style"
+msgstr "Tema Alt Bölümü Font stili"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:253
+msgid "Responsive mode"
+msgstr "Uyumlu Mod"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:254
+msgid ""
+"You can choose PopUp behavior for responsive mode from one of the following. "
+"If you don't know - what to select - you can just try both and leave most "
+"suitable for you."
+msgstr ""
+"Aşağıdakilerden birinden duyarlı uyumlu mod için PopUp davranışını "
+"seçebilirsiniz. Eğer ne seçeceğinizi  bilmiyorsanız  - her ikisini "
+"deneyebilir ve sizin için en uygun olanı bırakabilirsiniz."
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:257
+msgid "PopUp will be fully zoomed for smaller screens"
+msgstr "Daha küçük ekranlarda PopUp tamamen yakınlaştırılacaktır"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:262
+msgid "Full resize"
+msgstr "Tam ekran"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:264
+msgid ""
+"PopUp will not be zoomed like with prev. mode, it will adapt only Width for "
+"users screen size"
+msgstr ""
+"PopUp prev. mod da olduğu gibi yakınlaştırılmayacaktır, sadece kullanıcı "
+"ekran boyutuna uyarlanacaktır"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:269
+msgid "Width only"
+msgstr "Genişlik Sadece"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:276
+msgid "Close button"
+msgstr "Kapama düğmesi"
+
+#: modules/popup/views/tpl/popupEditAdminDesignOpts.php:296
+msgid "Bullets"
+msgstr "İşaretler"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:13
+#, php-format
+msgid ""
+"You are using Google Maps in this PopUp, but don't have Google Maps Easy "
+"plugin installed. You can get it for Free from WordPress site <a target="
+"\"_blank\" href=\"%s\">here</a>, install and start using this PopUp with map."
+msgstr ""
+"Bu PopUp da Google Haritalar kullanıyorsunuz fakat Google Maps Easy "
+"eklentisi kurulu değil. onu WordPress sitesi <a target=\"_blank\" href=\"%s"
+"\">buradan</a> ücretsiz olarak temin edebilir, kurar ve PopUp ı harita ile "
+"kullanmaya başlayabilirsiniz."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:19
+msgid ""
+"Please be advised that you are editing AB Test PopUp. This means that "
+"independently of options you select in Main settings - there will be always "
+"only one PopUp: Base or one from AB Test."
+msgstr ""
+"Lütfen AB Testi PopUp düzenlemekte olduğunuzu  unutmayın. Bu,  seçeneklerden "
+"bağımsızca  Ana ayarlardan seçebilirsiniz anlamına gelir- her zaman tek bir "
+"PopUp olacak: Temel veya AB Testten biri."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:26
+msgid "When to show PopUp"
+msgstr "PopUp gösterilme zamanı"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:32
+msgid "When page loads"
+msgstr "Sayfa yüklendiği zaman"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:37
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:73
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:90
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:206
+msgid "Delay for"
+msgstr "Gecikme zamanı"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:41
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:78
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:146
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:211
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:271
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:290
+msgid "Seconds"
+msgstr "Saniye"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:41
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:78
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:146
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:211
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:271
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:290
+msgid "sec"
+msgstr "sn"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:48
+msgid "User click on the page"
+msgstr "Kullanıcı sayfayı tıkladığında"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:54
+msgid "Click on certain link / button / other element"
+msgstr "Belirli bir link/düğme/diğer elamanı tıkladığında"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:57
+msgid "Copy & paste next code - into required link to open PopUp on Click"
+msgstr ""
+"Aşağıdaki kodu kopyala & yapıştır - Tıklama ile PopUp ı açmak için gerekli "
+"link in içine"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:60
+#, php-format
+msgid ""
+"Check screenshot with details - <a onclick=\"ppsShowTipScreenPopUp(this); "
+"return false;\" href=\"%s\">here</a>."
+msgstr ""
+"<a onclick=\"ppsShowTipScreenPopUp(this); return false;\" href=\"%s"
+"\">buradan</a> ekran görüntüsünü inceleyiniz"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:62
+msgid ""
+"Or, if you know HTML basics, - you can insert \"onclick\" attribute to any "
+"of your element from code below"
+msgstr ""
+"Veya, eğer HTML temellerini biliyorsanız , - aşağıdaki koddan sizin elemanın "
+"herhangi birine  \"onclick\" özelliğini ekleyebilirsiniz"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:66
+msgid "Or you can even use it for your Menu item, just add code"
+msgstr "Veya  Menü öğesi için  onu kullanabilirsiniz, sadece kodu ekleyin"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:70
+msgid ""
+"to your menu item \"URL\" or into \"Title Attribute\" field. Don't worry - "
+"users will not see this code as menu item title on your site."
+msgstr ""
+"menü öğesi \"URL\" veya \"Başlık Özellik\" alanına. Merak etmeyin - "
+"Kullanıcıların sitenizde menü öğesi başlık olarak bu kodu görmeyecektir"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:85
+msgid "Scroll window"
+msgstr "Pencereyi kaydırma"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:94
+msgid "seconds after first scroll"
+msgstr "İlk kaydırmadan sonra saniye"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:98
+msgid "Scrolled to"
+msgstr " şuraya kaydır"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:102
+msgid "percents of total scroll"
+msgstr "toplam kaydırmanın yüzdesi"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:122
+msgid ""
+"When user is at the bottom of the page: scrolls it down to the bottom, or if "
+"there is no vertical scroll on his device - just show it right after page "
+"loads."
+msgstr ""
+"Kullanıcı sayfanın altında olduğunda: onu aşağıya kaydırır , veya cihazında "
+"düşey kaydırma çubuğu yok ise , sayfa yüklenmesinden hemen sonra göster."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:123
+msgid "Bottom of the page"
+msgstr "Sayfanın sonu"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:134
+msgid "After user was inactive on your page for some time."
+msgstr "Sayfanızda kullanıcının belirli süre inaktif olmasından sonra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:135
+msgid "After Inactivity"
+msgstr "Inaktif olmadan  sonra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:143
+msgid "After user was inactive for"
+msgstr "Kullanıcı inaktif olduktan sonra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:153
+msgid ""
+"When user adds a comment on your site he will see this PopUp after comment "
+"was placed. This will help you to get active users interested in your site."
+msgstr ""
+"Kullanıcı sitenizdeki bir yorum eklediğinde,  yorum yerleştirildikten  sonra "
+"o bu PopUp görecektir. Bu sitenizle ilgilenen aktif kullanıcıları almak için "
+"size  yardımcı olacaktır."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:154
+msgid "After User Comment"
+msgstr "Kullanıcı yorumundan sonra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:165
+msgid "Show PopUp after successful checkout process in your online store."
+msgstr "Online dükkanınızda başarılı ödeme sürecinden sonra PopUp ı göster"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:166
+msgid "After Purchasing (Checkout)"
+msgstr "Satınalma ( Ödeme) den sonra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:174
+msgid "Copy & Paste next code on your Success checkout page content editor"
+msgstr ""
+"Bir sonraki kodu Success ödeme sayfası içerik editörüne kopyalayıp "
+"yapıştırın."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:178
+msgid ""
+"Or, if you are using your own html/php for this page - insert there next code"
+msgstr ""
+"Veya, bu sayfa için kendi html/php kodu kullanıyorsanız, buradaki kodu girin."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:192
+#, php-format
+msgid ""
+"Show when user opens your site exactly with link, where in the end will be "
+"#ppsShowPopUp_%d. For example <a href=\"%s\" target=\"_blank\">%s</a> (will "
+"work only with PRO version)."
+msgstr ""
+"Kullanıcı sitenizi kesinlikle link ile açtığında göster.  Sonunda "
+"#ppsShowPopUp_%d olacaktır. Örneğin, <a href=\"%s\" target=\"_blank\">%s</a> "
+"( Sadece PRO versiyonda çalışır)"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:193
+msgid "On Link Follow"
+msgstr "Link takibinde"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:200
+msgid "Copy & paste next code - into end of required link on your site"
+msgstr "Kodu sitenizde gerekli linkin sonuna kopyalayıp yapıştırın."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:222
+msgid "PopUp will be build-in page content - as part of your page."
+msgstr "PopUp , sayfanızı bir parçası olarak sayfa içeriğine gömülecektir"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:223
+msgid "Build-In Page"
+msgstr "Dahili Sayfa"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:230
+msgid "Copy & paste next code - into required place in your page"
+msgstr "Sayfanızda gerekli yere aşağıdaki kodu kopyalayıp yapıştırın"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:237
+msgid "When to close PopUp"
+msgstr "PopUp kapatılması"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:243
+msgid "After user close it"
+msgstr "Kullanıcı kapatmasından sonra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:249
+msgid "Close PopUp when user clicks outside of the actually PopUp window."
+msgstr "Kullanıcı PopUp penceresinin dışını tıklanmasından sonra PopUp ı kapat"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:250
+msgid "Click outside PopUp"
+msgstr "PopUp dışı tıklama"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:258
+msgid ""
+"Will not allow user to close your PopUp - until finish at least one action: "
+"Subscribe, Share or Like."
+msgstr ""
+"Abone Ol, Paylaş veya Beğen gibi en az bir eylem gerçekleşmeden  önce "
+"kullanıcının  PopUp ı kapatmasına  izin verilmeyecektir."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:259
+msgid "Only after action (Subscribe / Share / Like)"
+msgstr "Sadece eylem ( Abone/Paylaş/Beğen) den sonra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:268
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:287
+msgid "Close after"
+msgstr "Sonra kapat"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:274
+msgid "Close PopUp after it will be visible during specified time."
+msgstr "Belirlenen  süre esnasında görünür olduktan sonra PopUp ı kapat"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:279
+msgid "After time passed"
+msgstr "süre geçtikten sonra"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:294
+msgid "Show on next pages"
+msgstr "İleri sayfalarda göster"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:300
+msgid "All pages"
+msgstr "Tüm sayfalar"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:306
+msgid "Show on next pages / posts"
+msgstr "Sonraki sayfalar/ yazılarda göster"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:309
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:318
+msgid "Choose Pages"
+msgstr "Sayfaları seç"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:315
+msgid "Don't show on next pages / posts"
+msgstr "sonraki sayfalar/yazılarda gösterme"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:321
+msgid "Time display settings"
+msgstr "Gösterim zamanı ayarları"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:327
+msgid "Set display time"
+msgstr "Gösterim zamanını ayarla"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:330
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:353
+msgid "From"
+msgstr "Başlangıç"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:336
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:357
+msgid "to"
+msgstr "Bitiş"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:344
+msgid "Date display settings"
+msgstr "Gösterim tarihi ayarları"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:350
+msgid "Set display date"
+msgstr "Gösterim tarihini ayarla"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:364
+msgid "Whom to show"
+msgstr "Kime gösterilecek"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:370
+msgid "Everyone"
+msgstr "Herkese"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:376
+msgid "For first-time visitors"
+msgstr "ilk kere ziyaret edenlere"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:379
+msgid ""
+"Will remember user visit for entered number of days and show PopUp to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+" girilen gün sayısı  sonrası kullanıcı eylemi hatırlanacak ve tekrar aynı "
+"kullanıcıya PopUp gösterilecektir . Sadece bir tarayıcı oturumunu hatırlama "
+"için  - burada 0 kullanın, sonsuza kadar hatırlamak için örneğin 99999 gibi "
+"büyük sayı giriniz ."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:380
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:396
+msgid "Remember for"
+msgstr "Hatırlama süresi:"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:385
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:401
+msgid "days"
+msgstr "gün"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:388
+msgid "Subscribe, share, like, etc."
+msgstr "Abone, paylaş, beğen, vs."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:392
+msgid "Until user makes an action"
+msgstr "Kullanıcı bir eylem yapıncaya kadar"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:395
+msgid ""
+"Will remember user action for entered number of days and show PopUp to same "
+"user again - after this period. To remember only for one browser session - "
+"use 0 here, to remember forever - try to set big number - 99999 for example."
+msgstr ""
+" girilen gün sayısı  sonrası kullanıcı eylemi hatırlanacak ve tekrar aynı "
+"kullanıcıya PopUp gösterilecektir . Sadece bir tarayıcı oturumunu hatırlama "
+"için  - burada 0 kullanın, sonsuza kadar hatırlamak için örneğin 99999 gibi "
+"büyük sayı giriniz ."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:405
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:420
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:435
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:451
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:466
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:485
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:503
+msgid "Click to revert feature function: from Hide - to Show, and vice versa."
+msgstr ""
+"Özellik fonksiyonunu ters çevirmek için tıklayınız - Göstermek veya tam "
+"tersi için."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:406
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:421
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:436
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:452
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:467
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:486
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:504
+msgid "Hide"
+msgstr "Gizle"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:406
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:421
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:436
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:452
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:467
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:486
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:504
+msgid "Show Only"
+msgstr "Göster sadece"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:411
+msgid "for Devices"
+msgstr "aşağıdaki cihazlar için"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:412
+msgid ""
+"You can make PopUp visible or hidden only when users will view your site "
+"from selected devices."
+msgstr ""
+"Kullanıcı sitenizi seçilmiş cihazlardan gözlemlerken , PopUp ları görünür ve "
+"gizlenmiş  yapabilirsiniz"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:417
+msgid "Choose devices"
+msgstr "Cihazları seç"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:426
+msgid "for Post Types"
+msgstr "Aşağıdaki Yazı Tipleri için"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:427
+msgid ""
+"You can make PopUp visible or hidden only for specified Post Types, for "
+"example - hide it on all Pages."
+msgstr ""
+"Sadece belirli sayfalar için  PopUp ları görünür ve gizlenmiş  "
+"yapabilirsiniz, örneğin tüm sayfalar için gizlemek gibi."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:432
+msgid "Choose post types"
+msgstr "Yazı tipini seç"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:441
+msgid "for IP"
+msgstr "IP için"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:442
+#, php-format
+msgid ""
+"For those IPs PopUp will not be displayed (or vice versa - depending on Hide/"
+"Show Only option). Please be advised that your IP - %s"
+msgstr ""
+"Bu IP'ler için PopUp için gösterilmeyecek (ya da tam tersi - Gizle/Göster "
+"seçeneğine bağlı olarak).  IP niz -% s olduğunu unutmayın lütfen."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:444
+msgid "Show IPs List"
+msgstr "IP Listesini Göster"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:457
+msgid "for Countries"
+msgstr "aşağıdaki ülkeler"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:458
+#, php-format
+msgid ""
+"For those Countries PopUp will not be displayed (or vice versa - depending "
+"on Hide/Show Only option). Please be advised that your Country code is %s"
+msgstr ""
+"Bu ülkeler için PopUp için gösterilmeyecek (ya da tam tersi - Gizle/Göster "
+"seçeneğine bağlı olarak). Ülke kodunuzun -% s olduğunu unutmayın lütfen."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:463
+msgid "Choose countries"
+msgstr "Ülkeleri seç"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:472
+msgid "for Languages"
+msgstr "Aşağıdaki Diller"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:473
+#, php-format
+msgid ""
+"For those Languages PopUp will not be displayed. Language is defined by "
+"visitor browser language. Please be advised that your browser language is %s"
+msgstr ""
+"Bu diller için PopUp için gösterilmeyecek (ya da tam tersi - Gizle/Göster "
+"seçeneğine bağlı olarak).  Tarayıcı dilinizin -% s olduğunu unutmayın  "
+"lütfen."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:479
+msgid "Choose languages"
+msgstr "Dilleri seç"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:481
+msgid "This feature is supported only in WordPress version 4.0.0 or higher"
+msgstr "Bu özellik WordPress 4.0.0 ve daha üst sürümlerinde desteklenmektedir."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:491
+msgid "for Search Engines or Social Media"
+msgstr "Aşağıdaki Arama Motorları veya Sosyal Medya için"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:492
+msgid ""
+"If user coming from those Search Engines - PopUp will not be displayed. This "
+"is helpfull when you want to hide or show your PopUp only for users, who "
+"come to your site from particular search engine."
+msgstr ""
+"Eğer kullanıcı bu Arama Motorlarından geliyorsa PopUp gösterilmeyecektir. "
+"Bu, sitenize belirli arama motorundan gelen kullanıcılar için PopUp ınızı "
+"göstermek ve gizlemek istediğinizde faydalıdır."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:497
+msgid "Choose Search Engines"
+msgstr "Arama Motorları Seç"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:509
+msgid "for URL match"
+msgstr "URL uyumu için"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:510
+#, php-format
+msgid ""
+"You can enter here URL pattern - and users with URL matched this pattern "
+"will not see (or vice versa) your PopUp. Use <a _target=\"_blank\" href=\"%s"
+"\">official documentation</a> about regular expression to make this work "
+"correctly."
+msgstr ""
+"Buraya URL  kalıbı girebilirsiniz - ve bu kalıp ile uyuşan  URL li "
+"kullanıcılar PopUp ınızı göremeyecekler ( veya tersi) .  Bunu doğru yapmak "
+"için   doğru formatlar hakkında  <a _target=\"_blank\" href=\"%s\">resmi "
+"dokümantasyonu</a> kullanınız."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:519
+msgid ""
+"Hide PopUp for Logged-in users and show it only for not Logged-in site "
+"visitors."
+msgstr ""
+"Giriş yapmış kullanıcılar için PoPUp ı gizle ve  sadece giriş yapmamış "
+"ziyaretçiler için göster."
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:522
+msgid "Hide for Logged-in"
+msgstr "Giriş Yapmış kullanıcılar için gizle"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:525
+msgid "IPs List"
+msgstr "IP listesi"
+
+#: modules/popup/views/tpl/popupEditAdminMainOpts.php:527
+msgid "Type here IPs that will not see PopUp, each IP - from new line"
+msgstr "Buraya PopUP ı görmeyecek IP leri giriniz - her satıra  bir IP"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:7
+msgid "Enable Social Buttons"
+msgstr "Sosyal düğmeleri etkinleştir"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:21
+msgid "Social links design"
+msgstr "Sosyal link tasarımı"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:31
+msgid "OR"
+msgstr "VEYA"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:34
+msgid ""
+"Connect <b>around 20 social networks</b> to your PopUp, with various lists "
+"of design settings, using our plugin <b>Social Share Buttons by Supsystic</b>"
+msgstr ""
+"  <b> Supsystic Sosyal Paylaş Düğmeleri</b> eklentimizi kullanarak, çeşitli "
+"tasarım ayarlarımızla  <b> 20 civarı sosyal ağı</b>   PopUp ınıza bağlayın, "
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:38
+msgid "Select Social Button Project"
+msgstr "Sosyal Düğme Projesini Seç"
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:49
+#, php-format
+msgid ""
+"You have no Social Sharing projects for now. <a href=\"%s\" target=\"_blank"
+"\" class=\"button button-primary\">Create your first project</a> - then just "
+"reload page with your PopUp settings, and you will see list with available "
+"Social Projects for your PopUp."
+msgstr ""
+"Şu anda Sosyal Paylaşım projeniz yok. <a href=\"%s\" target=\"_blank\" class="
+"\"button button-primary\">İlk projeni oluştur</a>,  daha sonra PopUp "
+"ayarlarınızla sayfayı yeniden yükle, mevcut Sosyal Projeleri listesini PopUp "
+"ınızda görebilirsiniz."
+
+#: modules/popup/views/tpl/popupEditAdminSmOpts.php:55
+#, php-format
+msgid ""
+"You need to install Social Share Buttons by Supsystic to use this feature. "
+"<a href=\"%s\" target=\"_blank\" class=\"button\">Install plugin</a> from "
+"your admin area, or visit it's official page on Wordpress.org <a href=\"%s\" "
+"target=\"_blank\">here.</a>"
+msgstr ""
+"Bu özelliği kullanmak için Supsystic Sosyal Paylaş Düğmelerini kurmanız "
+"gerekiyor. Yönetici alanından <a href=\"%s\" target=\"_blank\" class=\"button"
+"\">Eklenti Kurun</a>  veya <a href=\"%s\" target=\"_blank\">buradan </a>  "
+"WordPress.org  deki resmi sayfamızı ziyaret ediniz."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:7
+msgid "Enable Subscription"
+msgstr "Aboneliği Etkinleştir"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:14
+msgid "Subscribe to"
+msgstr "Abone ol"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:15
+msgid "Destination for your Subscribers."
+msgstr "Abonleriniz için hedef"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:25
+msgid "Create user with the chosen role after subscribing"
+msgstr "Abonelikten sonra seçili rol ile kullanıcı  yarat"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:26
+msgid ""
+"Use this only if you really need it. Remember! After you change this option "
+"- your new subscriber will have more privileges than usual subscribers, so "
+"be careful with this option!"
+msgstr ""
+"rEğer gerçekten ona ihtiyacın varsa bunu kullan. Hatırla !  Bu seçeneği "
+"değiştirdikten sonra yeni aboneler olağan abonelerden daha fazla "
+"ayrıcalıklara sahip olacaklar, bu yüzden bu seçeneği ile dikkatli olunuz!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:36
+msgid "Create Subscriber without confirmation"
+msgstr "Onay olmadan abone oluştur"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:37
+msgid ""
+"Usually, after user subscribes, we send an email with the confirmation link "
+"- to confirm the email address, and only after user clicks on the link from "
+"this email - we will create a new subscriber. This option allows you to "
+"create a subscriber - right after subscription, without the email "
+"confirmation process."
+msgstr ""
+"Normal olarak,  kullanıcı abone olduktan sonra, e-posta adresini teyit etmek "
+"için, teyit linki içeren bir e-posta göndeririz ,  ve kullanıcı e-postadaki "
+"linki tıkladıktan sonra yeni abone olarak oluştururuz. Bu seçenek, e-posta "
+"teyit süreci olmadan,  doğrudan abone oluşturmanıza imkan verir."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:46
+msgid "Export Subscribers"
+msgstr "Aboneleri Dışa Aktar"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:47
+msgid ""
+"Export all subscribers, who subscribed using WordPress \"Subscribe to\" "
+"method, as CSV file."
+msgstr ""
+"WordPress \"Abone Ol\" metodu ile abone olmuşların  hepsini CSV olarak dışa "
+"aktar"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:55
+msgid "Aweber Unique List ID"
+msgstr "Aweber Tekil List ID"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:56
+#, php-format
+msgid "Check <a href=\"%s\" target=\"_blank\">this page</a> for more details"
+msgstr ""
+"Daha fazla detay için  <a href=\"%s\" target=\"_blank\">bu sayfayı </"
+"a>inceleyiniz"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:65
+msgid "Aweber AD Tracking"
+msgstr "Aweber AD İzleme"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:66
+#, php-format
+msgid ""
+"You can easy track your subscribers from PopUp using this feature. For more "
+"info - check <a href=\"%s\" target=\"_blank\">this page</a>."
+msgstr ""
+"Bu özelliği kullanarak PopUp dan abonelerinizi daha kolay izleyebilirsiniz. "
+"Daha fazla detay için  <a href=\"%s\" target=\"_blank\">bu sayfayı </a> "
+"inceleyiniz."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:75
+msgid "MailChimp API key"
+msgstr "MailChimp API anahtarı"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:76
+#, php-format
+msgid ""
+"To find your MailChimp API Key login to your mailchimp account at <a href="
+"\"%s\" target=\"_blank\">%s</a> then from the left main menu, click on your "
+"Username, then select \"Account\" in the flyout menu. From the account page "
+"select \"Extras\", \"API Keys\". Your API Key will be listed in the table "
+"labeled \"Your API Keys\". Copy / Paste your API key into \"MailChimp API key"
+"\" field here. For more detailed instruction - check article <a href=\"%s\" "
+"target=\"_blank\">here</a>."
+msgstr ""
+"MailChimp API anahtarınızı bulmak için, <a href=\"%s\" target=\"_blank\">%s</"
+"a> deki MailChimp hesabınıza girin, daha sonra  soldaki ana menüden  "
+"Kullanıcı adınızı tıklayınız, ve açılır menüde \"Hesap\" ı seçiniz. Hesap "
+"sayfasından, \"Extras\" , \"API Anahtarı\" seçiniz. API anahtarınız, \"API "
+"Anahtarınız\" etiketli tablodan listelenmektedir. API anahtarınızı "
+"kopyalayın ve buradaki \"MailChimp API Anahtarı\" alanına yapıştırınız. Daha "
+"fazla bilgi için, <a href=\"%s\" target=\"_blank\">buradaki</a> makaleyi "
+"inceleyiniz."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:87
+msgid ""
+"Select lists for subscribe. They are taken from your MailChimp account - so "
+"make sure that you entered correct API key before."
+msgstr ""
+"Aboneler için liste seçiniz. Onlar MailChimp hesabınızdan alınacaktır - "
+"Doğru API anahtarı girdiğinizden önceden emin olun."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:96
+msgid "Enter API key - and your list will appear here"
+msgstr "API anahtarı gir - listeniz burada görüntülenecektir"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:102
+msgid "Disable double opt-in"
+msgstr "Çift doğrulamayı devre dışı bırak"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:103
+msgid ""
+"Disable double opt-in confirmation message sending - will create subscriber "
+"directly after he will sign-up to your form."
+msgstr ""
+"Çift doğrulama mesajı göndermeyi devre dışı bırak -  formunuzda kayıt olan "
+"doğrudan abone olacaktır"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:112
+msgid "Group for subscribe"
+msgstr "Abone Grubu"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:113
+msgid ""
+"In MailChimp there are possibility to select groups for your subscribers. "
+"This is not mandatory, but some times is really helpful. So, we added this "
+"possibility for you in our plugin too - hope you will like it!"
+msgstr ""
+"MailChimp de aboneleriniz için gruplar seçme imkanı vardır. Bu zorunlu "
+"değildir, fakat bazen gerçekten faydalıdır.  Bu nedenle, bu imkanı da sizin "
+"için eklentilerimize ekledik -onu  beğeneceğinizi ümit ediyoruz !"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:119
+msgid "Choose Groups"
+msgstr "Grup Seç"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:122
+msgid "Enter API key, select List - and your groups will appear here"
+msgstr "API anahtarı gir, listeyi seç - gruplarınız buradan görünecektir"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:129
+msgid "MailPoet Subscribe Lists"
+msgstr "MailPoet Abone listesi"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:138
+#, php-format
+msgid ""
+"You have no subscribe lists, <a target=\"_blank\" href=\"%s\">create lists</"
+"a> at first, then - select them here."
+msgstr ""
+"Abone listeniz yok , ilkin <a target=\"_blank\" href=\"%s\">liste yaratın</"
+"a>, sonra  onları buradan seçiniz."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:143
+#, php-format
+msgid ""
+"To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s"
+"\">MailPoet plugin</a> installed on your site"
+msgstr ""
+"Bu abone motorunu kullanmak için - sitenizde <a target=\"_blank\" href=\"%s"
+"\">MailPoet eklentisi</a> kurulu olmalıdır"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:170
+#, php-format
+msgid ""
+"To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s"
+"\">Jetpack plugin</a> installed on your site"
+msgstr ""
+"Bu abone motorunu kullanmak için - sitenizde <a target=\"_blank\" href=\"%s"
+"\">Jetpack eklentisi</a> kurulu olmalıdır"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:183
+msgid "Infusion Soft"
+msgstr "Infusion Soft"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:200
+msgid "Activate License or update PRO version plugin"
+msgstr "Lisansınızı etkinleştirin veya PRO sürüm eklentinizi güncelleyin"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:201
+msgid ""
+"Apparently - you have installed PRO version, but did not activate it license "
+"- then please activate it. Or you have old version of plugin - then you need "
+"go to Plugins page and Update PRO version plugin, after this go to License "
+"tab and re-activate license (just click one more time on \"Activate\" "
+"button)."
+msgstr ""
+"Görünüşe göre - PRO sürümü yüklediniz, fakat lisansınızı etkinleştirmediniz "
+"- lütfen onu  etkinleştiriniz. Veya eklentiniz eski sürümüne sahipseniz - "
+"Eklentiler sayfasına gidiniz ve PRO sürüm eklentiyi güncelleyiniz, Daha "
+"sonra Lisans Sekmesine  gidip, lisansı tekrar etkinleştiriniz ( \"Etkinleştir"
+"\" düğmesine  bir daha tıklayınız)"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:210
+#, php-format
+msgid "Enable %s with PRO"
+msgstr "%s i PRO ile etkinleştir"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:211
+#, php-format
+msgid ""
+"This is PRO feature, and it will be available once you will install <a href="
+"\"%s\" target=\"_blank\">PRO version</a> of our plugin"
+msgstr ""
+"Bu PRO özelliğidir, ve eklentilerimizin <a href=\"%s\" target=\"_blank\">PRO "
+"sürümünü</a> kurduğunuzda  mevcut olacaktır"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:215
+msgid "Get PRO"
+msgstr "PRO yu Satınal"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:222
+msgid "Subscribe with Facebook"
+msgstr "Facebook ile Abone Ol"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:223
+#, php-format
+msgid ""
+"Add button to your PopUp with possibility to subscribe just in one click - "
+"without filling fields in your subscribe form, <img src=\"%s\" />"
+msgstr ""
+"<img src=\"%s\" /> abone formunuzda alanları doldurmadan, tek bir tıklama "
+"ile abone olma imkanı vermek için düğme ekleyiniz"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:236
+msgid "Create WP user"
+msgstr "WP kullanıcısı oluştur"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:237
+msgid ""
+"Once user will subscribe to selected Subscription service - it will create "
+"WordPress Subscriber too. PLease be carefull using this option: "
+"WordPressusers will be created right after you submit your Subscribe form "
+"without confirmation."
+msgstr ""
+"Kullanıcı seçili Abonelik servisine abone olduğunda - ayın zamanda WordPress "
+"Abonesi de olacaktır.  Bu seçeneği kullanırken dikkatli olunuz:   Abone "
+"formunu onaysız gönderildikten sonra WordPress kullanıcıları "
+"oluşturulacaktır. "
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:246
+msgid "Test Email Function"
+msgstr "Test Email Fonksiyonu"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:247
+msgid ""
+"Email delivery depends from your server configuration. For some cases - you "
+"and your subscribers can not receive emails just because email on your "
+"server is not working correctly. You can easy test it here - by sending test "
+"email. If you receive it - then it means that email functionality on your "
+"server works well. If not - this means that it is not working correctly and "
+"you should contact your hosting provider with this issue and ask them to "
+"setup email functionality for you on your server."
+msgstr ""
+"E-posta teslimi sunucu yapılandırmasına bağlıdır. Bazı durumlarda - sunucu "
+"üzerinde e-posta düzgün çalışmıyor ise, siz ve aboneleriniz e-posta "
+"alamazsınız. Test e-posta göndererek buradan kolayca test edebilirsiniz . "
+"Eğer onu  alırsanız - o zaman sunucu üzerinde e-posta işlevselliği iyi "
+"çalışıyor demektir. Aksi takdirde - bu doğru çalışmıyor demektir ve bu "
+"problem için  barındırma sağlayıcınıza başvurup, sunucu üzerinde sizin için  "
+"e-posta  işlevselliği kurmalarını  isteyin."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:255
+msgid "Send Test Email"
+msgstr "Test Emaili Gönder"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:258
+msgid ""
+"Email was sent. Now check your email inbox / spam folders for test mail. If "
+"you don’t find it - it means that your server can't send emails - and you "
+"need to contact your hosting provider with this issue."
+msgstr ""
+"Email gönderildi. Şimdi test maili için,  e-posta gelen kutunuz / önemsizler "
+"klasörünü kontrol ediniz. Eğer onu bulamazsanız, sunucunuz e-posta "
+"göndermiyor demektir, bununla ilgili barındırma sağlayıcınız ile temasa "
+"geçiniz."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:266
+msgid "Subscription fields"
+msgstr "Abonelik alanları"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:267
+msgid ""
+"To change field position - just drag-&-drop it to required place between "
+"other fields. To add new field to Subscribe form - click on \"+ Add\" button."
+msgstr ""
+"Alan konumunu değiştirmek için -  diğer alanlar arasına sadece sürükleyip "
+"bırakın. Abone formuna yeni alanlar eklemek için \"+Ekle\" düğmesini "
+"tıklayınız."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:330
+msgid ""
+"This is the message that the user will see after subscription, when letter "
+"with confirmation link was sent."
+msgstr ""
+"Bu, onay linki olan  mail gönderildiği zaman,   abonelikten  sonra "
+"kullanıcının göreceği mesajdır."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:340
+msgid "Subscribe success message"
+msgstr "Başarılı abone mesajı"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:341
+msgid ""
+"Right after subscriber will be created and confirmed - this message will be "
+"shown."
+msgstr "Abone oluşturulduktan ve onaylandıktan sonra bu mesaj gösterilecektir."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:345
+#: modules/subscribe/controller.php:40
+msgid "Thank you for subscribing!"
+msgstr "Abone olduğunuz iöin teşekkürler!"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:362
+msgid "Email exists error message"
+msgstr "Mevcut e-posta hata mesajı"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:363
+msgid ""
+"If email that was entered by user already exists - user will see this "
+"message. But be careful: this can be used by hackers - to detect existing "
+"email in your database, so it's better for you to leave this message same as "
+"error message about invalid email above."
+msgstr ""
+"Eğer kullanıcı tarafından mevcut bir e-posta girilirse - kullanıcı bu mesajı "
+"görecektir. Fakat dikkatli olun: bu database deki mevcut e-postaları  "
+"belirlemek için hacker lar tarafından kullanılabilir, yukarıdaki geçersiz e-"
+"posta hakkında hata mesajı olarak bu aynı mesajı bırakmak daha iyi olabilir."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:373
+msgid "Redirect after subscription URL"
+msgstr "Abonelik URL den sonra yönlendir"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:374
+msgid ""
+"You can enable redirection after subscription, just enter here URL that you "
+"want to redirect to after subscribe - and user will be redirected there. If "
+"you don't need this feature - just leave this field empty."
+msgstr ""
+"Abonelikten sonra yeniden yönlendirmeyi etkinleştirebilirsiniz,  Abonelikten "
+"sonra yönlendirme istediğiniz URL yi buraya giriniz - Aboneler oraya "
+"yönlendirilecektir. Eğer bu özelliğe ihtiyacınız yoksa, bu alanı boş "
+"bırakınız."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:397
+#: modules/subscribe/models/subscribe.php:386
+msgid "Confirm subscription on [sitename]"
+msgstr "[sitename] de  aboneliği onayla"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:425
+#: modules/subscribe/models/subscribe.php:389
+msgid ""
+"You subscribed on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href="
+"\"[confirm_link]\">this link</a> to complete your subscription. If you did "
+"not subscribe here - just ignore this message."
+msgstr ""
+"<a href=\"[siteurl]\">[sitename]</a> sitesinde abone oldunuz. Aboneliğinizi "
+"tamamlamak için <a href=\"[confirm_link]\">bu linki</a> takip ediniz. eğer "
+"buraya siz abone olmadıysanız, bu mesajı ihmal ediniz."
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:428
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:472
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:525
+msgid "Add Attach"
+msgstr "Dosya Ekle"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:434
+msgid "New Subscriber email subject"
+msgstr "Yeni Abone e-posta konusu"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:435
+msgid "Email to New Subscriber subject"
+msgstr "Yeni Abone konusuna Email"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:447
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:448
+msgid "New Subscriber email From field"
+msgstr "Yeni Abone e-posta gönderen alanı"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:460
+msgid "New Subscriber email text"
+msgstr "Yeni Abone e-posta metni"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:461
+msgid "Email to New Subscriber content"
+msgstr "Yeni Abone içeriğine Email"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:478
+msgid "Redirect if email already exists"
+msgstr "Eğer e-posta mevcut ise yeniden yönlendir"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:479
+msgid "Link to redirect to if user subscribes - but this email already exists"
+msgstr ""
+"Eğer kullanıcı abone olursa yönlendirme için link - fakat bu e-posta zaten "
+"mevcut"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:492
+msgid "Submit button name"
+msgstr "Gönder düğmesi ismi"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:500
+msgid "New Subscriber Notification"
+msgstr "Yeni Abone Bildirimi"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:513
+msgid "New Subscriber Notification email text"
+msgstr "Yeni Abone Bildirimi e-posta metni"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:514
+msgid "Message that you will receive about new subscribers on your site."
+msgstr "Sitenizde yeni abonelik hakkında alacağınız mesaj"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:522
+#: modules/subscribe/models/subscribe.php:81
+msgid ""
+"You have new subscriber on your site <a href=\"[siteurl]\">[sitename]</a>, "
+"here is subscriber information:<br />[subscriber_data]"
+msgstr ""
+"<a href=\"[siteurl]\">[sitename]</a> sitenizde  yeni aboneye sahipsiniz.,  "
+"Abone bilgileri buradadır:<br />[subscriber_data]"
+
+#: modules/popup/views/tpl/popupEditAdminSubOpts.php:570
+msgid "Select File"
+msgstr "Dosya Seç"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:19
+msgid "Text block"
+msgstr "Metin bloğu"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:19
+#, php-format
+msgid "Text block %d"
+msgstr "Text block  %d"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:39
+msgid "Button block"
+msgstr "Düğme Bloğu"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:39
+#, php-format
+msgid "Button block %d"
+msgstr "Düğme bloğu %d"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:44
+msgid "Button Name"
+msgstr "Düğme İsmi"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:50
+msgid "Button URL"
+msgstr "Düğme URL si"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:56
+msgid "or close PopUp on click"
+msgstr "veya PopUp ı tıklayarak kapat"
+
+#: modules/popup/views/tpl/popupEditAdminTextsOpts.php:73
+msgid "Foot note"
+msgstr "Dip Not"
+
+#: modules/popup/views/tpl/popupEditAdminTplOpts.php:3
+msgid "Change PopUp Template"
+msgstr "PopUp şablonunu değiştir"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:1
+msgid "Click to Edit"
+msgstr "Düzenlemek için Tıkla"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:9
+msgid "Save all changes"
+msgstr "Bütün değişiklikleri kaydet"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:13
+msgid "Clone to New PopUp"
+msgstr "Yeni PopUp olarak çoğalt"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:15
+msgid "Clone"
+msgstr "Çoğalt"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:19
+msgid "Preview"
+msgstr "Önizleme"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:21
+msgid "Turn Off"
+msgstr "Kapat"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:21
+msgid "Turn On"
+msgstr "Aç"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:27
+msgid "Delete"
+msgstr "Sil"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:34
+msgid "New Name"
+msgstr "Yeni İsim"
+
+#: modules/popup/views/tpl/popupEditFormControls.php:35
+msgid "Copy"
+msgstr "Kopyala"
+
+#: modules/sm/mod.php:31
+msgid "Google+"
+msgstr "Google+"
+
+#: modules/sm/mod.php:32
+msgid "Twitter"
+msgstr "Twitter"
+
+#: modules/sm/mod.php:56
+msgid "Simple"
+msgstr "Simple"
+
+#: modules/sm/mod.php:57
+msgid "Boxy"
+msgstr "Boxy"
+
+#: modules/statistics/controller.php:40
+#, php-format
+msgid "Statistics for %s"
+msgstr "%s için istatistikler"
+
+#: modules/statistics/controller.php:42
+msgid "Date"
+msgstr "Tarih"
+
+#: modules/statistics/controller.php:43
+msgid "Views"
+msgstr "Gösterim"
+
+#: modules/statistics/controller.php:44
+msgid "Unique Views"
+msgstr "Tekil Gösterim"
+
+#: modules/statistics/controller.php:45
+msgid "Actions"
+msgstr "Eylemler"
+
+#: modules/statistics/controller.php:46
+msgid "Conversion"
+msgstr "Dönüşüm"
+
+#: modules/statistics/mod.php:11
+msgid "Displayed"
+msgstr "Gösterilen"
+
+#: modules/statistics/mod.php:12
+msgid "Subscribed"
+msgstr "Abone Olundu"
+
+#: modules/statistics/mod.php:13
+msgid "Shared"
+msgstr "Paylaşıldı"
+
+#: modules/statistics/mod.php:14
+msgid "Facebook Liked"
+msgstr "Facebook Beğenildi"
+
+#: modules/statistics/mod.php:16
+msgid "Registration"
+msgstr "Kayıt"
+
+#: modules/statistics/mod.php:27
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: modules/statistics/models/statistics.php:35
+#: modules/subscribe/models/subscribe.php:452
+msgid "Send me some info, pls"
+msgstr "Bana biraz bilgi gönder lütfen"
+
+#: modules/statistics/models/statistics.php:165
+msgid "No data found"
+msgstr "Bilgi bulunamadı"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:4
+#, php-format
+msgid ""
+"Want to increase conversion, subscribers and social share? <a target=\"_blank"
+"\" href=\"%s\" class=\"button\">Get know - how!</a>"
+msgstr ""
+"Dönüşüm, Aboneler ve sosyal paylaşımı artırmak ister misiniz?  <a target="
+"\"_blank\" href=\"%s\" class=\"button\">Öğren - Nasıl !</a>"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:8
+msgid "Main PopUp Usage Statistics"
+msgstr "Ana PopUp Kullanım İstatistikleri"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:10
+msgid "Clear selection"
+msgstr "Seçimi temizle"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:12
+msgid "To"
+msgstr "Bitiş"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:26
+msgid "Reset Zoom"
+msgstr "Yakınlaştırmayı Sıfırla"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:31
+msgid "Group by"
+msgstr "Grupla :"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:32
+msgid "Hour"
+msgstr "Saat"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:33
+msgid "Day"
+msgstr "Gün"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:34
+msgid "Week"
+msgstr "Hafta"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:35
+msgid "Month"
+msgstr "Ay"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:37
+msgid "Export to CSV"
+msgstr "CSV olarak dışa aktar"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:42
+msgid "Clear data"
+msgstr "datayı temizle"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:48
+msgid "You can Zoom In by allocating mouse on Graph area."
+msgstr "Çizim alanında fareyi ayırarak Büyütme yapabilirsiniz."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:51
+msgid "Ratio of All Actions"
+msgstr "Tüm Eylemlerin Oranı"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:56
+msgid ""
+"Once you will have enough different statistics - like shares, subscribes, "
+"likes - you will be able to see here which action is used more or less "
+"frequently."
+msgstr ""
+"Eğer paylaşma, abonelik, beğenme gibi yeterli istatistiğe sahipseniz, "
+"eylemlerin kullanılma sıklığını buradan aşağı yukarı görebilirsiniz."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:60
+msgid "Ratio of All Social Share"
+msgstr "Tüm Sosyal Paylaşımların Oranı"
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:65
+msgid ""
+"Once you will have enough different statistics about share from PopUp on "
+"social media, you will be able to see here which social media is used more "
+"or less frequently."
+msgstr ""
+"Eğer sosyal medyadaki PopUp lardan paylaşım hakkında yeterli istatistiğe "
+"sahipseniz, hangi sosyal medyanın ne kadar   kullanıldığını buradan aşağı "
+"yukarı görebilirsiniz."
+
+#: modules/statistics/views/tpl/statPopupEditTab.php:72
+#, php-format
+msgid ""
+"You have no statistics for \"%s\" PopUp for now. Setup its options and wait "
+"until users will view it on your site."
+msgstr ""
+"\"%s\" PopUp için şu an istatistikiniz yoktur.Seçenekleri set ettikten "
+"sonra, kullanıcıların onu sitenizde görünceye kadar bekleyiniz."
+
+#: modules/subscribe/controller.php:113
+#, php-format
+msgid "Registered from %s"
+msgstr "%s den kayıtlı"
+
+#: modules/subscribe/controller.php:114
+#, php-format
+msgid "Subscribed to %s"
+msgstr "%s e Abone olmuş"
+
+#: modules/subscribe/controller.php:128
+msgid "Activated"
+msgstr "Etkinleştirildi"
+
+#: modules/subscribe/controller.php:129
+msgid "PopUp ID"
+msgstr "PopUp ID"
+
+#: modules/subscribe/controller.php:130
+msgid "Date Created"
+msgstr "Yaratılma Tarihi"
+
+#: modules/subscribe/controller.php:165
+msgid "There are no members for now"
+msgstr "Şimdilik üye yok"
+
+#: modules/subscribe/controller.php:166
+msgid "There are no subscribers for now"
+msgstr "Şimdilik abone yok"
+
+#: modules/subscribe/mod.php:7
+msgid "WordPress"
+msgstr "WordPress"
+
+#: modules/subscribe/mod.php:8
+msgid "Aweber"
+msgstr "Aweber"
+
+#: modules/subscribe/mod.php:9
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: modules/subscribe/mod.php:10
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: modules/subscribe/mod.php:12
+msgid "Jetpack"
+msgstr "Jetpack"
+
+#: modules/subscribe/models/subscribe.php:50
+msgid "Something goes wrong"
+msgstr "Birşeyler yanlış gidiyor"
+
+#: modules/subscribe/models/subscribe.php:77
+msgid "New Subscriber notification"
+msgstr "Yeni Abone uyarısı"
+
+#: modules/subscribe/models/subscribe.php:78
+#, php-format
+msgid "New Subscriber on %s"
+msgstr "%s de Yeni Abone"
+
+#: modules/subscribe/models/subscribe.php:136
+#, php-format
+msgid "Please check %s"
+msgstr "lütfen %s i kontrol ediniz"
+
+#: modules/subscribe/models/subscribe.php:173
+msgid "Can't detect your IP, please don't spam"
+msgstr "IP niz tespit edilemedi, lütfen spam yapmayınız"
+
+#: modules/subscribe/models/subscribe.php:205
+msgid "You just subscribed from this IP"
+msgstr "Bu IP den abone olunmuş"
+
+#: modules/subscribe/models/subscribe.php:321
+msgid "Can't registrate for now. Please try again later."
+msgstr "Şimdi kayıt yapılamıyor, Lütfen daha sonra tekrar deneyiniz."
+
+#: modules/subscribe/models/subscribe.php:321
+msgid "Can't subscribe for now. Please try again later."
+msgstr "Şimdi abone olunamıyor, Lütfen daha sonra tekrar deneyiniz."
+
+#: modules/subscribe/models/subscribe.php:489
+msgid ""
+"MailChimp requires CURL to be setup on your server. Please contact your "
+"hosting provider and ask them to setup CURL library for you."
+msgstr ""
+"MailChimp, sunucunuzda CURL gerektirir. Lütfen barındırma sağlayıcınızla "
+"görüşünüz ve CURL kütüphanesinin set edilmesini isteyiniz."
+
+#: modules/subscribe/models/subscribe.php:513
+#: modules/subscribe/models/subscribe.php:547
+msgid ""
+"There was some problem while trying to get your lists. Make sure that your "
+"API key is correct."
+msgstr ""
+"Listenizi  alırken problemler oluştu. API anahtarınızın doğru olduğundan "
+"emin olunuz."
+
+#: modules/subscribe/models/subscribe.php:517
+#: modules/subscribe/models/subscribe.php:555
+msgid "Empty API key"
+msgstr "Boş API anahtarı"
+
+#: modules/subscribe/models/subscribe.php:553
+msgid "Select some Lists before"
+msgstr "Önceden bazı listeler seçiniz"
+
+#: modules/subscribe/models/subscribe.php:627
+msgid ""
+"Something going wrong while trying to send data to MailChimp. Please contact "
+"site owner."
+msgstr ""
+"MailChimp e bilgi gönderirken bazı hatalar oluştu. Lütfen site sahibi ile "
+"görüşünüz"
+
+#: modules/subscribe/models/subscribe.php:646
+msgid ""
+"No API key entered in admin area - contact site owner to resolve this issue."
+msgstr ""
+"Yönetici alanında API anahtarı mevut değil - Bunu çözmek için site sahibi "
+"ile görüşünüz."
+
+#: modules/subscribe/models/subscribe.php:738
+msgid "Some error occured during subscription process"
+msgstr "Abonelik süreci esnasında bazı hatalar oluştu"
+
+#: modules/subscribe/models/subscribe.php:741
+msgid "Can't find MailPoet on this server"
+msgstr "Bu sunucuda MailPoet bulunamadı"
+
+#: modules/subscribe/models/subscribe.php:789
+msgid "Not a valid email address"
+msgstr "Email adresi geçersiz"
+
+#: modules/subscribe/models/subscribe.php:790
+msgid "Not a valid post ID"
+msgstr "Post ID geçersiz"
+
+#: modules/subscribe/models/subscribe.php:791
+msgid "Unknown post"
+msgstr "Bilinmeyen yazı"
+
+#: modules/subscribe/models/subscribe.php:792
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com could subscribe the email."
+msgstr ""
+"Değişik hata. WordPress.com daki Jetpack sunucusu e-posta abone yapacak."
+
+#: modules/subscribe/models/subscribe.php:793
+msgid "Site owner has disabled subscriptions."
+msgstr "Site sahibi bu aboneliği iptal etti."
+
+#: modules/subscribe/models/subscribe.php:794
+msgid "Already subscribed."
+msgstr "Zaten abone olunmuş"
+
+#: modules/subscribe/models/subscribe.php:795
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com returned something "
+"malformed."
+msgstr "Değişik "
+
+#: modules/subscribe/models/subscribe.php:796
+msgid ""
+"Strange error.  Jetpack servers at WordPress.com returned something I didn't "
+"understand."
+msgstr ""
+"Değişik hata. WordPress.com daki Jetpack sunucusu anlamadığım bir şey "
+"döndürdü."
+
+#: modules/subscribe/models/subscribe.php:799
+msgid "SOmething is going wrong"
+msgstr "Birşeyler kötü gidiyor"
+
+#: modules/subscribe/models/subscribe.php:805
+msgid "Empty response from Jetpack"
+msgstr "Jetpack den boş cevap"
+
+#: modules/subscribe/models/subscribe.php:807
+msgid ""
+"Subscriptions module is not activated in Jetpack plugin settings. Activate "
+"it before start using this subscribe method."
+msgstr ""
+"Abonelik modülü Jetpack eklenti ayarlarında etkinleştirmemiş. Bu abonelik "
+"metodunu kullanmaya başlamadan önce onu etkinleştirin."
+
+#: modules/subscribe/models/subscribe.php:809
+msgid "Can't find Jetpack plugin on this server"
+msgstr "Bu sunucu da Jetpack eklentisi bulunamadı"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:10
+msgid "Registration Confirmation"
+msgstr "Kayıt Onay"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:11
+msgid "Subscribe Confirmation"
+msgstr "Abonelik Onay"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:53
+msgid "Some errors occured while trying to registrate"
+msgstr "Kayıt esnasında bazı hatalar oluştu"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:54
+msgid "Some errors occured while trying to subscribe"
+msgstr "Abonelik esnasında bazı hatalar oluştu"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:75
+msgid "Registration confirmed"
+msgstr "Kayıt onaylandı"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:76
+msgid "Subscription confirmed"
+msgstr "Abonelik onaylandı"
+
+#: modules/subscribe/views/tpl/subSuccessPage.php:81
+#, php-format
+msgid ""
+"<a href=\"%s\">Back to site</a> in <i id=\"ppsConfirmBackCounter\">%d</i> "
+"seconds"
+msgstr ""
+"  <a href=\"%s\">Siteye geri dön</a> : <i id=\"ppsConfirmBackCounter\">%d</"
+"i>  saniyede"
+
+#: modules/supsystic_promo/controller.php:7
+#: modules/supsystic_promo/controller.php:100
+#: modules/supsystic_promo/controller.php:108
+#: modules/supsystic_promo/controller.php:116
+msgid "Information was saved. Thank you!"
+msgstr "Bilgiler kaydedildi, Teşekkürler!"
+
+#: modules/supsystic_promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+"Lütfen iletişim isteklerini bu kadar sık göndermeyiniz - Bir önceki "
+"istediğiniz cevabını bekleyiniz."
+
+#: modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "Lütfen geçerli bir e-posta adresi giriniz"
+
+#: modules/supsystic_promo/mod.php:36
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+"<h3>Merhaba, haftada %s  kullandığınızı fark ettik –  Bu harika!</h3><p> "
+"Bana büyük bir iyilik yapar mısınız ve  WordPress üzerinde   5 yıldızlı "
+"derecelendirme verebilir misiniz? Sadece bize yardım etmek  ve "
+"motivasyonumuzu artırmaya yardımcı olması için. </p>"
+
+#: modules/supsystic_promo/mod.php:37 modules/supsystic_promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr "Tamam, onu hak ettiniz"
+
+#: modules/supsystic_promo/mod.php:38 modules/supsystic_promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr "Hayır, belki sonra"
+
+#: modules/supsystic_promo/mod.php:39
+msgid "I already did"
+msgstr "Zaten yaptım"
+
+#: modules/supsystic_promo/mod.php:40
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3> %s eklentimiz ile 11 günden daha fazla - Tebrikler!</h3>"
+
+#: modules/supsystic_promo/mod.php:41
+msgid ""
+"<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank"
+"\">supsystic.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you.</p>"
+msgstr ""
+"<p>Tüm  <a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</"
+"a> şirketi adına  ,  bizimle olduğunuz için teşekkür etmek istiyorum, ve "
+"gerçekten  yazılımımızın size yardımcı olacağını umuyoruz.</p>"
+
+#: modules/supsystic_promo/mod.php:42
+msgid ""
+"<p>And today, if you want, - you can help us. This is really simple - you "
+"can just add small promo link to our site under your PopUps. This is small "
+"step for you, but a big help for us! Sure, if you don't want - just skip "
+"this and continue enjoy our software!</p>"
+msgstr ""
+"<p>Ve bugün, isterseniz, - bize yardımcı olabilirsiniz. Bu gerçekten son "
+"basit - PopUp ınız altına sitemizin küçük bir promosyon linkini "
+"koyabilirsiniz. Bu sizin için küçük bir adım, fakat bize büyük yardım! Emin "
+"ol, istemiyorsan bunu atla ve yazılımımızın zevkini çıkarmaya devam et!</p>"
+
+#: modules/supsystic_promo/mod.php:45
+msgid "Skip"
+msgstr "Atla"
+
+#: modules/supsystic_promo/mod.php:92
+msgid "Overview"
+msgstr "Genel Bakış"
+
+#: modules/supsystic_promo/mod.php:99
+msgid "Constant Contact - PRO"
+msgstr "Constant Contact - PRO"
+
+#: modules/supsystic_promo/mod.php:100
+msgid "Campaign Monitor - PRO"
+msgstr "Campaign Monitor - PRO"
+
+#: modules/supsystic_promo/mod.php:101
+msgid "Vertical Response - PRO"
+msgstr "Vertical Response - PRO"
+
+#: modules/supsystic_promo/mod.php:102
+msgid "SendGrid - PRO"
+msgstr "SendGrid - PRO"
+
+#: modules/supsystic_promo/mod.php:103
+msgid "GetResponse - PRO"
+msgstr "GetResponse - PRO"
+
+#: modules/supsystic_promo/mod.php:105
+msgid "Active Campaign - PRO"
+msgstr "Active Campaign - PRO"
+
+#: modules/supsystic_promo/mod.php:106
+msgid "Mailrelay - PRO"
+msgstr "Mailrelay - PRO"
+
+#: modules/supsystic_promo/mod.php:107
+msgid "arpReach - PRO"
+msgstr "arpReach - PRO"
+
+#: modules/supsystic_promo/mod.php:108
+msgid "SG Autorepondeur - PRO"
+msgstr "arpReach - PRO"
+
+#: modules/supsystic_promo/mod.php:109
+msgid "Benchmark - PRO"
+msgstr "Benchmark - PRO"
+
+#: modules/supsystic_promo/mod.php:110
+msgid "InfusionSoft - PRO"
+msgstr "InfusionSoft - PRO"
+
+#: modules/supsystic_promo/mod.php:111
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr "SalesForce - Web-to-Lead - PRO"
+
+#: modules/supsystic_promo/mod.php:218
+msgid "Website"
+msgstr "Web sitesi"
+
+#: modules/supsystic_promo/mod.php:219
+msgid "Subject"
+msgstr "Konu Başlığı"
+
+#: modules/supsystic_promo/mod.php:220
+msgid "Topic"
+msgstr "Konu"
+
+#: modules/supsystic_promo/mod.php:221
+msgid "Plugin options"
+msgstr "Eklenti seçenekleri"
+
+#: modules/supsystic_promo/mod.php:222
+msgid "Report a bug"
+msgstr "Hata bildir"
+
+#: modules/supsystic_promo/mod.php:223
+msgid "Require a new functionality"
+msgstr "Yeni bir işlevsellik isteği"
+
+#: modules/supsystic_promo/mod.php:224
+msgid "Other"
+msgstr "Diğer"
+
+#: modules/supsystic_promo/mod.php:226
+msgid "Message"
+msgstr "Mesaj"
+
+#: modules/supsystic_promo/mod.php:226
+msgid "Hello Supsystic Team!"
+msgstr "Merhaba Supsystic Takımı!"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:25
+msgid "Why Popup by Supsystic is \"must have\" for your website?"
+msgstr "Neden  Supsystic PopUp ı siteniz için olmazsa olmaz?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:26
+#, php-format
+msgid ""
+"Increase your sales by 500%% using Popup by Supsystic! More subscribers = "
+"more sales! It's that simple!<br />More info you can find here <a target="
+"\"_blank\" href=\"%s\">Popup by Supsystic is \"must have\" for your website</"
+"a>"
+msgstr ""
+"Supsystic PopUp kullanarak satışlarınızı %%500  artırın ! Daha fazla abone = "
+"daha fazla satış ! Bu kadar basit!<br /> Daha fazla bilgiyi buradan "
+"bulabilirsiniz <a target=\"_blank\" href=\"%s\">Neden  Supsystic PopUp ı "
+"siteniz için olmazsa olmaz?</a> "
+
+#: modules/supsystic_promo/views/supsystic_promo.php:27
+msgid "What is A/B testing?"
+msgstr "A/B Test nedir?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:28
+#, php-format
+msgid ""
+"A/B testing is one of the easiest ways to increase conversion rates and "
+"learn more about your audience!<br />A/B test in Popup plugin involves "
+"testing two or more versions of a popup window - an A version (original) and "
+"a B versions (the variation) - with live traffic and measuring the effect "
+"each version has on your conversion rate.<br />To know more detail – click "
+"<a target=\"_blank\" href=\"%s\">here</a>"
+msgstr ""
+"A / B testi dönüşüm oranlarını artırmak ve kitleniz hakkında daha fazla "
+"bilgi edinmek için en kolay yollarından biridir <br />PopUp eklentisindeki  "
+"A / B testi   bir pop-up pencerenin  iki ya da daha fazla sürümünü içerir! - "
+"A sürümü (orijinal) ve B sürümü (varyasyon) - canlı trafik ve her versiyonun "
+"etkisini ölçerek   dönüşüm oranı üzerindeki mevcuttur.  <br />Daha fazla "
+"ayrıntı öğrenmek için   <a target=\"_blank\" href=\"% s\"> burayı</  a> "
+"tıklayınız."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:29
+msgid "How to enable subscription to Aweber?"
+msgstr "Aweber a abonelik nasıl etkinleştirilir?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:30
+#, php-format
+msgid ""
+"In order to subscribe to Aweber you need to know unique list id of your "
+"aweber account - check this <a target=\"_blank\" href=\"%s\">page</a> for "
+"more details."
+msgstr ""
+"AWeber aboneliği için AWeber hesabınızın benzersiz liste kimliğini bilmeniz "
+"gerekir - Daha fazla ayrıntı için bu <a target=\"_blank\" href=\"%s\"> "
+"sayfayı </a> kontrol edin."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:31
+msgid "How to subscribe to MailChimp?"
+msgstr "MailChimp e nasıl abone olunur?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:32
+msgid ""
+"To subscribe to MailChimp you need enter your MailChimp API key and name of "
+"list for subscription. To find your MailChimp API key - follow the "
+"instructions below:<br />\n"
+"\t\t\t\t1. Login to your mailchimp account at http://mailchimp.com<br />\n"
+"\t\t\t\t2. From the left main menu, click on your Username, then select "
+"\"Account\" in the flyout menu.<br />\n"
+"\t\t\t\t3. From the account page select \"Extras\" -> \"API Keys\".<br />\n"
+"\t\t\t\t4. Your API Key will be listed in the table labeled \"Your API Keys"
+"\".<br />\n"
+"\t\t\t\t5. Copy / Paste your API key into \"MailChimp API key\" field in "
+"PopUp edit screen -> Subscribe section."
+msgstr ""
+" MailChimp  e abone olmak için,   MailChimp API anahtarını ve abonelik "
+"listenizin adını girmeniz gerekir . \n"
+"MailChimp API anahtarını bulmak için - aşağıdaki yönergeyi takip ediniz:<br /"
+">\n"
+"\t\t\t\t1.  http://mailchimp.com den MailChimp hesabınıza giriş yapınız<br /"
+">\n"
+"\t\t\t\t2. Soldaki ana menüden ,kullanıcı adınızı tıklayınız, daha sonra  "
+"açılır menüden  \"Account\" seçiniz.<br />\n"
+"\t\t\t\t3.  Hesabınızdan \"Extras\"  ı seçiniz-> \"API Keys\".<br />\n"
+"\t\t\t\t4.   API anahtarınız \"Your API Keys\" etiketli tabloda "
+"listelenecektir.<br />\n"
+"\t\t\t\t5.   API anahtarınızı PopUp düzenle ekranındaki daki  \"MailChimp "
+"API anahtarı\" alanına yapıştırınız -> Abone kısmı."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:38
+msgid "Where to find css code for the pop-up window?"
+msgstr "pop -up penceresinin css kodunu nerede bulabilirim?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:39
+msgid ""
+"With Popup by Supsystic you can edit CSS style directly from the plugin. "
+"<br />\n"
+"\t\t\t\tIn WordPress admin area - \n"
+"go to Popup by Supsystic -> choose a popup, what you need -> click Code tab. "
+"<br />\n"
+"Here you can edit css style of the pop-up window."
+msgstr ""
+"Supsystic PopUp ile CSS stilinizi  doğrudan eklenti içinden "
+"düzenleyebilirsiniz.<br />\n"
+"\t\t\t\tIn WordPress yönetici alanı - \n"
+"  Popup by Supsystic a git -> istediğin  bir popup ı seç ->Kod Sekmesini "
+"tıkla. <br />\n"
+"pop-up penceresinin css stilini buradan düzenleyebilirsiniz."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:43
+msgid "How to get PRO version of plugin for FREE?"
+msgstr "Bu  eklentinin PRO sürümünü ÜCRETSİZ nasıl elde edebilirim?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:44
+#, php-format
+msgid ""
+"You have an incredible opportunity to get PRO version for free. Make "
+"Translation of the plugin! It will be amazing if you take advantage of this "
+"offer!<br />\n"
+"\t\t\t\t\tMore info you can find here <a target=\"_blank\" href=\"%s\">“Get "
+"PRO version of any plugin for FREE”</a>"
+msgstr ""
+"PRO sürümünü ücretsiz elde etmek için inanılmaz bir imkanınız var. "
+"Eklentinin tercümesini yapın! Bu teklifin avantajından  yararlanmak  "
+"şaşırtıcı olacaktır!<br />\n"
+"\t\t\t\t\tDaha fazla bilgiyi buradan bulabilirsiniz.<a target=\"_blank\" "
+"href=\"%s\">“Eklentinin PRO Sürümünü ÜCRETSİZ  edinin”</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+msgid "Translation"
+msgstr "Tercüme"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:47
+#, php-format
+msgid ""
+"All available languages are provided with the Supsystic Popup plugin. If "
+"your language isn’t available, your plugin will be in English by default."
+"<br />\n"
+"\t\t\t\t\tAvailable Translations: English, French, German, Spanish, "
+"Russian<br />\n"
+"\t\t\t\t\tTranslate or update a translation Popup WordPress plugin in your "
+"language and get a Premium license for FREE. <a target=\"_blank\" href=\"%s"
+"\">Contact us.</a>"
+msgstr ""
+"Mevcut tüm diller Supsystic PopUp eklentisi ile sağlanır. Diliniz mevcut "
+"değilse,  eklentiniz varsayılan olarak İngilizce olacaktır.<br />\n"
+"\t\t\t\t\tMevcut Tercümeler: Almanca, İngilizce, Fransızca, Almanca, "
+"İspanyolca, Rusça<br />\n"
+"\t\t\t\t\t Popup WordPress eklentisini dilinize  tercüme edin  ya da "
+"güncelleyin ve ÜCRETSİZ Premium lisans alın. <a target=\"_blank\" href=\"%s"
+"\">Bizimle İletişime geçin.</a>"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Where's my subscribers?"
+msgstr "Abonelerim nerede?"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:55
+#, php-format
+msgid ""
+"By default all subscribers add to the WordPress. \n"
+"\t\t\t\t\tTo find your subscribers go to Users tab on the left navigation "
+"menu of WordPress admin area. \n"
+"\t\t\t\t\tAlso available subscription to the Aweber, MailChimp, MailPoet <a "
+"href='%s' target='_blank'>and other</a>. \n"
+"\t\t\t\t\tIf you want to add another subscription service - just <a "
+"href='%s' target='_blank'>contact us</a> and provide URL of the subscription "
+"service."
+msgstr ""
+"Varsayılan olarak tüm aboneler WordPress eklenir. \n"
+"\t\t\t\t\tAboneleri bulmak için WordPress yönetici alanının solundaki "
+"navigasyon menüsünde Kullanıcılar sekmesine gidin. \n"
+"\t\t\t\t\tAyrıca AWeber, MailChimp, MailPoet  <a href='%s  "
+"target='_blank'>ve diğer</a> aboneleri mevcuttur. \n"
+"\t\t\t\t\tBaşka bir abonelik hizmeti eklemek istiyorsanız - <a href='%s  "
+"target='_blank'> bize ulaşın </a> ve abonelik hizmeti URL'sini sağlayalım."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:59
+msgid "PopUp doesn't appear on the website"
+msgstr "PopUp web sitemde gözükmüyor"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:60
+#, php-format
+msgid ""
+"If you setup you're PopUp properly, and it still doesn't show on the page - "
+"there are can be conflict with your WordPress theme or other plugins. <a "
+"href='%s' target='_blank'>Contact us</a> with the URL of the webpage you add "
+"popup and screenshots / text of the error messages, if you have one - and we "
+"will help you resolve your issue."
+msgstr ""
+"Eğer PopUP ayarlarınız düzgün ve sayfanızda hala gözükmüyor ise - WordPress "
+"temanız veya eklentileriniz arasında bir çakışma olabilir.  PopUP "
+"eklediğiniz web sitenizin URL si ve ekran görüntüsü/ hata mesajları ile <a "
+"href='%s' target='_blank'>Bize ulaşın</a>, probleminizi çözmek için size "
+"yardımcı olacağız."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+#, php-format
+msgid ""
+"There were some problems while trying to retrieve our news, but you can "
+"always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+" haberlerimizi  almaya çalışırken bazı sorunlar vardı, ama her zaman tüm "
+"listeyi <a target=\"_blank\" href=\"%s\">buradan</a>ni kontrol edebilirsiniz."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:85
+msgid "Undefined"
+msgstr "Tanımlanmamış"
+
+#: modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:9
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:10
+msgid "Available in PRO"
+msgstr "PRO sürümünde mevcut"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Sürüm"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr "Git"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr "PRO"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:15
+#: modules/supsystic_promo/views/tpl/welcomePage.php:28
+msgid "Support"
+msgstr "Destek"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:4
+#, php-format
+msgid "Welcome to %s plugin!"
+msgstr " %s eklentisine hoş geldiniz!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:5
+#, php-format
+msgid ""
+"Thank you for choosing our %s plugin. Just click here to start using it - "
+"and we will show you it's possibilities and powerfull features."
+msgstr ""
+"%s eklentimizi seçtiğiniz için teşekkürler. Kullanmak  için hemen tıklayın - "
+"size onun olanaklarını ve güçlü özellikler göstereceğiz."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:8
+#: modules/supsystic_promo/views/tpl/adminTour.php:18
+#: modules/supsystic_promo/views/tpl/adminTour.php:28
+#: modules/supsystic_promo/views/tpl/adminTour.php:38
+#: modules/supsystic_promo/views/tpl/adminTour.php:48
+#: modules/supsystic_promo/views/tpl/adminTour.php:58
+#: modules/supsystic_promo/views/tpl/adminTour.php:68
+#: modules/supsystic_promo/views/tpl/adminTour.php:78
+#: modules/supsystic_promo/views/tpl/adminTour.php:88
+#: modules/supsystic_promo/views/tpl/adminTour.php:98
+msgid "Close"
+msgstr "Kapat"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:9
+#: modules/supsystic_promo/views/tpl/adminTour.php:19
+#: modules/supsystic_promo/views/tpl/adminTour.php:29
+#: modules/supsystic_promo/views/tpl/adminTour.php:39
+#: modules/supsystic_promo/views/tpl/adminTour.php:49
+#: modules/supsystic_promo/views/tpl/adminTour.php:59
+#: modules/supsystic_promo/views/tpl/adminTour.php:69
+#: modules/supsystic_promo/views/tpl/adminTour.php:79
+#: modules/supsystic_promo/views/tpl/adminTour.php:89
+#: modules/supsystic_promo/views/tpl/adminTour.php:99
+msgid "Next"
+msgstr "İleri"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:14
+msgid "Create your firs PopUp"
+msgstr "İlk PopUp ınızı oluşturun"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:15
+msgid ""
+"Click on \"Add New PopUp\" button to create your firs PopUp. Just try - this "
+"is really simple!"
+msgstr ""
+"İlk PopUp ınızı  oluşturmak için \"Yeni PopUp Ekle\" düğmesini tıklayın. "
+"Sadece deneyin - bu gerçekten basit!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:24
+msgid "Enter name for your PopUp"
+msgstr "PopUp için isim giriniz"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:25
+msgid "This will be name of your PopUp. You can change it latter."
+msgstr "Bu PopUp adı olacaktır. Daha sonra değiştirebilirsiniz."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:34
+msgid "Selecte template for your PopUp"
+msgstr "PopUp ınız için şablon seç"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:35
+msgid ""
+"Choose any templates from this list. You will be able to customize it after "
+"creation, and also - you will be able to change it latter if you will need "
+"this."
+msgstr ""
+"Bu listeden herhangi bir şablon seçin.  Oluşturulduktan sonra, onu   "
+"özelleştirmek mümkün olacaktır - daha sonra   ihtiyacınız olacak olursa ,  "
+"onu değiştirebileceksiniz."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:44
+msgid "Save first PopUp"
+msgstr "İlk PopUp ınızı kaydetin"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:45
+msgid ""
+"After you entered name of your PopUp and selected it's template - just save "
+"it, and you will be redirected to PopUp edit screen - where you will be able "
+"to customize your PopUp."
+msgstr ""
+" PopUp adını girdikten  ve şablonunu seçtikten sonra - sadece kaydedin ve "
+"PopUp düzenleme ekranına yönlendirileceksiniz - orada PopUp ınızı "
+"özelleştirebileceksiniz."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:54
+msgid "Main Settings"
+msgstr "Temel Ayarlar"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:55
+msgid ""
+"Here you can setup main display settings for your PopUp - when it should be "
+"visible for your user, when it need to be closed, if required - select "
+"specific pages/posts where you need to show your PopUp."
+msgstr ""
+"Burada PopUp ınızın   ana gösterim ayarlarını belirleyebilirsiniz -  "
+"kullanıcılarınız için ne zaman görünür olması, ne zaman  kapatılacağı, eğer "
+"gerekiyorsa - PopUp ınızı göstermek gereken  belirli sayfalar/yazıları "
+"seçiniz."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:64
+msgid "Design Settings"
+msgstr "Tasarım Ayarları"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:65
+msgid ""
+"One of our most powerfull features - possibility to <strong>customize</"
+"strong> design for each PopUp window for your needs. In this section you can "
+"select your PopUp colors and images, enter required texts that will describe "
+"your neds for your visitors, setup social settings (if required), select "
+"PopUp location, and in the end - select Animation style for your PopUp from "
+"list of more then 20 different animation styles!"
+msgstr ""
+"Bizim en güçlü özelliklerinden biri - ihtiyaçlarınız için her PopUp "
+"penceresi için tasarımı <strong> özelleştirmek </ strong>  imkanı. Bu "
+"bölümde  PopUp renkleri ve görüntüleri seçin,  ziyaretçiler için "
+"ihtiyaçlarınızı anlatacağız gerekli metinleri girin,        sosyal ayarların "
+"kurulumunu yapın (gerekirse),  PopUp konumunu seçin,  ve   sonunda - 20 "
+"farklı animasyon stilleri listesinden PopUp için   Animasyon tarzı seçin !"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:74
+msgid "Subscribe Settings"
+msgstr "Abonelik Ayarları"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:75
+msgid ""
+"Setup your Subscription settings here - select Subscribers destination in "
+"\"Subscribe to\" option - it allow to flow your subscribers not only to "
+"WordPress Users, but to other popular subscribe services. With other "
+"subscription options you will be able to easily customize your subscribe "
+"form in PopUp window."
+msgstr ""
+"  Abonelik ayarlarınızı burada kurabilirsiniz - \"Abone Ol\" seçeneği ile "
+"Aboneler hedefini seçebilirsiniz - Bu abonelerinizi  sadece WordPress "
+"Kullanıcılar listesine eklemekle kalmaz, ayrıca  diğer popüler abone "
+"servislerine abone olmasına  imkan verir. Diğer abonelik seçenekleri ile "
+"kolayca PopUp penceresinde abone formunuzu özelleştirmek mümkündür."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:84
+msgid "PopUp Statistics"
+msgstr "PopUp İstatistikleri"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:85
+msgid ""
+"After you will setup your PopUp - it will start displaying to your site "
+"visitors. And now - you need to check it's displaying statistics. Here, in "
+"Statistics tab, you will be able to see how many times PopUp was shown to "
+"your visitors, how many times visitors subscribed to it (if subscription is "
+"enabled), how many times visitors shared your site using Social Share PopUp "
+"functionality and what social networks for share is most popular (if it was "
+"enabled). If you will use AB Testing feature to increase your site "
+"popularity - you will see here all your main and tested PopUps statistics - "
+"in one graph or diagramm, - and this will provide you with all required "
+"information about your POpUp popularity!"
+msgstr ""
+"PopUp ınızı kurduktan sonra - o site ziyaretçilerine gösterilmeye "
+"başlayacaktır. Ve şimdi - onun gösterilme istatistiklerini kontrol etmeniz "
+"gerekir. Burada, İstatistikler sekmesinde, PopUp ınız ziyaretçilere kaç "
+"kere  gösterilmiş, kaç kere ziyaretçiler ona abone olmuşlar ( eğer abonelik "
+"etkin ise) , ziyaretçiler Sosyal Paylaşma PopUp fonksiyonu ile kaç kere "
+"sitenizi paylaştılar ve paylaşma için hangi sosyal ağlar en çok kullanılmış "
+"( eğer etkin ise) görebilirsiniz.  Eğer  sitenizin popülerliğini artırmak "
+"için AB Test özelliğini kullanacaksanız - burada tüm ana ve test edilmiş  "
+"PopUp istatistiklerini bir grafik veya şemada göreceksiniz -  ve bu PopUp "
+"popülerliğe hakkında gerekli tüm bilgileri size verecektir!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:94
+msgid "PopUp CSS / HTML Code"
+msgstr "PopUp CSS / HTML Kod"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:95
+#, php-format
+msgid ""
+"In case you will need modify source CSS / HTML code of your PopUp - you can "
+"easily do this here. Just make sure that you know what you are doing - don't "
+"break PopUp. You can also find additional information about editing source "
+"code <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+"Eğer, PopUp   CSS / HTML kodunu değiştirmek gerekirse - kolayca buradan "
+"yapabilirsiniz.  Sadece ne yaptığınızı bildiğinizden emin olun -  PopUp ı "
+"bozmayın -. Ayrıca kaynak kodu düzenlemesi hakkında daha fazla bilgiyi <a "
+"href=\"%s\" target=\"_blank\">   burada </a> bulabilirsiniz."
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:104
+msgid "Well Done!"
+msgstr "Herşey Tamam!"
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:105
+#, php-format
+msgid ""
+"That's it! Now you know how to use our %s. Just save your PopUp after you "
+"will setup it - and you will see results. You can also check our site - <a "
+"href=\"%s\" target=\"_blank\">supsystic.com</a> to find out more about our "
+"%s plugin. If you will have any questions - you can always contact us on <a "
+"href=\"%s\" target=\"_blank\">WordPress plugin forum</a> or in <a href=\"%s"
+"\" target=\"_blank\">our support system</a>. We really hope that our "
+"solution will be helpful for you. Good luck!"
+msgstr ""
+"Hepsi bu! Şimdi bizim %s lerimizi nasıl kullanacağınızı biliyorsunuz. "
+"Kurulumdan sonra PopUp ı kaydediniz - ve sonuçları göreceksiniz.  Ayrıca %s "
+"eklentilerimiz  hakkında  daha falaz bilgi için sitemiz <a href=\"%s\" "
+"target=\"_blank\">supsystic.com</a> ı inceleyebilirsiniz . Eğer her hangi "
+"bir sorunuz olursa,   <a href=\"%s\" target=\"_blank\">WordPress eklenti "
+"forumu</a> da veya  a href=\"%s\" target=\"_blank\">Destek sistemimiz</a> "
+"de  daima bizimle iletişime geçebilirsiniz. Biz gerçekten bizim çözümümüzün "
+"sizin için yararlı olacağını umuyoruz. İyi şanslar! "
+
+#: modules/supsystic_promo/views/tpl/adminTour.php:108
+msgid "Finish"
+msgstr "Bitti"
+
+#: modules/supsystic_promo/views/tpl/layeredStylePromo.php:77
+#, php-format
+msgid ""
+"This functionality and more - is available in PRO version. <a class=\"button "
+"button-primary\" target=\"_blank\" href=\"%s\">Get it</a> today for 29$"
+msgstr ""
+"Bu işlevsellik ve daha fazlası - PRO versiyonunda  mevcuttur. Bugün 29$ a <a "
+"class=\"button button-primary\" target=\"_blank\" href=\"%s\">Sahip olun</"
+"a> ."
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:5
+msgid "FAQ and Documentation"
+msgstr "SSS ve Dokümantasyon"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:17
+#: modules/supsystic_promo/views/tpl/welcomePage.php:51
+msgid "Check all FAQs"
+msgstr "Tüm SSS ları kontrol ediniz"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:22
+#: modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr "Video Eğitim"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:31
+msgid "Server Settings"
+msgstr "Sunucu Ayarları"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:44
+msgid "News"
+msgstr "Haberler"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:50
+msgid "All news and info"
+msgstr "Bütün haberler ve bilgi"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:55
+msgid "Contact form"
+msgstr "İletişim formu"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:87
+msgid "Send email"
+msgstr "Mail Gönder"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:96
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+"Emailiniz gönderildi,  size en yakın sürede  yanıt vermeye çalışacağız "
+"Desteğin için teşekkürler!"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr "  %s v %s e hoş geldiniz"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr "Eğitimi atla"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid ""
+"The best way to collect subscribers and show notifications.<br />We are "
+"trying to make our plugin work in most comfortable way for you. Here is some "
+"base information about it."
+msgstr ""
+"Abone toplamak ve bildirimleri göstermek için en iyi yol. <br /> "
+"Eklentimizin  sizin için en rahat şekilde çalışmasını sağlamak için "
+"çalışıyoruz. İşte bu konuda bazı temel bilgiler."
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr "Adım adım eğitim"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:21
+msgid ""
+"There're really many options of popup customization. So as soon as you close "
+"that page, I'll show you step-by-step tutorial of how to use plugin. Hope it "
+"will be usefull for you :)"
+msgstr ""
+"Gerçekten  popup özelleştirmek için  birçok seçenek mevcut. Yani en kısa "
+"sürede bu sayfayı kapatın, ben size eklentinin nasıl   kullanılacağını adım "
+"adım   göstereceğim. Sizin için yararlı olacağını umuyorum :)"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr "Bir seçenek olarak, eklentiyi sizin için kurup ayarlarını yapabiliriz"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+"Eklentimizi seviyoruz ve sizin için tüm özellikleri geliştirmek için "
+"elimizden gelenin en iyisi yapıyoruz. Fakat bazen sıkıntılar oluyor, veya "
+"ihtiyacınız olan özelliği bulamıyorsunuz. Merak etmeyin,   hemen <a "
+"href='%s' target='_blank'>bizmle temasa geçin </a>, size yardım edelim!"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr "Sık Sorulan Sorular"
+
+#: modules/supsystic_promo/views/tpl/welcomePage.php:59
+msgid "Let's Start!"
+msgstr "Hadi Başlayalım!"
+
+#~ msgid ""
+#~ "Hide standard video player controls. For vimeo videos - you need to "
+#~ "change this in your account settings, check <a href=\"%s\" target=\"_blank"
+#~ "\">this FAQ</a>."
+#~ msgstr "Standart video oynatıcı kontrollerini gizle"
+
+#~ msgid ""
+#~ "In the end there are list of related videos by default, but you can "
+#~ "disable this feature using this option. For vimeo videos - you need to "
+#~ "change this in your account settings, check <a href=\"%s\" target=\"_blank"
+#~ "\">this FAQ</a>."
+#~ msgstr ""
+#~ "Varsayılan olarak, sonda bir ilhgili videolar listesi vardır, fakat bu "
+#~ "seçeneği kullanarak bu özelliği devre dışı bırakabilirsiniz."
